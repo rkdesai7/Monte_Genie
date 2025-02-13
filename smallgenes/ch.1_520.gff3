@@ -1,0 +1,69 @@
+ch.1_520	RNASeq	transcription_end_site	18	18	.	+	.	
+ch.1_520	RNASeq_stranded	transcript_region	18	43	40.0	+	.	
+ch.1_520	RNASeq	transcription_end_site	20	20	.	+	.	
+ch.1_520	RNASeq_stranded	transcript_region	44	59	26.0	+	.	
+ch.1_520	RNASeq_reads	transcript_region	45	65	11.0	.	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	53	71	41805.0	.	.	
+ch.1_520	RNASeq_stranded	transcript_region	60	65	17.0	+	.	
+ch.1_520	RNASeq_reads	transcript_region	66	75	7.0	.	.	
+ch.1_520	RNASeq_stranded	transcript_region	66	76	6.0	+	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	72	75	25759.0	.	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	76	77	14029.0	.	.	
+ch.1_520	RNASeq_reads	transcript_region	76	78	3.0	.	.	
+ch.1_520	RNASeq_stranded	transcript_region	77	80	3.0	+	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	78	80	7521.0	.	.	
+ch.1_520	RNASeq_stranded	transcript_region	78	84	1.0	-	.	
+ch.1_520	RNASeq_reads	transcript_region	79	84	1.0	.	.	
+ch.1_520	RNASeq_stranded	transcript_region	81	84	1.0	+	.	
+ch.1_520	RNASeq	transcription_end_site	84	84	.	+	.	
+ch.1_520	WormBase	five_prime_UTR	101	126	.	+	.	Parent=Transcript:ZK1098.9.1
+ch.1_520	WormBase	exon	101	268	.	+	.	Parent=Transcript:ZK1098.9.1
+ch.1_520	WormBase	gene	101	784	.	+	.	ID=Gene:WBGene00014225
+ch.1_520	WormBase	mRNA	101	784	.	+	.	ID=Transcript:ZK1098.9.1;Parent=Gene:WBGene00014225
+ch.1_520	RNASeq_F_asymmetry	transcript_region	104	105	1609.0	.	.	
+ch.1_520	RNASeq_reads	transcript_region	105	113	1.0	.	.	
+ch.1_520	RNASeq	transcription_end_site	106	106	.	+	.	
+ch.1_520	RNASeq_F_asymmetry	transcript_region	106	108	2769.0	.	.	
+ch.1_520	RNASeq_F_asymmetry	transcript_region	109	113	4767.0	.	.	
+ch.1_520	RNASeq_F_asymmetry	transcript_region	114	120	7287.0	.	.	
+ch.1_520	RNASeq_reads	transcript_region	114	130	2.0	.	.	
+ch.1_520	RNASeq_F_asymmetry	transcript_region	121	132	13147.0	.	.	
+ch.1_520	WormBase	CDS	127	268	.	+	.	ID=CDS:ZK1098.9;Parent=Transcript:ZK1098.9.1
+ch.1_520	RNASeq_reads	transcript_region	131	165	4.0	.	.	
+ch.1_520	RNASeq_F_asymmetry	transcript_region	133	175	19800.0	.	.	
+ch.1_520	RNASeq_stranded	transcript_region	147	156	1.0	+	.	
+ch.1_520	RNASeq_stranded	transcript_region	157	208	3.0	+	.	
+ch.1_520	RNASeq_reads	transcript_region	166	268	7.0	.	.	
+ch.1_520	RNASeq_F_asymmetry	transcript_region	176	197	29986.0	.	.	
+ch.1_520	RNASeq_splice	intron	191	232	6.0	+	.	
+ch.1_520	RNASeq_stranded	transcript_region	209	268	1.0	+	.	
+ch.1_520	RNASeq_splice	intron	216	632	16.0	+	.	
+ch.1_520	RNASeq_splice	intron	248	632	148.0	+	.	
+ch.1_520	RNASeq_reads	transcript_region	269	269	1.0	.	.	
+ch.1_520	WormBase	intron	269	632	.	+	.	Parent=Transcript:ZK1098.9.1
+ch.1_520	RNASeq_splice	intron	269	632	34084.0	+	.	
+ch.1_520	WormBase_transposon	transposable_element	282	595	.	+	.	ID=Transposon:Predicted_CELE2_8
+ch.1_520	RNASeq_splice	intron	551	632	69.0	+	.	
+ch.1_520	RNASeq_reads	transcript_region	630	632	2.0	.	.	
+ch.1_520	RNASeq_stranded	transcript_region	630	634	3.0	+	.	
+ch.1_520	RNASeq_reads	transcript_region	633	737	8.0	.	.	
+ch.1_520	WormBase	CDS	633	754	.	+	.	ID=CDS:ZK1098.9;Parent=Transcript:ZK1098.9.1
+ch.1_520	WormBase	exon	633	784	.	+	.	Parent=Transcript:ZK1098.9.1
+ch.1_520	RNASeq_stranded	transcript_region	635	680	5.0	+	.	
+ch.1_520	RNASeq_stranded	transcript_region	681	744	3.0	+	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	693	696	33373.0	.	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	700	739	30137.0	.	.	
+ch.1_520	RNASeq_reads	transcript_region	738	742	5.0	.	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	740	745	19258.0	.	.	
+ch.1_520	RNASeq_reads	transcript_region	743	749	3.0	.	.	
+ch.1_520	RNASeq	transcription_end_site	745	745	.	+	.	
+ch.1_520	RNASeq_stranded	transcript_region	745	767	1.0	+	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	746	749	12694.0	.	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	750	753	5886.0	.	.	
+ch.1_520	RNASeq_reads	transcript_region	750	780	1.0	.	.	
+ch.1_520	WormBase	three_prime_UTR	755	784	.	+	.	Parent=Transcript:ZK1098.9.1
+ch.1_520	RNASeq_R_asymmetry	transcript_region	771	786	2165.0	.	.	
+ch.1_520	RNASeq_R_asymmetry	transcript_region	787	787	1212.0	.	.	
+ch.1_520	RNASeq_reads	transcript_region	856	874	1.0	.	.	
+ch.1_520	RNASeq_F_asymmetry	transcript_region	871	874	3615.0	.	.	
+ch.1_520	RNASeq_F_asymmetry	transcript_region	875	879	6912.0	.	.	

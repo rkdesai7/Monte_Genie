@@ -1,0 +1,37 @@
+ch.1_115	WormBase	five_prime_UTR	101	158	.	+	.	Parent=Transcript:C01G12.11.1
+ch.1_115	WormBase	exon	101	172	.	+	.	Parent=Transcript:C01G12.11.1
+ch.1_115	WormBase	gene	101	517	.	+	.	ID=Gene:WBGene00007251
+ch.1_115	WormBase	mRNA	101	517	.	+	.	ID=Transcript:C01G12.11.1;Parent=Gene:WBGene00007251
+ch.1_115	RNASeq_reads	transcript_region	139	146	1.0	.	.	
+ch.1_115	RNASeq_stranded	transcript_region	140	146	1.0	+	.	
+ch.1_115	RNASeq_F_asymmetry	transcript_region	145	146	3216.0	.	.	
+ch.1_115	RNASeq_F_asymmetry	transcript_region	147	149	7356.0	.	.	
+ch.1_115	RNASeq_reads	transcript_region	147	153	2.0	.	.	
+ch.1_115	RNASeq_stranded	transcript_region	147	172	2.0	+	.	
+ch.1_115	RNASeq_F_asymmetry	transcript_region	150	154	11102.0	.	.	
+ch.1_115	RNASeq_reads	transcript_region	154	172	4.0	.	.	
+ch.1_115	RNASeq_F_asymmetry	transcript_region	155	172	18178.0	.	.	
+ch.1_115	WormBase	CDS	159	172	.	+	.	ID=CDS:C01G12.11;Parent=Transcript:C01G12.11.1
+ch.1_115	RNASeq_splice	intron	170	214	67.0	+	.	
+ch.1_115	WormBase	intron	173	214	.	+	.	Parent=Transcript:C01G12.11.1
+ch.1_115	RNASeq_splice	intron	173	214	29934.0	+	.	
+ch.1_115	RNASeq_F_asymmetry	transcript_region	181	188	306.0	.	.	
+ch.1_115	RNASeq_reads	transcript_region	214	214	1.0	.	.	
+ch.1_115	RNASeq_F_asymmetry	transcript_region	215	235	26700.0	.	.	
+ch.1_115	RNASeq_stranded	transcript_region	215	239	2.0	+	.	
+ch.1_115	RNASeq_reads	transcript_region	215	270	6.0	.	.	
+ch.1_115	WormBase	CDS	215	440	.	+	.	ID=CDS:C01G12.11;Parent=Transcript:C01G12.11.1
+ch.1_115	WormBase	exon	215	517	.	+	.	Parent=Transcript:C01G12.11.1
+ch.1_115	RNASeq_stranded	transcript_region	240	312	1.0	+	.	
+ch.1_115	RNASeq	transcription_end_site	242	242	.	+	.	
+ch.1_115	RNASeq_reads	transcript_region	271	407	10.0	.	.	
+ch.1_115	RNASeq	transcription_end_site	299	299	.	+	.	
+ch.1_115	RNASeq_stranded	transcript_region	313	345	2.0	+	.	
+ch.1_115	RNASeq_stranded	transcript_region	346	371	1.0	+	.	
+ch.1_115	RNASeq_stranded	transcript_region	372	422	2.0	+	.	
+ch.1_115	RNASeq_reads	transcript_region	408	451	6.0	.	.	
+ch.1_115	RNASeq_stranded	transcript_region	423	466	1.0	+	.	
+ch.1_115	WormBase	three_prime_UTR	441	517	.	+	.	Parent=Transcript:C01G12.11.1
+ch.1_115	RNASeq_reads	transcript_region	452	497	3.0	.	.	
+ch.1_115	RNASeq_reads	transcript_region	498	515	1.0	.	.	
+ch.1_115	RNASeq_F_asymmetry	transcript_region	519	519	1073.0	.	.	

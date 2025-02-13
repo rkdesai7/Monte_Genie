@@ -1,0 +1,67 @@
+ch.1_172	RNASeq_splice	intron	7	80	29.0	-	.	
+ch.1_172	RNASeq_splice	intron	7	129	6.0	-	.	
+ch.1_172	RNASeq_R_asymmetry	transcript_region	47	68	407.0	.	.	
+ch.1_172	WormBase	CDS	101	241	.	+	.	ID=CDS:C17F3.1;Parent=Transcript:C17F3.1.1
+ch.1_172	WormBase	exon	101	241	.	+	.	Parent=Transcript:C17F3.1.1
+ch.1_172	WormBase	gene	101	509	.	+	.	ID=Gene:WBGene00015907
+ch.1_172	WormBase	mRNA	101	509	.	+	.	ID=Transcript:C17F3.1.1;Parent=Gene:WBGene00015907
+ch.1_172	RNASeq_reads	transcript_region	158	166	1.0	.	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	160	165	3438.0	.	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	166	168	5842.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	167	178	2.0	.	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	169	177	9070.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	177	186	1.0	+	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	178	186	15236.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	179	190	4.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	187	190	2.0	+	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	187	198	28354.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	191	196	4.0	+	.	
+ch.1_172	RNASeq_reads	transcript_region	191	199	7.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	197	214	7.0	+	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	199	200	43188.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	200	201	11.0	.	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	201	201	68383.0	.	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	202	208	142752.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	202	208	30.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	209	233	48.0	.	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	209	241	230217.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	215	241	11.0	+	.	
+ch.1_172	RNASeq_reads	transcript_region	234	241	73.0	.	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	242	243	14852.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	242	243	3.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	242	243	5.0	+	.	
+ch.1_172	RNASeq_splice	intron	242	284	3.0	+	.	
+ch.1_172	WormBase	intron	242	295	.	+	.	Parent=Transcript:C17F3.1.1
+ch.1_172	RNASeq_splice	intron	242	295	364084.0	+	.	
+ch.1_172	RNASeq_reads	transcript_region	244	295	1.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	296	300	5.0	+	.	
+ch.1_172	RNASeq_F_asymmetry	transcript_region	296	302	298598.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	296	344	74.0	.	.	
+ch.1_172	WormBase	CDS	296	421	.	+	.	ID=CDS:C17F3.1;Parent=Transcript:C17F3.1.1
+ch.1_172	WormBase	exon	296	509	.	+	.	Parent=Transcript:C17F3.1.1
+ch.1_172	RNASeq_stranded	transcript_region	301	325	20.0	+	.	
+ch.1_172	RNASeq_stranded	transcript_region	326	383	32.0	+	.	
+ch.1_172	RNASeq_stranded	transcript_region	328	342	1.0	-	.	
+ch.1_172	RNASeq_stranded	transcript_region	343	408	2.0	-	.	
+ch.1_172	RNASeq_reads	transcript_region	345	410	112.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	384	386	21.0	+	.	
+ch.1_172	RNASeq_stranded	transcript_region	387	446	12.0	+	.	
+ch.1_172	RNASeq_R_asymmetry	transcript_region	392	452	364118.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	409	436	1.0	-	.	
+ch.1_172	RNASeq_reads	transcript_region	411	452	73.0	.	.	
+ch.1_172	WormBase	three_prime_UTR	422	509	.	+	.	Parent=Transcript:C17F3.1.1
+ch.1_172	RNASeq_stranded	transcript_region	447	452	7.0	+	.	
+ch.1_172	RNASeq_R_asymmetry	transcript_region	453	464	206943.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	453	464	46.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	453	489	4.0	+	.	
+ch.1_172	RNASeq_R_asymmetry	transcript_region	465	477	135541.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	465	477	30.0	.	.	
+ch.1_172	RNASeq_R_asymmetry	transcript_region	478	488	82515.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	478	489	19.0	.	.	
+ch.1_172	RNASeq_R_asymmetry	transcript_region	489	508	51005.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	490	501	2.0	+	.	
+ch.1_172	RNASeq_reads	transcript_region	490	508	12.0	.	.	
+ch.1_172	RNASeq_stranded	transcript_region	502	510	1.0	+	.	
+ch.1_172	RNASeq_R_asymmetry	transcript_region	509	509	29045.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	509	509	7.0	.	.	
+ch.1_172	RNASeq_reads	transcript_region	510	510	3.0	.	.	

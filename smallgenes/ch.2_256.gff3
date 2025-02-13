@@ -1,0 +1,53 @@
+ch.2_256	WormBase	three_prime_UTR	884	953	.	+	.	Parent=Transcript:M7.9.1
+ch.2_256	WormBase	exon	803	953	.	+	.	Parent=Transcript:M7.9.1
+ch.2_256	WormBase	gene	101	953	.	+	.	ID=Gene:WBGene00010885
+ch.2_256	WormBase	mRNA	101	953	.	+	.	ID=Transcript:M7.9.1;Parent=Gene:WBGene00010885
+ch.2_256	RNASeq_F_asymmetry	transcript_region	946	952	1131.0	.	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	938	945	1778.0	.	.	
+ch.2_256	RNASeq_stranded	transcript_region	824	940	1.0	+	.	
+ch.2_256	RNASeq_reads	transcript_region	876	939	1.0	.	.	
+ch.2_256	WormBase	CDS	803	883	.	+	.	ID=CDS:M7.9;Parent=Transcript:M7.9.1
+ch.2_256	RNASeq_F_asymmetry	transcript_region	877	879	3386.0	.	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	875	876	5188.0	.	.	
+ch.2_256	RNASeq_reads	transcript_region	860	875	2.0	.	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	865	874	8078.0	.	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	832	864	14983.0	.	.	
+ch.2_256	RNASeq_reads	transcript_region	803	859	4.0	.	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	803	831	22813.0	.	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	800	802	522.0	.	.	
+ch.2_256	WormBase	intron	757	802	.	+	.	Parent=Transcript:M7.9.1
+ch.2_256	RNASeq_splice	intron	757	802	31810.0	+	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	757	757	16207.0	.	.	
+ch.2_256	RNASeq_reads	transcript_region	757	757	3.0	.	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	704	756	39390.0	.	.	
+ch.2_256	RNASeq_reads	transcript_region	678	756	8.0	.	.	
+ch.2_256	WormBase	CDS	571	756	.	+	.	ID=CDS:M7.9;Parent=Transcript:M7.9.1
+ch.2_256	WormBase	exon	571	756	.	+	.	Parent=Transcript:M7.9.1
+ch.2_256	RNASeq_stranded	transcript_region	695	737	1.0	+	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	702	703	25201.0	.	.	
+ch.2_256	RNASeq_F_asymmetry	transcript_region	699	699	23716.0	.	.	
+ch.2_256	RNASeq_reads	transcript_region	571	677	5.0	.	.	
+ch.2_256	RNASeq_stranded	transcript_region	651	669	1.0	+	.	
+ch.2_256	RNASeq_stranded	transcript_region	632	650	2.0	+	.	
+ch.2_256	RNASeq_stranded	transcript_region	606	631	1.0	+	.	
+ch.2_256	RNASeq_stranded	transcript_region	604	605	2.0	+	.	
+ch.2_256	RNASeq_stranded	transcript_region	575	603	1.0	+	.	
+ch.2_256	WormBase	intron	352	570	.	+	.	Parent=Transcript:M7.9.1
+ch.2_256	RNASeq_splice	intron	352	570	29678.0	+	.	
+ch.2_256	RNASeq_splice	intron	352	551	6.0	+	.	
+ch.2_256	RNASeq_reads	transcript_region	167	351	6.0	.	.	
+ch.2_256	WormBase	CDS	106	351	.	+	.	ID=CDS:M7.9;Parent=Transcript:M7.9.1
+ch.2_256	WormBase	exon	101	351	.	+	.	Parent=Transcript:M7.9.1
+ch.2_256	RNASeq_F_asymmetry	transcript_region	339	339	27825.0	.	.	
+ch.2_256	RNASeq_stranded	transcript_region	271	320	1.0	+	.	
+ch.2_256	RNASeq_stranded	transcript_region	241	270	2.0	+	.	
+ch.2_256	RNASeq_stranded	transcript_region	173	240	1.0	+	.	
+ch.2_256	RNASeq_reads	transcript_region	111	166	3.0	.	.	
+ch.2_256	RNASeq_R_asymmetry	transcript_region	111	137	12410.0	.	.	
+ch.2_256	RNASeq_stranded	transcript_region	103	129	1.0	+	.	
+ch.2_256	RNASeq_R_asymmetry	transcript_region	109	110	7274.0	.	.	
+ch.2_256	RNASeq_reads	transcript_region	106	110	1.0	.	.	
+ch.2_256	RNASeq_R_asymmetry	transcript_region	108	108	4754.0	.	.	
+ch.2_256	RNASeq_R_asymmetry	transcript_region	105	107	2649.0	.	.	
+ch.2_256	WormBase	five_prime_UTR	101	105	.	+	.	Parent=Transcript:M7.9.1
+ch.2_256	RNASeq_R_asymmetry	transcript_region	104	104	1496.0	.	.	

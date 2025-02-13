@@ -1,0 +1,42 @@
+ch.2_286	RNASeq_reads	transcript_region	68	86	1.0	.	.	
+ch.2_286	RNASeq_reads	transcript_region	87	94	2.0	.	.	
+ch.2_286	RNASeq_reads	transcript_region	95	105	4.0	.	.	
+ch.2_286	WormBase	exon	101	371	.	+	.	Parent=Transcript:F54E2.2.1
+ch.2_286	WormBase	CDS	101	371	.	+	.	ID=CDS:F54E2.2;Parent=Transcript:F54E2.2.1
+ch.2_286	WormBase	gene	101	869	.	+	.	ID=Gene:WBGene00018824
+ch.2_286	WormBase	mRNA	101	869	.	+	.	ID=Transcript:F54E2.2.1;Parent=Gene:WBGene00018824
+ch.2_286	RNASeq_reads	transcript_region	106	113	7.0	.	.	
+ch.2_286	RNASeq_reads	transcript_region	114	137	11.0	.	.	
+ch.2_286	RNASeq_reads	transcript_region	138	171	18.0	.	.	
+ch.2_286	RNASeq_reads	transcript_region	172	371	31.0	.	.	
+ch.2_286	RNASeq_splice	intron	372	412	64.0	+	.	
+ch.2_286	WormBase	intron	372	431	.	+	.	Parent=Transcript:F54E2.2.1
+ch.2_286	RNASeq_splice	intron	372	431	156432.0	+	.	
+ch.2_286	RNASeq_splice	intron	376	431	3.0	+	.	
+ch.2_286	WormBase	CDS	432	505	.	+	.	ID=CDS:F54E2.2;Parent=Transcript:F54E2.2.1
+ch.2_286	WormBase	exon	432	505	.	+	.	Parent=Transcript:F54E2.2.1
+ch.2_286	RNASeq_reads	transcript_region	432	505	34.0	.	.	
+ch.2_286	RNASeq_stranded	transcript_region	468	468	1.0	+	.	
+ch.2_286	RNASeq_stranded	transcript_region	474	475	1.0	+	.	
+ch.2_286	RNASeq_stranded	transcript_region	478	478	1.0	+	.	
+ch.2_286	RNASeq_stranded	transcript_region	480	480	1.0	+	.	
+ch.2_286	RNASeq_stranded	transcript_region	483	505	1.0	+	.	
+ch.2_286	RNASeq_reads	transcript_region	506	507	3.0	.	.	
+ch.2_286	WormBase	intron	506	552	.	+	.	Parent=Transcript:F54E2.2.1
+ch.2_286	RNASeq_splice	intron	506	552	192711.0	+	.	
+ch.2_286	RNASeq_reads	transcript_region	551	551	1.0	.	.	
+ch.2_286	RNASeq_reads	transcript_region	552	552	3.0	.	.	
+ch.2_286	RNASeq_stranded	transcript_region	553	603	1.0	+	.	
+ch.2_286	WormBase	CDS	553	732	.	+	.	ID=CDS:F54E2.2;Parent=Transcript:F54E2.2.1
+ch.2_286	RNASeq_reads	transcript_region	553	796	39.0	.	.	
+ch.2_286	WormBase	exon	553	869	.	+	.	Parent=Transcript:F54E2.2.1
+ch.2_286	RNASeq_stranded	transcript_region	604	676	2.0	+	.	
+ch.2_286	RNASeq_stranded	transcript_region	677	705	4.0	+	.	
+ch.2_286	RNASeq_stranded	transcript_region	706	863	7.0	+	.	
+ch.2_286	WormBase	three_prime_UTR	733	869	.	+	.	Parent=Transcript:F54E2.2.1
+ch.2_286	RNASeq_reads	transcript_region	797	820	24.0	.	.	
+ch.2_286	RNASeq_stranded	transcript_region	821	850	3.0	-	.	
+ch.2_286	RNASeq_reads	transcript_region	821	882	37.0	.	.	
+ch.2_286	RNASeq_stranded	transcript_region	864	872	4.0	+	.	
+ch.2_286	RNASeq_stranded	transcript_region	873	876	2.0	+	.	
+ch.2_286	RNASeq_stranded	transcript_region	877	885	1.0	+	.	

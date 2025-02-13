@@ -1,0 +1,99 @@
+ch.1_579	RNASeq_stranded	transcript_region	961	995	6.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	908	995	48.0	.	.	
+ch.1_579	WormBase	CDS	904	995	.	+	.	ID=CDS:F55F8.5;Parent=Transcript:F55F8.5.1
+ch.1_579	WormBase	exon	896	995	.	+	.	Parent=Transcript:F55F8.5.1
+ch.1_579	RNASeq_splice	intron	938	983	8.0	+	.	
+ch.1_579	RNASeq_R_asymmetry	transcript_region	904	970	202486.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	900	960	10.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	898	907	31.0	.	.	
+ch.1_579	RNASeq_R_asymmetry	transcript_region	898	903	126665.0	.	.	
+ch.1_579	WormBase	five_prime_UTR	896	903	.	+	.	Parent=Transcript:F55F8.5.1
+ch.1_579	RNASeq_stranded	transcript_region	879	899	6.0	+	.	
+ch.1_579	RNASeq_R_asymmetry	transcript_region	894	897	67756.0	.	.	
+ch.1_579	RNASeq_reads	transcript_region	890	897	16.0	.	.	
+ch.1_579	WormBase	three_prime_UTR	638	896	.	+	.	Parent=Transcript:F55F8.6.1
+ch.1_579	WormBase	exon	428	896	.	+	.	Parent=Transcript:F55F8.6.1
+ch.1_579	WormBase	gene	101	896	.	+	.	ID=Gene:WBGene00018894
+ch.1_579	WormBase	mRNA	101	896	.	+	.	ID=Transcript:F55F8.6.1;Parent=Gene:WBGene00018894
+ch.1_579	RNASeq_splice	intron	834	895	10.0	+	.	
+ch.1_579	RNASeq_splice	intron	773	895	32.0	+	.	
+ch.1_579	RNASeq_splice	intron	755	895	15.0	+	.	
+ch.1_579	RNASeq_splice	intron	619	895	108.0	+	.	
+ch.1_579	RNASeq_splice	intron	597	895	6.0	+	.	
+ch.1_579	RNASeq_splice	intron	571	895	63.0	+	.	
+ch.1_579	RNASeq_splice	intron	535	895	3.0	+	.	
+ch.1_579	RNASeq_splice	intron	519	895	21.0	+	.	
+ch.1_579	RNASeq_splice	intron	380	895	9.0	+	.	
+ch.1_579	RNASeq_splice	intron	237	895	53.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	865	889	7.0	.	.	
+ch.1_579	RNASeq	transcription_end_site	879	879	.	-	.	
+ch.1_579	RNASeq_stranded	transcript_region	871	878	10.0	+	.	
+ch.1_579	RNASeq	transcription_end_site	874	874	.	-	.	
+ch.1_579	RNASeq_stranded	transcript_region	857	870	16.0	+	.	
+ch.1_579	RNASeq	transcription_end_site	864	864	.	-	.	
+ch.1_579	RNASeq	transcription_end_site	864	864	.	-	.	
+ch.1_579	RNASeq_reads	transcript_region	861	864	11.0	.	.	
+ch.1_579	RNASeq_reads	transcript_region	847	860	17.0	.	.	
+ch.1_579	RNASeq_F_asymmetry	transcript_region	844	857	83328.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	834	856	25.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	799	846	26.0	.	.	
+ch.1_579	RNASeq_F_asymmetry	transcript_region	840	841	106545.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	816	833	38.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	755	815	58.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	620	798	40.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	747	754	38.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	718	746	23.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	699	717	15.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	642	698	9.0	+	.	
+ch.1_579	RNASeq	transcription_end_site	673	673	.	-	.	
+ch.1_579	RNASeq	transcription_end_site	673	673	.	-	.	
+ch.1_579	RNASeq	transcription_end_site	652	652	.	-	.	
+ch.1_579	RNASeq	transcription_end_site	652	652	.	-	.	
+ch.1_579	RNASeq_stranded	transcript_region	621	641	14.0	+	.	
+ch.1_579	WormBase	CDS	428	637	.	+	.	ID=CDS:F55F8.6;Parent=Transcript:F55F8.6.1
+ch.1_579	RNASeq_stranded	transcript_region	572	620	22.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	428	619	61.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	500	571	14.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	477	499	9.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	444	476	14.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	428	443	22.0	+	.	
+ch.1_579	RNASeq_splice	intron	385	433	6.0	-	.	
+ch.1_579	RNASeq_splice	intron	380	431	853.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	426	427	10.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	426	427	1.0	+	.	
+ch.1_579	WormBase	intron	380	427	.	+	.	Parent=Transcript:F55F8.6.1
+ch.1_579	RNASeq_splice	intron	380	427	307685.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	380	384	1.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	321	379	20.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	115	379	59.0	.	.	
+ch.1_579	WormBase	CDS	104	379	.	+	.	ID=CDS:F55F8.6;Parent=Transcript:F55F8.6.1
+ch.1_579	WormBase	exon	101	379	.	+	.	Parent=Transcript:F55F8.6.1
+ch.1_579	RNASeq_splice	intron	287	336	16.0	-	.	
+ch.1_579	RNASeq_splice	intron	225	336	1380.0	-	.	
+ch.1_579	RNASeq_stranded	transcript_region	311	320	13.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	278	310	8.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	223	277	13.0	+	.	
+ch.1_579	RNASeq_splice	intron	237	276	6.0	+	.	
+ch.1_579	RNASeq_splice	intron	227	276	5.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	200	222	8.0	+	.	
+ch.1_579	RNASeq_splice	intron	174	215	242.0	+	.	
+ch.1_579	RNASeq_splice	intron	162	215	51.0	+	.	
+ch.1_579	RNASeq_stranded	transcript_region	126	199	13.0	+	.	
+ch.1_579	RNASeq_R_asymmetry	transcript_region	109	158	258841.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	111	125	8.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	101	114	38.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	99	110	5.0	+	.	
+ch.1_579	RNASeq_R_asymmetry	transcript_region	100	108	168830.0	.	.	
+ch.1_579	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:F55F8.6.1
+ch.1_579	RNASeq_reads	transcript_region	100	100	23.0	.	.	
+ch.1_579	RNASeq_splice	intron	58	100	12.0	+	.	
+ch.1_579	RNASeq_R_asymmetry	transcript_region	99	99	56299.0	.	.	
+ch.1_579	RNASeq_reads	transcript_region	99	99	12.0	.	.	
+ch.1_579	RNASeq_R_asymmetry	transcript_region	95	98	28733.0	.	.	
+ch.1_579	RNASeq_reads	transcript_region	95	98	6.0	.	.	
+ch.1_579	RNASeq_stranded	transcript_region	95	98	1.0	+	.	
+ch.1_579	RNASeq_reads	transcript_region	92	94	1.0	.	.	
+ch.1_579	RNASeq_reads	transcript_region	70	71	1.0	.	.	
+ch.1_579	RNASeq_reads	transcript_region	34	57	1.0	.	.	
+ch.1_579	RNASeq_reads	transcript_region	32	32	1.0	.	.	
+ch.1_579	RNASeq_reads	transcript_region	22	28	1.0	.	.	

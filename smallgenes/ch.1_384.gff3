@@ -1,0 +1,74 @@
+ch.1_384	RNASeq_F_asymmetry	transcript_region	95	98	72569.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	95	98	15.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	95	98	1.0	+	.	
+ch.1_384	RNASeq_F_asymmetry	transcript_region	99	102	131902.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	99	103	27.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	99	108	13.0	+	.	
+ch.1_384	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:ZK512.4.1
+ch.1_384	WormBase	exon	101	187	.	+	.	Parent=Transcript:ZK512.4.1
+ch.1_384	WormBase	gene	101	720	.	+	.	ID=Gene:WBGene00013984
+ch.1_384	WormBase	mRNA	101	720	.	+	.	ID=Transcript:ZK512.4.1;Parent=Gene:WBGene00013984
+ch.1_384	RNASeq_F_asymmetry	transcript_region	103	105	198588.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	104	112	49.0	.	.	
+ch.1_384	RNASeq_F_asymmetry	transcript_region	106	133	309147.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	109	187	20.0	+	.	
+ch.1_384	WormBase	CDS	111	187	.	+	.	ID=CDS:ZK512.4;Parent=Transcript:ZK512.4.1
+ch.1_384	RNASeq_reads	transcript_region	113	164	75.0	.	.	
+ch.1_384	RNASeq_F_asymmetry	transcript_region	134	166	465306.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	165	187	113.0	.	.	
+ch.1_384	RNASeq_F_asymmetry	transcript_region	188	190	61474.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	188	190	12.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	188	190	1.0	+	.	
+ch.1_384	RNASeq_splice	intron	188	479	16.0	+	.	
+ch.1_384	WormBase	intron	188	503	.	+	.	Parent=Transcript:ZK512.4.1
+ch.1_384	RNASeq_splice	intron	188	503	528825.0	+	.	
+ch.1_384	RNASeq_splice	intron	192	503	70.0	+	.	
+ch.1_384	RNASeq_splice	intron	374	491	8.0	-	.	
+ch.1_384	RNASeq_splice	intron	374	554	569.0	-	.	
+ch.1_384	RNASeq_reads	transcript_region	501	503	18.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	501	503	2.0	+	.	
+ch.1_384	RNASeq_stranded	transcript_region	504	506	23.0	+	.	
+ch.1_384	RNASeq_reads	transcript_region	504	646	113.0	.	.	
+ch.1_384	WormBase	CDS	504	657	.	+	.	ID=CDS:ZK512.4;Parent=Transcript:ZK512.4.1
+ch.1_384	WormBase	exon	504	720	.	+	.	Parent=Transcript:ZK512.4.1
+ch.1_384	RNASeq_stranded	transcript_region	507	556	36.0	+	.	
+ch.1_384	RNASeq_stranded	transcript_region	557	593	21.0	+	.	
+ch.1_384	RNASeq_R_asymmetry	transcript_region	575	645	501863.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	594	620	33.0	+	.	
+ch.1_384	RNASeq_stranded	transcript_region	621	662	53.0	+	.	
+ch.1_384	RNASeq_R_asymmetry	transcript_region	646	659	329640.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	647	659	74.0	.	.	
+ch.1_384	WormBase	three_prime_UTR	658	720	.	+	.	Parent=Transcript:ZK512.4.1
+ch.1_384	RNASeq_R_asymmetry	transcript_region	660	662	195019.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	660	663	45.0	.	.	
+ch.1_384	RNASeq_R_asymmetry	transcript_region	663	663	126834.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	663	684	34.0	+	.	
+ch.1_384	RNASeq	transcription_end_site	664	664	.	+	.	
+ch.1_384	RNASeq_reads	transcript_region	664	679	24.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	680	691	15.0	.	.	
+ch.1_384	RNASeq	transcription_end_site	681	681	.	+	.	
+ch.1_384	RNASeq	transcription_end_site	684	684	.	+	.	
+ch.1_384	RNASeq_stranded	transcript_region	685	697	22.0	+	.	
+ch.1_384	RNASeq	transcription_end_site	690	690	.	+	.	
+ch.1_384	RNASeq_reads	transcript_region	692	715	9.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	698	713	14.0	+	.	
+ch.1_384	RNASeq	transcription_end_site	705	705	.	+	.	
+ch.1_384	RNASeq_stranded	transcript_region	714	717	9.0	+	.	
+ch.1_384	RNASeq_R_asymmetry	transcript_region	716	720	21148.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	716	720	5.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	718	723	5.0	+	.	
+ch.1_384	RNASeq	transcription_end_site	719	719	.	+	.	
+ch.1_384	RNASeq_R_asymmetry	transcript_region	721	737	13754.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	721	740	3.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	724	737	3.0	+	.	
+ch.1_384	RNASeq	transcription_end_site	736	736	.	+	.	
+ch.1_384	RNASeq_R_asymmetry	transcript_region	738	740	8198.0	.	.	
+ch.1_384	RNASeq_stranded	transcript_region	738	740	1.0	+	.	
+ch.1_384	RNASeq_R_asymmetry	transcript_region	741	742	3350.0	.	.	
+ch.1_384	RNASeq_reads	transcript_region	741	742	1.0	.	.	
+ch.1_384	RNASeq	transcription_end_site	742	742	.	+	.	
+ch.1_384	RNASeq	transcription_end_site	744	744	.	+	.	
+ch.1_384	RNASeq_F_asymmetry	transcript_region	803	804	502.0	.	.	
+ch.1_384	RNASeq_F_asymmetry	transcript_region	805	807	820.0	.	.	
+ch.1_384	RNASeq_F_asymmetry	transcript_region	808	812	1239.0	.	.	
+ch.1_384	RNASeq_F_asymmetry	transcript_region	813	814	1865.0	.	.	

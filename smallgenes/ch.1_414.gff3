@@ -1,0 +1,37 @@
+ch.1_414	RNASeq	transcription_end_site	847	847	.	-	.	
+ch.1_414	RNASeq	transcription_end_site	847	847	.	-	.	
+ch.1_414	RNASeq_F_asymmetry	transcript_region	777	791	133.0	.	.	
+ch.1_414	WormBase	three_prime_UTR	681	764	.	+	.	Parent=Transcript:F48G7.8.1
+ch.1_414	WormBase	exon	346	764	.	+	.	Parent=Transcript:F48G7.8.1
+ch.1_414	WormBase	gene	101	764	.	+	.	ID=Gene:WBGene00018619
+ch.1_414	WormBase	mRNA	101	764	.	+	.	ID=Transcript:F48G7.8.1;Parent=Gene:WBGene00018619
+ch.1_414	RNASeq_reads	transcript_region	707	738	1.0	.	.	
+ch.1_414	RNASeq_F_asymmetry	transcript_region	727	727	3873.0	.	.	
+ch.1_414	RNASeq_F_asymmetry	transcript_region	722	724	4528.0	.	.	
+ch.1_414	RNASeq_reads	transcript_region	670	706	2.0	.	.	
+ch.1_414	WormBase	CDS	346	680	.	+	.	ID=CDS:F48G7.8;Parent=Transcript:F48G7.8.1
+ch.1_414	RNASeq_reads	transcript_region	599	669	4.0	.	.	
+ch.1_414	RNASeq_stranded	transcript_region	451	604	1.0	+	.	
+ch.1_414	RNASeq_reads	transcript_region	346	598	7.0	.	.	
+ch.1_414	RNASeq_splice	intron	379	474	3.0	-	.	
+ch.1_414	RNASeq_stranded	transcript_region	373	450	2.0	+	.	
+ch.1_414	RNASeq_stranded	transcript_region	346	372	1.0	+	.	
+ch.1_414	WormBase	intron	299	345	.	+	.	Parent=Transcript:F48G7.8.1
+ch.1_414	RNASeq_splice	intron	299	345	31343.0	+	.	
+ch.1_414	RNASeq_splice	intron	299	330	3.0	+	.	
+ch.1_414	RNASeq_reads	transcript_region	185	298	7.0	.	.	
+ch.1_414	RNASeq_stranded	transcript_region	156	298	1.0	+	.	
+ch.1_414	WormBase	CDS	136	298	.	+	.	ID=CDS:F48G7.8;Parent=Transcript:F48G7.8.1
+ch.1_414	WormBase	exon	101	298	.	+	.	Parent=Transcript:F48G7.8.1
+ch.1_414	RNASeq_R_asymmetry	transcript_region	185	189	19437.0	.	.	
+ch.1_414	RNASeq_reads	transcript_region	131	184	4.0	.	.	
+ch.1_414	RNASeq_R_asymmetry	transcript_region	130	180	16681.0	.	.	
+ch.1_414	RNASeq_stranded	transcript_region	152	153	1.0	+	.	
+ch.1_414	WormBase	five_prime_UTR	101	135	.	+	.	Parent=Transcript:F48G7.8.1
+ch.1_414	RNASeq_reads	transcript_region	115	130	2.0	.	.	
+ch.1_414	RNASeq_R_asymmetry	transcript_region	115	129	10745.0	.	.	
+ch.1_414	RNASeq_R_asymmetry	transcript_region	107	114	5284.0	.	.	
+ch.1_414	RNASeq_reads	transcript_region	103	114	1.0	.	.	
+ch.1_414	RNASeq_R_asymmetry	transcript_region	103	106	3317.0	.	.	
+ch.1_414	RNASeq_R_asymmetry	transcript_region	92	102	1750.0	.	.	
+ch.1_414	RNASeq_R_asymmetry	transcript_region	90	91	1060.0	.	.	

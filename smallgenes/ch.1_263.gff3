@@ -1,0 +1,40 @@
+ch.1_263	WormBase	five_prime_UTR	101	112	.	+	.	Parent=Transcript:C05B5.11.1
+ch.1_263	WormBase	exon	101	127	.	+	.	Parent=Transcript:C05B5.11.1
+ch.1_263	WormBase	gene	101	555	.	+	.	ID=Gene:WBGene00045242
+ch.1_263	WormBase	mRNA	101	555	.	+	.	ID=Transcript:C05B5.11.1;Parent=Gene:WBGene00045242
+ch.1_263	RNASeq_F_asymmetry	transcript_region	111	111	2240.0	.	.	
+ch.1_263	RNASeq_reads	transcript_region	111	111	1.0	.	.	
+ch.1_263	RNASeq_F_asymmetry	transcript_region	112	113	7732.0	.	.	
+ch.1_263	RNASeq_reads	transcript_region	112	116	2.0	.	.	
+ch.1_263	WormBase	CDS	113	127	.	+	.	ID=CDS:C05B5.11;Parent=Transcript:C05B5.11.1
+ch.1_263	RNASeq_F_asymmetry	transcript_region	114	117	11705.0	.	.	
+ch.1_263	RNASeq_reads	transcript_region	117	127	4.0	.	.	
+ch.1_263	RNASeq_F_asymmetry	transcript_region	118	127	17673.0	.	.	
+ch.1_263	WormBase	intron	128	174	.	+	.	Parent=Transcript:C05B5.11.1
+ch.1_263	RNASeq_splice	intron	128	174	23742.0	+	.	
+ch.1_263	RNASeq_F_asymmetry	transcript_region	174	174	7693.0	.	.	
+ch.1_263	RNASeq_reads	transcript_region	174	174	2.0	.	.	
+ch.1_263	RNASeq_F_asymmetry	transcript_region	175	194	25778.0	.	.	
+ch.1_263	RNASeq_reads	transcript_region	175	318	6.0	.	.	
+ch.1_263	WormBase	CDS	175	519	.	+	.	ID=CDS:C05B5.11;Parent=Transcript:C05B5.11.1
+ch.1_263	WormBase	exon	175	555	.	+	.	Parent=Transcript:C05B5.11.1
+ch.1_263	RNASeq_stranded	transcript_region	179	189	1.0	+	.	
+ch.1_263	RNASeq_stranded	transcript_region	208	252	1.0	+	.	
+ch.1_263	RNASeq_stranded	transcript_region	253	277	2.0	+	.	
+ch.1_263	RNASeq_stranded	transcript_region	278	340	1.0	+	.	
+ch.1_263	RNASeq_reads	transcript_region	319	467	10.0	.	.	
+ch.1_263	RNASeq_stranded	transcript_region	341	361	2.0	+	.	
+ch.1_263	RNASeq_stranded	transcript_region	362	372	1.0	+	.	
+ch.1_263	RNASeq	transcription_end_site	418	418	.	+	.	
+ch.1_263	RNASeq_stranded	transcript_region	421	512	1.0	+	.	
+ch.1_263	RNASeq_R_asymmetry	transcript_region	434	476	31833.0	.	.	
+ch.1_263	RNASeq	transcription_end_site	467	467	.	+	.	
+ch.1_263	RNASeq_reads	transcript_region	468	494	6.0	.	.	
+ch.1_263	RNASeq	transcription_end_site	476	476	.	+	.	
+ch.1_263	RNASeq_R_asymmetry	transcript_region	477	487	20935.0	.	.	
+ch.1_263	RNASeq_splice	intron	489	601	3.0	-	.	
+ch.1_263	RNASeq_reads	transcript_region	495	543	3.0	.	.	
+ch.1_263	WormBase	three_prime_UTR	520	555	.	+	.	Parent=Transcript:C05B5.11.1
+ch.1_263	RNASeq_splice	intron	523	601	7.0	-	.	
+ch.1_263	RNASeq_R_asymmetry	transcript_region	544	552	6226.0	.	.	
+ch.1_263	RNASeq_reads	transcript_region	544	552	1.0	.	.	

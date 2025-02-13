@@ -1,0 +1,80 @@
+ch.3_31	RNASeq_stranded	transcript_region	2	7	1.0	+	.	
+ch.3_31	RNASeq_R_asymmetry	transcript_region	4	7	3571.0	.	.	
+ch.3_31	RNASeq	transcription_end_site	8	8	.	+	.	
+ch.3_31	RNASeq_F_asymmetry	transcript_region	77	77	457.0	.	.	
+ch.3_31	RNASeq_F_asymmetry	transcript_region	95	98	680.0	.	.	
+ch.3_31	RNASeq_F_asymmetry	transcript_region	99	101	10565.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	99	102	2.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	99	121	1.0	+	.	
+ch.3_31	WormBase	five_prime_UTR	101	276	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	WormBase	exon	101	276	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	WormBase	gene	101	866	.	+	.	ID=Gene:WBGene00194852
+ch.3_31	WormBase	mRNA	101	866	.	+	.	ID=Transcript:T28A8.8a.1;Parent=Gene:WBGene00194852
+ch.3_31	RNASeq_F_asymmetry	transcript_region	102	108	17442.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	103	121	4.0	.	.	
+ch.3_31	RNASeq_F_asymmetry	transcript_region	109	141	26582.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	122	184	7.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	122	205	2.0	+	.	
+ch.3_31	WormBase	exon	127	276	.	+	.	Parent=Transcript:T28A8.8b
+ch.3_31	WormBase	nc_primary_transcript	127	708	.	+	.	ID=Transcript:T28A8.8b;Parent=Gene:WBGene00194852
+ch.3_31	RNASeq_F_asymmetry	transcript_region	142	171	40419.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	185	276	11.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	206	232	1.0	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	233	233	2.0	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	234	235	1.0	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	236	276	2.0	+	.	
+ch.3_31	WormBase	intron	277	320	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	RNASeq_splice	intron	277	320	58825.0	+	.	
+ch.3_31	RNASeq_reads	transcript_region	320	320	1.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	321	335	1.0	+	.	
+ch.3_31	WormBase	five_prime_UTR	321	345	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	WormBase	exon	321	434	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	WormBase	exon	321	434	.	+	.	Parent=Transcript:T28A8.8b
+ch.3_31	RNASeq_reads	transcript_region	321	434	11.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	336	367	2.0	+	.	
+ch.3_31	WormBase	CDS	346	434	.	+	.	ID=CDS:T28A8.8a;Parent=Transcript:T28A8.8a.1
+ch.3_31	RNASeq	transcription_end_site	366	366	.	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	368	386	4.0	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	387	398	2.0	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	399	434	1.0	+	.	
+ch.3_31	WormBase	intron	435	482	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	RNASeq_splice	intron	435	482	44894.0	+	.	
+ch.3_31	RNASeq_splice	intron	435	645	14.0	+	.	
+ch.3_31	RNASeq_splice	intron	443	491	4.0	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	483	530	1.0	+	.	
+ch.3_31	WormBase	CDS	483	555	.	+	.	ID=CDS:T28A8.8a;Parent=Transcript:T28A8.8a.1
+ch.3_31	WormBase	exon	483	555	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	WormBase	exon	483	555	.	+	.	Parent=Transcript:T28A8.8b
+ch.3_31	RNASeq_reads	transcript_region	483	555	9.0	.	.	
+ch.3_31	RNASeq_splice	intron	530	645	94.0	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	531	555	2.0	+	.	
+ch.3_31	RNASeq_reads	transcript_region	556	592	2.0	.	.	
+ch.3_31	WormBase	intron	556	645	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	RNASeq_splice	intron	556	645	37346.0	+	.	
+ch.3_31	RNASeq_splice	intron	578	645	23.0	+	.	
+ch.3_31	RNASeq_reads	transcript_region	593	593	1.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	594	599	2.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	600	636	1.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	637	645	2.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	644	645	1.0	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	646	679	2.0	+	.	
+ch.3_31	WormBase	CDS	646	708	.	+	.	ID=CDS:T28A8.8a;Parent=Transcript:T28A8.8a.1
+ch.3_31	WormBase	exon	646	708	.	+	.	Parent=Transcript:T28A8.8b
+ch.3_31	RNASeq_reads	transcript_region	646	798	10.0	.	.	
+ch.3_31	WormBase	exon	646	866	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	RNASeq_stranded	transcript_region	680	777	4.0	+	.	
+ch.3_31	WormBase	three_prime_UTR	709	866	.	+	.	Parent=Transcript:T28A8.8a.1
+ch.3_31	RNASeq	transcription_end_site	754	754	.	+	.	
+ch.3_31	RNASeq_stranded	transcript_region	778	815	7.0	+	.	
+ch.3_31	RNASeq_R_asymmetry	transcript_region	781	781	28002.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	783	830	1.0	-	.	
+ch.3_31	RNASeq	transcription_end_site	784	784	.	+	.	
+ch.3_31	RNASeq_R_asymmetry	transcript_region	784	829	27970.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	799	831	6.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	816	846	4.0	+	.	
+ch.3_31	RNASeq_R_asymmetry	transcript_region	830	851	16095.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	832	852	3.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	847	864	2.0	+	.	
+ch.3_31	RNASeq_R_asymmetry	transcript_region	852	852	9808.0	.	.	
+ch.3_31	RNASeq_reads	transcript_region	853	874	1.0	.	.	
+ch.3_31	RNASeq_stranded	transcript_region	865	874	1.0	+	.	

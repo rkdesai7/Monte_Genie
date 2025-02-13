@@ -1,0 +1,44 @@
+ch.2_25	WormBase	three_prime_UTR	539	640	.	-	.	Parent=Transcript:F57A8.7.1
+ch.2_25	WormBase	three_prime_UTR	527	594	.	+	.	Parent=Transcript:R04B5.1.1
+ch.2_25	WormBase	exon	448	594	.	+	.	Parent=Transcript:R04B5.1.1
+ch.2_25	WormBase	gene	101	594	.	+	.	ID=Gene:WBGene00011001
+ch.2_25	WormBase	mRNA	101	594	.	+	.	ID=Transcript:R04B5.1.1;Parent=Gene:WBGene00011001
+ch.2_25	RNASeq_F_asymmetry	transcript_region	549	585	1716.0	.	.	
+ch.2_25	RNASeq_reads	transcript_region	519	571	1.0	.	.	
+ch.2_25	RNASeq_F_asymmetry	transcript_region	541	548	2582.0	.	.	
+ch.2_25	WormBase	CDS	448	526	.	+	.	ID=CDS:R04B5.1;Parent=Transcript:R04B5.1.1
+ch.2_25	RNASeq_F_asymmetry	transcript_region	521	522	3005.0	.	.	
+ch.2_25	RNASeq_F_asymmetry	transcript_region	509	520	6370.0	.	.	
+ch.2_25	RNASeq_reads	transcript_region	448	518	2.0	.	.	
+ch.2_25	RNASeq_F_asymmetry	transcript_region	448	508	9789.0	.	.	
+ch.2_25	RNASeq_splice	intron	396	455	3.0	+	.	
+ch.2_25	RNASeq_splice	intron	400	447	3.0	+	.	
+ch.2_25	WormBase	intron	396	447	.	+	.	Parent=Transcript:R04B5.1.1
+ch.2_25	RNASeq_splice	intron	396	447	15361.0	+	.	
+ch.2_25	RNASeq_splice	intron	394	447	54.0	+	.	
+ch.2_25	WormBase	CDS	250	395	.	+	.	ID=CDS:R04B5.1;Parent=Transcript:R04B5.1.1
+ch.2_25	WormBase	exon	250	395	.	+	.	Parent=Transcript:R04B5.1.1
+ch.2_25	RNASeq_reads	transcript_region	250	395	3.0	.	.	
+ch.2_25	RNASeq_stranded	transcript_region	312	355	1.0	+	.	
+ch.2_25	RNASeq_stranded	transcript_region	306	309	1.0	+	.	
+ch.2_25	RNASeq_stranded	transcript_region	250	291	1.0	+	.	
+ch.2_25	RNASeq_R_asymmetry	transcript_region	250	259	13080.0	.	.	
+ch.2_25	WormBase	intron	204	249	.	+	.	Parent=Transcript:R04B5.1.1
+ch.2_25	RNASeq_splice	intron	204	249	13789.0	+	.	
+ch.2_25	RNASeq_splice	intron	202	249	45.0	+	.	
+ch.2_25	RNASeq_R_asymmetry	transcript_region	204	204	1132.0	.	.	
+ch.2_25	RNASeq_stranded	transcript_region	174	203	1.0	+	.	
+ch.2_25	WormBase	CDS	168	203	.	+	.	ID=CDS:R04B5.1;Parent=Transcript:R04B5.1.1
+ch.2_25	RNASeq_R_asymmetry	transcript_region	161	203	11800.0	.	.	
+ch.2_25	RNASeq_reads	transcript_region	159	203	3.0	.	.	
+ch.2_25	WormBase	exon	101	203	.	+	.	Parent=Transcript:R04B5.1.1
+ch.2_25	WormBase	five_prime_UTR	101	167	.	+	.	Parent=Transcript:R04B5.1.1
+ch.2_25	RNASeq_stranded	transcript_region	137	163	1.0	+	.	
+ch.2_25	RNASeq_R_asymmetry	transcript_region	157	160	7752.0	.	.	
+ch.2_25	RNASeq_reads	transcript_region	136	158	1.0	.	.	
+ch.2_25	RNASeq_R_asymmetry	transcript_region	148	156	5111.0	.	.	
+ch.2_25	RNASeq_R_asymmetry	transcript_region	131	147	3162.0	.	.	
+ch.2_25	RNASeq_R_asymmetry	transcript_region	127	130	2044.0	.	.	
+ch.2_25	RNASeq_R_asymmetry	transcript_region	118	126	1309.0	.	.	
+ch.2_25	RNASeq_R_asymmetry	transcript_region	113	117	822.0	.	.	
+ch.2_25	RNASeq_R_asymmetry	transcript_region	112	112	359.0	.	.	

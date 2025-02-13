@@ -1,0 +1,38 @@
+ch.1_232	RNASeq_F_asymmetry	transcript_region	98	99	709.0	.	.	
+ch.1_232	RNASeq_F_asymmetry	transcript_region	100	101	1500.0	.	.	
+ch.1_232	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:Y47D7A.2.1
+ch.1_232	WormBase	exon	101	368	.	+	.	Parent=Transcript:Y47D7A.2.1
+ch.1_232	WormBase	gene	101	588	.	+	.	ID=Gene:WBGene00021616
+ch.1_232	WormBase	mRNA	101	588	.	+	.	ID=Transcript:Y47D7A.2.1;Parent=Gene:WBGene00021616
+ch.1_232	RNASeq_F_asymmetry	transcript_region	102	110	2336.0	.	.	
+ch.1_232	RNASeq_reads	transcript_region	103	141	1.0	.	.	
+ch.1_232	WormBase	CDS	104	368	.	+	.	ID=CDS:Y47D7A.2;Parent=Transcript:Y47D7A.2.1
+ch.1_232	RNASeq_F_asymmetry	transcript_region	111	120	3617.0	.	.	
+ch.1_232	RNASeq_F_asymmetry	transcript_region	121	162	5641.0	.	.	
+ch.1_232	RNASeq_reads	transcript_region	142	234	2.0	.	.	
+ch.1_232	RNASeq_R_asymmetry	transcript_region	213	230	10086.0	.	.	
+ch.1_232	RNASeq_R_asymmetry	transcript_region	231	266	15170.0	.	.	
+ch.1_232	RNASeq_reads	transcript_region	235	264	4.0	.	.	
+ch.1_232	RNASeq_reads	transcript_region	265	281	2.0	.	.	
+ch.1_232	RNASeq_R_asymmetry	transcript_region	267	273	9686.0	.	.	
+ch.1_232	RNASeq_reads	transcript_region	282	336	1.0	.	.	
+ch.1_232	RNASeq_reads	transcript_region	337	368	2.0	.	.	
+ch.1_232	RNASeq_R_asymmetry	transcript_region	353	368	6930.0	.	.	
+ch.1_232	WormBase	intron	369	422	.	+	.	Parent=Transcript:Y47D7A.2.1
+ch.1_232	RNASeq_splice	intron	369	422	10002.0	+	.	
+ch.1_232	RNASeq_splice	intron	393	447	3.0	-	.	
+ch.1_232	RNASeq_R_asymmetry	transcript_region	423	461	9649.0	.	.	
+ch.1_232	RNASeq_reads	transcript_region	423	461	2.0	.	.	
+ch.1_232	WormBase	CDS	423	517	.	+	.	ID=CDS:Y47D7A.2;Parent=Transcript:Y47D7A.2.1
+ch.1_232	WormBase	exon	423	588	.	+	.	Parent=Transcript:Y47D7A.2.1
+ch.1_232	RNASeq_R_asymmetry	transcript_region	462	484	5758.0	.	.	
+ch.1_232	RNASeq_reads	transcript_region	462	496	1.0	.	.	
+ch.1_232	RNASeq_R_asymmetry	transcript_region	485	503	2921.0	.	.	
+ch.1_232	RNASeq_reads	transcript_region	498	500	1.0	.	.	
+ch.1_232	RNASeq_R_asymmetry	transcript_region	504	508	1605.0	.	.	
+ch.1_232	WormBase	three_prime_UTR	518	588	.	+	.	Parent=Transcript:Y47D7A.2.1
+ch.1_232	RNASeq_R_asymmetry	transcript_region	529	563	1057.0	.	.	
+ch.1_232	RNASeq_R_asymmetry	transcript_region	564	566	590.0	.	.	
+ch.1_232	RNASeq_F_asymmetry	transcript_region	603	606	84.0	.	.	
+ch.1_232	RNASeq_F_asymmetry	transcript_region	617	621	82.0	.	.	
+ch.1_232	RNASeq_F_asymmetry	transcript_region	623	625	86.0	.	.	

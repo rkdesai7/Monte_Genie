@@ -1,0 +1,50 @@
+ch.1_453	RNASeq_F_asymmetry	transcript_region	101	102	2330.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	101	103	1.0	.	.	
+ch.1_453	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:R11G11.7.1
+ch.1_453	WormBase	exon	101	300	.	+	.	Parent=Transcript:R11G11.7.1
+ch.1_453	WormBase	gene	101	705	.	+	.	ID=Gene:WBGene00004144
+ch.1_453	WormBase	mRNA	101	705	.	+	.	ID=Transcript:R11G11.7.1;Parent=Gene:WBGene00004144
+ch.1_453	RNASeq_reads	transcript_region	104	110	12.0	.	.	
+ch.1_453	RNASeq_stranded	transcript_region	104	114	1.0	+	.	
+ch.1_453	RNASeq_reads	transcript_region	111	122	19.0	.	.	
+ch.1_453	WormBase	CDS	112	300	.	+	.	ID=CDS:R11G11.7;Parent=Transcript:R11G11.7.1
+ch.1_453	RNASeq_stranded	transcript_region	115	164	2.0	+	.	
+ch.1_453	RNASeq_reads	transcript_region	123	140	29.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	141	184	45.0	.	.	
+ch.1_453	RNASeq_stranded	transcript_region	165	300	6.0	+	.	
+ch.1_453	RNASeq_reads	transcript_region	185	300	68.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	301	309	1.0	.	.	
+ch.1_453	WormBase	intron	301	369	.	+	.	Parent=Transcript:R11G11.7.1
+ch.1_453	RNASeq_splice	intron	301	369	444973.0	+	.	
+ch.1_453	RNASeq_splice	intron	301	383	180.0	+	.	
+ch.1_453	RNASeq_splice	intron	305	369	10.0	+	.	
+ch.1_453	RNASeq_splice	intron	308	378	7.0	-	.	
+ch.1_453	RNASeq_splice	intron	310	356	65.0	-	.	
+ch.1_453	RNASeq_R_asymmetry	transcript_region	348	363	1585.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	363	366	1.0	.	.	
+ch.1_453	RNASeq_R_asymmetry	transcript_region	364	366	2389.0	.	.	
+ch.1_453	RNASeq_R_asymmetry	transcript_region	367	368	6660.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	367	368	2.0	.	.	
+ch.1_453	RNASeq_R_asymmetry	transcript_region	369	369	45201.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	369	369	11.0	.	.	
+ch.1_453	RNASeq_R_asymmetry	transcript_region	370	427	374879.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	370	558	94.0	.	.	
+ch.1_453	RNASeq_stranded	transcript_region	370	641	4.0	+	.	
+ch.1_453	WormBase	CDS	370	645	.	+	.	ID=CDS:R11G11.7;Parent=Transcript:R11G11.7.1
+ch.1_453	WormBase	exon	370	705	.	+	.	Parent=Transcript:R11G11.7.1
+ch.1_453	RNASeq	transcription_end_site	545	545	.	+	.	
+ch.1_453	RNASeq	transcription_end_site	551	551	.	+	.	
+ch.1_453	RNASeq_reads	transcript_region	559	618	62.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	619	630	40.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	631	638	26.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	639	651	16.0	.	.	
+ch.1_453	RNASeq_stranded	transcript_region	642	665	2.0	+	.	
+ch.1_453	WormBase	three_prime_UTR	646	705	.	+	.	Parent=Transcript:R11G11.7.1
+ch.1_453	RNASeq_reads	transcript_region	652	676	10.0	.	.	
+ch.1_453	RNASeq_R_asymmetry	transcript_region	665	683	30043.0	.	.	
+ch.1_453	RNASeq_stranded	transcript_region	666	692	1.0	+	.	
+ch.1_453	RNASeq_reads	transcript_region	677	684	6.0	.	.	
+ch.1_453	RNASeq_R_asymmetry	transcript_region	684	686	16986.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	685	693	3.0	.	.	
+ch.1_453	RNASeq_R_asymmetry	transcript_region	687	688	11078.0	.	.	
+ch.1_453	RNASeq_reads	transcript_region	694	715	1.0	.	.	

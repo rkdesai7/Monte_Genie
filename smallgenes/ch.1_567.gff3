@@ -1,0 +1,38 @@
+ch.1_567	WormBase	three_prime_UTR	796	837	.	+	.	Parent=Transcript:Y53F4B.35.1
+ch.1_567	WormBase	exon	302	837	.	+	.	Parent=Transcript:Y53F4B.35.1
+ch.1_567	WormBase	gene	101	837	.	+	.	ID=Gene:WBGene00001779
+ch.1_567	WormBase	mRNA	101	837	.	+	.	ID=Transcript:Y53F4B.35.1;Parent=Gene:WBGene00001779
+ch.1_567	RNASeq_reads	transcript_region	786	825	1.0	.	.	
+ch.1_567	RNASeq_stranded	transcript_region	786	813	1.0	+	.	
+ch.1_567	WormBase	CDS	302	795	.	+	.	ID=CDS:Y53F4B.35;Parent=Transcript:Y53F4B.35.1
+ch.1_567	RNASeq_R_asymmetry	transcript_region	784	785	9930.0	.	.	
+ch.1_567	RNASeq_reads	transcript_region	753	785	3.0	.	.	
+ch.1_567	RNASeq_stranded	transcript_region	732	785	2.0	+	.	
+ch.1_567	RNASeq_reads	transcript_region	302	752	5.0	.	.	
+ch.1_567	RNASeq_F_asymmetry	transcript_region	746	750	15733.0	.	.	
+ch.1_567	RNASeq_F_asymmetry	transcript_region	732	744	17097.0	.	.	
+ch.1_567	RNASeq_stranded	transcript_region	677	731	1.0	+	.	
+ch.1_567	RNASeq_splice	intron	611	678	4.0	+	.	
+ch.1_567	RNASeq_splice	intron	443	490	8.0	+	.	
+ch.1_567	RNASeq_stranded	transcript_region	434	438	1.0	+	.	
+ch.1_567	RNASeq_stranded	transcript_region	419	431	1.0	+	.	
+ch.1_567	RNASeq_stranded	transcript_region	393	413	1.0	+	.	
+ch.1_567	RNASeq_stranded	transcript_region	381	391	1.0	+	.	
+ch.1_567	RNASeq	transcription_end_site	388	388	.	-	.	
+ch.1_567	RNASeq	transcription_end_site	388	388	.	-	.	
+ch.1_567	RNASeq_splice	intron	328	378	16.0	-	.	
+ch.1_567	WormBase	intron	258	301	.	+	.	Parent=Transcript:Y53F4B.35.1
+ch.1_567	RNASeq_splice	intron	258	301	20682.0	+	.	
+ch.1_567	RNASeq_reads	transcript_region	122	257	5.0	.	.	
+ch.1_567	WormBase	CDS	119	257	.	+	.	ID=CDS:Y53F4B.35;Parent=Transcript:Y53F4B.35.1
+ch.1_567	WormBase	exon	101	257	.	+	.	Parent=Transcript:Y53F4B.35.1
+ch.1_567	RNASeq_R_asymmetry	transcript_region	115	188	20044.0	.	.	
+ch.1_567	RNASeq_stranded	transcript_region	137	185	1.0	+	.	
+ch.1_567	RNASeq_reads	transcript_region	107	121	3.0	.	.	
+ch.1_567	WormBase	five_prime_UTR	101	118	.	+	.	Parent=Transcript:Y53F4B.35.1
+ch.1_567	RNASeq_R_asymmetry	transcript_region	109	114	13115.0	.	.	
+ch.1_567	RNASeq_R_asymmetry	transcript_region	107	108	8614.0	.	.	
+ch.1_567	RNASeq_splice	intron	56	108	9.0	+	.	
+ch.1_567	RNASeq_R_asymmetry	transcript_region	102	106	5600.0	.	.	
+ch.1_567	RNASeq_reads	transcript_region	101	106	1.0	.	.	
+ch.1_567	RNASeq_splice	intron	56	102	8.0	+	.	

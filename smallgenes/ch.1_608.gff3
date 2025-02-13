@@ -1,0 +1,67 @@
+ch.1_608	RNASeq_stranded	transcript_region	893	945	34.0	-	.	
+ch.1_608	RNASeq_stranded	transcript_region	878	921	1.0	+	.	
+ch.1_608	RNASeq_stranded	transcript_region	879	892	21.0	-	.	
+ch.1_608	RNASeq_reads	transcript_region	817	888	6.0	.	.	
+ch.1_608	RNASeq	transcription_end_site	878	878	.	-	.	
+ch.1_608	RNASeq_stranded	transcript_region	869	878	13.0	-	.	
+ch.1_608	RNASeq_stranded	transcript_region	867	877	2.0	+	.	
+ch.1_608	WormBase	three_prime_UTR	737	875	.	+	.	Parent=Transcript:R10H10.6.1
+ch.1_608	WormBase	exon	663	875	.	+	.	Parent=Transcript:R10H10.6.1
+ch.1_608	WormBase	gene	101	875	.	+	.	ID=Gene:WBGene00011224
+ch.1_608	WormBase	mRNA	101	875	.	+	.	ID=Transcript:R10H10.6.1;Parent=Gene:WBGene00011224
+ch.1_608	RNASeq_stranded	transcript_region	855	868	8.0	-	.	
+ch.1_608	RNASeq_stranded	transcript_region	849	866	4.0	+	.	
+ch.1_608	RNASeq_stranded	transcript_region	848	854	5.0	-	.	
+ch.1_608	RNASeq_stranded	transcript_region	825	848	7.0	+	.	
+ch.1_608	RNASeq_stranded	transcript_region	837	847	3.0	-	.	
+ch.1_608	RNASeq_stranded	transcript_region	833	836	1.0	-	.	
+ch.1_608	RNASeq_stranded	transcript_region	787	824	11.0	+	.	
+ch.1_608	RNASeq_reads	transcript_region	789	816	10.0	.	.	
+ch.1_608	RNASeq_F_asymmetry	transcript_region	787	815	43376.0	.	.	
+ch.1_608	RNASeq	transcription_end_site	800	800	.	-	.	
+ch.1_608	RNASeq	transcription_end_site	800	800	.	-	.	
+ch.1_608	RNASeq_reads	transcript_region	686	788	16.0	.	.	
+ch.1_608	RNASeq_stranded	transcript_region	687	786	17.0	+	.	
+ch.1_608	RNASeq	transcription_end_site	762	762	.	-	.	
+ch.1_608	RNASeq	transcription_end_site	744	744	.	-	.	
+ch.1_608	RNASeq	transcription_end_site	738	738	.	-	.	
+ch.1_608	RNASeq	transcription_end_site	738	738	.	-	.	
+ch.1_608	RNASeq	transcription_end_site	736	736	.	-	.	
+ch.1_608	RNASeq	transcription_end_site	736	736	.	-	.	
+ch.1_608	WormBase	CDS	663	736	.	+	.	ID=CDS:R10H10.6;Parent=Transcript:R10H10.6.1
+ch.1_608	RNASeq_stranded	transcript_region	668	686	11.0	+	.	
+ch.1_608	RNASeq_reads	transcript_region	663	685	26.0	.	.	
+ch.1_608	RNASeq_stranded	transcript_region	663	667	7.0	+	.	
+ch.1_608	RNASeq_stranded	transcript_region	660	662	2.0	+	.	
+ch.1_608	RNASeq_reads	transcript_region	659	662	3.0	.	.	
+ch.1_608	WormBase	intron	435	662	.	+	.	Parent=Transcript:R10H10.6.1
+ch.1_608	RNASeq_splice	intron	435	662	137223.0	+	.	
+ch.1_608	RNASeq_splice	intron	357	662	772.0	+	.	
+ch.1_608	RNASeq_stranded	transcript_region	659	659	1.0	-	.	
+ch.1_608	RNASeq_reads	transcript_region	609	658	1.0	.	.	
+ch.1_608	RNASeq_reads	transcript_region	606	606	1.0	.	.	
+ch.1_608	RNASeq_stranded	transcript_region	422	434	5.0	+	.	
+ch.1_608	RNASeq_reads	transcript_region	283	434	25.0	.	.	
+ch.1_608	WormBase	CDS	101	434	.	+	.	ID=CDS:R10H10.6;Parent=Transcript:R10H10.6.1
+ch.1_608	WormBase	exon	101	434	.	+	.	Parent=Transcript:R10H10.6.1
+ch.1_608	RNASeq_stranded	transcript_region	331	421	8.0	+	.	
+ch.1_608	RNASeq_stranded	transcript_region	251	330	13.0	+	.	
+ch.1_608	RNASeq_reads	transcript_region	139	282	39.0	.	.	
+ch.1_608	RNASeq_stranded	transcript_region	232	250	7.0	+	.	
+ch.1_608	RNASeq_stranded	transcript_region	202	231	11.0	+	.	
+ch.1_608	RNASeq_stranded	transcript_region	141	201	17.0	+	.	
+ch.1_608	RNASeq_R_asymmetry	transcript_region	118	184	148269.0	.	.	
+ch.1_608	RNASeq_stranded	transcript_region	118	140	11.0	+	.	
+ch.1_608	RNASeq_reads	transcript_region	108	138	25.0	.	.	
+ch.1_608	RNASeq_R_asymmetry	transcript_region	104	117	97476.0	.	.	
+ch.1_608	RNASeq_stranded	transcript_region	104	117	7.0	+	.	
+ch.1_608	RNASeq_reads	transcript_region	102	107	15.0	.	.	
+ch.1_608	RNASeq_R_asymmetry	transcript_region	100	103	62293.0	.	.	
+ch.1_608	RNASeq_stranded	transcript_region	99	103	4.0	+	.	
+ch.1_608	RNASeq_reads	transcript_region	99	101	9.0	.	.	
+ch.1_608	RNASeq_R_asymmetry	transcript_region	99	99	34539.0	.	.	
+ch.1_608	RNASeq_reads	transcript_region	95	98	2.0	.	.	
+ch.1_608	RNASeq_R_asymmetry	transcript_region	94	98	8108.0	.	.	
+ch.1_608	RNASeq_reads	transcript_region	92	94	1.0	.	.	
+ch.1_608	RNASeq_R_asymmetry	transcript_region	92	93	4075.0	.	.	
+ch.1_608	RNASeq	base_call_error_correction	63	64	.	-	.	

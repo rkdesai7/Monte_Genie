@@ -1,0 +1,57 @@
+ch.2_138	RNASeq_stranded	transcript_region	815	815	7.0	-	.	
+ch.2_138	RNASeq_stranded	transcript_region	776	814	11.0	-	.	
+ch.2_138	RNASeq_reads	transcript_region	774	775	6.0	.	.	
+ch.2_138	RNASeq_stranded	transcript_region	774	775	2.0	-	.	
+ch.2_138	RNASeq_splice	intron	733	775	5.0	-	.	
+ch.2_138	RNASeq_splice	intron	725	775	4.0	-	.	
+ch.2_138	RNASeq_splice	intron	712	775	10.0	-	.	
+ch.2_138	RNASeq_splice	intron	557	775	3.0	-	.	
+ch.2_138	RNASeq_splice	intron	510	775	27.0	-	.	
+ch.2_138	RNASeq_splice	intron	492	775	4.0	-	.	
+ch.2_138	RNASeq_reads	transcript_region	761	771	1.0	.	.	
+ch.2_138	WormBase	three_prime_UTR	718	770	.	+	.	Parent=Transcript:K04C2.5.1
+ch.2_138	WormBase	exon	632	770	.	+	.	Parent=Transcript:K04C2.5.1
+ch.2_138	WormBase	gene	101	770	.	+	.	ID=Gene:WBGene00019382
+ch.2_138	WormBase	mRNA	101	770	.	+	.	ID=Transcript:K04C2.5.1;Parent=Gene:WBGene00019382
+ch.2_138	RNASeq_reads	transcript_region	726	760	2.0	.	.	
+ch.2_138	RNASeq_stranded	transcript_region	744	745	1.0	+	.	
+ch.2_138	RNASeq_stranded	transcript_region	632	742	1.0	+	.	
+ch.2_138	RNASeq	transcription_end_site	728	728	.	-	.	
+ch.2_138	RNASeq_reads	transcript_region	702	725	4.0	.	.	
+ch.2_138	WormBase	CDS	632	717	.	+	.	ID=CDS:K04C2.5;Parent=Transcript:K04C2.5.1
+ch.2_138	RNASeq_F_asymmetry	transcript_region	675	704	23408.0	.	.	
+ch.2_138	RNASeq_reads	transcript_region	632	701	7.0	.	.	
+ch.2_138	RNASeq	transcription_end_site	632	632	.	-	.	
+ch.2_138	WormBase	intron	579	631	.	+	.	Parent=Transcript:K04C2.5.1
+ch.2_138	RNASeq_splice	intron	579	631	45655.0	+	.	
+ch.2_138	RNASeq	transcription_end_site	581	581	.	-	.	
+ch.2_138	RNASeq	transcription_end_site	581	581	.	-	.	
+ch.2_138	RNASeq_stranded	transcript_region	527	578	1.0	+	.	
+ch.2_138	WormBase	CDS	459	578	.	+	.	ID=CDS:K04C2.5;Parent=Transcript:K04C2.5.1
+ch.2_138	WormBase	exon	459	578	.	+	.	Parent=Transcript:K04C2.5.1
+ch.2_138	RNASeq_reads	transcript_region	459	578	9.0	.	.	
+ch.2_138	RNASeq_stranded	transcript_region	470	526	2.0	+	.	
+ch.2_138	RNASeq_stranded	transcript_region	459	469	1.0	+	.	
+ch.2_138	RNASeq_reads	transcript_region	438	458	1.0	.	.	
+ch.2_138	WormBase	intron	278	458	.	+	.	Parent=Transcript:K04C2.5.1
+ch.2_138	RNASeq_splice	intron	278	458	40846.0	+	.	
+ch.2_138	RNASeq_reads	transcript_region	412	436	1.0	.	.	
+ch.2_138	RNASeq_reads	transcript_region	279	279	1.0	.	.	
+ch.2_138	RNASeq_reads	transcript_region	278	278	2.0	.	.	
+ch.2_138	RNASeq_stranded	transcript_region	271	277	1.0	+	.	
+ch.2_138	WormBase	CDS	157	277	.	+	.	ID=CDS:K04C2.5;Parent=Transcript:K04C2.5.1
+ch.2_138	RNASeq_reads	transcript_region	130	277	9.0	.	.	
+ch.2_138	WormBase	exon	101	277	.	+	.	Parent=Transcript:K04C2.5.1
+ch.2_138	RNASeq_stranded	transcript_region	195	270	2.0	+	.	
+ch.2_138	RNASeq_stranded	transcript_region	182	194	1.0	+	.	
+ch.2_138	RNASeq_stranded	transcript_region	185	186	1.0	-	.	
+ch.2_138	RNASeq_stranded	transcript_region	182	183	1.0	-	.	
+ch.2_138	RNASeq_stranded	transcript_region	130	181	2.0	+	.	
+ch.2_138	RNASeq_stranded	transcript_region	179	179	1.0	-	.	
+ch.2_138	WormBase	five_prime_UTR	101	156	.	+	.	Parent=Transcript:K04C2.5.1
+ch.2_138	RNASeq_R_asymmetry	transcript_region	151	151	28257.0	.	.	
+ch.2_138	RNASeq_R_asymmetry	transcript_region	117	149	27379.0	.	.	
+ch.2_138	RNASeq_reads	transcript_region	113	129	5.0	.	.	
+ch.2_138	RNASeq_stranded	transcript_region	92	129	1.0	+	.	
+ch.2_138	RNASeq_reads	transcript_region	90	112	3.0	.	.	
+ch.2_138	RNASeq_R_asymmetry	transcript_region	96	98	8606.0	.	.	

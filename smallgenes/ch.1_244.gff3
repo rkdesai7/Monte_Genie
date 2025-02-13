@@ -1,0 +1,99 @@
+ch.1_244	RNASeq_F_asymmetry	transcript_region	1	5	589.0	.	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	6	6	1853.0	.	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	7	10	2791.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	7	17	1.0	.	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	11	16	4224.0	.	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	17	19	6577.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	18	21	2.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	19	35	1.0	+	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	20	21	11050.0	.	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	22	29	18030.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	22	34	4.0	.	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	30	43	28117.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	35	46	7.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	36	46	2.0	+	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	44	51	42421.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	47	53	11.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	47	89	4.0	+	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	52	61	75440.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	54	66	18.0	.	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	62	91	117935.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	67	95	28.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	90	100	7.0	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	90	110	1.0	-	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	92	100	180561.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	96	102	43.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	101	103	14.0	+	.	
+ch.1_244	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:C29E4.12.1
+ch.1_244	RNASeq_F_asymmetry	transcript_region	101	106	275115.0	.	.	
+ch.1_244	WormBase	exon	101	321	.	+	.	Parent=Transcript:C29E4.12.1
+ch.1_244	WormBase	gene	101	564	.	+	.	ID=Gene:WBGene00016209
+ch.1_244	WormBase	mRNA	101	564	.	+	.	ID=Transcript:C29E4.12.1;Parent=Gene:WBGene00016209
+ch.1_244	RNASeq_reads	transcript_region	103	108	66.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	104	105	28.0	+	.	
+ch.1_244	WormBase	CDS	104	321	.	+	.	ID=CDS:C29E4.12;Parent=Transcript:C29E4.12.1
+ch.1_244	RNASeq_stranded	transcript_region	106	156	46.0	+	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	107	131	413048.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	109	147	101.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	123	168	1.0	-	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	132	158	624825.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	148	321	153.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	157	190	30.0	+	.	
+ch.1_244	RNASeq_splice	intron	167	217	37.0	-	.	
+ch.1_244	RNASeq_stranded	transcript_region	172	321	1.0	-	.	
+ch.1_244	RNASeq_stranded	transcript_region	191	238	19.0	+	.	
+ch.1_244	RNASeq_splice	intron	220	258	3.0	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	239	243	29.0	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	244	294	48.0	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	295	320	24.0	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	321	321	15.0	+	.	
+ch.1_244	RNASeq_reads	transcript_region	322	326	1.0	.	.	
+ch.1_244	WormBase	intron	322	375	.	+	.	Parent=Transcript:C29E4.12.1
+ch.1_244	RNASeq_splice	intron	322	375	708933.0	+	.	
+ch.1_244	RNASeq_reads	transcript_region	340	347	1.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	349	349	1.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	351	354	1.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	369	374	1.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	375	375	15.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	375	375	5.0	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	376	392	18.0	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	376	414	1.0	-	.	
+ch.1_244	RNASeq_reads	transcript_region	376	437	139.0	.	.	
+ch.1_244	WormBase	CDS	376	484	.	+	.	ID=CDS:C29E4.12;Parent=Transcript:C29E4.12.1
+ch.1_244	WormBase	exon	376	564	.	+	.	Parent=Transcript:C29E4.12.1
+ch.1_244	RNASeq_stranded	transcript_region	393	518	28.0	+	.	
+ch.1_244	RNASeq_R_asymmetry	transcript_region	394	436	573990.0	.	.	
+ch.1_244	RNASeq_R_asymmetry	transcript_region	437	438	371197.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	438	465	91.0	.	.	
+ch.1_244	RNASeq_R_asymmetry	transcript_region	457	465	266489.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	466	487	56.0	.	.	
+ch.1_244	RNASeq	transcription_end_site	478	478	.	+	.	
+ch.1_244	RNASeq	transcription_end_site	479	479	.	+	.	
+ch.1_244	WormBase	three_prime_UTR	485	564	.	+	.	Parent=Transcript:C29E4.12.1
+ch.1_244	RNASeq	transcription_end_site	487	487	.	+	.	
+ch.1_244	RNASeq_reads	transcript_region	488	529	36.0	.	.	
+ch.1_244	RNASeq_R_asymmetry	transcript_region	503	529	134715.0	.	.	
+ch.1_244	RNASeq	transcription_end_site	509	509	.	+	.	
+ch.1_244	RNASeq	transcription_end_site	514	514	.	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	519	532	18.0	+	.	
+ch.1_244	RNASeq_R_asymmetry	transcript_region	530	548	74010.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	530	549	18.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	533	541	11.0	+	.	
+ch.1_244	RNASeq	transcription_end_site	536	536	.	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	542	555	7.0	+	.	
+ch.1_244	RNASeq_R_asymmetry	transcript_region	549	555	48166.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	550	555	11.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	556	562	4.0	+	.	
+ch.1_244	RNASeq_R_asymmetry	transcript_region	556	564	29831.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	556	564	7.0	.	.	
+ch.1_244	RNASeq	transcription_end_site	559	559	.	+	.	
+ch.1_244	RNASeq_stranded	transcript_region	563	565	2.0	+	.	
+ch.1_244	RNASeq_R_asymmetry	transcript_region	565	567	16982.0	.	.	
+ch.1_244	RNASeq_reads	transcript_region	565	568	4.0	.	.	
+ch.1_244	RNASeq_stranded	transcript_region	566	568	1.0	+	.	
+ch.1_244	RNASeq_R_asymmetry	transcript_region	568	568	10674.0	.	.	
+ch.1_244	RNASeq	transcription_end_site	568	568	.	+	.	
+ch.1_244	RNASeq	transcription_end_site	570	570	.	+	.	
+ch.1_244	RNASeq	transcription_end_site	573	573	.	+	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	620	650	743.0	.	.	
+ch.1_244	RNASeq_F_asymmetry	transcript_region	651	659	1122.0	.	.	

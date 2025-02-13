@@ -1,0 +1,47 @@
+ch.1_292	RNASeq_splice	intron	595	639	4.0	+	.	
+ch.1_292	WormBase	exon	543	602	.	+	.	Parent=Transcript:C17H11.4.1
+ch.1_292	WormBase	CDS	543	602	.	+	.	ID=CDS:C17H11.4;Parent=Transcript:C17H11.4.1
+ch.1_292	WormBase	gene	101	602	.	+	.	ID=Gene:WBGene00015924
+ch.1_292	WormBase	mRNA	101	602	.	+	.	ID=Transcript:C17H11.4.1;Parent=Gene:WBGene00015924
+ch.1_292	RNASeq_stranded	transcript_region	566	566	1.0	-	.	
+ch.1_292	RNASeq_R_asymmetry	transcript_region	565	566	2631.0	.	.	
+ch.1_292	RNASeq_reads	transcript_region	561	566	1.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	564	565	2.0	+	.	
+ch.1_292	RNASeq_R_asymmetry	transcript_region	561	564	3966.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	559	563	4.0	+	.	
+ch.1_292	RNASeq_reads	transcript_region	543	560	2.0	.	.	
+ch.1_292	RNASeq_R_asymmetry	transcript_region	555	558	9202.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	543	558	7.0	+	.	
+ch.1_292	RNASeq_R_asymmetry	transcript_region	543	554	13870.0	.	.	
+ch.1_292	RNASeq_R_asymmetry	transcript_region	541	542	589.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	541	542	1.0	+	.	
+ch.1_292	WormBase	intron	326	542	.	+	.	Parent=Transcript:C17H11.4.1
+ch.1_292	RNASeq_splice	intron	326	542	19990.0	+	.	
+ch.1_292	RNASeq_F_asymmetry	transcript_region	531	531	82.0	.	.	
+ch.1_292	RNASeq_R_asymmetry	transcript_region	308	325	14665.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	308	325	9.0	+	.	
+ch.1_292	RNASeq_reads	transcript_region	307	325	3.0	.	.	
+ch.1_292	WormBase	CDS	101	325	.	+	.	ID=CDS:C17H11.4;Parent=Transcript:C17H11.4.1
+ch.1_292	WormBase	exon	101	325	.	+	.	Parent=Transcript:C17H11.4.1
+ch.1_292	RNASeq_stranded	transcript_region	306	307	4.0	+	.	
+ch.1_292	RNASeq_R_asymmetry	transcript_region	303	307	8005.0	.	.	
+ch.1_292	RNASeq_reads	transcript_region	303	306	1.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	302	305	2.0	+	.	
+ch.1_292	RNASeq_R_asymmetry	transcript_region	302	302	1678.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	271	295	1.0	+	.	
+ch.1_292	RNASeq_reads	transcript_region	267	267	1.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	267	267	1.0	-	.	
+ch.1_292	RNASeq_reads	transcript_region	265	266	2.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	263	266	2.0	+	.	
+ch.1_292	RNASeq_reads	transcript_region	261	264	4.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	258	262	4.0	+	.	
+ch.1_292	RNASeq_reads	transcript_region	216	260	7.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	223	257	7.0	+	.	
+ch.1_292	RNASeq_stranded	transcript_region	218	222	4.0	+	.	
+ch.1_292	RNASeq_stranded	transcript_region	214	217	2.0	+	.	
+ch.1_292	RNASeq_reads	transcript_region	214	215	4.0	.	.	
+ch.1_292	RNASeq_reads	transcript_region	213	213	2.0	.	.	
+ch.1_292	RNASeq_stranded	transcript_region	213	213	1.0	-	.	
+ch.1_292	RNASeq_stranded	transcript_region	175	210	1.0	+	.	
+ch.1_292	RNASeq_R_asymmetry	transcript_region	209	209	1838.0	.	.	
+ch.1_292	RNASeq_reads	transcript_region	177	208	1.0	.	.	

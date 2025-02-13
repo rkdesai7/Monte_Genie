@@ -1,0 +1,52 @@
+ch.1_72	RNASeq_splice	intron	57	100	23.0	+	.	
+ch.1_72	RNASeq_F_asymmetry	transcript_region	90	90	1786.0	.	.	
+ch.1_72	RNASeq_F_asymmetry	transcript_region	91	98	3342.0	.	.	
+ch.1_72	RNASeq_reads	transcript_region	91	98	1.0	.	.	
+ch.1_72	RNASeq_F_asymmetry	transcript_region	99	101	22563.0	.	.	
+ch.1_72	RNASeq_reads	transcript_region	99	101	5.0	.	.	
+ch.1_72	RNASeq_stranded	transcript_region	99	115	2.0	+	.	
+ch.1_72	WormBase	exon	101	293	.	+	.	Parent=Transcript:Y76B12C.8.1
+ch.1_72	WormBase	CDS	101	293	.	+	.	ID=CDS:Y76B12C.8;Parent=Transcript:Y76B12C.8.1
+ch.1_72	WormBase	gene	101	470	.	+	.	ID=Gene:WBGene00022302
+ch.1_72	WormBase	mRNA	101	470	.	+	.	ID=Transcript:Y76B12C.8.1;Parent=Gene:WBGene00022302
+ch.1_72	RNASeq_F_asymmetry	transcript_region	102	109	44003.0	.	.	
+ch.1_72	RNASeq_reads	transcript_region	102	109	9.0	.	.	
+ch.1_72	RNASeq_reads	transcript_region	110	149	14.0	.	.	
+ch.1_72	RNASeq_F_asymmetry	transcript_region	110	172	68346.0	.	.	
+ch.1_72	RNASeq_stranded	transcript_region	116	147	4.0	+	.	
+ch.1_72	RNASeq_stranded	transcript_region	148	149	7.0	+	.	
+ch.1_72	RNASeq_stranded	transcript_region	150	200	13.0	+	.	
+ch.1_72	RNASeq_reads	transcript_region	150	293	23.0	.	.	
+ch.1_72	RNASeq_stranded	transcript_region	201	245	7.0	+	.	
+ch.1_72	RNASeq_stranded	transcript_region	246	259	4.0	+	.	
+ch.1_72	RNASeq_stranded	transcript_region	260	293	7.0	+	.	
+ch.1_72	RNASeq_splice	intron	285	349	5.0	+	.	
+ch.1_72	RNASeq_reads	transcript_region	294	294	3.0	.	.	
+ch.1_72	RNASeq_stranded	transcript_region	294	294	1.0	+	.	
+ch.1_72	WormBase	intron	294	349	.	+	.	Parent=Transcript:Y76B12C.8.1
+ch.1_72	RNASeq_splice	intron	294	349	122042.0	+	.	
+ch.1_72	RNASeq_reads	transcript_region	350	398	20.0	.	.	
+ch.1_72	WormBase	CDS	350	414	.	+	.	ID=CDS:Y76B12C.8;Parent=Transcript:Y76B12C.8.1
+ch.1_72	RNASeq_stranded	transcript_region	350	438	9.0	+	.	
+ch.1_72	WormBase	exon	350	470	.	+	.	Parent=Transcript:Y76B12C.8.1
+ch.1_72	RNASeq_reads	transcript_region	399	407	13.0	.	.	
+ch.1_72	RNASeq	transcription_end_site	407	407	.	+	.	
+ch.1_72	RNASeq_reads	transcript_region	408	437	8.0	.	.	
+ch.1_72	RNASeq	transcription_end_site	412	412	.	+	.	
+ch.1_72	RNASeq	transcription_end_site	413	413	.	+	.	
+ch.1_72	WormBase	three_prime_UTR	415	470	.	+	.	Parent=Transcript:Y76B12C.8.1
+ch.1_72	RNASeq	transcription_end_site	429	429	.	+	.	
+ch.1_72	RNASeq	transcription_end_site	432	432	.	+	.	
+ch.1_72	RNASeq_reads	transcript_region	438	456	5.0	.	.	
+ch.1_72	RNASeq_stranded	transcript_region	439	447	5.0	+	.	
+ch.1_72	RNASeq_stranded	transcript_region	448	466	3.0	+	.	
+ch.1_72	RNASeq_splice	intron	456	502	22.0	+	.	
+ch.1_72	RNASeq_reads	transcript_region	457	468	3.0	.	.	
+ch.1_72	RNASeq	transcription_end_site	465	465	.	+	.	
+ch.1_72	RNASeq_stranded	transcript_region	467	475	1.0	+	.	
+ch.1_72	RNASeq_reads	transcript_region	469	479	1.0	.	.	
+ch.1_72	RNASeq	transcription_end_site	472	472	.	+	.	
+ch.1_72	RNASeq	transcription_end_site	473	473	.	+	.	
+ch.1_72	RNASeq_F_asymmetry	transcript_region	475	476	3647.0	.	.	
+ch.1_72	RNASeq_F_asymmetry	transcript_region	477	479	2140.0	.	.	
+ch.1_72	RNASeq	transcription_end_site	479	479	.	+	.	

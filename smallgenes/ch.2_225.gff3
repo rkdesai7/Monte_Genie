@@ -1,0 +1,42 @@
+ch.2_225	RNASeq_reads	transcript_region	815	840	1.0	.	.	
+ch.2_225	RNASeq_splice	intron	767	814	3648.0	+	.	
+ch.2_225	WormBase	exon	410	770	.	+	.	Parent=Transcript:ZK1290.11.1
+ch.2_225	WormBase	CDS	410	770	.	+	.	ID=CDS:ZK1290.11;Parent=Transcript:ZK1290.11.1
+ch.2_225	WormBase	gene	101	770	.	+	.	ID=Gene:WBGene00022892
+ch.2_225	WormBase	mRNA	101	770	.	+	.	ID=Transcript:ZK1290.11.1;Parent=Gene:WBGene00022892
+ch.2_225	RNASeq_F_asymmetry	transcript_region	758	766	3131.0	.	.	
+ch.2_225	RNASeq_reads	transcript_region	694	766	1.0	.	.	
+ch.2_225	RNASeq_F_asymmetry	transcript_region	700	701	5476.0	.	.	
+ch.2_225	RNASeq_reads	transcript_region	661	693	2.0	.	.	
+ch.2_225	RNASeq_F_asymmetry	transcript_region	690	692	6699.0	.	.	
+ch.2_225	RNASeq_reads	transcript_region	507	660	1.0	.	.	
+ch.2_225	RNASeq_reads	transcript_region	410	506	2.0	.	.	
+ch.2_225	RNASeq_stranded	transcript_region	485	504	1.0	+	.	
+ch.2_225	RNASeq_stranded	transcript_region	421	425	1.0	+	.	
+ch.2_225	RNASeq_splice	intron	376	423	42.0	-	.	
+ch.2_225	RNASeq_stranded	transcript_region	410	420	2.0	+	.	
+ch.2_225	WormBase	intron	367	409	.	+	.	Parent=Transcript:ZK1290.11.1
+ch.2_225	RNASeq_splice	intron	367	409	10546.0	+	.	
+ch.2_225	RNASeq_stranded	transcript_region	354	366	4.0	+	.	
+ch.2_225	RNASeq_reads	transcript_region	244	366	2.0	.	.	
+ch.2_225	WormBase	CDS	236	366	.	+	.	ID=CDS:ZK1290.11;Parent=Transcript:ZK1290.11.1
+ch.2_225	WormBase	exon	236	366	.	+	.	Parent=Transcript:ZK1290.11.1
+ch.2_225	RNASeq_stranded	transcript_region	335	353	7.0	+	.	
+ch.2_225	RNASeq_stranded	transcript_region	327	334	4.0	+	.	
+ch.2_225	RNASeq_stranded	transcript_region	321	326	2.0	+	.	
+ch.2_225	RNASeq_splice	intron	272	323	15.0	+	.	
+ch.2_225	RNASeq_stranded	transcript_region	293	320	1.0	+	.	
+ch.2_225	RNASeq_splice	intron	172	311	3.0	-	.	
+ch.2_225	RNASeq_stranded	transcript_region	254	292	2.0	+	.	
+ch.2_225	RNASeq_stranded	transcript_region	241	253	1.0	+	.	
+ch.2_225	RNASeq_splice	intron	188	249	3.0	+	.	
+ch.2_225	RNASeq_reads	transcript_region	236	243	1.0	.	.	
+ch.2_225	WormBase	intron	188	235	.	+	.	Parent=Transcript:ZK1290.11.1
+ch.2_225	RNASeq_splice	intron	188	235	6460.0	+	.	
+ch.2_225	RNASeq_splice	intron	172	214	97.0	-	.	
+ch.2_225	RNASeq_reads	transcript_region	118	187	1.0	.	.	
+ch.2_225	WormBase	CDS	101	187	.	+	.	ID=CDS:ZK1290.11;Parent=Transcript:ZK1290.11.1
+ch.2_225	WormBase	exon	101	187	.	+	.	Parent=Transcript:ZK1290.11.1
+ch.2_225	RNASeq_R_asymmetry	transcript_region	143	143	4021.0	.	.	
+ch.2_225	RNASeq_R_asymmetry	transcript_region	128	140	3797.0	.	.	
+ch.2_225	RNASeq_R_asymmetry	transcript_region	112	127	2502.0	.	.	

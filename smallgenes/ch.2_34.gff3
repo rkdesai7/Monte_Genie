@@ -1,0 +1,74 @@
+ch.2_34	RNASeq_R_asymmetry	transcript_region	1	3	75023.0	.	.	
+ch.2_34	RNASeq_reads	transcript_region	1	4	18.0	.	.	
+ch.2_34	RNASeq	transcription_end_site	2	2	.	+	.	
+ch.2_34	RNASeq_R_asymmetry	transcript_region	4	5	48304.0	.	.	
+ch.2_34	RNASeq_reads	transcript_region	5	5	11.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	5	5	7.0	+	.	
+ch.2_34	RNASeq	transcription_end_site	5	5	.	+	.	
+ch.2_34	RNASeq_stranded	transcript_region	6	6	1.0	+	.	
+ch.2_34	RNASeq	transcription_end_site	6	6	.	+	.	
+ch.2_34	RNASeq_reads	transcript_region	6	10	1.0	.	.	
+ch.2_34	RNASeq_splice	intron	6	95	4.0	+	.	
+ch.2_34	RNASeq	transcription_end_site	13	13	.	+	.	
+ch.2_34	RNASeq	transcription_end_site	28	28	.	+	.	
+ch.2_34	RNASeq_reads	transcript_region	52	85	1.0	.	.	
+ch.2_34	RNASeq_splice	intron	52	95	33.0	+	.	
+ch.2_34	RNASeq_reads	transcript_region	86	89	3.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	86	90	1.0	+	.	
+ch.2_34	RNASeq_F_asymmetry	transcript_region	86	91	15968.0	.	.	
+ch.2_34	RNASeq_reads	transcript_region	90	93	5.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	91	93	2.0	+	.	
+ch.2_34	RNASeq_F_asymmetry	transcript_region	92	93	24234.0	.	.	
+ch.2_34	RNASeq_F_asymmetry	transcript_region	94	100	54364.0	.	.	
+ch.2_34	RNASeq_reads	transcript_region	94	100	11.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	94	149	7.0	+	.	
+ch.2_34	RNASeq_reads	transcript_region	101	113	17.0	.	.	
+ch.2_34	RNASeq_F_asymmetry	transcript_region	101	132	83650.0	.	.	
+ch.2_34	WormBase	exon	101	316	.	+	.	Parent=Transcript:C25A1.20.1
+ch.2_34	WormBase	CDS	101	316	.	+	.	ID=CDS:C25A1.20;Parent=Transcript:C25A1.20.1
+ch.2_34	WormBase	gene	101	563	.	+	.	ID=Gene:WBGene00303030
+ch.2_34	WormBase	mRNA	101	563	.	+	.	ID=Transcript:C25A1.20.1;Parent=Gene:WBGene00303030
+ch.2_34	RNASeq_reads	transcript_region	114	173	26.0	.	.	
+ch.2_34	RNASeq_F_asymmetry	transcript_region	133	149	131178.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	150	161	4.0	+	.	
+ch.2_34	RNASeq_stranded	transcript_region	162	246	8.0	+	.	
+ch.2_34	RNASeq_reads	transcript_region	174	316	40.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	199	237	1.0	-	.	
+ch.2_34	RNASeq_splice	intron	215	252	3.0	+	.	
+ch.2_34	RNASeq_splice	intron	215	256	20.0	+	.	
+ch.2_34	RNASeq_splice	intron	215	362	35.0	+	.	
+ch.2_34	RNASeq_stranded	transcript_region	247	250	13.0	+	.	
+ch.2_34	RNASeq_stranded	transcript_region	251	297	21.0	+	.	
+ch.2_34	RNASeq_stranded	transcript_region	277	316	1.0	-	.	
+ch.2_34	RNASeq_stranded	transcript_region	298	301	13.0	+	.	
+ch.2_34	RNASeq_stranded	transcript_region	302	316	6.0	+	.	
+ch.2_34	WormBase	intron	317	362	.	+	.	Parent=Transcript:C25A1.20.1
+ch.2_34	RNASeq_splice	intron	317	362	135980.0	+	.	
+ch.2_34	RNASeq_splice	intron	317	374	9.0	+	.	
+ch.2_34	RNASeq_reads	transcript_region	362	362	4.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	362	362	3.0	+	.	
+ch.2_34	RNASeq_stranded	transcript_region	363	412	6.0	+	.	
+ch.2_34	RNASeq_stranded	transcript_region	363	417	1.0	-	.	
+ch.2_34	WormBase	CDS	363	444	.	+	.	ID=CDS:C25A1.20;Parent=Transcript:C25A1.20.1
+ch.2_34	WormBase	exon	363	444	.	+	.	Parent=Transcript:C25A1.20.1
+ch.2_34	RNASeq_reads	transcript_region	363	444	27.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	413	444	3.0	+	.	
+ch.2_34	RNASeq_splice	intron	427	492	8.0	+	.	
+ch.2_34	RNASeq_splice	intron	438	492	35.0	+	.	
+ch.2_34	RNASeq_reads	transcript_region	445	445	3.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	445	445	1.0	+	.	
+ch.2_34	WormBase	intron	445	492	.	+	.	Parent=Transcript:C25A1.20.1
+ch.2_34	RNASeq_splice	intron	445	492	145232.0	+	.	
+ch.2_34	RNASeq_reads	transcript_region	492	492	3.0	.	.	
+ch.2_34	WormBase	five_prime_UTR	492	504	.	+	.	Parent=Transcript:C25A1.7.1
+ch.2_34	WormBase	exon	492	563	.	+	.	Parent=Transcript:C25A1.7.1
+ch.2_34	RNASeq_stranded	transcript_region	493	502	3.0	+	.	
+ch.2_34	WormBase	CDS	493	563	.	+	.	ID=CDS:C25A1.20;Parent=Transcript:C25A1.20.1
+ch.2_34	WormBase	exon	493	563	.	+	.	Parent=Transcript:C25A1.20.1
+ch.2_34	RNASeq_reads	transcript_region	493	563	27.0	.	.	
+ch.2_34	RNASeq_stranded	transcript_region	503	563	6.0	+	.	
+ch.2_34	WormBase	CDS	505	563	.	+	.	ID=CDS:C25A1.7;Parent=Transcript:C25A1.7.1
+ch.2_34	RNASeq_splice	intron	564	601	48.0	+	.	
+ch.2_34	WormBase	intron	564	611	.	+	.	Parent=Transcript:C25A1.7.1
+ch.2_34	RNASeq_splice	intron	564	611	143292.0	+	.	
+ch.2_34	RNASeq_reads	transcript_region	610	611	4.0	.	.	

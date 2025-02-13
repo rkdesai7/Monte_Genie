@@ -1,0 +1,45 @@
+ch.1_93	RNASeq_splice	intron	37	92	4.0	-	.	
+ch.1_93	WormBase	five_prime_UTR	101	154	.	+	.	Parent=Transcript:Y51H7C.8.1
+ch.1_93	WormBase	exon	101	200	.	+	.	Parent=Transcript:Y51H7C.8.1
+ch.1_93	WormBase	gene	101	461	.	+	.	ID=Gene:WBGene00021786
+ch.1_93	WormBase	mRNA	101	461	.	+	.	ID=Transcript:Y51H7C.8.1;Parent=Gene:WBGene00021786
+ch.1_93	RNASeq_reads	transcript_region	132	144	1.0	.	.	
+ch.1_93	RNASeq_stranded	transcript_region	132	224	1.0	-	.	
+ch.1_93	RNASeq_F_asymmetry	transcript_region	141	147	4374.0	.	.	
+ch.1_93	RNASeq_reads	transcript_region	145	157	2.0	.	.	
+ch.1_93	RNASeq_F_asymmetry	transcript_region	148	150	6750.0	.	.	
+ch.1_93	RNASeq_stranded	transcript_region	148	161	1.0	+	.	
+ch.1_93	RNASeq_F_asymmetry	transcript_region	151	157	10570.0	.	.	
+ch.1_93	WormBase	CDS	155	200	.	+	.	ID=CDS:Y51H7C.8;Parent=Transcript:Y51H7C.8.1
+ch.1_93	RNASeq_F_asymmetry	transcript_region	158	166	16039.0	.	.	
+ch.1_93	RNASeq_reads	transcript_region	158	177	4.0	.	.	
+ch.1_93	RNASeq_stranded	transcript_region	162	200	3.0	+	.	
+ch.1_93	RNASeq_F_asymmetry	transcript_region	167	200	24863.0	.	.	
+ch.1_93	RNASeq_reads	transcript_region	178	200	7.0	.	.	
+ch.1_93	RNASeq_stranded	transcript_region	201	201	1.0	+	.	
+ch.1_93	RNASeq_reads	transcript_region	201	258	1.0	.	.	
+ch.1_93	WormBase	intron	201	259	.	+	.	Parent=Transcript:Y51H7C.8.1
+ch.1_93	RNASeq_splice	intron	201	259	34495.0	+	.	
+ch.1_93	RNASeq_reads	transcript_region	259	259	2.0	.	.	
+ch.1_93	RNASeq_stranded	transcript_region	259	259	3.0	+	.	
+ch.1_93	RNASeq_F_asymmetry	transcript_region	260	262	33811.0	.	.	
+ch.1_93	RNASeq_stranded	transcript_region	260	307	6.0	+	.	
+ch.1_93	RNASeq_reads	transcript_region	260	391	8.0	.	.	
+ch.1_93	WormBase	CDS	260	432	.	+	.	ID=CDS:Y51H7C.8;Parent=Transcript:Y51H7C.8.1
+ch.1_93	WormBase	exon	260	461	.	+	.	Parent=Transcript:Y51H7C.8.1
+ch.1_93	RNASeq_stranded	transcript_region	282	316	1.0	-	.	
+ch.1_93	RNASeq_stranded	transcript_region	308	355	3.0	+	.	
+ch.1_93	RNASeq	transcription_end_site	324	324	.	+	.	
+ch.1_93	RNASeq_R_asymmetry	transcript_region	354	396	31955.0	.	.	
+ch.1_93	RNASeq_stranded	transcript_region	356	363	1.0	+	.	
+ch.1_93	RNASeq_stranded	transcript_region	364	425	2.0	+	.	
+ch.1_93	RNASeq_reads	transcript_region	392	406	5.0	.	.	
+ch.1_93	RNASeq_R_asymmetry	transcript_region	397	401	19630.0	.	.	
+ch.1_93	RNASeq_reads	transcript_region	407	430	3.0	.	.	
+ch.1_93	RNASeq_stranded	transcript_region	426	443	1.0	+	.	
+ch.1_93	RNASeq_reads	transcript_region	431	540	1.0	.	.	
+ch.1_93	WormBase	three_prime_UTR	433	461	.	+	.	Parent=Transcript:Y51H7C.8.1
+ch.1_93	RNASeq	transcription_end_site	462	462	.	+	.	
+ch.1_93	RNASeq	transcription_end_site	478	478	.	+	.	
+ch.1_93	RNASeq_R_asymmetry	transcript_region	491	541	2881.0	.	.	
+ch.1_93	RNASeq_R_asymmetry	transcript_region	542	550	1147.0	.	.	

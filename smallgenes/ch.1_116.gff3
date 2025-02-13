@@ -1,0 +1,29 @@
+ch.1_116	RNASeq_reads	transcript_region	80	89	1.0	.	.	
+ch.1_116	RNASeq_reads	transcript_region	90	116	2.0	.	.	
+ch.1_116	WormBase	five_prime_UTR	101	114	.	+	.	Parent=Transcript:R10D12.7.1
+ch.1_116	WormBase	exon	101	225	.	+	.	Parent=Transcript:R10D12.7.1
+ch.1_116	WormBase	gene	101	508	.	+	.	ID=Gene:WBGene00011188
+ch.1_116	WormBase	mRNA	101	508	.	+	.	ID=Transcript:R10D12.7.1;Parent=Gene:WBGene00011188
+ch.1_116	WormBase	CDS	115	225	.	+	.	ID=CDS:R10D12.7;Parent=Transcript:R10D12.7.1
+ch.1_116	RNASeq_stranded	transcript_region	117	132	1.0	+	.	
+ch.1_116	RNASeq_reads	transcript_region	117	152	4.0	.	.	
+ch.1_116	RNASeq_stranded	transcript_region	133	148	2.0	+	.	
+ch.1_116	RNASeq_stranded	transcript_region	149	173	1.0	+	.	
+ch.1_116	RNASeq_splice	intron	149	262	3.0	-	.	
+ch.1_116	RNASeq_reads	transcript_region	153	225	7.0	.	.	
+ch.1_116	RNASeq_stranded	transcript_region	194	225	1.0	+	.	
+ch.1_116	WormBase	intron	226	278	.	+	.	Parent=Transcript:R10D12.7.1
+ch.1_116	RNASeq_splice	intron	226	278	45937.0	+	.	
+ch.1_116	RNASeq_splice	intron	230	278	4.0	+	.	
+ch.1_116	RNASeq_reads	transcript_region	278	278	1.0	.	.	
+ch.1_116	RNASeq_stranded	transcript_region	279	324	1.0	+	.	
+ch.1_116	RNASeq_reads	transcript_region	279	431	10.0	.	.	
+ch.1_116	WormBase	CDS	279	443	.	+	.	ID=CDS:R10D12.7;Parent=Transcript:R10D12.7.1
+ch.1_116	WormBase	exon	279	508	.	+	.	Parent=Transcript:R10D12.7.1
+ch.1_116	RNASeq_stranded	transcript_region	343	344	1.0	+	.	
+ch.1_116	RNASeq_stranded	transcript_region	368	458	1.0	+	.	
+ch.1_116	RNASeq_reads	transcript_region	432	456	6.0	.	.	
+ch.1_116	WormBase	three_prime_UTR	444	508	.	+	.	Parent=Transcript:R10D12.7.1
+ch.1_116	RNASeq_reads	transcript_region	457	470	3.0	.	.	
+ch.1_116	RNASeq_reads	transcript_region	471	501	1.0	.	.	
+ch.1_116	RNASeq_splice	intron	541	595	3.0	-	.	

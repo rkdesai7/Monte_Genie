@@ -1,0 +1,60 @@
+ch.1_459	RNASeq_F_asymmetry	transcript_region	92	92	1673.0	.	.	
+ch.1_459	RNASeq_F_asymmetry	transcript_region	100	100	1831.0	.	.	
+ch.1_459	RNASeq_F_asymmetry	transcript_region	101	111	4225.0	.	.	
+ch.1_459	RNASeq_reads	transcript_region	101	111	1.0	.	.	
+ch.1_459	WormBase	five_prime_UTR	101	134	.	+	.	Parent=Transcript:F19F10.3.1
+ch.1_459	WormBase	exon	101	138	.	+	.	Parent=Transcript:F19F10.3.1
+ch.1_459	WormBase	gene	101	688	.	+	.	ID=Gene:WBGene00017599
+ch.1_459	WormBase	mRNA	101	688	.	+	.	ID=Transcript:F19F10.3.1;Parent=Gene:WBGene00017599
+ch.1_459	RNASeq_F_asymmetry	transcript_region	112	115	13280.0	.	.	
+ch.1_459	RNASeq_reads	transcript_region	112	117	3.0	.	.	
+ch.1_459	RNASeq_stranded	transcript_region	112	120	1.0	+	.	
+ch.1_459	RNASeq_F_asymmetry	transcript_region	116	123	20392.0	.	.	
+ch.1_459	RNASeq_reads	transcript_region	118	123	5.0	.	.	
+ch.1_459	RNASeq_stranded	transcript_region	121	138	3.0	+	.	
+ch.1_459	RNASeq_F_asymmetry	transcript_region	124	138	39567.0	.	.	
+ch.1_459	RNASeq_reads	transcript_region	124	138	8.0	.	.	
+ch.1_459	WormBase	CDS	135	138	.	+	.	ID=CDS:F19F10.3;Parent=Transcript:F19F10.3.1
+ch.1_459	WormBase	intron	139	236	.	+	.	Parent=Transcript:F19F10.3.1
+ch.1_459	RNASeq_splice	intron	139	236	53978.0	+	.	
+ch.1_459	RNASeq_splice	intron	139	245	10.0	+	.	
+ch.1_459	RNASeq_splice	intron	139	290	35.0	+	.	
+ch.1_459	RNASeq_F_asymmetry	transcript_region	237	280	48864.0	.	.	
+ch.1_459	RNASeq_reads	transcript_region	237	292	10.0	.	.	
+ch.1_459	RNASeq_stranded	transcript_region	237	309	4.0	+	.	
+ch.1_459	WormBase	CDS	237	610	.	+	.	ID=CDS:F19F10.3;Parent=Transcript:F19F10.3.1
+ch.1_459	WormBase	exon	237	688	.	+	.	Parent=Transcript:F19F10.3.1
+ch.1_459	RNASeq_reads	transcript_region	293	592	16.0	.	.	
+ch.1_459	RNASeq_stranded	transcript_region	310	360	2.0	+	.	
+ch.1_459	RNASeq_stranded	transcript_region	361	406	4.0	+	.	
+ch.1_459	RNASeq_stranded	transcript_region	407	438	7.0	+	.	
+ch.1_459	RNASeq_stranded	transcript_region	439	553	4.0	+	.	
+ch.1_459	RNASeq_stranded	transcript_region	554	635	7.0	+	.	
+ch.1_459	RNASeq	transcription_end_site	560	560	.	+	.	
+ch.1_459	RNASeq_R_asymmetry	transcript_region	568	605	45893.0	.	.	
+ch.1_459	RNASeq_reads	transcript_region	593	616	10.0	.	.	
+ch.1_459	RNASeq	transcription_end_site	606	606	.	+	.	
+ch.1_459	RNASeq_R_asymmetry	transcript_region	606	626	30045.0	.	.	
+ch.1_459	WormBase	three_prime_UTR	611	688	.	+	.	Parent=Transcript:F19F10.3.1
+ch.1_459	RNASeq_reads	transcript_region	617	630	6.0	.	.	
+ch.1_459	RNASeq_R_asymmetry	transcript_region	627	629	19533.0	.	.	
+ch.1_459	RNASeq_reads	transcript_region	631	653	3.0	.	.	
+ch.1_459	RNASeq	transcription_end_site	634	634	.	+	.	
+ch.1_459	RNASeq_stranded	transcript_region	636	646	4.0	+	.	
+ch.1_459	RNASeq_R_asymmetry	transcript_region	638	651	12755.0	.	.	
+ch.1_459	RNASeq_stranded	transcript_region	647	654	2.0	+	.	
+ch.1_459	RNASeq	transcription_end_site	649	649	.	+	.	
+ch.1_459	RNASeq_R_asymmetry	transcript_region	652	652	7729.0	.	.	
+ch.1_459	RNASeq_R_asymmetry	transcript_region	654	664	5670.0	.	.	
+ch.1_459	RNASeq_reads	transcript_region	654	673	1.0	.	.	
+ch.1_459	RNASeq_stranded	transcript_region	655	697	1.0	+	.	
+ch.1_459	RNASeq_R_asymmetry	transcript_region	665	669	3564.0	.	.	
+ch.1_459	RNASeq	transcription_end_site	667	667	.	+	.	
+ch.1_459	RNASeq	transcription_end_site	670	670	.	+	.	
+ch.1_459	RNASeq	transcription_end_site	680	680	.	+	.	
+ch.1_459	RNASeq_F_asymmetry	transcript_region	739	743	1564.0	.	.	
+ch.1_459	RNASeq	transcription_end_site	775	775	.	+	.	
+ch.1_459	RNASeq	transcription_end_site	775	775	.	+	.	
+ch.1_459	RNASeq	transcription_end_site	779	779	.	+	.	
+ch.1_459	RNASeq	transcription_end_site	779	779	.	+	.	
+ch.1_459	RNASeq	transcription_end_site	783	783	.	+	.	

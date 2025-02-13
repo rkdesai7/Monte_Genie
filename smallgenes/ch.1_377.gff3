@@ -1,0 +1,103 @@
+ch.1_377	RNASeq_reads	transcript_region	11	14	1.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	15	17	2.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	18	94	1.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	95	98	5.0	+	.	
+ch.1_377	RNASeq_F_asymmetry	transcript_region	95	99	121485.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	95	100	25.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	99	100	10.0	+	.	
+ch.1_377	RNASeq_F_asymmetry	transcript_region	100	102	183471.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	101	102	16.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	101	103	42.0	.	.	
+ch.1_377	WormBase	five_prime_UTR	101	128	.	+	.	Parent=Transcript:K04C2.3a.1
+ch.1_377	WormBase	exon	101	264	.	+	.	Parent=Transcript:K04C2.3a.1
+ch.1_377	WormBase	gene	101	741	.	+	.	ID=Gene:WBGene00019381
+ch.1_377	WormBase	mRNA	101	741	.	+	.	ID=Transcript:K04C2.3a.1;Parent=Gene:WBGene00019381
+ch.1_377	RNASeq_F_asymmetry	transcript_region	103	107	301799.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	103	122	27.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	104	121	72.0	.	.	
+ch.1_377	RNASeq_F_asymmetry	transcript_region	108	140	461948.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	122	160	109.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	123	134	42.0	+	.	
+ch.1_377	WormBase	CDS	129	264	.	+	.	ID=CDS:K04C2.3a;Parent=Transcript:K04C2.3a.1
+ch.1_377	WormBase	mRNA	129	278	.	+	.	ID=Transcript:K04C2.3b.1;Parent=Gene:WBGene00019381
+ch.1_377	WormBase	exon	129	278	.	+	.	Parent=Transcript:K04C2.3b.1
+ch.1_377	WormBase	CDS	129	278	.	+	.	ID=CDS:K04C2.3b;Parent=Transcript:K04C2.3b.1
+ch.1_377	RNASeq_stranded	transcript_region	135	175	67.0	+	.	
+ch.1_377	RNASeq_F_asymmetry	transcript_region	141	190	693235.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	161	264	164.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	176	229	101.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	216	218	1.0	-	.	
+ch.1_377	RNASeq_stranded	transcript_region	219	264	2.0	-	.	
+ch.1_377	RNASeq_splice	intron	226	345	330.0	+	.	
+ch.1_377	RNASeq_splice	intron	226	385	11.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	230	264	66.0	+	.	
+ch.1_377	RNASeq_splice	intron	255	345	21.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	265	288	2.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	265	298	4.0	.	.	
+ch.1_377	RNASeq_splice	intron	265	320	4.0	+	.	
+ch.1_377	WormBase	intron	265	345	.	+	.	Parent=Transcript:K04C2.3a.1
+ch.1_377	RNASeq_splice	intron	265	345	765929.0	+	.	
+ch.1_377	RNASeq_splice	intron	265	350	168.0	+	.	
+ch.1_377	RNASeq_splice	intron	265	385	45.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	289	298	1.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	299	316	2.0	.	.	
+ch.1_377	RNASeq_splice	intron	299	345	9550.0	+	.	
+ch.1_377	RNASeq_splice	intron	299	350	3.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	317	339	1.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	340	343	2.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	344	345	27.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	344	345	4.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	346	403	3.0	-	.	
+ch.1_377	WormBase	CDS	346	458	.	+	.	ID=CDS:K04C2.3a;Parent=Transcript:K04C2.3a.1
+ch.1_377	RNASeq_stranded	transcript_region	346	472	43.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	346	574	156.0	.	.	
+ch.1_377	WormBase	exon	346	741	.	+	.	Parent=Transcript:K04C2.3a.1
+ch.1_377	RNASeq_stranded	transcript_region	404	404	1.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	405	437	2.0	-	.	
+ch.1_377	RNASeq_splice	intron	428	548	15.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	438	491	1.0	-	.	
+ch.1_377	WormBase	three_prime_UTR	459	741	.	+	.	Parent=Transcript:K04C2.3a.1
+ch.1_377	RNASeq_stranded	transcript_region	473	552	65.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	498	536	1.0	-	.	
+ch.1_377	RNASeq_stranded	transcript_region	537	560	2.0	-	.	
+ch.1_377	RNASeq_stranded	transcript_region	553	569	98.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	561	640	4.0	-	.	
+ch.1_377	RNASeq_stranded	transcript_region	570	574	148.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	575	609	326.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	575	609	1230.0	+	.	
+ch.1_377	RNASeq_splice	intron	585	640	3.0	-	.	
+ch.1_377	RNASeq_F_asymmetry	transcript_region	608	609	1264700.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	610	679	157.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	610	690	435.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	641	646	7.0	-	.	
+ch.1_377	RNASeq_stranded	transcript_region	647	651	11.0	-	.	
+ch.1_377	RNASeq_stranded	transcript_region	652	741	17.0	-	.	
+ch.1_377	RNASeq_reads	transcript_region	680	699	103.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	691	698	281.0	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	699	709	184.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	700	720	66.0	.	.	
+ch.1_377	RNASeq	transcription_end_site	702	702	.	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	710	724	121.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	721	734	43.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	725	734	76.0	+	.	
+ch.1_377	RNASeq_R_asymmetry	transcript_region	729	738	141713.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	735	740	28.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	735	740	47.0	+	.	
+ch.1_377	RNASeq_R_asymmetry	transcript_region	739	740	90067.0	.	.	
+ch.1_377	RNASeq_R_asymmetry	transcript_region	741	741	56172.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	741	741	14.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	741	742	26.0	+	.	
+ch.1_377	RNASeq_reads	transcript_region	742	742	9.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	742	742	11.0	+	.	
+ch.1_377	RNASeq	transcription_end_site	742	742	.	+	.	
+ch.1_377	RNASeq_stranded	transcript_region	743	743	1.0	+	.	
+ch.1_377	RNASeq_R_asymmetry	transcript_region	743	744	11031.0	.	.	
+ch.1_377	RNASeq_reads	transcript_region	743	744	3.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	743	744	2.0	+	.	
+ch.1_377	RNASeq	transcription_end_site	744	744	.	+	.	
+ch.1_377	RNASeq_R_asymmetry	transcript_region	745	745	4836.0	.	.	
+ch.1_377	RNASeq_stranded	transcript_region	745	745	1.0	+	.	
+ch.1_377	RNASeq	transcription_end_site	745	745	.	+	.	
+ch.1_377	RNASeq_reads	transcript_region	745	746	1.0	.	.	
+ch.1_377	RNASeq	transcription_end_site	746	746	.	+	.	
+ch.1_377	RNASeq	transcription_end_site	747	747	.	+	.	

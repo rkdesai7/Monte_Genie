@@ -1,0 +1,73 @@
+ch.1_117	WormBase	five_prime_UTR	101	170	.	+	.	Parent=Transcript:R09B5.9.1
+ch.1_117	WormBase	exon	101	231	.	+	.	Parent=Transcript:R09B5.9.1
+ch.1_117	WormBase	gene	101	613	.	+	.	ID=Gene:WBGene00000558
+ch.1_117	WormBase	mRNA	101	613	.	+	.	ID=Transcript:R09B5.9.1;Parent=Gene:WBGene00000558
+ch.1_117	RNASeq_reads	transcript_region	122	124	1.0	.	.	
+ch.1_117	RNASeq_reads	transcript_region	125	125	2.0	.	.	
+ch.1_117	RNASeq_reads	transcript_region	126	127	4.0	.	.	
+ch.1_117	RNASeq_reads	transcript_region	128	135	15.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	132	136	1.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	136	137	23.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	137	137	2.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	138	138	7.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	138	143	35.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	139	145	11.0	+	.	
+ch.1_117	RNASeq_F_asymmetry	transcript_region	141	141	193658.0	.	.	
+ch.1_117	RNASeq_F_asymmetry	transcript_region	144	153	234024.0	.	.	
+ch.1_117	RNASeq_reads	transcript_region	144	155	58.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	146	152	17.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	153	231	27.0	+	.	
+ch.1_117	RNASeq_F_asymmetry	transcript_region	154	182	360618.0	.	.	
+ch.1_117	RNASeq_reads	transcript_region	156	183	89.0	.	.	
+ch.1_117	WormBase	CDS	171	231	.	+	.	ID=CDS:R09B5.9;Parent=Transcript:R09B5.9.1
+ch.1_117	RNASeq_reads	transcript_region	184	231	134.0	.	.	
+ch.1_117	RNASeq_F_asymmetry	transcript_region	232	232	58861.0	.	.	
+ch.1_117	RNASeq_reads	transcript_region	232	232	13.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	232	232	12.0	+	.	
+ch.1_117	WormBase	intron	232	309	.	+	.	Parent=Transcript:R09B5.9.1
+ch.1_117	RNASeq_splice	intron	232	309	738921.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	233	255	2.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	233	271	1.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	256	301	4.0	.	.	
+ch.1_117	RNASeq_reads	transcript_region	302	308	7.0	.	.	
+ch.1_117	RNASeq_reads	transcript_region	309	309	21.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	309	309	1.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	310	329	25.0	+	.	
+ch.1_117	WormBase	CDS	310	449	.	+	.	ID=CDS:R09B5.9;Parent=Transcript:R09B5.9.1
+ch.1_117	RNASeq_reads	transcript_region	310	499	162.0	.	.	
+ch.1_117	WormBase	exon	310	613	.	+	.	Parent=Transcript:R09B5.9.1
+ch.1_117	RNASeq_stranded	transcript_region	330	349	14.0	+	.	
+ch.1_117	RNASeq_splice	intron	346	416	5.0	-	.	
+ch.1_117	RNASeq_splice	intron	347	379	16.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	350	364	9.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	365	378	15.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	379	389	24.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	390	397	38.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	398	416	60.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	417	438	91.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	439	498	137.0	+	.	
+ch.1_117	WormBase	three_prime_UTR	450	613	.	+	.	Parent=Transcript:R09B5.9.1
+ch.1_117	RNASeq_stranded	transcript_region	466	555	1.0	-	.	
+ch.1_117	RNASeq_stranded	transcript_region	499	520	90.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	500	516	101.0	.	.	
+ch.1_117	RNASeq	transcription_end_site	509	509	.	+	.	
+ch.1_117	RNASeq_reads	transcript_region	517	533	66.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	521	528	58.0	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	529	537	37.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	534	539	40.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	538	545	24.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	540	545	26.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	546	552	15.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	546	553	16.0	.	.	
+ch.1_117	RNASeq	transcription_end_site	547	547	.	+	.	
+ch.1_117	RNASeq	transcription_end_site	552	552	.	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	553	555	8.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	554	555	10.0	.	.	
+ch.1_117	RNASeq	transcription_end_site	555	555	.	+	.	
+ch.1_117	RNASeq_stranded	transcript_region	556	571	4.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	556	576	5.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	572	586	2.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	577	594	3.0	.	.	
+ch.1_117	RNASeq_stranded	transcript_region	587	608	1.0	+	.	
+ch.1_117	RNASeq_reads	transcript_region	595	615	1.0	.	.	
+ch.1_117	RNASeq	transcription_end_site	617	617	.	+	.	

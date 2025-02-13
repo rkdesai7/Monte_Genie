@@ -1,0 +1,112 @@
+ch.2_43	RNASeq_stranded	transcript_region	660	673	1.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	660	670	1.0	.	.	
+ch.2_43	RNASeq	transcription_end_site	660	660	.	-	.	
+ch.2_43	WormBase	three_prime_UTR	551	660	.	+	.	Parent=Transcript:C33H5.13a.1
+ch.2_43	WormBase	exon	430	660	.	+	.	Parent=Transcript:C33H5.13a.1
+ch.2_43	WormBase	gene	101	660	.	+	.	ID=Gene:WBGene00016379
+ch.2_43	WormBase	mRNA	101	660	.	+	.	ID=Transcript:C33H5.13a.1;Parent=Gene:WBGene00016379
+ch.2_43	RNASeq	transcription_end_site	659	659	.	-	.	
+ch.2_43	RNASeq	transcription_end_site	659	659	.	-	.	
+ch.2_43	RNASeq_reads	transcript_region	656	659	2.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	653	659	4.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	651	655	4.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	651	652	7.0	+	.	
+ch.2_43	RNASeq_stranded	transcript_region	648	650	11.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	645	650	8.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	645	647	17.0	+	.	
+ch.2_43	RNASeq_stranded	transcript_region	643	644	28.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	617	644	13.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	586	642	44.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	570	616	20.0	.	.	
+ch.2_43	RNASeq	transcription_end_site	614	614	.	-	.	
+ch.2_43	RNASeq	transcription_end_site	614	614	.	-	.	
+ch.2_43	RNASeq	transcription_end_site	596	596	.	-	.	
+ch.2_43	RNASeq_stranded	transcript_region	545	585	67.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	541	569	32.0	.	.	
+ch.2_43	WormBase	mRNA	494	550	.	+	.	ID=Transcript:C33H5.13c.1;Parent=Gene:WBGene00016379
+ch.2_43	WormBase	exon	494	550	.	+	.	Parent=Transcript:C33H5.13c.1
+ch.2_43	WormBase	CDS	494	550	.	+	.	ID=CDS:C33H5.13c;Parent=Transcript:C33H5.13c.1
+ch.2_43	WormBase	CDS	430	550	.	+	.	ID=CDS:C33H5.13a;Parent=Transcript:C33H5.13a.1
+ch.2_43	WormBase	exon	430	550	.	+	.	Parent=Transcript:C33H5.13b
+ch.2_43	WormBase	nc_primary_transcript	172	550	.	+	.	ID=Transcript:C33H5.13b;Parent=Gene:WBGene00016379
+ch.2_43	RNASeq_stranded	transcript_region	543	544	42.0	+	.	
+ch.2_43	RNASeq_stranded	transcript_region	517	542	27.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	490	540	49.0	.	.	
+ch.2_43	RNASeq_splice	intron	293	526	7.0	-	.	
+ch.2_43	RNASeq_stranded	transcript_region	472	516	17.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	443	489	75.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	430	485	1.0	-	.	
+ch.2_43	RNASeq_stranded	transcript_region	430	471	11.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	430	442	113.0	.	.	
+ch.2_43	RNASeq_splice	intron	378	431	11.0	+	.	
+ch.2_43	RNASeq_splice	intron	374	431	64.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	426	429	3.0	.	.	
+ch.2_43	RNASeq_splice	intron	378	429	35.0	+	.	
+ch.2_43	WormBase	intron	374	429	.	+	.	Parent=Transcript:C33H5.13a.1
+ch.2_43	RNASeq_splice	intron	374	429	598775.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	423	425	1.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	374	376	1.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	350	373	11.0	+	.	
+ch.2_43	RNASeq_stranded	transcript_region	327	373	1.0	-	.	
+ch.2_43	WormBase	CDS	255	373	.	+	.	ID=CDS:C33H5.13a;Parent=Transcript:C33H5.13a.1
+ch.2_43	WormBase	exon	255	373	.	+	.	Parent=Transcript:C33H5.13a.1
+ch.2_43	RNASeq_reads	transcript_region	255	373	106.0	.	.	
+ch.2_43	WormBase	exon	172	373	.	+	.	Parent=Transcript:C33H5.13b
+ch.2_43	RNASeq_stranded	transcript_region	282	349	17.0	+	.	
+ch.2_43	RNASeq_splice	intron	286	324	31.0	+	.	
+ch.2_43	RNASeq_splice	intron	255	324	5.0	+	.	
+ch.2_43	RNASeq_splice	intron	211	285	21.0	+	.	
+ch.2_43	RNASeq_stranded	transcript_region	255	281	26.0	+	.	
+ch.2_43	RNASeq_R_asymmetry	transcript_region	255	272	357542.0	.	.	
+ch.2_43	RNASeq_R_asymmetry	transcript_region	239	254	42765.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	236	254	10.0	.	.	
+ch.2_43	RNASeq_splice	intron	215	254	4.0	+	.	
+ch.2_43	WormBase	intron	211	254	.	+	.	Parent=Transcript:C33H5.13a.1
+ch.2_43	RNASeq_splice	intron	211	254	328495.0	+	.	
+ch.2_43	RNASeq_stranded	transcript_region	211	254	3.0	+	.	
+ch.2_43	RNASeq_R_asymmetry	transcript_region	218	238	28188.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	215	235	6.0	.	.	
+ch.2_43	RNASeq_R_asymmetry	transcript_region	212	217	16739.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	212	214	3.0	.	.	
+ch.2_43	RNASeq_R_asymmetry	transcript_region	211	211	28741.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	211	211	6.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	185	210	58.0	.	.	
+ch.2_43	RNASeq_R_asymmetry	transcript_region	184	210	253773.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	184	210	21.0	+	.	
+ch.2_43	WormBase	CDS	172	210	.	+	.	ID=CDS:C33H5.13a;Parent=Transcript:C33H5.13a.1
+ch.2_43	WormBase	exon	101	210	.	+	.	Parent=Transcript:C33H5.13a.1
+ch.2_43	RNASeq_reads	transcript_region	177	184	38.0	.	.	
+ch.2_43	RNASeq_R_asymmetry	transcript_region	177	183	162481.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	173	183	13.0	+	.	
+ch.2_43	RNASeq_R_asymmetry	transcript_region	168	176	100539.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	168	176	23.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	165	172	8.0	+	.	
+ch.2_43	WormBase	five_prime_UTR	101	171	.	+	.	Parent=Transcript:C33H5.13a.1
+ch.2_43	RNASeq_R_asymmetry	transcript_region	162	167	65465.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	161	167	15.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	157	164	5.0	+	.	
+ch.2_43	RNASeq_splice	intron	107	162	3.0	+	.	
+ch.2_43	RNASeq_splice	intron	4	162	45.0	+	.	
+ch.2_43	RNASeq_R_asymmetry	transcript_region	158	161	39805.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	153	160	9.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	151	156	3.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	146	152	5.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	139	150	1.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	139	145	3.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	107	138	1.0	.	.	
+ch.2_43	RNASeq_reads	transcript_region	104	104	1.0	.	.	
+ch.2_43	RNASeq_splice	intron	4	74	11.0	+	.	
+ch.2_43	RNASeq_splice	intron	4	54	7.0	+	.	
+ch.2_43	RNASeq	transcription_end_site	32	32	.	-	.	
+ch.2_43	RNASeq	transcription_end_site	18	18	.	-	.	
+ch.2_43	RNASeq	transcription_end_site	18	18	.	-	.	
+ch.2_43	RNASeq	transcription_end_site	17	17	.	-	.	
+ch.2_43	RNASeq	transcription_end_site	17	17	.	-	.	
+ch.2_43	RNASeq_reads	transcript_region	16	16	1.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	16	16	1.0	-	.	
+ch.2_43	RNASeq	transcription_end_site	15	15	.	-	.	
+ch.2_43	RNASeq	transcription_end_site	15	15	.	-	.	
+ch.2_43	RNASeq_reads	transcript_region	14	15	2.0	.	.	
+ch.2_43	RNASeq_stranded	transcript_region	14	15	4.0	+	.	
+ch.2_43	RNASeq_stranded	transcript_region	10	13	8.0	+	.	
+ch.2_43	RNASeq_reads	transcript_region	8	13	4.0	.	.	

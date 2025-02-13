@@ -1,0 +1,36 @@
+ch.2_288	RNASeq_F_asymmetry	transcript_region	98	99	586.0	.	.	
+ch.2_288	RNASeq_F_asymmetry	transcript_region	100	100	1153.0	.	.	
+ch.2_288	RNASeq_F_asymmetry	transcript_region	101	101	1771.0	.	.	
+ch.2_288	WormBase	five_prime_UTR	101	129	.	+	.	Parent=Transcript:C54C6.11.1
+ch.2_288	WormBase	exon	101	171	.	+	.	Parent=Transcript:C54C6.11.1
+ch.2_288	WormBase	gene	101	803	.	+	.	ID=Gene:WBGene00219296
+ch.2_288	WormBase	mRNA	101	803	.	+	.	ID=Transcript:C54C6.11.1;Parent=Gene:WBGene00219296
+ch.2_288	RNASeq_F_asymmetry	transcript_region	102	118	4487.0	.	.	
+ch.2_288	RNASeq_reads	transcript_region	102	119	1.0	.	.	
+ch.2_288	RNASeq_F_asymmetry	transcript_region	119	171	6857.0	.	.	
+ch.2_288	RNASeq_reads	transcript_region	120	171	2.0	.	.	
+ch.2_288	RNASeq_stranded	transcript_region	125	125	1.0	+	.	
+ch.2_288	RNASeq_stranded	transcript_region	127	139	1.0	+	.	
+ch.2_288	WormBase	CDS	130	171	.	+	.	ID=CDS:C54C6.11;Parent=Transcript:C54C6.11.1
+ch.2_288	RNASeq_stranded	transcript_region	141	161	1.0	+	.	
+ch.2_288	RNASeq_splice	intron	172	259	4.0	+	.	
+ch.2_288	WormBase	intron	172	277	.	+	.	Parent=Transcript:C54C6.11.1
+ch.2_288	RNASeq_splice	intron	172	277	10058.0	+	.	
+ch.2_288	RNASeq_splice	intron	172	630	5.0	+	.	
+ch.2_288	WormBase	CDS	278	403	.	+	.	ID=CDS:C54C6.11;Parent=Transcript:C54C6.11.1
+ch.2_288	WormBase	exon	278	403	.	+	.	Parent=Transcript:C54C6.11.1
+ch.2_288	RNASeq_reads	transcript_region	278	403	2.0	.	.	
+ch.2_288	RNASeq_stranded	transcript_region	333	383	1.0	+	.	
+ch.2_288	WormBase	intron	404	630	.	+	.	Parent=Transcript:C54C6.11.1
+ch.2_288	RNASeq_splice	intron	404	630	12104.0	+	.	
+ch.2_288	RNASeq_splice	intron	536	630	50.0	+	.	
+ch.2_288	RNASeq_reads	transcript_region	631	713	2.0	.	.	
+ch.2_288	WormBase	CDS	631	729	.	+	.	ID=CDS:C54C6.11;Parent=Transcript:C54C6.11.1
+ch.2_288	WormBase	exon	631	803	.	+	.	Parent=Transcript:C54C6.11.1
+ch.2_288	RNASeq_stranded	transcript_region	650	747	1.0	+	.	
+ch.2_288	RNASeq_R_asymmetry	transcript_region	687	700	8924.0	.	.	
+ch.2_288	RNASeq_R_asymmetry	transcript_region	703	717	6673.0	.	.	
+ch.2_288	RNASeq_reads	transcript_region	714	782	1.0	.	.	
+ch.2_288	WormBase	three_prime_UTR	730	803	.	+	.	Parent=Transcript:C54C6.11.1
+ch.2_288	RNASeq_R_asymmetry	transcript_region	734	775	4167.0	.	.	
+ch.2_288	RNASeq_R_asymmetry	transcript_region	776	783	2745.0	.	.	

@@ -1,0 +1,47 @@
+ch.2_171	RNASeq_splice	intron	17	107	4.0	+	.	
+ch.2_171	RNASeq_F_asymmetry	transcript_region	99	101	1215.0	.	.	
+ch.2_171	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:C04F6.9.1
+ch.2_171	WormBase	exon	101	170	.	+	.	Parent=Transcript:C04F6.9.1
+ch.2_171	WormBase	gene	101	828	.	+	.	ID=Gene:WBGene00304901
+ch.2_171	WormBase	mRNA	101	828	.	+	.	ID=Transcript:C04F6.9.1;Parent=Gene:WBGene00304901
+ch.2_171	RNASeq_F_asymmetry	transcript_region	102	105	3135.0	.	.	
+ch.2_171	RNASeq_reads	transcript_region	102	107	1.0	.	.	
+ch.2_171	RNASeq_stranded	transcript_region	106	106	1.0	+	.	
+ch.2_171	RNASeq_F_asymmetry	transcript_region	106	110	6005.0	.	.	
+ch.2_171	RNASeq_stranded	transcript_region	107	135	2.0	+	.	
+ch.2_171	RNASeq_reads	transcript_region	108	170	2.0	.	.	
+ch.2_171	RNASeq_F_asymmetry	transcript_region	111	131	10087.0	.	.	
+ch.2_171	WormBase	CDS	111	170	.	+	.	ID=CDS:C04F6.9;Parent=Transcript:C04F6.9.1
+ch.2_171	RNASeq_F_asymmetry	transcript_region	132	170	15278.0	.	.	
+ch.2_171	RNASeq_stranded	transcript_region	136	170	1.0	+	.	
+ch.2_171	WormBase	intron	171	407	.	+	.	Parent=Transcript:C04F6.9.1
+ch.2_171	RNASeq_splice	intron	171	407	15106.0	+	.	
+ch.2_171	RNASeq_splice	intron	171	433	11.0	+	.	
+ch.2_171	RNASeq_stranded	transcript_region	408	424	1.0	+	.	
+ch.2_171	RNASeq_F_asymmetry	transcript_region	408	436	13577.0	.	.	
+ch.2_171	WormBase	CDS	408	479	.	+	.	ID=CDS:C04F6.9;Parent=Transcript:C04F6.9.1
+ch.2_171	WormBase	exon	408	479	.	+	.	Parent=Transcript:C04F6.9.1
+ch.2_171	RNASeq_reads	transcript_region	408	479	3.0	.	.	
+ch.2_171	RNASeq_stranded	transcript_region	425	449	2.0	+	.	
+ch.2_171	RNASeq_stranded	transcript_region	450	479	1.0	+	.	
+ch.2_171	RNASeq	transcription_end_site	469	469	.	+	.	
+ch.2_171	RNASeq_F_asymmetry	transcript_region	480	480	711.0	.	.	
+ch.2_171	RNASeq_splice	intron	480	533	79.0	+	.	
+ch.2_171	WormBase	intron	480	644	.	+	.	Parent=Transcript:C04F6.9.1
+ch.2_171	RNASeq_splice	intron	480	644	10922.0	+	.	
+ch.2_171	RNASeq_splice	intron	603	644	192.0	+	.	
+ch.2_171	RNASeq_stranded	transcript_region	645	651	2.0	+	.	
+ch.2_171	WormBase	CDS	645	710	.	+	.	ID=CDS:C04F6.9;Parent=Transcript:C04F6.9.1
+ch.2_171	RNASeq_reads	transcript_region	645	773	2.0	.	.	
+ch.2_171	WormBase	exon	645	828	.	+	.	Parent=Transcript:C04F6.9.1
+ch.2_171	RNASeq_stranded	transcript_region	652	757	4.0	+	.	
+ch.2_171	RNASeq	transcription_end_site	668	668	.	+	.	
+ch.2_171	WormBase	three_prime_UTR	711	828	.	+	.	Parent=Transcript:C04F6.9.1
+ch.2_171	RNASeq_stranded	transcript_region	758	773	7.0	+	.	
+ch.2_171	RNASeq_reads	transcript_region	774	799	5.0	.	.	
+ch.2_171	RNASeq_stranded	transcript_region	774	808	28.0	+	.	
+ch.2_171	RNASeq_F_asymmetry	transcript_region	783	808	17855.0	.	.	
+ch.2_171	RNASeq_reads	transcript_region	800	808	3.0	.	.	
+ch.2_171	RNASeq_reads	transcript_region	809	818	1.0	.	.	
+ch.2_171	RNASeq_stranded	transcript_region	809	826	1.0	+	.	
+ch.2_171	RNASeq_F_asymmetry	transcript_region	876	902	401.0	.	.	

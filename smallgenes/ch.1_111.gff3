@@ -1,0 +1,31 @@
+ch.1_111	WormBase	three_prime_UTR	463	504	.	+	.	Parent=Transcript:C14F11.7.1
+ch.1_111	WormBase	exon	235	504	.	+	.	Parent=Transcript:C14F11.7.1
+ch.1_111	WormBase	gene	101	504	.	+	.	ID=Gene:WBGene00015782
+ch.1_111	WormBase	mRNA	101	504	.	+	.	ID=Transcript:C14F11.7.1;Parent=Gene:WBGene00015782
+ch.1_111	RNASeq_reads	transcript_region	502	503	1.0	.	.	
+ch.1_111	RNASeq_F_asymmetry	transcript_region	495	501	6607.0	.	.	
+ch.1_111	RNASeq_reads	transcript_region	488	501	2.0	.	.	
+ch.1_111	RNASeq_stranded	transcript_region	495	500	1.0	+	.	
+ch.1_111	RNASeq_stranded	transcript_region	460	494	7.0	+	.	
+ch.1_111	RNASeq_reads	transcript_region	403	487	4.0	.	.	
+ch.1_111	WormBase	CDS	235	462	.	+	.	ID=CDS:C14F11.7;Parent=Transcript:C14F11.7.1
+ch.1_111	RNASeq_stranded	transcript_region	444	459	2.0	+	.	
+ch.1_111	RNASeq_stranded	transcript_region	441	443	4.0	+	.	
+ch.1_111	RNASeq_stranded	transcript_region	406	440	7.0	+	.	
+ch.1_111	RNASeq_stranded	transcript_region	332	405	4.0	+	.	
+ch.1_111	RNASeq_reads	transcript_region	263	402	7.0	.	.	
+ch.1_111	RNASeq_stranded	transcript_region	248	331	2.0	+	.	
+ch.1_111	RNASeq_reads	transcript_region	235	262	4.0	.	.	
+ch.1_111	RNASeq	transcription_end_site	260	260	.	-	.	
+ch.1_111	RNASeq_stranded	transcript_region	234	247	1.0	+	.	
+ch.1_111	RNASeq_R_asymmetry	transcript_region	235	239	15047.0	.	.	
+ch.1_111	RNASeq_reads	transcript_region	232	234	1.0	.	.	
+ch.1_111	WormBase	intron	187	234	.	+	.	Parent=Transcript:C14F11.7.1
+ch.1_111	RNASeq_splice	intron	187	234	18940.0	+	.	
+ch.1_111	RNASeq_R_asymmetry	transcript_region	222	231	857.0	.	.	
+ch.1_111	WormBase	CDS	166	186	.	+	.	ID=CDS:C14F11.7;Parent=Transcript:C14F11.7.1
+ch.1_111	RNASeq_R_asymmetry	transcript_region	164	186	14451.0	.	.	
+ch.1_111	RNASeq_reads	transcript_region	155	186	3.0	.	.	
+ch.1_111	WormBase	exon	101	186	.	+	.	Parent=Transcript:C14F11.7.1
+ch.1_111	RNASeq_stranded	transcript_region	155	182	1.0	+	.	
+ch.1_111	WormBase	five_prime_UTR	101	165	.	+	.	Parent=Transcript:C14F11.7.1

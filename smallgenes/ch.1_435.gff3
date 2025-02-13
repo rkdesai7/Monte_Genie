@@ -1,0 +1,61 @@
+ch.1_435	RNASeq_reads	transcript_region	3	100	1.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	92	104	1.0	+	.	
+ch.1_435	RNASeq_F_asymmetry	transcript_region	101	108	12354.0	.	.	
+ch.1_435	RNASeq_reads	transcript_region	101	109	3.0	.	.	
+ch.1_435	WormBase	five_prime_UTR	101	187	.	+	.	Parent=Transcript:F31D5.6.1
+ch.1_435	WormBase	exon	101	270	.	+	.	Parent=Transcript:F31D5.6.1
+ch.1_435	WormBase	gene	101	789	.	+	.	ID=Gene:WBGene00017949
+ch.1_435	WormBase	mRNA	101	789	.	+	.	ID=Transcript:F31D5.6.1;Parent=Gene:WBGene00017949
+ch.1_435	RNASeq_stranded	transcript_region	105	122	2.0	+	.	
+ch.1_435	RNASeq_F_asymmetry	transcript_region	109	115	19583.0	.	.	
+ch.1_435	RNASeq_reads	transcript_region	110	128	5.0	.	.	
+ch.1_435	RNASeq_F_asymmetry	transcript_region	116	183	30218.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	123	218	4.0	+	.	
+ch.1_435	RNASeq_reads	transcript_region	129	270	8.0	.	.	
+ch.1_435	WormBase	CDS	188	270	.	+	.	ID=CDS:F31D5.6;Parent=Transcript:F31D5.6.1
+ch.1_435	RNASeq_splice	intron	190	241	1362.0	+	.	
+ch.1_435	RNASeq_splice	intron	190	244	4.0	+	.	
+ch.1_435	RNASeq_splice	intron	190	357	7.0	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	219	243	2.0	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	244	267	4.0	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	268	270	2.0	+	.	
+ch.1_435	RNASeq_reads	transcript_region	271	271	1.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	271	271	1.0	+	.	
+ch.1_435	RNASeq_splice	intron	271	332	4.0	+	.	
+ch.1_435	WormBase	intron	271	357	.	+	.	Parent=Transcript:F31D5.6.1
+ch.1_435	RNASeq_splice	intron	271	357	42319.0	+	.	
+ch.1_435	RNASeq_splice	intron	292	357	272.0	+	.	
+ch.1_435	RNASeq_reads	transcript_region	357	357	1.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	357	357	1.0	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	358	376	3.0	+	.	
+ch.1_435	WormBase	CDS	358	451	.	+	.	ID=CDS:F31D5.6;Parent=Transcript:F31D5.6.1
+ch.1_435	RNASeq_reads	transcript_region	358	467	8.0	.	.	
+ch.1_435	WormBase	exon	358	789	.	+	.	Parent=Transcript:F31D5.6.1
+ch.1_435	RNASeq_stranded	transcript_region	377	430	5.0	+	.	
+ch.1_435	RNASeq	transcription_end_site	400	400	.	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	431	467	8.0	+	.	
+ch.1_435	WormBase	three_prime_UTR	452	789	.	+	.	Parent=Transcript:F31D5.6.1
+ch.1_435	RNASeq_reads	transcript_region	468	502	16.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	468	502	72.0	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	503	533	14.0	+	.	
+ch.1_435	RNASeq_reads	transcript_region	503	610	7.0	.	.	
+ch.1_435	RNASeq	transcription_end_site	521	521	.	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	534	626	9.0	+	.	
+ch.1_435	RNASeq_splice	intron	539	796	27.0	+	.	
+ch.1_435	RNASeq_reads	transcript_region	611	664	4.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	627	632	14.0	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	633	655	25.0	+	.	
+ch.1_435	RNASeq_F_asymmetry	transcript_region	647	647	22502.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	656	744	38.0	+	.	
+ch.1_435	RNASeq_reads	transcript_region	665	743	7.0	.	.	
+ch.1_435	RNASeq_F_asymmetry	transcript_region	676	704	26303.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	700	781	1.0	-	.	
+ch.1_435	RNASeq_reads	transcript_region	744	770	4.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	745	764	25.0	+	.	
+ch.1_435	RNASeq	transcription_end_site	762	762	.	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	765	775	16.0	+	.	
+ch.1_435	RNASeq_reads	transcript_region	771	781	2.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	776	781	10.0	+	.	
+ch.1_435	RNASeq_stranded	transcript_region	782	784	5.0	+	.	
+ch.1_435	RNASeq_reads	transcript_region	782	789	1.0	.	.	
+ch.1_435	RNASeq_stranded	transcript_region	785	789	3.0	+	.	

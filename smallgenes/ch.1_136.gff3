@@ -1,0 +1,39 @@
+ch.1_136	WormBase	CDS	101	232	.	+	.	ID=CDS:C45B2.3;Parent=Transcript:C45B2.3.1
+ch.1_136	WormBase	exon	101	232	.	+	.	Parent=Transcript:C45B2.3.1
+ch.1_136	WormBase	gene	101	553	.	+	.	ID=Gene:WBGene00016660
+ch.1_136	WormBase	mRNA	101	553	.	+	.	ID=Transcript:C45B2.3.1;Parent=Gene:WBGene00016660
+ch.1_136	RNASeq_F_asymmetry	transcript_region	106	106	554.0	.	.	
+ch.1_136	RNASeq_F_asymmetry	transcript_region	108	110	574.0	.	.	
+ch.1_136	RNASeq_F_asymmetry	transcript_region	114	116	786.0	.	.	
+ch.1_136	RNASeq_F_asymmetry	transcript_region	117	117	1217.0	.	.	
+ch.1_136	RNASeq_F_asymmetry	transcript_region	118	119	3608.0	.	.	
+ch.1_136	RNASeq_reads	transcript_region	118	120	1.0	.	.	
+ch.1_136	RNASeq_F_asymmetry	transcript_region	120	120	5657.0	.	.	
+ch.1_136	RNASeq_F_asymmetry	transcript_region	121	124	10038.0	.	.	
+ch.1_136	RNASeq_reads	transcript_region	121	128	2.0	.	.	
+ch.1_136	RNASeq_F_asymmetry	transcript_region	125	134	16578.0	.	.	
+ch.1_136	RNASeq_reads	transcript_region	129	153	4.0	.	.	
+ch.1_136	RNASeq_F_asymmetry	transcript_region	135	205	25175.0	.	.	
+ch.1_136	RNASeq_reads	transcript_region	154	211	7.0	.	.	
+ch.1_136	RNASeq_reads	transcript_region	212	216	12.0	.	.	
+ch.1_136	RNASeq_stranded	transcript_region	212	232	8.0	+	.	
+ch.1_136	RNASeq_reads	transcript_region	217	232	19.0	.	.	
+ch.1_136	WormBase	intron	233	282	.	+	.	Parent=Transcript:C45B2.3.1
+ch.1_136	RNASeq_splice	intron	233	282	30995.0	+	.	
+ch.1_136	RNASeq_splice	intron	233	303	5.0	+	.	
+ch.1_136	RNASeq_splice	intron	233	329	67.0	+	.	
+ch.1_136	RNASeq_reads	transcript_region	283	449	7.0	.	.	
+ch.1_136	WormBase	CDS	283	474	.	+	.	ID=CDS:C45B2.3;Parent=Transcript:C45B2.3.1
+ch.1_136	WormBase	exon	283	553	.	+	.	Parent=Transcript:C45B2.3.1
+ch.1_136	RNASeq_stranded	transcript_region	358	390	1.0	+	.	
+ch.1_136	RNASeq_R_asymmetry	transcript_region	384	433	34492.0	.	.	
+ch.1_136	RNASeq_R_asymmetry	transcript_region	434	458	22246.0	.	.	
+ch.1_136	RNASeq_reads	transcript_region	450	467	4.0	.	.	
+ch.1_136	RNASeq_R_asymmetry	transcript_region	459	466	14657.0	.	.	
+ch.1_136	RNASeq_reads	transcript_region	468	501	2.0	.	.	
+ch.1_136	WormBase	three_prime_UTR	475	553	.	+	.	Parent=Transcript:C45B2.3.1
+ch.1_136	RNASeq_R_asymmetry	transcript_region	485	524	7530.0	.	.	
+ch.1_136	RNASeq_reads	transcript_region	502	553	1.0	.	.	
+ch.1_136	RNASeq_R_asymmetry	transcript_region	525	546	4967.0	.	.	
+ch.1_136	RNASeq_R_asymmetry	transcript_region	547	553	3245.0	.	.	
+ch.1_136	RNASeq_R_asymmetry	transcript_region	554	554	111.0	.	.	

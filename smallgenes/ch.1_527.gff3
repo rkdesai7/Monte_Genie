@@ -1,0 +1,42 @@
+ch.1_527	RNASeq_stranded	transcript_region	814	876	1.0	+	.	
+ch.1_527	RNASeq_reads	transcript_region	807	817	1.0	.	.	
+ch.1_527	WormBase	three_prime_UTR	727	817	.	+	.	Parent=Transcript:R08B4.5.1
+ch.1_527	WormBase	exon	585	817	.	+	.	Parent=Transcript:R08B4.5.1
+ch.1_527	WormBase	gene	101	817	.	+	.	ID=Gene:WBGene00011141
+ch.1_527	WormBase	mRNA	101	817	.	+	.	ID=Transcript:R08B4.5.1;Parent=Gene:WBGene00011141
+ch.1_527	RNASeq_stranded	transcript_region	745	813	2.0	+	.	
+ch.1_527	RNASeq_reads	transcript_region	787	806	2.0	.	.	
+ch.1_527	RNASeq_reads	transcript_region	768	786	4.0	.	.	
+ch.1_527	RNASeq_F_asymmetry	transcript_region	770	771	23240.0	.	.	
+ch.1_527	RNASeq_reads	transcript_region	712	767	7.0	.	.	
+ch.1_527	RNASeq_stranded	transcript_region	677	744	4.0	+	.	
+ch.1_527	WormBase	CDS	585	726	.	+	.	ID=CDS:R08B4.5;Parent=Transcript:R08B4.5.1
+ch.1_527	RNASeq_reads	transcript_region	585	711	11.0	.	.	
+ch.1_527	RNASeq_stranded	transcript_region	652	676	2.0	+	.	
+ch.1_527	RNASeq_stranded	transcript_region	585	651	1.0	+	.	
+ch.1_527	RNASeq_reads	transcript_region	583	584	1.0	.	.	
+ch.1_527	RNASeq_splice	intron	484	584	62.0	+	.	
+ch.1_527	WormBase	intron	363	584	.	+	.	Parent=Transcript:R08B4.5.1
+ch.1_527	RNASeq_splice	intron	363	584	52848.0	+	.	
+ch.1_527	RNASeq_stranded	transcript_region	303	362	1.0	+	.	
+ch.1_527	WormBase	CDS	211	362	.	+	.	ID=CDS:R08B4.5;Parent=Transcript:R08B4.5.1
+ch.1_527	RNASeq_reads	transcript_region	185	362	11.0	.	.	
+ch.1_527	WormBase	exon	101	362	.	+	.	Parent=Transcript:R08B4.5.1
+ch.1_527	RNASeq_stranded	transcript_region	295	302	2.0	+	.	
+ch.1_527	RNASeq_stranded	transcript_region	288	294	1.0	+	.	
+ch.1_527	RNASeq_stranded	transcript_region	286	287	2.0	+	.	
+ch.1_527	RNASeq_stranded	transcript_region	284	285	1.0	+	.	
+ch.1_527	RNASeq_stranded	transcript_region	283	283	2.0	-	.	
+ch.1_527	RNASeq_stranded	transcript_region	231	282	1.0	+	.	
+ch.1_527	RNASeq_stranded	transcript_region	180	230	2.0	+	.	
+ch.1_527	RNASeq_R_asymmetry	transcript_region	183	228	44342.0	.	.	
+ch.1_527	WormBase	five_prime_UTR	101	210	.	+	.	Parent=Transcript:R08B4.5.1
+ch.1_527	RNASeq_reads	transcript_region	178	184	7.0	.	.	
+ch.1_527	RNASeq_R_asymmetry	transcript_region	178	182	27745.0	.	.	
+ch.1_527	RNASeq_stranded	transcript_region	164	179	1.0	+	.	
+ch.1_527	RNASeq_R_asymmetry	transcript_region	164	177	17308.0	.	.	
+ch.1_527	RNASeq_reads	transcript_region	163	177	4.0	.	.	
+ch.1_527	RNASeq_R_asymmetry	transcript_region	161	163	11342.0	.	.	
+ch.1_527	RNASeq_reads	transcript_region	161	162	2.0	.	.	
+ch.1_527	RNASeq_reads	transcript_region	135	160	1.0	.	.	
+ch.1_527	RNASeq_R_asymmetry	transcript_region	156	159	4918.0	.	.	

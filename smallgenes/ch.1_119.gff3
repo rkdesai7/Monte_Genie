@@ -1,0 +1,27 @@
+ch.1_119	RNASeq_splice	intron	14	435	3.0	-	.	
+ch.1_119	WormBase	three_prime_UTR	378	410	.	+	.	Parent=Transcript:C39B5.10.1
+ch.1_119	WormBase	exon	224	410	.	+	.	Parent=Transcript:C39B5.10.1
+ch.1_119	WormBase	gene	101	410	.	+	.	ID=Gene:WBGene00016528
+ch.1_119	WormBase	mRNA	101	410	.	+	.	ID=Transcript:C39B5.10.1;Parent=Gene:WBGene00016528
+ch.1_119	WormBase	CDS	224	377	.	+	.	ID=CDS:C39B5.10;Parent=Transcript:C39B5.10.1
+ch.1_119	RNASeq_reads	transcript_region	359	375	1.0	.	.	
+ch.1_119	RNASeq_F_asymmetry	transcript_region	363	368	3411.0	.	.	
+ch.1_119	RNASeq_F_asymmetry	transcript_region	343	362	5855.0	.	.	
+ch.1_119	RNASeq_reads	transcript_region	313	358	2.0	.	.	
+ch.1_119	RNASeq_F_asymmetry	transcript_region	298	313	14058.0	.	.	
+ch.1_119	RNASeq_reads	transcript_region	243	312	4.0	.	.	
+ch.1_119	RNASeq_F_asymmetry	transcript_region	294	294	16650.0	.	.	
+ch.1_119	RNASeq_F_asymmetry	transcript_region	281	291	17155.0	.	.	
+ch.1_119	RNASeq_reads	transcript_region	224	242	7.0	.	.	
+ch.1_119	WormBase	intron	179	223	.	+	.	Parent=Transcript:C39B5.10.1
+ch.1_119	RNASeq_splice	intron	179	223	21612.0	+	.	
+ch.1_119	RNASeq_reads	transcript_region	153	178	5.0	.	.	
+ch.1_119	WormBase	CDS	141	178	.	+	.	ID=CDS:C39B5.10;Parent=Transcript:C39B5.10.1
+ch.1_119	WormBase	exon	101	178	.	+	.	Parent=Transcript:C39B5.10.1
+ch.1_119	RNASeq_reads	transcript_region	120	152	3.0	.	.	
+ch.1_119	RNASeq_R_asymmetry	transcript_region	120	145	9521.0	.	.	
+ch.1_119	WormBase	five_prime_UTR	101	140	.	+	.	Parent=Transcript:C39B5.10.1
+ch.1_119	RNASeq_reads	transcript_region	103	119	1.0	.	.	
+ch.1_119	RNASeq_splice	intron	52	102	19.0	+	.	
+ch.1_119	RNASeq_splice	intron	35	102	3814.0	+	.	
+ch.1_119	RNASeq_splice	intron	32	100	4.0	-	.	

@@ -1,0 +1,51 @@
+ch.3_7	WormBase	CDS	669	718	.	+	.	ID=CDS:K02D10.3;Parent=Transcript:K02D10.3.1
+ch.3_7	WormBase	exon	669	718	.	+	.	Parent=Transcript:K02D10.3.1
+ch.3_7	WormBase	gene	101	718	.	+	.	ID=Gene:WBGene00019303
+ch.3_7	WormBase	mRNA	101	718	.	+	.	ID=Transcript:K02D10.3.1;Parent=Gene:WBGene00019303
+ch.3_7	RNASeq_stranded	transcript_region	669	712	1.0	+	.	
+ch.3_7	RNASeq_reads	transcript_region	620	668	1.0	.	.	
+ch.3_7	RNASeq_splice	intron	620	668	6375.0	+	.	
+ch.3_7	WormBase	intron	457	668	.	+	.	Parent=Transcript:K02D10.3.1
+ch.3_7	RNASeq_splice	intron	457	668	10.0	+	.	
+ch.3_7	RNASeq_splice	intron	620	655	22.0	+	.	
+ch.3_7	RNASeq_splice	intron	10	655	3.0	+	.	
+ch.3_7	RNASeq_reads	transcript_region	604	619	2.0	.	.	
+ch.3_7	RNASeq_stranded	transcript_region	547	619	1.0	+	.	
+ch.3_7	RNASeq_reads	transcript_region	547	603	4.0	.	.	
+ch.3_7	RNASeq_stranded	transcript_region	557	586	1.0	-	.	
+ch.3_7	RNASeq	transcription_end_site	557	557	.	-	.	
+ch.3_7	RNASeq_splice	intron	457	546	6531.0	+	.	
+ch.3_7	RNASeq_reads	transcript_region	448	546	2.0	.	.	
+ch.3_7	RNASeq	transcription_end_site	538	538	.	-	.	
+ch.3_7	RNASeq	transcription_end_site	531	531	.	-	.	
+ch.3_7	RNASeq	transcription_end_site	526	526	.	-	.	
+ch.3_7	RNASeq_stranded	transcript_region	443	456	1.0	+	.	
+ch.3_7	WormBase	CDS	348	456	.	+	.	ID=CDS:K02D10.3;Parent=Transcript:K02D10.3.1
+ch.3_7	WormBase	exon	348	456	.	+	.	Parent=Transcript:K02D10.3.1
+ch.3_7	RNASeq_reads	transcript_region	348	447	4.0	.	.	
+ch.3_7	RNASeq_stranded	transcript_region	440	441	1.0	+	.	
+ch.3_7	RNASeq_stranded	transcript_region	325	437	1.0	-	.	
+ch.3_7	RNASeq_stranded	transcript_region	402	402	1.0	-	.	
+ch.3_7	RNASeq_stranded	transcript_region	348	400	1.0	+	.	
+ch.3_7	RNASeq_splice	intron	305	352	50.0	+	.	
+ch.3_7	WormBase	intron	305	347	.	+	.	Parent=Transcript:K02D10.3.1
+ch.3_7	RNASeq_reads	transcript_region	305	347	2.0	.	.	
+ch.3_7	RNASeq_splice	intron	305	347	10192.0	+	.	
+ch.3_7	RNASeq_splice	intron	302	347	8.0	+	.	
+ch.3_7	WormBase	CDS	200	304	.	+	.	ID=CDS:K02D10.3;Parent=Transcript:K02D10.3.1
+ch.3_7	WormBase	exon	200	304	.	+	.	Parent=Transcript:K02D10.3.1
+ch.3_7	RNASeq_reads	transcript_region	200	304	4.0	.	.	
+ch.3_7	RNASeq_stranded	transcript_region	300	302	1.0	-	.	
+ch.3_7	RNASeq_stranded	transcript_region	296	298	1.0	+	.	
+ch.3_7	RNASeq_splice	intron	234	278	4.0	-	.	
+ch.3_7	RNASeq_stranded	transcript_region	257	272	1.0	-	.	
+ch.3_7	RNASeq	transcription_end_site	201	201	.	-	.	
+ch.3_7	RNASeq	transcription_end_site	201	201	.	-	.	
+ch.3_7	WormBase	intron	155	199	.	+	.	Parent=Transcript:K02D10.3.1
+ch.3_7	RNASeq_splice	intron	155	199	7457.0	+	.	
+ch.3_7	RNASeq_reads	transcript_region	23	199	2.0	.	.	
+ch.3_7	RNASeq_stranded	transcript_region	164	197	1.0	-	.	
+ch.3_7	WormBase	CDS	101	154	.	+	.	ID=CDS:K02D10.3;Parent=Transcript:K02D10.3.1
+ch.3_7	WormBase	exon	101	154	.	+	.	Parent=Transcript:K02D10.3.1
+ch.3_7	RNASeq_stranded	transcript_region	111	114	1.0	-	.	
+ch.3_7	RNASeq_stranded	transcript_region	95	103	1.0	-	.	

@@ -1,0 +1,75 @@
+ch.2_96	RNASeq_F_asymmetry	transcript_region	767	767	1455.0	.	.	
+ch.2_96	RNASeq_splice	intron	684	742	31.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	614	724	1.0	.	.	
+ch.2_96	RNASeq_F_asymmetry	transcript_region	699	708	5285.0	.	.	
+ch.2_96	WormBase	three_prime_UTR	561	668	.	+	.	Parent=Transcript:T24B8.5.1
+ch.2_96	WormBase	exon	497	668	.	+	.	Parent=Transcript:T24B8.5.1
+ch.2_96	WormBase	gene	101	668	.	+	.	ID=Gene:WBGene00011979
+ch.2_96	WormBase	mRNA	101	668	.	+	.	ID=Transcript:T24B8.5.1;Parent=Gene:WBGene00011979
+ch.2_96	RNASeq_splice	intron	285	647	7.0	+	.	
+ch.2_96	RNASeq	transcription_end_site	616	616	.	-	.	
+ch.2_96	RNASeq	transcription_end_site	616	616	.	-	.	
+ch.2_96	RNASeq_reads	transcript_region	609	613	2.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	609	613	1.0	+	.	
+ch.2_96	RNASeq_F_asymmetry	transcript_region	609	609	7816.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	605	608	3.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	602	608	4.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	601	604	5.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	591	601	7.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	591	600	8.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	585	590	11.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	582	590	13.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	581	584	17.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	559	581	28.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	574	580	26.0	.	.	
+ch.2_96	RNASeq_F_asymmetry	transcript_region	567	573	220825.0	.	.	
+ch.2_96	RNASeq_reads	transcript_region	565	573	52.0	.	.	
+ch.2_96	RNASeq_F_asymmetry	transcript_region	522	566	335305.0	.	.	
+ch.2_96	RNASeq_reads	transcript_region	526	564	81.0	.	.	
+ch.2_96	WormBase	CDS	497	560	.	+	.	ID=CDS:T24B8.5;Parent=Transcript:T24B8.5.1
+ch.2_96	RNASeq_stranded	transcript_region	497	558	43.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	497	525	124.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	497	516	1.0	-	.	
+ch.2_96	RNASeq_F_asymmetry	transcript_region	511	514	545273.0	.	.	
+ch.2_96	RNASeq_reads	transcript_region	494	496	1.0	.	.	
+ch.2_96	WormBase	intron	450	496	.	+	.	Parent=Transcript:T24B8.5.1
+ch.2_96	RNASeq_splice	intron	450	496	825411.0	+	.	
+ch.2_96	RNASeq_splice	intron	285	496	17.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	450	450	1.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	423	449	53.0	+	.	
+ch.2_96	RNASeq_stranded	transcript_region	410	449	1.0	-	.	
+ch.2_96	WormBase	CDS	336	449	.	+	.	ID=CDS:T24B8.5;Parent=Transcript:T24B8.5.1
+ch.2_96	WormBase	exon	336	449	.	+	.	Parent=Transcript:T24B8.5.1
+ch.2_96	RNASeq_reads	transcript_region	336	449	156.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	398	422	34.0	+	.	
+ch.2_96	RNASeq_splice	intron	285	422	4.0	+	.	
+ch.2_96	RNASeq_splice	intron	246	410	13.0	-	.	
+ch.2_96	RNASeq_stranded	transcript_region	384	397	22.0	+	.	
+ch.2_96	RNASeq_stranded	transcript_region	336	383	14.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	334	335	19.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	334	335	3.0	+	.	
+ch.2_96	WormBase	intron	285	335	.	+	.	Parent=Transcript:T24B8.5.1
+ch.2_96	RNASeq_splice	intron	285	335	628528.0	+	.	
+ch.2_96	RNASeq_reads	transcript_region	190	284	114.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	171	284	12.0	+	.	
+ch.2_96	WormBase	CDS	163	284	.	+	.	ID=CDS:T24B8.5;Parent=Transcript:T24B8.5.1
+ch.2_96	WormBase	exon	101	284	.	+	.	Parent=Transcript:T24B8.5.1
+ch.2_96	RNASeq_R_asymmetry	transcript_region	182	237	462027.0	.	.	
+ch.2_96	RNASeq_reads	transcript_region	176	189	75.0	.	.	
+ch.2_96	RNASeq_R_asymmetry	transcript_region	175	181	304051.0	.	.	
+ch.2_96	RNASeq_reads	transcript_region	173	175	46.0	.	.	
+ch.2_96	RNASeq_R_asymmetry	transcript_region	170	174	155379.0	.	.	
+ch.2_96	RNASeq_reads	transcript_region	167	172	30.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	164	170	7.0	+	.	
+ch.2_96	RNASeq_R_asymmetry	transcript_region	165	169	98790.0	.	.	
+ch.2_96	RNASeq_reads	transcript_region	158	166	18.0	.	.	
+ch.2_96	RNASeq_R_asymmetry	transcript_region	154	164	61155.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	158	163	4.0	+	.	
+ch.2_96	WormBase	five_prime_UTR	101	162	.	+	.	Parent=Transcript:T24B8.5.1
+ch.2_96	RNASeq_stranded	transcript_region	157	157	2.0	-	.	
+ch.2_96	RNASeq_reads	transcript_region	154	157	10.0	.	.	
+ch.2_96	RNASeq_stranded	transcript_region	154	156	1.0	+	.	
+ch.2_96	RNASeq_R_asymmetry	transcript_region	152	153	28962.0	.	.	
+ch.2_96	RNASeq_reads	transcript_region	152	153	6.0	.	.	
+ch.2_96	RNASeq_reads	transcript_region	150	151	1.0	.	.	
+ch.2_96	RNASeq_splice	intron	56	102	105.0	+	.	

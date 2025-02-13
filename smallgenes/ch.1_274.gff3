@@ -1,0 +1,38 @@
+ch.1_274	WormBase	five_prime_UTR	101	200	.	+	.	Parent=Transcript:B0034.7.1
+ch.1_274	WormBase	exon	101	269	.	+	.	Parent=Transcript:B0034.7.1
+ch.1_274	WormBase	gene	101	559	.	+	.	ID=Gene:WBGene00044394
+ch.1_274	WormBase	mRNA	101	559	.	+	.	ID=Transcript:B0034.7.1;Parent=Gene:WBGene00044394
+ch.1_274	RNASeq_reads	transcript_region	161	166	2.0	.	.	
+ch.1_274	RNASeq_F_asymmetry	transcript_region	162	166	8615.0	.	.	
+ch.1_274	RNASeq_F_asymmetry	transcript_region	167	174	15822.0	.	.	
+ch.1_274	RNASeq_reads	transcript_region	167	192	4.0	.	.	
+ch.1_274	RNASeq_stranded	transcript_region	172	202	1.0	+	.	
+ch.1_274	RNASeq_F_asymmetry	transcript_region	175	233	24199.0	.	.	
+ch.1_274	RNASeq_reads	transcript_region	193	269	7.0	.	.	
+ch.1_274	WormBase	CDS	201	269	.	+	.	ID=CDS:B0034.7;Parent=Transcript:B0034.7.1
+ch.1_274	RNASeq_stranded	transcript_region	203	242	2.0	+	.	
+ch.1_274	RNASeq_F_asymmetry	transcript_region	234	251	36647.0	.	.	
+ch.1_274	RNASeq_stranded	transcript_region	243	269	4.0	+	.	
+ch.1_274	WormBase	intron	270	316	.	+	.	Parent=Transcript:B0034.7.1
+ch.1_274	RNASeq_reads	transcript_region	270	316	1.0	.	.	
+ch.1_274	RNASeq_splice	intron	270	316	45938.0	+	.	
+ch.1_274	RNASeq_splice	intron	270	326	6.0	+	.	
+ch.1_274	RNASeq_stranded	transcript_region	317	352	3.0	+	.	
+ch.1_274	RNASeq_reads	transcript_region	317	469	8.0	.	.	
+ch.1_274	WormBase	CDS	317	484	.	+	.	ID=CDS:B0034.7;Parent=Transcript:B0034.7.1
+ch.1_274	WormBase	exon	317	559	.	+	.	Parent=Transcript:B0034.7.1
+ch.1_274	RNASeq_stranded	transcript_region	353	390	1.0	+	.	
+ch.1_274	RNASeq_stranded	transcript_region	391	501	2.0	+	.	
+ch.1_274	RNASeq_R_asymmetry	transcript_region	395	399	39775.0	.	.	
+ch.1_274	RNASeq	transcription_end_site	401	401	.	+	.	
+ch.1_274	RNASeq_R_asymmetry	transcript_region	401	402	37026.0	.	.	
+ch.1_274	RNASeq_R_asymmetry	transcript_region	406	466	36109.0	.	.	
+ch.1_274	RNASeq_R_asymmetry	transcript_region	467	473	23370.0	.	.	
+ch.1_274	RNASeq_reads	transcript_region	470	478	5.0	.	.	
+ch.1_274	RNASeq_reads	transcript_region	479	534	3.0	.	.	
+ch.1_274	WormBase	three_prime_UTR	485	559	.	+	.	Parent=Transcript:B0034.7.1
+ch.1_274	RNASeq_stranded	transcript_region	495	574	1.0	-	.	
+ch.1_274	RNASeq_stranded	transcript_region	502	540	1.0	+	.	
+ch.1_274	RNASeq_reads	transcript_region	535	572	1.0	.	.	
+ch.1_274	RNASeq	transcription_end_site	544	544	.	+	.	
+ch.1_274	RNASeq_stranded	transcript_region	583	590	1.0	-	.	

@@ -1,0 +1,43 @@
+ch.1_417	RNASeq_stranded	transcript_region	27	27	1.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	29	33	1.0	+	.	
+ch.1_417	RNASeq_splice	intron	80	156	59.0	+	.	
+ch.1_417	WormBase	five_prime_UTR	101	162	.	+	.	Parent=Transcript:Y39A1A.27.1
+ch.1_417	WormBase	exon	101	231	.	+	.	Parent=Transcript:Y39A1A.27.1
+ch.1_417	WormBase	gene	101	873	.	+	.	ID=Gene:WBGene00194731
+ch.1_417	WormBase	mRNA	101	873	.	+	.	ID=Transcript:Y39A1A.27.1;Parent=Gene:WBGene00194731
+ch.1_417	RNASeq_stranded	transcript_region	121	128	1.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	130	168	1.0	+	.	
+ch.1_417	RNASeq_reads	transcript_region	157	196	2.0	.	.	
+ch.1_417	WormBase	CDS	163	231	.	+	.	ID=CDS:Y39A1A.27;Parent=Transcript:Y39A1A.27.1
+ch.1_417	RNASeq_F_asymmetry	transcript_region	166	173	7575.0	.	.	
+ch.1_417	RNASeq_stranded	transcript_region	169	197	2.0	+	.	
+ch.1_417	RNASeq_F_asymmetry	transcript_region	174	183	11377.0	.	.	
+ch.1_417	RNASeq_reads	transcript_region	197	231	4.0	.	.	
+ch.1_417	RNASeq_stranded	transcript_region	198	200	1.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	201	203	2.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	204	217	1.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	218	219	2.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	220	220	1.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	221	221	2.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	222	231	1.0	+	.	
+ch.1_417	WormBase	intron	232	645	.	+	.	Parent=Transcript:Y39A1A.27.1
+ch.1_417	RNASeq_splice	intron	232	645	56582.0	+	.	
+ch.1_417	RNASeq_reads	transcript_region	644	645	1.0	.	.	
+ch.1_417	RNASeq_stranded	transcript_region	644	645	1.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	646	690	2.0	+	.	
+ch.1_417	RNASeq_reads	transcript_region	646	802	4.0	.	.	
+ch.1_417	WormBase	CDS	646	831	.	+	.	ID=CDS:Y39A1A.27;Parent=Transcript:Y39A1A.27.1
+ch.1_417	WormBase	exon	646	873	.	+	.	Parent=Transcript:Y39A1A.27.1
+ch.1_417	RNASeq_stranded	transcript_region	691	709	4.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	710	744	7.0	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	745	828	11.0	+	.	
+ch.1_417	RNASeq	transcription_end_site	783	783	.	+	.	
+ch.1_417	RNASeq_reads	transcript_region	803	831	2.0	.	.	
+ch.1_417	RNASeq_stranded	transcript_region	829	843	7.0	+	.	
+ch.1_417	RNASeq_reads	transcript_region	832	868	1.0	.	.	
+ch.1_417	WormBase	three_prime_UTR	832	873	.	+	.	Parent=Transcript:Y39A1A.27.1
+ch.1_417	RNASeq_stranded	transcript_region	844	853	4.0	+	.	
+ch.1_417	RNASeq	transcription_end_site	849	849	.	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	854	867	2.0	+	.	
+ch.1_417	RNASeq	transcription_end_site	867	867	.	+	.	
+ch.1_417	RNASeq_stranded	transcript_region	868	873	1.0	+	.	

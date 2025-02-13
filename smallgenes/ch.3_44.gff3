@@ -1,0 +1,100 @@
+ch.3_44	RNASeq	transcription_end_site	3	3	.	+	.	
+ch.3_44	RNASeq	transcription_end_site	4	4	.	+	.	
+ch.3_44	RNASeq_F_asymmetry	transcript_region	39	45	1374.0	.	.	
+ch.3_44	RNASeq_F_asymmetry	transcript_region	46	87	2135.0	.	.	
+ch.3_44	RNASeq_reads	transcript_region	48	100	1.0	.	.	
+ch.3_44	RNASeq_F_asymmetry	transcript_region	88	100	3239.0	.	.	
+ch.3_44	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:ZK616.3a.1
+ch.3_44	RNASeq_F_asymmetry	transcript_region	101	107	62265.0	.	.	
+ch.3_44	RNASeq_reads	transcript_region	101	107	12.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	101	129	4.0	+	.	
+ch.3_44	WormBase	exon	101	243	.	+	.	Parent=Transcript:ZK616.3a.1
+ch.3_44	WormBase	gene	101	783	.	+	.	ID=Gene:WBGene00022773
+ch.3_44	WormBase	mRNA	101	783	.	+	.	ID=Transcript:ZK616.3a.1;Parent=Gene:WBGene00022773
+ch.3_44	WormBase	CDS	102	243	.	+	.	ID=CDS:ZK616.3a;Parent=Transcript:ZK616.3a.1
+ch.3_44	RNASeq_reads	transcript_region	108	130	19.0	.	.	
+ch.3_44	RNASeq_F_asymmetry	transcript_region	108	142	95311.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	130	157	7.0	+	.	
+ch.3_44	RNASeq_reads	transcript_region	131	243	29.0	.	.	
+ch.3_44	RNASeq_F_asymmetry	transcript_region	143	168	145518.0	.	.	
+ch.3_44	RNASeq_splice	intron	153	292	9.0	+	.	
+ch.3_44	RNASeq_splice	intron	153	307	6.0	+	.	
+ch.3_44	RNASeq_splice	intron	153	466	19.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	158	207	11.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	208	243	7.0	+	.	
+ch.3_44	RNASeq_reads	transcript_region	244	244	5.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	244	244	2.0	+	.	
+ch.3_44	WormBase	intron	244	292	.	+	.	Parent=Transcript:ZK616.3a.1
+ch.3_44	RNASeq_splice	intron	244	292	159787.0	+	.	
+ch.3_44	RNASeq_reads	transcript_region	292	292	5.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	292	292	1.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	293	332	7.0	+	.	
+ch.3_44	WormBase	CDS	293	365	.	+	.	ID=CDS:ZK616.3a;Parent=Transcript:ZK616.3a.1
+ch.3_44	WormBase	exon	293	365	.	+	.	Parent=Transcript:ZK616.3a.1
+ch.3_44	RNASeq_reads	transcript_region	293	365	31.0	.	.	
+ch.3_44	RNASeq_splice	intron	329	522	11.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	333	336	11.0	+	.	
+ch.3_44	RNASeq_splice	intron	335	466	976.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	337	365	17.0	+	.	
+ch.3_44	RNASeq_splice	intron	344	466	118.0	+	.	
+ch.3_44	RNASeq_splice	intron	355	466	548.0	+	.	
+ch.3_44	RNASeq_splice	intron	365	466	3.0	+	.	
+ch.3_44	RNASeq_reads	transcript_region	366	367	6.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	366	367	5.0	+	.	
+ch.3_44	WormBase	intron	366	466	.	+	.	Parent=Transcript:ZK616.3a.1
+ch.3_44	RNASeq_splice	intron	366	466	185926.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	368	414	1.0	+	.	
+ch.3_44	RNASeq_reads	transcript_region	368	464	1.0	.	.	
+ch.3_44	RNASeq_splice	intron	401	466	3.0	+	.	
+ch.3_44	RNASeq_splice	intron	416	466	221.0	+	.	
+ch.3_44	RNASeq_reads	transcript_region	465	466	7.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	465	466	3.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	467	502	21.0	+	.	
+ch.3_44	WormBase	CDS	467	585	.	+	.	ID=CDS:ZK616.3a;Parent=Transcript:ZK616.3a.1
+ch.3_44	WormBase	exon	467	585	.	+	.	Parent=Transcript:ZK616.3a.1
+ch.3_44	RNASeq_reads	transcript_region	467	585	37.0	.	.	
+ch.3_44	WormBase	CDS	501	585	.	+	.	ID=CDS:ZK616.3b;Parent=Transcript:ZK616.3b.1
+ch.3_44	WormBase	exon	501	585	.	+	.	Parent=Transcript:ZK616.3b.1
+ch.3_44	WormBase	mRNA	501	708	.	+	.	ID=Transcript:ZK616.3b.1;Parent=Gene:WBGene00022773
+ch.3_44	RNASeq_stranded	transcript_region	503	507	13.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	508	546	8.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	547	571	13.0	+	.	
+ch.3_44	RNASeq_stranded	transcript_region	572	585	20.0	+	.	
+ch.3_44	RNASeq_R_asymmetry	transcript_region	583	583	140538.0	.	.	
+ch.3_44	RNASeq_splice	intron	583	637	23.0	+	.	
+ch.3_44	WormBase	intron	586	637	.	+	.	Parent=Transcript:ZK616.3a.1
+ch.3_44	WormBase	intron	586	637	.	+	.	Parent=Transcript:ZK616.3b.1
+ch.3_44	RNASeq_splice	intron	586	637	183576.0	+	.	
+ch.3_44	RNASeq_splice	intron	590	637	201.0	+	.	
+ch.3_44	RNASeq_reads	transcript_region	637	637	3.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	637	637	8.0	+	.	
+ch.3_44	RNASeq_reads	transcript_region	638	675	33.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	638	701	27.0	+	.	
+ch.3_44	WormBase	CDS	638	708	.	+	.	ID=CDS:ZK616.3a;Parent=Transcript:ZK616.3a.1
+ch.3_44	WormBase	CDS	638	708	.	+	.	ID=CDS:ZK616.3b;Parent=Transcript:ZK616.3b.1
+ch.3_44	WormBase	exon	638	708	.	+	.	Parent=Transcript:ZK616.3b.1
+ch.3_44	WormBase	exon	638	783	.	+	.	Parent=Transcript:ZK616.3a.1
+ch.3_44	RNASeq_reads	transcript_region	676	685	21.0	.	.	
+ch.3_44	RNASeq_reads	transcript_region	686	729	13.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	702	709	17.0	+	.	
+ch.3_44	RNASeq	transcription_end_site	707	707	.	+	.	
+ch.3_44	WormBase	three_prime_UTR	709	783	.	+	.	Parent=Transcript:ZK616.3a.1
+ch.3_44	RNASeq_stranded	transcript_region	710	718	11.0	+	.	
+ch.3_44	RNASeq_R_asymmetry	transcript_region	718	752	36323.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	719	759	7.0	+	.	
+ch.3_44	RNASeq	transcription_end_site	722	722	.	+	.	
+ch.3_44	RNASeq_reads	transcript_region	730	752	8.0	.	.	
+ch.3_44	RNASeq_R_asymmetry	transcript_region	753	757	22433.0	.	.	
+ch.3_44	RNASeq_reads	transcript_region	753	758	5.0	.	.	
+ch.3_44	RNASeq_R_asymmetry	transcript_region	758	761	14371.0	.	.	
+ch.3_44	RNASeq_reads	transcript_region	759	778	3.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	760	777	4.0	+	.	
+ch.3_44	RNASeq_R_asymmetry	transcript_region	777	778	7016.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	778	783	2.0	+	.	
+ch.3_44	RNASeq	transcription_end_site	779	779	.	+	.	
+ch.3_44	RNASeq_reads	transcript_region	779	783	1.0	.	.	
+ch.3_44	RNASeq_R_asymmetry	transcript_region	780	780	5563.0	.	.	
+ch.3_44	RNASeq_F_asymmetry	transcript_region	865	868	1149.0	.	.	
+ch.3_44	RNASeq_reads	transcript_region	869	874	5.0	.	.	
+ch.3_44	RNASeq_stranded	transcript_region	869	876	1.0	+	.	
+ch.3_44	RNASeq_F_asymmetry	transcript_region	869	878	26576.0	.	.	

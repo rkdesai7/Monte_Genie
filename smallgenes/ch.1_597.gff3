@@ -1,0 +1,62 @@
+ch.1_597	WormBase	three_prime_UTR	771	1071	.	+	.	Parent=Transcript:H17B01.5.1
+ch.1_597	WormBase	exon	633	1071	.	+	.	Parent=Transcript:H17B01.5.1
+ch.1_597	WormBase	gene	101	1071	.	+	.	ID=Gene:WBGene00044643
+ch.1_597	WormBase	mRNA	101	1071	.	+	.	ID=Transcript:H17B01.5.1;Parent=Gene:WBGene00044643
+ch.1_597	RNASeq_reads	transcript_region	1046	1064	1.0	.	.	
+ch.1_597	RNASeq_F_asymmetry	transcript_region	1040	1050	4726.0	.	.	
+ch.1_597	RNASeq_stranded	transcript_region	970	1048	1.0	+	.	
+ch.1_597	RNASeq	transcription_end_site	1047	1047	.	-	.	
+ch.1_597	RNASeq	transcription_end_site	1047	1047	.	-	.	
+ch.1_597	RNASeq_reads	transcript_region	990	1045	2.0	.	.	
+ch.1_597	RNASeq_F_asymmetry	transcript_region	1016	1039	7152.0	.	.	
+ch.1_597	RNASeq_F_asymmetry	transcript_region	988	1015	11228.0	.	.	
+ch.1_597	RNASeq_reads	transcript_region	904	989	4.0	.	.	
+ch.1_597	RNASeq_F_asymmetry	transcript_region	955	987	16863.0	.	.	
+ch.1_597	RNASeq_stranded	transcript_region	969	969	2.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	957	968	1.0	+	.	
+ch.1_597	RNASeq_stranded	transcript_region	956	956	2.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	955	955	1.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	954	954	2.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	953	953	1.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	947	952	2.0	+	.	
+ch.1_597	RNASeq	transcription_end_site	948	948	.	-	.	
+ch.1_597	RNASeq_F_asymmetry	transcript_region	920	946	20350.0	.	.	
+ch.1_597	RNASeq_stranded	transcript_region	918	946	1.0	+	.	
+ch.1_597	RNASeq_stranded	transcript_region	917	917	2.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	914	916	1.0	+	.	
+ch.1_597	RNASeq_stranded	transcript_region	907	913	2.0	+	.	
+ch.1_597	RNASeq	transcription_end_site	908	908	.	-	.	
+ch.1_597	RNASeq	transcription_end_site	908	908	.	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	906	906	1.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	905	905	2.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	904	904	1.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	858	903	2.0	+	.	
+ch.1_597	RNASeq_reads	transcript_region	768	903	7.0	.	.	
+ch.1_597	RNASeq	transcription_end_site	890	890	.	-	.	
+ch.1_597	RNASeq	transcription_end_site	890	890	.	-	.	
+ch.1_597	RNASeq	transcription_end_site	884	884	.	-	.	
+ch.1_597	RNASeq	transcription_end_site	884	884	.	-	.	
+ch.1_597	RNASeq	transcription_end_site	877	877	.	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	830	857	1.0	+	.	
+ch.1_597	RNASeq_stranded	transcript_region	718	805	1.0	+	.	
+ch.1_597	WormBase	CDS	633	770	.	+	.	ID=CDS:H17B01.5;Parent=Transcript:H17B01.5.1
+ch.1_597	RNASeq_reads	transcript_region	633	767	11.0	.	.	
+ch.1_597	RNASeq_stranded	transcript_region	717	717	2.0	-	.	
+ch.1_597	RNASeq_stranded	transcript_region	633	716	1.0	+	.	
+ch.1_597	RNASeq_reads	transcript_region	630	632	2.0	.	.	
+ch.1_597	WormBase	intron	271	632	.	+	.	Parent=Transcript:H17B01.5.1
+ch.1_597	RNASeq_splice	intron	271	632	54229.0	+	.	
+ch.1_597	RNASeq_reads	transcript_region	625	629	1.0	.	.	
+ch.1_597	RNASeq_splice	intron	264	626	16.0	-	.	
+ch.1_597	RNASeq_splice	intron	271	604	13.0	+	.	
+ch.1_597	RNASeq_reads	transcript_region	128	270	10.0	.	.	
+ch.1_597	WormBase	CDS	127	270	.	+	.	ID=CDS:H17B01.5;Parent=Transcript:H17B01.5.1
+ch.1_597	WormBase	exon	101	270	.	+	.	Parent=Transcript:H17B01.5.1
+ch.1_597	RNASeq_stranded	transcript_region	138	187	1.0	+	.	
+ch.1_597	RNASeq_R_asymmetry	transcript_region	113	168	36243.0	.	.	
+ch.1_597	RNASeq_reads	transcript_region	107	127	6.0	.	.	
+ch.1_597	WormBase	five_prime_UTR	101	126	.	+	.	Parent=Transcript:H17B01.5.1
+ch.1_597	RNASeq_R_asymmetry	transcript_region	106	112	23816.0	.	.	
+ch.1_597	RNASeq_reads	transcript_region	95	106	3.0	.	.	
+ch.1_597	RNASeq_R_asymmetry	transcript_region	99	105	15268.0	.	.	
+ch.1_597	RNASeq_R_asymmetry	transcript_region	95	98	8193.0	.	.	

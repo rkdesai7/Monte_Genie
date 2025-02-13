@@ -1,0 +1,37 @@
+ch.1_51	RNASeq_stranded	transcript_region	489	503	1.0	+	.	
+ch.1_51	WormBase	three_prime_UTR	366	498	.	+	.	Parent=Transcript:C27H5.12.1
+ch.1_51	WormBase	exon	234	498	.	+	.	Parent=Transcript:C27H5.12.1
+ch.1_51	WormBase	gene	101	498	.	+	.	ID=Gene:WBGene00271810
+ch.1_51	WormBase	mRNA	101	498	.	+	.	ID=Transcript:C27H5.12.1;Parent=Gene:WBGene00271810
+ch.1_51	RNASeq_reads	transcript_region	468	493	1.0	.	.	
+ch.1_51	RNASeq_stranded	transcript_region	357	488	2.0	+	.	
+ch.1_51	RNASeq_reads	transcript_region	458	467	2.0	.	.	
+ch.1_51	RNASeq_F_asymmetry	transcript_region	420	457	15816.0	.	.	
+ch.1_51	RNASeq_reads	transcript_region	234	457	4.0	.	.	
+ch.1_51	RNASeq_F_asymmetry	transcript_region	408	419	23815.0	.	.	
+ch.1_51	WormBase	CDS	234	365	.	+	.	ID=CDS:C27H5.12;Parent=Transcript:C27H5.12.1
+ch.1_51	RNASeq_stranded	transcript_region	284	356	1.0	+	.	
+ch.1_51	RNASeq_R_asymmetry	transcript_region	234	283	17767.0	.	.	
+ch.1_51	RNASeq_stranded	transcript_region	234	283	2.0	+	.	
+ch.1_51	RNASeq_R_asymmetry	transcript_region	233	233	4229.0	.	.	
+ch.1_51	RNASeq_reads	transcript_region	233	233	1.0	.	.	
+ch.1_51	RNASeq_stranded	transcript_region	233	233	1.0	-	.	
+ch.1_51	WormBase	intron	190	233	.	+	.	Parent=Transcript:C27H5.12.1
+ch.1_51	RNASeq_splice	intron	190	233	11922.0	+	.	
+ch.1_51	RNASeq_R_asymmetry	transcript_region	190	232	1843.0	.	.	
+ch.1_51	WormBase	CDS	178	189	.	+	.	ID=CDS:C27H5.12;Parent=Transcript:C27H5.12.1
+ch.1_51	RNASeq_stranded	transcript_region	173	189	1.0	+	.	
+ch.1_51	RNASeq_R_asymmetry	transcript_region	124	189	11667.0	.	.	
+ch.1_51	RNASeq_reads	transcript_region	121	189	3.0	.	.	
+ch.1_51	WormBase	exon	101	189	.	+	.	Parent=Transcript:C27H5.12.1
+ch.1_51	WormBase	five_prime_UTR	101	177	.	+	.	Parent=Transcript:C27H5.12.1
+ch.1_51	RNASeq_splice	intron	55	169	3.0	+	.	
+ch.1_51	RNASeq_stranded	transcript_region	168	168	1.0	-	.	
+ch.1_51	RNASeq_stranded	transcript_region	124	162	1.0	+	.	
+ch.1_51	RNASeq_R_asymmetry	transcript_region	102	123	6818.0	.	.	
+ch.1_51	RNASeq_splice	intron	55	121	87.0	+	.	
+ch.1_51	RNASeq_reads	transcript_region	70	120	1.0	.	.	
+ch.1_51	RNASeq_R_asymmetry	transcript_region	80	101	4484.0	.	.	
+ch.1_51	RNASeq_R_asymmetry	transcript_region	62	79	2927.0	.	.	
+ch.1_51	RNASeq_R_asymmetry	transcript_region	57	61	1837.0	.	.	
+ch.1_51	RNASeq_R_asymmetry	transcript_region	51	56	526.0	.	.	

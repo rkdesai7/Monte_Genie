@@ -1,0 +1,41 @@
+ch.1_91	WormBase	five_prime_UTR	101	128	.	+	.	Parent=Transcript:H04M03.2.1
+ch.1_91	WormBase	exon	101	326	.	+	.	Parent=Transcript:H04M03.2.1
+ch.1_91	WormBase	gene	101	499	.	+	.	ID=Gene:WBGene00019152
+ch.1_91	WormBase	mRNA	101	499	.	+	.	ID=Transcript:H04M03.2.1;Parent=Gene:WBGene00019152
+ch.1_91	RNASeq_reads	transcript_region	104	106	3.0	.	.	
+ch.1_91	RNASeq_reads	transcript_region	107	120	11.0	.	.	
+ch.1_91	RNASeq_stranded	transcript_region	116	160	1.0	+	.	
+ch.1_91	RNASeq_reads	transcript_region	121	135	18.0	.	.	
+ch.1_91	WormBase	CDS	129	326	.	+	.	ID=CDS:H04M03.2;Parent=Transcript:H04M03.2.1
+ch.1_91	RNASeq_reads	transcript_region	136	175	28.0	.	.	
+ch.1_91	RNASeq_stranded	transcript_region	161	184	2.0	+	.	
+ch.1_91	RNASeq_reads	transcript_region	176	218	43.0	.	.	
+ch.1_91	RNASeq_stranded	transcript_region	185	235	4.0	+	.	
+ch.1_91	RNASeq_reads	transcript_region	219	326	65.0	.	.	
+ch.1_91	RNASeq_stranded	transcript_region	236	254	2.0	+	.	
+ch.1_91	RNASeq_splice	intron	251	286	12.0	-	.	
+ch.1_91	RNASeq_stranded	transcript_region	255	326	4.0	+	.	
+ch.1_91	RNASeq_splice	intron	257	301	5.0	-	.	
+ch.1_91	RNASeq_reads	transcript_region	327	327	7.0	.	.	
+ch.1_91	RNASeq_stranded	transcript_region	327	327	1.0	+	.	
+ch.1_91	WormBase	intron	327	374	.	+	.	Parent=Transcript:H04M03.2.1
+ch.1_91	RNASeq_splice	intron	327	374	225111.0	+	.	
+ch.1_91	RNASeq_reads	transcript_region	328	329	1.0	.	.	
+ch.1_91	RNASeq_reads	transcript_region	373	374	3.0	.	.	
+ch.1_91	RNASeq_stranded	transcript_region	373	374	3.0	+	.	
+ch.1_91	RNASeq	transcription_end_site	375	375	.	+	.	
+ch.1_91	RNASeq_stranded	transcript_region	375	419	6.0	+	.	
+ch.1_91	WormBase	CDS	375	431	.	+	.	ID=CDS:H04M03.2;Parent=Transcript:H04M03.2.1
+ch.1_91	RNASeq_reads	transcript_region	375	437	44.0	.	.	
+ch.1_91	WormBase	exon	375	499	.	+	.	Parent=Transcript:H04M03.2.1
+ch.1_91	RNASeq_stranded	transcript_region	420	443	2.0	+	.	
+ch.1_91	WormBase	three_prime_UTR	432	499	.	+	.	Parent=Transcript:H04M03.2.1
+ch.1_91	RNASeq_reads	transcript_region	438	458	29.0	.	.	
+ch.1_91	RNASeq_stranded	transcript_region	444	488	1.0	+	.	
+ch.1_91	RNASeq_reads	transcript_region	459	464	19.0	.	.	
+ch.1_91	RNASeq_reads	transcript_region	465	474	10.0	.	.	
+ch.1_91	RNASeq_reads	transcript_region	475	486	6.0	.	.	
+ch.1_91	RNASeq_reads	transcript_region	487	499	3.0	.	.	
+ch.1_91	RNASeq	transcription_end_site	498	498	.	+	.	
+ch.1_91	RNASeq_reads	transcript_region	500	580	1.0	.	.	
+ch.1_91	RNASeq	transcription_end_site	522	522	.	+	.	

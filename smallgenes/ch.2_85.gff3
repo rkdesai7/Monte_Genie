@@ -1,0 +1,95 @@
+ch.2_85	RNASeq_F_asymmetry	transcript_region	695	695	106.0	.	.	
+ch.2_85	RNASeq_F_asymmetry	transcript_region	662	662	134.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	600	604	1.0	+	.	
+ch.2_85	RNASeq_stranded	transcript_region	599	599	7.0	-	.	
+ch.2_85	RNASeq_reads	transcript_region	598	599	2.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	596	598	12.0	+	.	
+ch.2_85	RNASeq_stranded	transcript_region	596	598	1.0	-	.	
+ch.2_85	WormBase	three_prime_UTR	566	598	.	+	.	Parent=Transcript:C08F11.12.1
+ch.2_85	WormBase	exon	484	598	.	+	.	Parent=Transcript:C08F11.12.1
+ch.2_85	WormBase	gene	101	598	.	+	.	ID=Gene:WBGene00007459
+ch.2_85	WormBase	mRNA	101	598	.	+	.	ID=Transcript:C08F11.12.1;Parent=Gene:WBGene00007459
+ch.2_85	RNASeq_reads	transcript_region	595	597	4.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	590	595	27.0	+	.	
+ch.2_85	RNASeq_stranded	transcript_region	589	595	2.0	-	.	
+ch.2_85	RNASeq_reads	transcript_region	589	594	7.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	585	589	46.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	584	588	11.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	520	588	4.0	-	.	
+ch.2_85	RNASeq_stranded	transcript_region	578	584	78.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	577	583	17.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	570	577	124.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	568	576	26.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	564	569	188.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	563	567	40.0	.	.	
+ch.2_85	WormBase	CDS	484	565	.	+	.	ID=CDS:C08F11.12;Parent=Transcript:C08F11.12.1
+ch.2_85	RNASeq_stranded	transcript_region	547	563	314.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	540	562	70.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	484	546	472.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	484	539	106.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	517	519	2.0	-	.	
+ch.2_85	RNASeq_stranded	transcript_region	512	516	1.0	-	.	
+ch.2_85	WormBase	intron	440	483	.	+	.	Parent=Transcript:C08F11.12.1
+ch.2_85	RNASeq_splice	intron	440	483	248687.0	+	.	
+ch.2_85	RNASeq_splice	intron	434	483	9.0	+	.	
+ch.2_85	RNASeq_splice	intron	267	483	11.0	+	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	438	439	214551.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	416	439	289.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	349	439	54.0	.	.	
+ch.2_85	WormBase	CDS	318	439	.	+	.	ID=CDS:C08F11.12;Parent=Transcript:C08F11.12.1
+ch.2_85	WormBase	exon	318	439	.	+	.	Parent=Transcript:C08F11.12.1
+ch.2_85	RNASeq_stranded	transcript_region	398	415	169.0	+	.	
+ch.2_85	RNASeq_stranded	transcript_region	386	397	110.0	+	.	
+ch.2_85	RNASeq_splice	intron	168	388	4.0	+	.	
+ch.2_85	RNASeq_stranded	transcript_region	374	385	70.0	+	.	
+ch.2_85	RNASeq_stranded	transcript_region	341	373	38.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	331	348	35.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	322	340	25.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	325	330	23.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	322	324	15.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	319	321	15.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	317	321	9.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	317	318	7.0	+	.	
+ch.2_85	WormBase	intron	267	317	.	+	.	Parent=Transcript:C08F11.12.1
+ch.2_85	RNASeq_splice	intron	267	317	1706.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	264	266	12.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	262	266	11.0	+	.	
+ch.2_85	WormBase	CDS	117	266	.	+	.	ID=CDS:C08F11.12;Parent=Transcript:C08F11.12.1
+ch.2_85	WormBase	exon	101	266	.	+	.	Parent=Transcript:C08F11.12.1
+ch.2_85	RNASeq_F_asymmetry	transcript_region	265	265	64808.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	258	263	19.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	258	261	18.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	247	257	29.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	236	257	29.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	227	246	45.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	219	235	46.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	175	226	70.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	216	218	72.0	+	.	
+ch.2_85	RNASeq_stranded	transcript_region	125	215	121.0	+	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	126	175	418697.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	133	174	106.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	125	132	68.0	.	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	121	125	266392.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	120	124	40.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	118	124	77.0	+	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	118	120	145543.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	118	119	26.0	.	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	117	117	73637.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	117	117	14.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	117	117	47.0	-	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	116	116	45382.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	116	116	9.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	116	116	28.0	-	.	
+ch.2_85	WormBase	five_prime_UTR	101	116	.	+	.	Parent=Transcript:C08F11.12.1
+ch.2_85	RNASeq_stranded	transcript_region	113	115	9.0	+	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	106	115	21652.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	103	115	4.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	106	112	5.0	+	.	
+ch.2_85	RNASeq_stranded	transcript_region	104	105	2.0	+	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	103	105	13231.0	.	.	
+ch.2_85	RNASeq_stranded	transcript_region	102	103	1.0	+	.	
+ch.2_85	RNASeq_reads	transcript_region	102	102	2.0	.	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	101	102	8453.0	.	.	
+ch.2_85	RNASeq_reads	transcript_region	101	101	1.0	.	.	
+ch.2_85	RNASeq_R_asymmetry	transcript_region	95	99	289.0	.	.	
+ch.2_85	RNASeq_F_asymmetry	transcript_region	32	44	106.0	.	.	

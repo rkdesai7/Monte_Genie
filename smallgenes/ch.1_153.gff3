@@ -1,0 +1,65 @@
+ch.1_153	RNASeq_reads	transcript_region	453	455	1.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	444	455	1.0	+	.	
+ch.1_153	RNASeq_reads	transcript_region	440	452	2.0	.	.	
+ch.1_153	WormBase	three_prime_UTR	404	448	.	+	.	Parent=Transcript:Y19D2B.1.1
+ch.1_153	WormBase	exon	271	448	.	+	.	Parent=Transcript:Y19D2B.1.1
+ch.1_153	WormBase	gene	101	448	.	+	.	ID=Gene:WBGene00012489
+ch.1_153	WormBase	mRNA	101	448	.	+	.	ID=Transcript:Y19D2B.1.1;Parent=Gene:WBGene00012489
+ch.1_153	RNASeq_stranded	transcript_region	434	443	2.0	+	.	
+ch.1_153	RNASeq_reads	transcript_region	429	439	4.0	.	.	
+ch.1_153	RNASeq_F_asymmetry	transcript_region	435	437	19752.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	421	433	4.0	+	.	
+ch.1_153	RNASeq_reads	transcript_region	415	428	7.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	412	420	7.0	+	.	
+ch.1_153	RNASeq_reads	transcript_region	411	414	11.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	399	411	11.0	+	.	
+ch.1_153	RNASeq_F_asymmetry	transcript_region	398	410	78018.0	.	.	
+ch.1_153	RNASeq_reads	transcript_region	398	410	19.0	.	.	
+ch.1_153	WormBase	CDS	271	403	.	+	.	ID=CDS:Y19D2B.1;Parent=Transcript:Y19D2B.1.1
+ch.1_153	RNASeq_stranded	transcript_region	375	398	18.0	+	.	
+ch.1_153	RNASeq_F_asymmetry	transcript_region	393	397	128522.0	.	.	
+ch.1_153	RNASeq_reads	transcript_region	392	397	32.0	.	.	
+ch.1_153	RNASeq_splice	intron	353	397	3.0	+	.	
+ch.1_153	RNASeq_F_asymmetry	transcript_region	382	392	202337.0	.	.	
+ch.1_153	RNASeq_reads	transcript_region	375	391	50.0	.	.	
+ch.1_153	RNASeq_F_asymmetry	transcript_region	361	381	303660.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	351	375	1.0	-	.	
+ch.1_153	RNASeq_reads	transcript_region	326	374	77.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	321	374	28.0	+	.	
+ch.1_153	RNASeq_F_asymmetry	transcript_region	358	359	360324.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	300	350	2.0	-	.	
+ch.1_153	RNASeq_reads	transcript_region	271	325	116.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	317	320	63.0	+	.	
+ch.1_153	RNASeq_stranded	transcript_region	270	316	96.0	+	.	
+ch.1_153	RNASeq_stranded	transcript_region	271	299	1.0	-	.	
+ch.1_153	RNASeq_reads	transcript_region	270	270	30.0	.	.	
+ch.1_153	WormBase	intron	226	270	.	+	.	Parent=Transcript:Y19D2B.1.1
+ch.1_153	RNASeq_splice	intron	226	270	505946.0	+	.	
+ch.1_153	RNASeq_splice	intron	218	270	30.0	+	.	
+ch.1_153	RNASeq_splice	intron	199	270	3.0	+	.	
+ch.1_153	RNASeq_reads	transcript_region	267	269	1.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	267	269	1.0	+	.	
+ch.1_153	RNASeq_reads	transcript_region	226	228	7.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	226	228	1.0	-	.	
+ch.1_153	RNASeq_stranded	transcript_region	226	228	5.0	+	.	
+ch.1_153	RNASeq_stranded	transcript_region	188	225	2.0	-	.	
+ch.1_153	RNASeq_reads	transcript_region	180	225	84.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	163	225	26.0	+	.	
+ch.1_153	WormBase	CDS	101	225	.	+	.	ID=CDS:Y19D2B.1;Parent=Transcript:Y19D2B.1.1
+ch.1_153	WormBase	exon	101	225	.	+	.	Parent=Transcript:Y19D2B.1.1
+ch.1_153	RNASeq_stranded	transcript_region	178	187	1.0	-	.	
+ch.1_153	RNASeq_reads	transcript_region	166	179	55.0	.	.	
+ch.1_153	RNASeq_reads	transcript_region	159	165	35.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	161	162	17.0	+	.	
+ch.1_153	RNASeq_stranded	transcript_region	155	160	11.0	+	.	
+ch.1_153	RNASeq_reads	transcript_region	154	158	22.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	145	154	5.0	+	.	
+ch.1_153	RNASeq_reads	transcript_region	150	153	13.0	.	.	
+ch.1_153	RNASeq_reads	transcript_region	147	149	7.0	.	.	
+ch.1_153	RNASeq_reads	transcript_region	144	146	4.0	.	.	
+ch.1_153	RNASeq_stranded	transcript_region	144	144	3.0	-	.	
+ch.1_153	RNASeq_stranded	transcript_region	141	143	1.0	+	.	
+ch.1_153	RNASeq_R_asymmetry	transcript_region	137	143	6057.0	.	.	
+ch.1_153	RNASeq_reads	transcript_region	128	143	1.0	.	.	
+ch.1_153	RNASeq_R_asymmetry	transcript_region	131	136	3848.0	.	.	
+ch.1_153	RNASeq_R_asymmetry	transcript_region	128	130	2453.0	.	.	

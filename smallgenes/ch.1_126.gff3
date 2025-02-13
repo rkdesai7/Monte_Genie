@@ -1,0 +1,30 @@
+ch.1_126	RNASeq_reads	transcript_region	461	542	1.0	.	.	
+ch.1_126	RNASeq_F_asymmetry	transcript_region	530	540	2746.0	.	.	
+ch.1_126	WormBase	three_prime_UTR	438	540	.	+	.	Parent=Transcript:C37A5.6.1
+ch.1_126	WormBase	exon	323	540	.	+	.	Parent=Transcript:C37A5.6.1
+ch.1_126	WormBase	gene	101	540	.	+	.	ID=Gene:WBGene00014700
+ch.1_126	WormBase	mRNA	101	540	.	+	.	ID=Transcript:C37A5.6.1;Parent=Gene:WBGene00014700
+ch.1_126	RNASeq_stranded	transcript_region	476	522	1.0	+	.	
+ch.1_126	RNASeq_stranded	transcript_region	434	475	2.0	+	.	
+ch.1_126	RNASeq_reads	transcript_region	446	460	2.0	.	.	
+ch.1_126	RNASeq_reads	transcript_region	347	445	4.0	.	.	
+ch.1_126	WormBase	CDS	323	437	.	+	.	ID=CDS:C37A5.6;Parent=Transcript:C37A5.6.1
+ch.1_126	RNASeq_stranded	transcript_region	395	433	1.0	+	.	
+ch.1_126	RNASeq_F_asymmetry	transcript_region	402	404	21013.0	.	.	
+ch.1_126	RNASeq_reads	transcript_region	323	346	7.0	.	.	
+ch.1_126	RNASeq_stranded	transcript_region	323	341	1.0	+	.	
+ch.1_126	WormBase	intron	276	322	.	+	.	Parent=Transcript:C37A5.6.1
+ch.1_126	RNASeq_splice	intron	276	322	32143.0	+	.	
+ch.1_126	RNASeq_stranded	transcript_region	216	275	1.0	+	.	
+ch.1_126	WormBase	CDS	127	275	.	+	.	ID=CDS:C37A5.6;Parent=Transcript:C37A5.6.1
+ch.1_126	RNASeq_reads	transcript_region	121	275	7.0	.	.	
+ch.1_126	WormBase	exon	101	275	.	+	.	Parent=Transcript:C37A5.6.1
+ch.1_126	RNASeq_R_asymmetry	transcript_region	110	185	24421.0	.	.	
+ch.1_126	WormBase	five_prime_UTR	101	126	.	+	.	Parent=Transcript:C37A5.6.1
+ch.1_126	RNASeq_reads	transcript_region	107	120	4.0	.	.	
+ch.1_126	RNASeq_R_asymmetry	transcript_region	106	109	16044.0	.	.	
+ch.1_126	RNASeq_reads	transcript_region	101	106	2.0	.	.	
+ch.1_126	RNASeq_R_asymmetry	transcript_region	101	105	10138.0	.	.	
+ch.1_126	RNASeq_R_asymmetry	transcript_region	100	100	5643.0	.	.	
+ch.1_126	RNASeq_reads	transcript_region	96	100	1.0	.	.	
+ch.1_126	RNASeq_R_asymmetry	transcript_region	99	99	3535.0	.	.	

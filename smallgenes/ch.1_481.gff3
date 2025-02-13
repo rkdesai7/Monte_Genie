@@ -1,0 +1,35 @@
+ch.1_481	RNASeq_F_asymmetry	transcript_region	100	101	895.0	.	.	
+ch.1_481	WormBase	five_prime_UTR	101	131	.	+	.	Parent=Transcript:D1022.2.1
+ch.1_481	WormBase	exon	101	352	.	+	.	Parent=Transcript:D1022.2.1
+ch.1_481	WormBase	gene	101	676	.	+	.	ID=Gene:WBGene00017021
+ch.1_481	WormBase	mRNA	101	676	.	+	.	ID=Transcript:D1022.2.1;Parent=Gene:WBGene00017021
+ch.1_481	RNASeq_F_asymmetry	transcript_region	102	102	2007.0	.	.	
+ch.1_481	RNASeq_F_asymmetry	transcript_region	103	111	3079.0	.	.	
+ch.1_481	RNASeq_reads	transcript_region	103	122	1.0	.	.	
+ch.1_481	RNASeq_F_asymmetry	transcript_region	112	119	4711.0	.	.	
+ch.1_481	RNASeq_reads	transcript_region	123	138	2.0	.	.	
+ch.1_481	WormBase	CDS	132	352	.	+	.	ID=CDS:D1022.2;Parent=Transcript:D1022.2.1
+ch.1_481	RNASeq_reads	transcript_region	139	196	1.0	.	.	
+ch.1_481	RNASeq_reads	transcript_region	197	202	2.0	.	.	
+ch.1_481	RNASeq_reads	transcript_region	203	222	1.0	.	.	
+ch.1_481	RNASeq_reads	transcript_region	223	230	2.0	.	.	
+ch.1_481	RNASeq_reads	transcript_region	231	231	1.0	.	.	
+ch.1_481	RNASeq_reads	transcript_region	232	352	2.0	.	.	
+ch.1_481	RNASeq_R_asymmetry	transcript_region	313	352	11676.0	.	.	
+ch.1_481	RNASeq_R_asymmetry	transcript_region	353	353	3473.0	.	.	
+ch.1_481	RNASeq_reads	transcript_region	353	353	1.0	.	.	
+ch.1_481	RNASeq_splice	intron	353	448	64.0	+	.	
+ch.1_481	WormBase	intron	353	456	.	+	.	Parent=Transcript:D1022.2.1
+ch.1_481	RNASeq_splice	intron	353	456	11928.0	+	.	
+ch.1_481	RNASeq_reads	transcript_region	457	596	2.0	.	.	
+ch.1_481	WormBase	CDS	457	622	.	+	.	ID=CDS:D1022.2;Parent=Transcript:D1022.2.1
+ch.1_481	WormBase	exon	457	676	.	+	.	Parent=Transcript:D1022.2.1
+ch.1_481	RNASeq_R_asymmetry	transcript_region	540	608	7881.0	.	.	
+ch.1_481	RNASeq_reads	transcript_region	597	679	1.0	.	.	
+ch.1_481	RNASeq_R_asymmetry	transcript_region	609	617	5181.0	.	.	
+ch.1_481	RNASeq_R_asymmetry	transcript_region	618	619	3334.0	.	.	
+ch.1_481	WormBase	three_prime_UTR	622	705	.	-	.	Parent=Transcript:D1022.6.1
+ch.1_481	WormBase	three_prime_UTR	623	676	.	+	.	Parent=Transcript:D1022.2.1
+ch.1_481	RNASeq_R_asymmetry	transcript_region	627	646	3535.0	.	.	
+ch.1_481	RNASeq_F_asymmetry	transcript_region	680	700	6121.0	.	.	
+ch.1_481	RNASeq_F_asymmetry	transcript_region	701	713	9233.0	.	.	

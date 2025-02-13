@@ -1,0 +1,34 @@
+ch.1_134	WormBase	three_prime_UTR	400	485	.	+	.	Parent=Transcript:R09E10.8.1
+ch.1_134	WormBase	exon	202	485	.	+	.	Parent=Transcript:R09E10.8.1
+ch.1_134	WormBase	gene	101	485	.	+	.	ID=Gene:WBGene00011177
+ch.1_134	WormBase	mRNA	101	485	.	+	.	ID=Transcript:R09E10.8.1;Parent=Gene:WBGene00011177
+ch.1_134	RNASeq_F_asymmetry	transcript_region	474	478	1404.0	.	.	
+ch.1_134	RNASeq_F_asymmetry	transcript_region	441	473	2378.0	.	.	
+ch.1_134	RNASeq_reads	transcript_region	406	473	1.0	.	.	
+ch.1_134	RNASeq_F_asymmetry	transcript_region	406	440	4022.0	.	.	
+ch.1_134	RNASeq_stranded	transcript_region	395	424	1.0	+	.	
+ch.1_134	RNASeq_reads	transcript_region	394	405	2.0	.	.	
+ch.1_134	RNASeq_F_asymmetry	transcript_region	379	405	6417.0	.	.	
+ch.1_134	WormBase	CDS	202	399	.	+	.	ID=CDS:R09E10.8;Parent=Transcript:R09E10.8.1
+ch.1_134	RNASeq_reads	transcript_region	354	393	1.0	.	.	
+ch.1_134	RNASeq	transcription_end_site	359	359	.	-	.	
+ch.1_134	RNASeq_reads	transcript_region	216	353	2.0	.	.	
+ch.1_134	RNASeq_F_asymmetry	transcript_region	327	330	9733.0	.	.	
+ch.1_134	RNASeq_F_asymmetry	transcript_region	317	321	10851.0	.	.	
+ch.1_134	RNASeq_R_asymmetry	transcript_region	218	229	6915.0	.	.	
+ch.1_134	RNASeq_reads	transcript_region	202	215	4.0	.	.	
+ch.1_134	WormBase	intron	156	201	.	+	.	Parent=Transcript:R09E10.8.1
+ch.1_134	RNASeq_splice	intron	156	201	16427.0	+	.	
+ch.1_134	RNASeq_R_asymmetry	transcript_region	156	157	2877.0	.	.	
+ch.1_134	RNASeq_reads	transcript_region	156	157	1.0	.	.	
+ch.1_134	RNASeq_reads	transcript_region	123	155	4.0	.	.	
+ch.1_134	WormBase	CDS	117	155	.	+	.	ID=CDS:R09E10.8;Parent=Transcript:R09E10.8.1
+ch.1_134	WormBase	exon	101	155	.	+	.	Parent=Transcript:R09E10.8.1
+ch.1_134	RNASeq_R_asymmetry	transcript_region	123	135	15469.0	.	.	
+ch.1_134	RNASeq_reads	transcript_region	118	122	2.0	.	.	
+ch.1_134	RNASeq_R_asymmetry	transcript_region	117	122	8283.0	.	.	
+ch.1_134	RNASeq_reads	transcript_region	116	117	1.0	.	.	
+ch.1_134	RNASeq_R_asymmetry	transcript_region	116	116	3457.0	.	.	
+ch.1_134	WormBase	five_prime_UTR	101	116	.	+	.	Parent=Transcript:R09E10.8.1
+ch.1_134	RNASeq_R_asymmetry	transcript_region	115	115	1569.0	.	.	
+ch.1_134	RNASeq_splice	intron	20	87	3.0	+	.	

@@ -1,0 +1,158 @@
+ch.2_204	RNASeq_stranded	transcript_region	829	862	3.0	+	.	
+ch.2_204	RNASeq_R_asymmetry	transcript_region	831	837	49350.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	830	837	10.0	.	.	
+ch.2_204	RNASeq_R_asymmetry	transcript_region	828	830	32223.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	828	829	6.0	.	.	
+ch.2_204	WormBase	five_prime_UTR	827	829	.	+	.	Parent=Transcript:C09H10.10b.1
+ch.2_204	RNASeq_stranded	transcript_region	828	828	1.0	-	.	
+ch.2_204	RNASeq_reads	transcript_region	770	827	1.0	.	.	
+ch.2_204	RNASeq_R_asymmetry	transcript_region	807	811	2128.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	766	801	1.0	+	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	766	774	4905.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	765	769	2.0	.	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	765	765	9061.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	765	765	2.0	-	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	760	764	22782.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	760	764	5.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	756	764	4.0	+	.	
+ch.2_204	WormBase	three_prime_UTR	689	763	.	+	.	Parent=Transcript:C09H10.2.1
+ch.2_204	WormBase	exon	628	763	.	+	.	Parent=Transcript:C09H10.2.1
+ch.2_204	WormBase	gene	101	763	.	+	.	ID=Gene:WBGene00004454
+ch.2_204	WormBase	mRNA	101	763	.	+	.	ID=Transcript:C09H10.2.1;Parent=Gene:WBGene00004454
+ch.2_204	RNASeq_F_asymmetry	transcript_region	756	759	35609.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	756	759	8.0	.	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	755	755	58505.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	755	755	13.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	750	755	7.0	+	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	751	754	92247.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	750	754	20.0	.	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	740	750	144242.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	742	749	20.0	+	.	
+ch.2_204	RNASeq_reads	transcript_region	739	749	34.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	736	741	31.0	+	.	
+ch.2_204	RNASeq_stranded	transcript_region	669	740	1.0	-	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	736	739	218709.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	735	738	65.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	735	735	54.0	-	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	734	735	402940.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	732	734	82.0	+	.	
+ch.2_204	RNASeq_reads	transcript_region	726	734	135.0	.	.	
+ch.2_204	WormBase	three_prime_UTR	689	734	.	+	.	Parent=Transcript:C09H10.2.2
+ch.2_204	WormBase	exon	628	734	.	+	.	Parent=Transcript:C09H10.2.2
+ch.2_204	WormBase	mRNA	101	734	.	+	.	ID=Transcript:C09H10.2.2;Parent=Gene:WBGene00004454
+ch.2_204	RNASeq	transcription_end_site	733	733	.	-	.	
+ch.2_204	RNASeq	transcription_end_site	733	733	.	-	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	717	733	700462.0	.	.	
+ch.2_204	RNASeq	transcription_end_site	731	731	.	-	.	
+ch.2_204	RNASeq	transcription_end_site	731	731	.	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	722	731	124.0	+	.	
+ch.2_204	RNASeq_reads	transcript_region	714	725	205.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	714	721	195.0	+	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	708	716	1107300.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	700	713	324.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	699	713	297.0	+	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	691	707	1757560.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	689	699	491.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	667	698	463.0	+	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	682	690	2666780.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	679	688	750.0	.	.	
+ch.2_204	WormBase	CDS	628	688	.	+	.	ID=CDS:C09H10.2;Parent=Transcript:C09H10.2.1,Transcript:C09H10.2.2
+ch.2_204	RNASeq_splice	intron	207	682	5.0	+	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	672	681	4033290.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	669	678	1188.0	.	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	668	671	6669220.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	650	668	2.0	-	.	
+ch.2_204	RNASeq_reads	transcript_region	649	668	2006.0	.	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	644	667	10332600.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	628	666	697.0	+	.	
+ch.2_204	RNASeq_splice	intron	339	661	3.0	+	.	
+ch.2_204	RNASeq_splice	intron	314	654	12.0	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	649	649	1.0	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	648	648	2.0	-	.	
+ch.2_204	RNASeq_reads	transcript_region	628	648	3106.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	645	647	1.0	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	643	644	2.0	-	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	628	643	15590600.0	.	.	
+ch.2_204	RNASeq_splice	intron	420	643	4.0	+	.	
+ch.2_204	RNASeq_stranded	transcript_region	642	642	1.0	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	628	641	2.0	-	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	626	627	1119280.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	626	627	242.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	626	627	143.0	+	.	
+ch.2_204	RNASeq_splice	intron	420	627	7.0	+	.	
+ch.2_204	WormBase	intron	416	627	.	+	.	Parent=Transcript:C09H10.2.1
+ch.2_204	WormBase	intron	416	627	.	+	.	Parent=Transcript:C09H10.2.2
+ch.2_204	RNASeq_splice	intron	416	627	20418200.0	+	.	
+ch.2_204	RNASeq_splice	intron	383	627	38.0	+	.	
+ch.2_204	RNASeq_stranded	transcript_region	625	625	1.0	-	.	
+ch.2_204	RNASeq_reads	transcript_region	567	625	1.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	421	562	1.0	.	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	417	420	8441.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	417	420	2.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	417	418	1.0	+	.	
+ch.2_204	RNASeq_reads	transcript_region	416	416	4.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	416	416	3.0	-	.	
+ch.2_204	RNASeq_F_asymmetry	transcript_region	402	415	15085900.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	366	415	569.0	+	.	
+ch.2_204	RNASeq_stranded	transcript_region	352	415	3.0	-	.	
+ch.2_204	RNASeq_reads	transcript_region	347	415	3523.0	.	.	
+ch.2_204	WormBase	CDS	271	415	.	+	.	ID=CDS:C09H10.2;Parent=Transcript:C09H10.2.1,Transcript:C09H10.2.2
+ch.2_204	WormBase	exon	271	415	.	+	.	Parent=Transcript:C09H10.2.1
+ch.2_204	WormBase	exon	271	415	.	+	.	Parent=Transcript:C09H10.2.2
+ch.2_204	RNASeq_splice	intron	339	398	4.0	+	.	
+ch.2_204	RNASeq_splice	intron	218	395	3.0	+	.	
+ch.2_204	RNASeq_stranded	transcript_region	271	365	856.0	+	.	
+ch.2_204	RNASeq_splice	intron	192	355	5.0	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	343	351	5.0	-	.	
+ch.2_204	RNASeq_reads	transcript_region	271	346	5315.0	.	.	
+ch.2_204	RNASeq_splice	intron	218	344	6.0	+	.	
+ch.2_204	RNASeq_stranded	transcript_region	272	342	8.0	-	.	
+ch.2_204	RNASeq_splice	intron	218	335	4.0	+	.	
+ch.2_204	RNASeq_splice	intron	218	331	114.0	+	.	
+ch.2_204	RNASeq_splice	intron	185	325	10.0	-	.	
+ch.2_204	RNASeq_splice	intron	171	319	10.0	-	.	
+ch.2_204	RNASeq_splice	intron	218	309	15.0	+	.	
+ch.2_204	RNASeq_splice	intron	212	294	5.0	-	.	
+ch.2_204	RNASeq_splice	intron	207	289	7.0	+	.	
+ch.2_204	RNASeq_splice	intron	212	273	3.0	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	271	271	5.0	-	.	
+ch.2_204	RNASeq_reads	transcript_region	269	270	786.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	269	270	325.0	+	.	
+ch.2_204	RNASeq_splice	intron	222	270	16.0	+	.	
+ch.2_204	WormBase	intron	218	270	.	+	.	Parent=Transcript:C09H10.2.1
+ch.2_204	WormBase	intron	218	270	.	+	.	Parent=Transcript:C09H10.2.2
+ch.2_204	RNASeq_splice	intron	218	270	29758600.0	+	.	
+ch.2_204	RNASeq_splice	intron	207	270	8.0	+	.	
+ch.2_204	RNASeq_reads	transcript_region	268	268	3.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	268	268	2.0	-	.	
+ch.2_204	RNASeq_reads	transcript_region	266	267	1.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	219	220	1.0	+	.	
+ch.2_204	RNASeq_reads	transcript_region	219	219	1.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	218	218	643.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	218	218	96.0	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	207	217	880.0	+	.	
+ch.2_204	RNASeq_stranded	transcript_region	155	217	5.0	-	.	
+ch.2_204	RNASeq_reads	transcript_region	115	217	5376.0	.	.	
+ch.2_204	WormBase	CDS	106	217	.	+	.	ID=CDS:C09H10.2;Parent=Transcript:C09H10.2.1,Transcript:C09H10.2.2
+ch.2_204	WormBase	exon	101	217	.	+	.	Parent=Transcript:C09H10.2.1
+ch.2_204	WormBase	exon	101	217	.	+	.	Parent=Transcript:C09H10.2.2
+ch.2_204	RNASeq_stranded	transcript_region	121	206	1370.0	+	.	
+ch.2_204	RNASeq_splice	intron	152	184	10.0	-	.	
+ch.2_204	RNASeq_R_asymmetry	transcript_region	108	169	21975700.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	142	154	3.0	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	122	141	1.0	-	.	
+ch.2_204	RNASeq_stranded	transcript_region	114	120	837.0	+	.	
+ch.2_204	RNASeq_reads	transcript_region	104	114	3533.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	108	113	548.0	+	.	
+ch.2_204	RNASeq_R_asymmetry	transcript_region	103	107	12919400.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	99	107	354.0	+	.	
+ch.2_204	WormBase	five_prime_UTR	101	105	.	+	.	Parent=Transcript:C09H10.2.1
+ch.2_204	WormBase	five_prime_UTR	101	105	.	+	.	Parent=Transcript:C09H10.2.2
+ch.2_204	RNASeq_reads	transcript_region	101	103	2218.0	.	.	
+ch.2_204	RNASeq_R_asymmetry	transcript_region	100	102	8130630.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	99	100	1168.0	.	.	
+ch.2_204	RNASeq_R_asymmetry	transcript_region	99	99	4714200.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	98	98	2.0	-	.	
+ch.2_204	RNASeq_R_asymmetry	transcript_region	91	98	765792.0	.	.	
+ch.2_204	RNASeq_reads	transcript_region	91	98	147.0	.	.	
+ch.2_204	RNASeq_stranded	transcript_region	95	97	1.0	+	.	

@@ -1,0 +1,38 @@
+ch.1_497	RNASeq_stranded	transcript_region	816	818	4.0	+	.	
+ch.1_497	RNASeq_stranded	transcript_region	810	815	2.0	+	.	
+ch.1_497	RNASeq_splice	intron	765	813	3.0	+	.	
+ch.1_497	RNASeq_splice	intron	760	813	106.0	+	.	
+ch.1_497	RNASeq_splice	intron	765	809	5.0	+	.	
+ch.1_497	RNASeq_splice	intron	760	809	61521.0	+	.	
+ch.1_497	RNASeq_splice	intron	734	809	75.0	+	.	
+ch.1_497	RNASeq_splice	intron	133	809	10.0	+	.	
+ch.1_497	RNASeq_splice	intron	751	802	5.0	-	.	
+ch.1_497	RNASeq_splice	intron	141	802	7.0	-	.	
+ch.1_497	WormBase	exon	679	763	.	+	.	Parent=Transcript:B0250.7b.1
+ch.1_497	WormBase	CDS	679	763	.	+	.	ID=CDS:B0250.7b;Parent=Transcript:B0250.7b.1
+ch.1_497	WormBase	gene	101	763	.	+	.	ID=Gene:WBGene00007124
+ch.1_497	WormBase	mRNA	101	763	.	+	.	ID=Transcript:B0250.7b.1;Parent=Gene:WBGene00007124
+ch.1_497	WormBase	exon	679	759	.	+	.	Parent=Transcript:B0250.7a
+ch.1_497	WormBase	exon	679	759	.	+	.	Parent=Transcript:B0250.7c
+ch.1_497	RNASeq_reads	transcript_region	679	759	12.0	.	.	
+ch.1_497	RNASeq_stranded	transcript_region	679	759	2.0	+	.	
+ch.1_497	RNASeq	transcription_end_site	705	705	.	-	.	
+ch.1_497	RNASeq	transcription_end_site	705	705	.	-	.	
+ch.1_497	WormBase	intron	133	678	.	+	.	Parent=Transcript:B0250.7b.1
+ch.1_497	RNASeq_splice	intron	133	678	51059.0	+	.	
+ch.1_497	RNASeq_splice	intron	131	678	59.0	+	.	
+ch.1_497	RNASeq_splice	intron	77	678	4.0	+	.	
+ch.1_497	RNASeq_R_asymmetry	transcript_region	659	659	182.0	.	.	
+ch.1_497	RNASeq_R_asymmetry	transcript_region	599	657	178.0	.	.	
+ch.1_497	RNASeq_R_asymmetry	transcript_region	584	586	99.0	.	.	
+ch.1_497	RNASeq_R_asymmetry	transcript_region	580	580	98.0	.	.	
+ch.1_497	RNASeq_reads	transcript_region	133	133	1.0	.	.	
+ch.1_497	WormBase	CDS	101	132	.	+	.	ID=CDS:B0250.7b;Parent=Transcript:B0250.7b.1
+ch.1_497	WormBase	exon	101	132	.	+	.	Parent=Transcript:B0250.7b.1
+ch.1_497	RNASeq_reads	transcript_region	98	132	10.0	.	.	
+ch.1_497	RNASeq_stranded	transcript_region	75	132	3.0	+	.	
+ch.1_497	RNASeq_reads	transcript_region	5	97	16.0	.	.	
+ch.1_497	RNASeq_stranded	transcript_region	33	74	5.0	+	.	
+ch.1_497	RNASeq_stranded	transcript_region	24	32	3.0	+	.	
+ch.1_497	RNASeq_stranded	transcript_region	23	23	1.0	-	.	
+ch.1_497	RNASeq_stranded	transcript_region	19	22	2.0	+	.	

@@ -1,0 +1,32 @@
+ch.2_17	RNASeq_reads	transcript_region	79	136	1.0	.	.	
+ch.2_17	WormBase	five_prime_UTR	101	131	.	+	.	Parent=Transcript:C29E4.17.1
+ch.2_17	WormBase	exon	101	136	.	+	.	Parent=Transcript:C29E4.17.1
+ch.2_17	WormBase	gene	101	613	.	+	.	ID=Gene:WBGene00194730
+ch.2_17	WormBase	mRNA	101	613	.	+	.	ID=Transcript:C29E4.17.1;Parent=Gene:WBGene00194730
+ch.2_17	WormBase	CDS	132	136	.	+	.	ID=CDS:C29E4.17;Parent=Transcript:C29E4.17.1
+ch.2_17	WormBase	intron	137	340	.	+	.	Parent=Transcript:C29E4.17.1
+ch.2_17	RNASeq_splice	intron	137	340	5502.0	+	.	
+ch.2_17	RNASeq_reads	transcript_region	145	145	1.0	.	.	
+ch.2_17	RNASeq_reads	transcript_region	153	166	1.0	.	.	
+ch.2_17	RNASeq_reads	transcript_region	303	311	1.0	.	.	
+ch.2_17	RNASeq_reads	transcript_region	314	340	1.0	.	.	
+ch.2_17	RNASeq_F_asymmetry	transcript_region	341	350	9184.0	.	.	
+ch.2_17	RNASeq_reads	transcript_region	341	391	2.0	.	.	
+ch.2_17	WormBase	CDS	341	443	.	+	.	ID=CDS:C29E4.17;Parent=Transcript:C29E4.17.1
+ch.2_17	WormBase	exon	341	443	.	+	.	Parent=Transcript:C29E4.17.1
+ch.2_17	RNASeq_stranded	transcript_region	392	394	1.0	+	.	
+ch.2_17	RNASeq_reads	transcript_region	392	443	4.0	.	.	
+ch.2_17	RNASeq_stranded	transcript_region	401	443	1.0	+	.	
+ch.2_17	WormBase	intron	444	487	.	+	.	Parent=Transcript:C29E4.17.1
+ch.2_17	RNASeq_reads	transcript_region	444	487	1.0	.	.	
+ch.2_17	RNASeq_splice	intron	444	487	13674.0	+	.	
+ch.2_17	RNASeq_stranded	transcript_region	488	493	1.0	-	.	
+ch.2_17	RNASeq_reads	transcript_region	488	553	3.0	.	.	
+ch.2_17	RNASeq_stranded	transcript_region	488	563	1.0	+	.	
+ch.2_17	WormBase	CDS	488	577	.	+	.	ID=CDS:C29E4.17;Parent=Transcript:C29E4.17.1
+ch.2_17	WormBase	exon	488	613	.	+	.	Parent=Transcript:C29E4.17.1
+ch.2_17	RNASeq_reads	transcript_region	554	709	1.0	.	.	
+ch.2_17	WormBase	three_prime_UTR	578	613	.	+	.	Parent=Transcript:C29E4.17.1
+ch.2_17	RNASeq	transcription_end_site	614	614	.	+	.	
+ch.2_17	RNASeq_stranded	transcript_region	627	690	1.0	-	.	
+ch.2_17	RNASeq_stranded	transcript_region	692	692	1.0	+	.	

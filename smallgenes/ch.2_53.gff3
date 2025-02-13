@@ -1,0 +1,72 @@
+ch.2_53	WormBase	three_prime_UTR	13	91	.	+	.	Parent=Transcript:C25H3.15.1
+ch.2_53	RNASeq_stranded	transcript_region	23	33	2.0	+	.	
+ch.2_53	RNASeq_reads	transcript_region	27	66	2.0	.	.	
+ch.2_53	RNASeq_stranded	transcript_region	34	36	1.0	+	.	
+ch.2_53	RNASeq_stranded	transcript_region	37	37	2.0	+	.	
+ch.2_53	RNASeq_stranded	transcript_region	38	72	1.0	+	.	
+ch.2_53	RNASeq_reads	transcript_region	67	85	1.0	.	.	
+ch.2_53	RNASeq_reads	transcript_region	92	107	1.0	.	.	
+ch.2_53	RNASeq_F_asymmetry	transcript_region	93	100	2591.0	.	.	
+ch.2_53	RNASeq_F_asymmetry	transcript_region	101	107	5298.0	.	.	
+ch.2_53	WormBase	five_prime_UTR	101	119	.	+	.	Parent=Transcript:C25H3.16.1
+ch.2_53	WormBase	exon	101	177	.	+	.	Parent=Transcript:C25H3.16.1
+ch.2_53	WormBase	gene	101	627	.	+	.	ID=Gene:WBGene00044392
+ch.2_53	WormBase	mRNA	101	627	.	+	.	ID=Transcript:C25H3.16.1;Parent=Gene:WBGene00044392
+ch.2_53	RNASeq_F_asymmetry	transcript_region	108	124	8473.0	.	.	
+ch.2_53	RNASeq_reads	transcript_region	108	138	2.0	.	.	
+ch.2_53	WormBase	CDS	120	177	.	+	.	ID=CDS:C25H3.16;Parent=Transcript:C25H3.16.1
+ch.2_53	RNASeq_F_asymmetry	transcript_region	125	161	12785.0	.	.	
+ch.2_53	RNASeq_reads	transcript_region	139	177	4.0	.	.	
+ch.2_53	RNASeq_stranded	transcript_region	141	177	1.0	+	.	
+ch.2_53	WormBase	intron	178	224	.	+	.	Parent=Transcript:C25H3.16.1
+ch.2_53	RNASeq_splice	intron	178	224	20252.0	+	.	
+ch.2_53	RNASeq_stranded	transcript_region	225	360	1.0	+	.	
+ch.2_53	WormBase	CDS	225	395	.	+	.	ID=CDS:C25H3.16;Parent=Transcript:C25H3.16.1
+ch.2_53	WormBase	exon	225	395	.	+	.	Parent=Transcript:C25H3.16.1
+ch.2_53	RNASeq_reads	transcript_region	225	395	5.0	.	.	
+ch.2_53	RNASeq_stranded	transcript_region	371	395	1.0	+	.	
+ch.2_53	WormBase	intron	396	441	.	+	.	Parent=Transcript:C25H3.16.1
+ch.2_53	RNASeq_splice	intron	396	441	28023.0	+	.	
+ch.2_53	RNASeq	transcription_end_site	440	440	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	440	440	.	+	.	
+ch.2_53	RNASeq_stranded	transcript_region	442	470	1.0	+	.	
+ch.2_53	RNASeq_reads	transcript_region	442	558	6.0	.	.	
+ch.2_53	WormBase	CDS	442	572	.	+	.	ID=CDS:C25H3.16;Parent=Transcript:C25H3.16.1
+ch.2_53	WormBase	exon	442	627	.	+	.	Parent=Transcript:C25H3.16.1
+ch.2_53	RNASeq_stranded	transcript_region	508	564	1.0	+	.	
+ch.2_53	RNASeq_R_asymmetry	transcript_region	509	558	23702.0	.	.	
+ch.2_53	RNASeq	transcription_end_site	524	524	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	552	552	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	552	552	.	+	.	
+ch.2_53	RNASeq_reads	transcript_region	559	566	3.0	.	.	
+ch.2_53	RNASeq	transcription_end_site	561	561	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	561	561	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	565	565	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	565	565	.	+	.	
+ch.2_53	RNASeq_stranded	transcript_region	565	568	2.0	-	.	
+ch.2_53	RNASeq_stranded	transcript_region	565	572	2.0	+	.	
+ch.2_53	WormBase	three_prime_UTR	566	715	.	-	.	Parent=Transcript:C25H3.7a.1
+ch.2_53	RNASeq_reads	transcript_region	567	574	5.0	.	.	
+ch.2_53	RNASeq_stranded	transcript_region	569	574	4.0	-	.	
+ch.2_53	WormBase	three_prime_UTR	573	627	.	+	.	Parent=Transcript:C25H3.16.1
+ch.2_53	RNASeq_stranded	transcript_region	573	641	1.0	+	.	
+ch.2_53	RNASeq_stranded	transcript_region	575	578	7.0	-	.	
+ch.2_53	RNASeq_reads	transcript_region	575	581	8.0	.	.	
+ch.2_53	RNASeq_stranded	transcript_region	579	593	11.0	-	.	
+ch.2_53	RNASeq_F_asymmetry	transcript_region	580	598	47490.0	.	.	
+ch.2_53	RNASeq_reads	transcript_region	582	607	13.0	.	.	
+ch.2_53	RNASeq_stranded	transcript_region	594	604	17.0	-	.	
+ch.2_53	RNASeq_stranded	transcript_region	605	622	26.0	-	.	
+ch.2_53	RNASeq_reads	transcript_region	608	633	20.0	.	.	
+ch.2_53	RNASeq	transcription_end_site	623	623	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	623	623	.	+	.	
+ch.2_53	RNASeq_stranded	transcript_region	623	645	47.0	-	.	
+ch.2_53	RNASeq	transcription_end_site	629	629	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	631	631	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	632	632	.	+	.	
+ch.2_53	RNASeq_reads	transcript_region	634	664	33.0	.	.	
+ch.2_53	RNASeq	transcription_end_site	644	644	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	644	644	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	658	658	.	+	.	
+ch.2_53	RNASeq	transcription_end_site	658	658	.	+	.	
+ch.2_53	RNASeq_reads	transcript_region	665	692	50.0	.	.	

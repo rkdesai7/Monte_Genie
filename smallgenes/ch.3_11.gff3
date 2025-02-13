@@ -1,0 +1,103 @@
+ch.3_11	RNASeq_stranded	transcript_region	725	781	47.0	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	698	776	1.0	+	.	
+ch.3_11	WormBase	three_prime_UTR	685	756	.	-	.	Parent=Transcript:T22C1.3.1
+ch.3_11	RNASeq_reads	transcript_region	726	750	29.0	.	.	
+ch.3_11	RNASeq_splice	intron	647	749	3.0	-	.	
+ch.3_11	RNASeq	transcription_end_site	732	732	.	-	.	
+ch.3_11	RNASeq_reads	transcript_region	663	725	19.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	712	724	31.0	-	.	
+ch.3_11	RNASeq	transcription_end_site	715	715	.	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	700	711	20.0	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	689	699	13.0	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	695	697	2.0	+	.	
+ch.3_11	WormBase	three_prime_UTR	638	695	.	+	.	Parent=Transcript:T22C1.4.1
+ch.3_11	WormBase	exon	482	695	.	+	.	Parent=Transcript:T22C1.4.1
+ch.3_11	WormBase	gene	101	695	.	+	.	ID=Gene:WBGene00011915
+ch.3_11	WormBase	mRNA	101	695	.	+	.	ID=Transcript:T22C1.4.1;Parent=Gene:WBGene00011915
+ch.3_11	RNASeq_stranded	transcript_region	687	694	4.0	+	.	
+ch.3_11	RNASeq_stranded	transcript_region	672	688	8.0	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	681	686	7.0	+	.	
+ch.3_11	RNASeq_stranded	transcript_region	678	680	11.0	+	.	
+ch.3_11	RNASeq_stranded	transcript_region	672	677	18.0	+	.	
+ch.3_11	RNASeq_stranded	transcript_region	654	671	28.0	+	.	
+ch.3_11	RNASeq_stranded	transcript_region	557	671	5.0	-	.	
+ch.3_11	RNASeq_reads	transcript_region	652	662	29.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	635	653	43.0	+	.	
+ch.3_11	RNASeq_reads	transcript_region	636	651	44.0	.	.	
+ch.3_11	WormBase	CDS	482	637	.	+	.	ID=CDS:T22C1.4;Parent=Transcript:T22C1.4.1
+ch.3_11	RNASeq_reads	transcript_region	482	635	69.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	579	634	66.0	+	.	
+ch.3_11	RNASeq_stranded	transcript_region	548	578	43.0	+	.	
+ch.3_11	RNASeq_stranded	transcript_region	504	556	8.0	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	529	547	28.0	+	.	
+ch.3_11	RNASeq_stranded	transcript_region	483	528	18.0	+	.	
+ch.3_11	RNASeq_splice	intron	401	517	213.0	+	.	
+ch.3_11	RNASeq_splice	intron	378	517	8.0	+	.	
+ch.3_11	RNASeq_splice	intron	401	509	10.0	+	.	
+ch.3_11	RNASeq_splice	intron	378	509	3.0	+	.	
+ch.3_11	RNASeq_stranded	transcript_region	473	503	13.0	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	482	482	11.0	-	.	
+ch.3_11	RNASeq_reads	transcript_region	480	481	12.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	480	481	3.0	+	.	
+ch.3_11	WormBase	intron	401	481	.	+	.	Parent=Transcript:T22C1.4.1
+ch.3_11	RNASeq_splice	intron	401	481	352552.0	+	.	
+ch.3_11	RNASeq_splice	intron	378	481	30.0	+	.	
+ch.3_11	RNASeq_splice	intron	371	481	18.0	+	.	
+ch.3_11	RNASeq_reads	transcript_region	463	479	4.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	467	472	8.0	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	439	466	5.0	-	.	
+ch.3_11	RNASeq_reads	transcript_region	432	462	2.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	417	438	3.0	-	.	
+ch.3_11	RNASeq_reads	transcript_region	404	431	1.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	391	416	1.0	-	.	
+ch.3_11	RNASeq_reads	transcript_region	401	403	4.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	392	400	11.0	+	.	
+ch.3_11	WormBase	CDS	333	400	.	+	.	ID=CDS:T22C1.4;Parent=Transcript:T22C1.4.1
+ch.3_11	WormBase	exon	333	400	.	+	.	Parent=Transcript:T22C1.4.1
+ch.3_11	RNASeq_reads	transcript_region	333	400	69.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	333	391	19.0	+	.	
+ch.3_11	RNASeq_reads	transcript_region	332	332	9.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	332	332	2.0	-	.	
+ch.3_11	RNASeq_splice	intron	290	332	156.0	+	.	
+ch.3_11	WormBase	intron	286	332	.	+	.	Parent=Transcript:T22C1.4.1
+ch.3_11	RNASeq_splice	intron	286	332	372245.0	+	.	
+ch.3_11	RNASeq_splice	intron	274	332	12.0	+	.	
+ch.3_11	RNASeq_reads	transcript_region	287	331	1.0	.	.	
+ch.3_11	RNASeq_reads	transcript_region	286	286	10.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	286	286	2.0	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	258	285	19.0	+	.	
+ch.3_11	WormBase	CDS	200	285	.	+	.	ID=CDS:T22C1.4;Parent=Transcript:T22C1.4.1
+ch.3_11	WormBase	exon	200	285	.	+	.	Parent=Transcript:T22C1.4.1
+ch.3_11	RNASeq_reads	transcript_region	200	285	73.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	192	284	1.0	-	.	
+ch.3_11	RNASeq_stranded	transcript_region	200	257	29.0	+	.	
+ch.3_11	RNASeq_R_asymmetry	transcript_region	200	220	308700.0	.	.	
+ch.3_11	RNASeq_splice	intron	158	213	14.0	+	.	
+ch.3_11	RNASeq_splice	intron	162	204	266.0	+	.	
+ch.3_11	RNASeq_splice	intron	158	204	234.0	+	.	
+ch.3_11	RNASeq_splice	intron	162	201	25.0	+	.	
+ch.3_11	RNASeq_splice	intron	158	201	2269.0	+	.	
+ch.3_11	WormBase	intron	158	199	.	+	.	Parent=Transcript:T22C1.4.1
+ch.3_11	RNASeq_reads	transcript_region	158	199	1.0	.	.	
+ch.3_11	RNASeq_splice	intron	158	199	307498.0	+	.	
+ch.3_11	WormBase	CDS	132	157	.	+	.	ID=CDS:T22C1.4;Parent=Transcript:T22C1.4.1
+ch.3_11	RNASeq_stranded	transcript_region	128	157	19.0	+	.	
+ch.3_11	RNASeq_reads	transcript_region	104	157	58.0	.	.	
+ch.3_11	WormBase	exon	101	157	.	+	.	Parent=Transcript:T22C1.4.1
+ch.3_11	RNASeq_R_asymmetry	transcript_region	98	157	244235.0	.	.	
+ch.3_11	WormBase	five_prime_UTR	101	131	.	+	.	Parent=Transcript:T22C1.4.1
+ch.3_11	RNASeq_stranded	transcript_region	98	127	10.0	+	.	
+ch.3_11	RNASeq_reads	transcript_region	91	103	38.0	.	.	
+ch.3_11	RNASeq_R_asymmetry	transcript_region	89	97	156097.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	88	97	6.0	+	.	
+ch.3_11	RNASeq_reads	transcript_region	84	90	24.0	.	.	
+ch.3_11	RNASeq_R_asymmetry	transcript_region	84	88	98740.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	77	87	3.0	+	.	
+ch.3_11	RNASeq_R_asymmetry	transcript_region	81	83	61196.0	.	.	
+ch.3_11	RNASeq_reads	transcript_region	81	83	14.0	.	.	
+ch.3_11	RNASeq_R_asymmetry	transcript_region	79	80	39725.0	.	.	
+ch.3_11	RNASeq_reads	transcript_region	78	80	9.0	.	.	
+ch.3_11	RNASeq_R_asymmetry	transcript_region	73	78	24787.0	.	.	
+ch.3_11	RNASeq_reads	transcript_region	72	77	5.0	.	.	
+ch.3_11	RNASeq_stranded	transcript_region	63	76	1.0	+	.	
+ch.3_11	RNASeq_reads	transcript_region	50	71	3.0	.	.	

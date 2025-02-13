@@ -1,0 +1,76 @@
+ch.1_590	RNASeq_splice	intron	785	879	26.0	-	.	
+ch.1_590	RNASeq	transcription_end_site	865	865	.	-	.	
+ch.1_590	RNASeq_F_asymmetry	transcript_region	855	856	1862.0	.	.	
+ch.1_590	RNASeq	transcription_end_site	855	855	.	-	.	
+ch.1_590	RNASeq	transcription_end_site	855	855	.	-	.	
+ch.1_590	RNASeq_reads	transcript_region	847	855	1.0	.	.	
+ch.1_590	RNASeq_stranded	transcript_region	851	854	1.0	+	.	
+ch.1_590	WormBase	three_prime_UTR	789	854	.	+	.	Parent=Transcript:Y53F4B.33.1
+ch.1_590	WormBase	exon	298	854	.	+	.	Parent=Transcript:Y53F4B.33.1
+ch.1_590	WormBase	gene	101	854	.	+	.	ID=Gene:WBGene00001787
+ch.1_590	WormBase	mRNA	101	854	.	+	.	ID=Transcript:Y53F4B.33.1;Parent=Gene:WBGene00001787
+ch.1_590	RNASeq_stranded	transcript_region	838	850	2.0	+	.	
+ch.1_590	RNASeq_reads	transcript_region	835	846	2.0	.	.	
+ch.1_590	RNASeq	transcription_end_site	837	837	.	-	.	
+ch.1_590	RNASeq	transcription_end_site	837	837	.	-	.	
+ch.1_590	RNASeq_stranded	transcript_region	800	837	4.0	+	.	
+ch.1_590	RNASeq_reads	transcript_region	832	834	4.0	.	.	
+ch.1_590	RNASeq_F_asymmetry	transcript_region	832	833	18326.0	.	.	
+ch.1_590	RNASeq_F_asymmetry	transcript_region	807	831	34337.0	.	.	
+ch.1_590	RNASeq_reads	transcript_region	801	831	8.0	.	.	
+ch.1_590	RNASeq_splice	intron	785	830	99.0	-	.	
+ch.1_590	RNASeq_F_asymmetry	transcript_region	787	806	51681.0	.	.	
+ch.1_590	RNASeq_reads	transcript_region	767	800	13.0	.	.	
+ch.1_590	RNASeq_stranded	transcript_region	772	799	7.0	+	.	
+ch.1_590	RNASeq	transcription_end_site	789	789	.	-	.	
+ch.1_590	WormBase	CDS	298	788	.	+	.	ID=CDS:Y53F4B.33;Parent=Transcript:Y53F4B.33.1
+ch.1_590	RNASeq_stranded	transcript_region	734	771	11.0	+	.	
+ch.1_590	RNASeq_F_asymmetry	transcript_region	768	769	75454.0	.	.	
+ch.1_590	RNASeq_F_asymmetry	transcript_region	745	766	82301.0	.	.	
+ch.1_590	RNASeq_reads	transcript_region	742	766	21.0	.	.	
+ch.1_590	RNASeq_F_asymmetry	transcript_region	720	744	126334.0	.	.	
+ch.1_590	RNASeq_reads	transcript_region	345	741	32.0	.	.	
+ch.1_590	RNASeq_stranded	transcript_region	701	733	7.0	+	.	
+ch.1_590	RNASeq_stranded	transcript_region	485	700	4.0	+	.	
+ch.1_590	RNASeq_splice	intron	665	698	3.0	+	.	
+ch.1_590	RNASeq_splice	intron	397	628	8.0	-	.	
+ch.1_590	RNASeq	transcription_end_site	576	576	.	-	.	
+ch.1_590	RNASeq	transcription_end_site	576	576	.	-	.	
+ch.1_590	RNASeq	transcription_end_site	573	573	.	-	.	
+ch.1_590	RNASeq	transcription_end_site	564	564	.	-	.	
+ch.1_590	RNASeq	transcription_end_site	564	564	.	-	.	
+ch.1_590	RNASeq	transcription_end_site	563	563	.	-	.	
+ch.1_590	RNASeq	transcription_end_site	563	563	.	-	.	
+ch.1_590	RNASeq_splice	intron	397	563	4.0	-	.	
+ch.1_590	RNASeq_splice	intron	358	563	4.0	-	.	
+ch.1_590	RNASeq	transcription_end_site	558	558	.	-	.	
+ch.1_590	RNASeq	transcription_end_site	558	558	.	-	.	
+ch.1_590	RNASeq_stranded	transcript_region	425	484	2.0	+	.	
+ch.1_590	RNASeq_splice	intron	339	471	3.0	-	.	
+ch.1_590	RNASeq	transcription_end_site	431	431	.	-	.	
+ch.1_590	RNASeq_stranded	transcript_region	298	424	4.0	+	.	
+ch.1_590	RNASeq_stranded	transcript_region	367	409	1.0	-	.	
+ch.1_590	RNASeq_stranded	transcript_region	364	364	1.0	-	.	
+ch.1_590	RNASeq_stranded	transcript_region	315	362	1.0	-	.	
+ch.1_590	RNASeq_reads	transcript_region	298	344	50.0	.	.	
+ch.1_590	RNASeq_splice	intron	250	297	12.0	+	.	
+ch.1_590	WormBase	intron	246	297	.	+	.	Parent=Transcript:Y53F4B.33.1
+ch.1_590	RNASeq_splice	intron	246	297	267042.0	+	.	
+ch.1_590	RNASeq_splice	intron	226	295	47.0	-	.	
+ch.1_590	RNASeq_stranded	transcript_region	229	245	3.0	+	.	
+ch.1_590	RNASeq_reads	transcript_region	141	245	51.0	.	.	
+ch.1_590	WormBase	CDS	107	245	.	+	.	ID=CDS:Y53F4B.33;Parent=Transcript:Y53F4B.33.1
+ch.1_590	WormBase	exon	101	245	.	+	.	Parent=Transcript:Y53F4B.33.1
+ch.1_590	RNASeq_stranded	transcript_region	116	228	5.0	+	.	
+ch.1_590	RNASeq_R_asymmetry	transcript_region	122	192	180173.0	.	.	
+ch.1_590	RNASeq_reads	transcript_region	116	140	33.0	.	.	
+ch.1_590	RNASeq_R_asymmetry	transcript_region	111	121	118295.0	.	.	
+ch.1_590	RNASeq_reads	transcript_region	111	115	21.0	.	.	
+ch.1_590	RNASeq_stranded	transcript_region	105	115	3.0	+	.	
+ch.1_590	RNASeq_R_asymmetry	transcript_region	106	110	59855.0	.	.	
+ch.1_590	RNASeq_reads	transcript_region	105	110	12.0	.	.	
+ch.1_590	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:Y53F4B.33.1
+ch.1_590	RNASeq_splice	intron	58	106	9.0	+	.	
+ch.1_590	RNASeq_R_asymmetry	transcript_region	101	105	38530.0	.	.	
+ch.1_590	RNASeq_reads	transcript_region	101	104	6.0	.	.	
+ch.1_590	RNASeq_reads	transcript_region	72	100	1.0	.	.	

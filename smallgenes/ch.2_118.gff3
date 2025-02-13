@@ -1,0 +1,127 @@
+ch.2_118	RNASeq_stranded	transcript_region	700	746	1.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	694	705	1.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	692	699	2.0	+	.	
+ch.2_118	WormBase	three_prime_UTR	513	696	.	+	.	Parent=Transcript:K01G5.8b.1
+ch.2_118	WormBase	exon	393	696	.	+	.	Parent=Transcript:K01G5.8b.1
+ch.2_118	WormBase	gene	101	696	.	+	.	ID=Gene:WBGene00010479
+ch.2_118	WormBase	mRNA	101	696	.	+	.	ID=Transcript:K01G5.8b.1;Parent=Gene:WBGene00010479
+ch.2_118	RNASeq_reads	transcript_region	669	693	2.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	680	691	4.0	+	.	
+ch.2_118	RNASeq_stranded	transcript_region	658	679	7.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	606	668	4.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	615	657	11.0	+	.	
+ch.2_118	RNASeq_stranded	transcript_region	652	654	1.0	-	.	
+ch.2_118	RNASeq_stranded	transcript_region	645	645	1.0	-	.	
+ch.2_118	RNASeq	transcription_end_site	644	644	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	630	630	.	-	.	
+ch.2_118	RNASeq_stranded	transcript_region	606	614	7.0	+	.	
+ch.2_118	RNASeq	transcription_end_site	613	613	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	613	613	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	611	611	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	611	611	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	607	607	.	-	.	
+ch.2_118	WormBase	three_prime_UTR	513	606	.	+	.	Parent=Transcript:K01G5.8a.1
+ch.2_118	WormBase	exon	393	606	.	+	.	Parent=Transcript:K01G5.8a.1
+ch.2_118	WormBase	mRNA	101	606	.	+	.	ID=Transcript:K01G5.8a.1;Parent=Gene:WBGene00010479
+ch.2_118	RNASeq	transcription_end_site	605	605	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	605	605	.	-	.	
+ch.2_118	RNASeq_stranded	transcript_region	595	605	12.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	593	605	8.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	579	594	19.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	586	592	13.0	.	.	
+ch.2_118	RNASeq	transcription_end_site	589	589	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	589	589	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	588	588	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	588	588	.	-	.	
+ch.2_118	RNASeq_reads	transcript_region	579	585	22.0	.	.	
+ch.2_118	RNASeq_F_asymmetry	transcript_region	583	583	102519.0	.	.	
+ch.2_118	RNASeq_F_asymmetry	transcript_region	575	579	118162.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	571	578	30.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	567	578	35.0	.	.	
+ch.2_118	RNASeq_F_asymmetry	transcript_region	560	574	191143.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	559	570	47.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	537	566	53.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	528	558	73.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	501	536	80.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	510	527	116.0	+	.	
+ch.2_118	WormBase	CDS	393	512	.	+	.	ID=CDS:K01G5.8a;Parent=Transcript:K01G5.8a.1
+ch.2_118	WormBase	CDS	393	512	.	+	.	ID=CDS:K01G5.8b;Parent=Transcript:K01G5.8b.1
+ch.2_118	RNASeq_stranded	transcript_region	492	509	178.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	393	500	128.0	.	.	
+ch.2_118	RNASeq_splice	intron	333	495	18.0	-	.	
+ch.2_118	RNASeq_stranded	transcript_region	475	491	117.0	+	.	
+ch.2_118	RNASeq_stranded	transcript_region	393	474	73.0	+	.	
+ch.2_118	RNASeq_splice	intron	340	474	5.0	+	.	
+ch.2_118	RNASeq_splice	intron	149	455	8.0	+	.	
+ch.2_118	RNASeq_splice	intron	321	453	4.0	-	.	
+ch.2_118	RNASeq_splice	intron	229	446	5.0	+	.	
+ch.2_118	RNASeq_splice	intron	349	413	12.0	+	.	
+ch.2_118	RNASeq_splice	intron	349	400	108.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	392	392	17.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	392	392	16.0	-	.	
+ch.2_118	WormBase	intron	349	392	.	+	.	Parent=Transcript:K01G5.8a.1
+ch.2_118	WormBase	intron	349	392	.	+	.	Parent=Transcript:K01G5.8b.1
+ch.2_118	RNASeq_splice	intron	349	392	828555.0	+	.	
+ch.2_118	RNASeq_splice	intron	229	392	108.0	+	.	
+ch.2_118	RNASeq_stranded	transcript_region	391	391	1.0	-	.	
+ch.2_118	RNASeq_reads	transcript_region	350	391	1.0	.	.	
+ch.2_118	RNASeq_reads	transcript_region	349	349	28.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	349	349	4.0	-	.	
+ch.2_118	WormBase	CDS	276	348	.	+	.	ID=CDS:K01G5.8a;Parent=Transcript:K01G5.8a.1
+ch.2_118	WormBase	exon	276	348	.	+	.	Parent=Transcript:K01G5.8a.1
+ch.2_118	RNASeq_reads	transcript_region	276	348	161.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	276	348	42.0	+	.	
+ch.2_118	WormBase	CDS	267	348	.	+	.	ID=CDS:K01G5.8b;Parent=Transcript:K01G5.8b.1
+ch.2_118	WormBase	exon	267	348	.	+	.	Parent=Transcript:K01G5.8b.1
+ch.2_118	RNASeq_stranded	transcript_region	276	341	2.0	-	.	
+ch.2_118	RNASeq_splice	intron	229	335	8.0	+	.	
+ch.2_118	RNASeq_splice	intron	162	309	3.0	-	.	
+ch.2_118	RNASeq_stranded	transcript_region	269	275	20.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	267	275	97.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	267	275	1.0	-	.	
+ch.2_118	WormBase	intron	229	275	.	+	.	Parent=Transcript:K01G5.8a.1
+ch.2_118	RNASeq_splice	intron	229	275	509997.0	+	.	
+ch.2_118	RNASeq_splice	intron	183	275	17.0	+	.	
+ch.2_118	RNASeq_stranded	transcript_region	267	268	13.0	+	.	
+ch.2_118	RNASeq_splice	intron	229	268	6127.0	+	.	
+ch.2_118	RNASeq_splice	intron	183	268	20.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	265	266	11.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	265	266	2.0	+	.	
+ch.2_118	WormBase	intron	229	266	.	+	.	Parent=Transcript:K01G5.8b.1
+ch.2_118	RNASeq_splice	intron	229	266	352263.0	+	.	
+ch.2_118	RNASeq_splice	intron	183	266	11.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	229	264	3.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	229	264	1.0	+	.	
+ch.2_118	RNASeq_stranded	transcript_region	205	228	2.0	-	.	
+ch.2_118	RNASeq_stranded	transcript_region	201	228	33.0	+	.	
+ch.2_118	RNASeq_reads	transcript_region	115	228	160.0	.	.	
+ch.2_118	WormBase	CDS	107	228	.	+	.	ID=CDS:K01G5.8a;Parent=Transcript:K01G5.8a.1
+ch.2_118	WormBase	CDS	107	228	.	+	.	ID=CDS:K01G5.8b;Parent=Transcript:K01G5.8b.1
+ch.2_118	WormBase	exon	101	228	.	+	.	Parent=Transcript:K01G5.8a.1
+ch.2_118	WormBase	exon	101	228	.	+	.	Parent=Transcript:K01G5.8b.1
+ch.2_118	RNASeq_stranded	transcript_region	196	204	1.0	-	.	
+ch.2_118	RNASeq_stranded	transcript_region	108	200	50.0	+	.	
+ch.2_118	RNASeq_R_asymmetry	transcript_region	112	177	737806.0	.	.	
+ch.2_118	RNASeq_reads	transcript_region	106	114	103.0	.	.	
+ch.2_118	RNASeq_R_asymmetry	transcript_region	105	111	484586.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	101	107	32.0	+	.	
+ch.2_118	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:K01G5.8a.1
+ch.2_118	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:K01G5.8b.1
+ch.2_118	RNASeq_reads	transcript_region	101	105	67.0	.	.	
+ch.2_118	RNASeq_R_asymmetry	transcript_region	101	104	311306.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	99	100	2.0	+	.	
+ch.2_118	RNASeq_R_asymmetry	transcript_region	98	100	22231.0	.	.	
+ch.2_118	RNASeq_reads	transcript_region	98	100	5.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	97	98	1.0	+	.	
+ch.2_118	RNASeq_R_asymmetry	transcript_region	97	97	11937.0	.	.	
+ch.2_118	RNASeq_reads	transcript_region	97	97	3.0	.	.	
+ch.2_118	RNASeq_reads	transcript_region	15	96	1.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	15	53	1.0	+	.	
+ch.2_118	RNASeq	transcription_end_site	27	27	.	-	.	
+ch.2_118	RNASeq_reads	transcript_region	9	14	2.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	9	14	2.0	+	.	
+ch.2_118	RNASeq	transcription_end_site	11	11	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	8	8	.	-	.	
+ch.2_118	RNASeq	transcription_end_site	8	8	.	-	.	
+ch.2_118	RNASeq_reads	transcript_region	6	8	19.0	.	.	
+ch.2_118	RNASeq_stranded	transcript_region	5	8	20.0	+	.	

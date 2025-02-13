@@ -1,0 +1,52 @@
+ch.1_262	RNASeq_splice	intron	9	59	7.0	+	.	
+ch.1_262	RNASeq_reads	transcript_region	17	18	2.0	.	.	
+ch.1_262	RNASeq_reads	transcript_region	19	20	1.0	.	.	
+ch.1_262	RNASeq_reads	transcript_region	21	65	2.0	.	.	
+ch.1_262	RNASeq_stranded	transcript_region	54	59	1.0	+	.	
+ch.1_262	RNASeq_stranded	transcript_region	63	65	1.0	+	.	
+ch.1_262	RNASeq_reads	transcript_region	66	105	4.0	.	.	
+ch.1_262	RNASeq_F_asymmetry	transcript_region	75	97	12858.0	.	.	
+ch.1_262	RNASeq_stranded	transcript_region	96	114	1.0	+	.	
+ch.1_262	RNASeq_F_asymmetry	transcript_region	98	108	22650.0	.	.	
+ch.1_262	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:T22H6.5.1
+ch.1_262	WormBase	exon	101	260	.	+	.	Parent=Transcript:T22H6.5.1
+ch.1_262	WormBase	gene	101	633	.	+	.	ID=Gene:WBGene00000016
+ch.1_262	WormBase	mRNA	101	633	.	+	.	ID=Transcript:T22H6.5.1;Parent=Gene:WBGene00000016
+ch.1_262	RNASeq_reads	transcript_region	106	115	7.0	.	.	
+ch.1_262	RNASeq_F_asymmetry	transcript_region	109	117	34097.0	.	.	
+ch.1_262	WormBase	CDS	111	260	.	+	.	ID=CDS:T22H6.5;Parent=Transcript:T22H6.5.1
+ch.1_262	RNASeq_stranded	transcript_region	115	137	2.0	+	.	
+ch.1_262	RNASeq_reads	transcript_region	116	122	11.0	.	.	
+ch.1_262	RNASeq_F_asymmetry	transcript_region	118	130	52762.0	.	.	
+ch.1_262	RNASeq_reads	transcript_region	123	161	17.0	.	.	
+ch.1_262	RNASeq_F_asymmetry	transcript_region	131	156	81312.0	.	.	
+ch.1_262	RNASeq_stranded	transcript_region	138	260	4.0	+	.	
+ch.1_262	RNASeq_reads	transcript_region	162	260	26.0	.	.	
+ch.1_262	RNASeq_stranded	transcript_region	203	206	1.0	-	.	
+ch.1_262	RNASeq_stranded	transcript_region	236	252	1.0	-	.	
+ch.1_262	WormBase	intron	261	314	.	+	.	Parent=Transcript:T22H6.5.1
+ch.1_262	RNASeq_splice	intron	261	314	179309.0	+	.	
+ch.1_262	RNASeq_splice	intron	261	316	258.0	+	.	
+ch.1_262	RNASeq_splice	intron	265	314	21.0	+	.	
+ch.1_262	RNASeq_splice	intron	265	316	33.0	+	.	
+ch.1_262	RNASeq_stranded	transcript_region	315	341	4.0	+	.	
+ch.1_262	RNASeq_reads	transcript_region	315	421	35.0	.	.	
+ch.1_262	WormBase	CDS	315	554	.	+	.	ID=CDS:T22H6.5;Parent=Transcript:T22H6.5.1
+ch.1_262	WormBase	exon	315	633	.	+	.	Parent=Transcript:T22H6.5.1
+ch.1_262	RNASeq_stranded	transcript_region	342	393	7.0	+	.	
+ch.1_262	RNASeq_stranded	transcript_region	394	450	4.0	+	.	
+ch.1_262	RNASeq_reads	transcript_region	422	570	53.0	.	.	
+ch.1_262	RNASeq_stranded	transcript_region	451	579	7.0	+	.	
+ch.1_262	RNASeq	transcription_end_site	514	514	.	+	.	
+ch.1_262	WormBase	three_prime_UTR	555	633	.	+	.	Parent=Transcript:T22H6.5.1
+ch.1_262	RNASeq_reads	transcript_region	571	586	32.0	.	.	
+ch.1_262	RNASeq_stranded	transcript_region	580	603	4.0	+	.	
+ch.1_262	RNASeq_reads	transcript_region	587	600	20.0	.	.	
+ch.1_262	RNASeq_reads	transcript_region	601	611	13.0	.	.	
+ch.1_262	RNASeq_stranded	transcript_region	604	616	2.0	+	.	
+ch.1_262	RNASeq_reads	transcript_region	612	620	8.0	.	.	
+ch.1_262	RNASeq_stranded	transcript_region	617	632	1.0	+	.	
+ch.1_262	RNASeq_reads	transcript_region	621	627	5.0	.	.	
+ch.1_262	RNASeq_reads	transcript_region	628	631	3.0	.	.	
+ch.1_262	RNASeq_reads	transcript_region	632	635	1.0	.	.	
+ch.1_262	RNASeq	transcription_end_site	633	633	.	+	.	

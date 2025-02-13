@@ -1,0 +1,45 @@
+ch.1_253	RNASeq_F_asymmetry	transcript_region	561	588	940.0	.	.	
+ch.1_253	RNASeq_F_asymmetry	transcript_region	555	558	1216.0	.	.	
+ch.1_253	RNASeq_F_asymmetry	transcript_region	548	554	1953.0	.	.	
+ch.1_253	RNASeq_reads	transcript_region	513	553	1.0	.	.	
+ch.1_253	RNASeq_F_asymmetry	transcript_region	530	547	2938.0	.	.	
+ch.1_253	WormBase	three_prime_UTR	508	547	.	+	.	Parent=Transcript:F56D6.18.1
+ch.1_253	WormBase	exon	340	547	.	+	.	Parent=Transcript:F56D6.18.1
+ch.1_253	WormBase	gene	101	547	.	+	.	ID=Gene:WBGene00235285
+ch.1_253	WormBase	mRNA	101	547	.	+	.	ID=Transcript:F56D6.18.1;Parent=Gene:WBGene00235285
+ch.1_253	RNASeq_F_asymmetry	transcript_region	510	529	4429.0	.	.	
+ch.1_253	RNASeq_reads	transcript_region	441	512	2.0	.	.	
+ch.1_253	RNASeq_F_asymmetry	transcript_region	501	509	6665.0	.	.	
+ch.1_253	WormBase	CDS	340	507	.	+	.	ID=CDS:F56D6.18;Parent=Transcript:F56D6.18.1
+ch.1_253	RNASeq	transcription_end_site	491	491	.	-	.	
+ch.1_253	RNASeq	transcription_end_site	491	491	.	-	.	
+ch.1_253	RNASeq_F_asymmetry	transcript_region	455	484	9512.0	.	.	
+ch.1_253	RNASeq_reads	transcript_region	340	440	4.0	.	.	
+ch.1_253	RNASeq_stranded	transcript_region	379	386	1.0	+	.	
+ch.1_253	RNASeq_stranded	transcript_region	350	377	1.0	+	.	
+ch.1_253	RNASeq_splice	intron	282	347	3.0	-	.	
+ch.1_253	RNASeq_splice	intron	288	339	9.0	+	.	
+ch.1_253	WormBase	intron	208	339	.	+	.	Parent=Transcript:F56D6.18.1
+ch.1_253	RNASeq_splice	intron	208	339	17148.0	+	.	
+ch.1_253	RNASeq_splice	intron	203	339	167.0	+	.	
+ch.1_253	RNASeq_F_asymmetry	transcript_region	310	337	128.0	.	.	
+ch.1_253	RNASeq_F_asymmetry	transcript_region	308	308	130.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	208	218	157.0	.	.	
+ch.1_253	RNASeq_reads	transcript_region	142	207	4.0	.	.	
+ch.1_253	WormBase	CDS	109	207	.	+	.	ID=CDS:F56D6.18;Parent=Transcript:F56D6.18.1
+ch.1_253	WormBase	exon	101	207	.	+	.	Parent=Transcript:F56D6.18.1
+ch.1_253	RNASeq_stranded	transcript_region	154	204	1.0	+	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	129	176	15121.0	.	.	
+ch.1_253	RNASeq_reads	transcript_region	121	141	2.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	119	128	9849.0	.	.	
+ch.1_253	RNASeq_reads	transcript_region	113	120	1.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	117	118	6231.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	113	116	3681.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	110	112	2275.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	106	109	1151.0	.	.	
+ch.1_253	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:F56D6.18.1
+ch.1_253	RNASeq_R_asymmetry	transcript_region	104	105	715.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	98	103	454.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	92	97	257.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	88	91	169.0	.	.	
+ch.1_253	RNASeq_R_asymmetry	transcript_region	87	87	68.0	.	.	

@@ -1,0 +1,63 @@
+ch.3_48	RNASeq_F_asymmetry	transcript_region	71	80	135.0	.	.	
+ch.3_48	RNASeq_F_asymmetry	transcript_region	81	85	213.0	.	.	
+ch.3_48	RNASeq_F_asymmetry	transcript_region	86	86	346.0	.	.	
+ch.3_48	RNASeq_F_asymmetry	transcript_region	87	93	1609.0	.	.	
+ch.3_48	RNASeq_F_asymmetry	transcript_region	94	96	2477.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	94	97	1.0	.	.	
+ch.3_48	RNASeq_F_asymmetry	transcript_region	97	97	3731.0	.	.	
+ch.3_48	RNASeq_F_asymmetry	transcript_region	98	99	8135.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	98	99	2.0	.	.	
+ch.3_48	RNASeq_F_asymmetry	transcript_region	100	100	40269.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	100	100	8.0	.	.	
+ch.3_48	WormBase	five_prime_UTR	101	105	.	+	.	Parent=Transcript:H10D18.2.1
+ch.3_48	RNASeq_F_asymmetry	transcript_region	101	108	227589.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	101	110	44.0	.	.	
+ch.3_48	WormBase	exon	101	279	.	+	.	Parent=Transcript:H10D18.2.1
+ch.3_48	WormBase	gene	101	947	.	+	.	ID=Gene:WBGene00019178
+ch.3_48	WormBase	mRNA	101	947	.	+	.	ID=Transcript:H10D18.2.1;Parent=Gene:WBGene00019178
+ch.3_48	WormBase	CDS	106	279	.	+	.	ID=CDS:H10D18.2;Parent=Transcript:H10D18.2.1
+ch.3_48	RNASeq_F_asymmetry	transcript_region	109	200	341679.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	111	204	68.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	205	279	42.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	280	289	1187.0	.	.	
+ch.3_48	RNASeq_splice	intron	280	317	51.0	+	.	
+ch.3_48	WormBase	intron	280	329	.	+	.	Parent=Transcript:H10D18.2.1
+ch.3_48	RNASeq_splice	intron	280	329	255362.0	+	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	316	316	1256.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	320	324	1315.0	.	.	
+ch.3_48	WormBase	CDS	330	464	.	+	.	ID=CDS:H10D18.2;Parent=Transcript:H10D18.2.1
+ch.3_48	WormBase	exon	330	464	.	+	.	Parent=Transcript:H10D18.2.1
+ch.3_48	RNASeq_reads	transcript_region	330	464	57.0	.	.	
+ch.3_48	RNASeq_splice	intron	373	568	3.0	+	.	
+ch.3_48	RNASeq_splice	intron	434	584	18.0	-	.	
+ch.3_48	RNASeq_reads	transcript_region	465	465	5.0	.	.	
+ch.3_48	WormBase	intron	465	509	.	+	.	Parent=Transcript:H10D18.2.1
+ch.3_48	RNASeq_splice	intron	465	509	218054.0	+	.	
+ch.3_48	RNASeq_reads	transcript_region	466	509	1.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	510	726	47.0	.	.	
+ch.3_48	WormBase	CDS	510	727	.	+	.	ID=CDS:H10D18.2;Parent=Transcript:H10D18.2.1
+ch.3_48	WormBase	exon	510	727	.	+	.	Parent=Transcript:H10D18.2.1
+ch.3_48	RNASeq_splice	intron	708	773	14.0	+	.	
+ch.3_48	RNASeq_splice	intron	716	773	82.0	+	.	
+ch.3_48	RNASeq_reads	transcript_region	727	727	31.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	728	729	1689.0	.	.	
+ch.3_48	WormBase	intron	728	773	.	+	.	Parent=Transcript:H10D18.2.1
+ch.3_48	RNASeq_splice	intron	728	773	133344.0	+	.	
+ch.3_48	RNASeq_reads	transcript_region	774	868	32.0	.	.	
+ch.3_48	WormBase	CDS	774	873	.	+	.	ID=CDS:H10D18.2;Parent=Transcript:H10D18.2.1
+ch.3_48	WormBase	exon	774	947	.	+	.	Parent=Transcript:H10D18.2.1
+ch.3_48	RNASeq_R_asymmetry	transcript_region	809	875	116316.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	869	885	21.0	.	.	
+ch.3_48	WormBase	three_prime_UTR	874	947	.	+	.	Parent=Transcript:H10D18.2.1
+ch.3_48	RNASeq_R_asymmetry	transcript_region	876	887	76598.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	886	916	12.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	888	917	48406.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	917	933	6.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	918	932	31580.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	933	947	17879.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	934	948	3.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	948	948	11322.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	949	951	5095.0	.	.	
+ch.3_48	RNASeq_reads	transcript_region	949	952	1.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	952	952	3059.0	.	.	
+ch.3_48	RNASeq_R_asymmetry	transcript_region	953	953	792.0	.	.	

@@ -1,0 +1,71 @@
+ch.1_543	RNASeq	transcription_end_site	887	887	.	-	.	
+ch.1_543	RNASeq	transcription_end_site	887	887	.	-	.	
+ch.1_543	RNASeq_reads	transcript_region	873	878	1.0	.	.	
+ch.1_543	RNASeq	transcription_end_site	874	874	.	-	.	
+ch.1_543	RNASeq	transcription_end_site	872	872	.	-	.	
+ch.1_543	RNASeq	transcription_end_site	872	872	.	-	.	
+ch.1_543	RNASeq_stranded	transcript_region	869	872	1.0	+	.	
+ch.1_543	RNASeq_reads	transcript_region	859	872	2.0	.	.	
+ch.1_543	WormBase	three_prime_UTR	693	870	.	+	.	Parent=Transcript:T04C12.11.1
+ch.1_543	WormBase	exon	565	870	.	+	.	Parent=Transcript:T04C12.11.1
+ch.1_543	WormBase	gene	101	870	.	+	.	ID=Gene:WBGene00077693
+ch.1_543	WormBase	mRNA	101	870	.	+	.	ID=Transcript:T04C12.11.1;Parent=Gene:WBGene00077693
+ch.1_543	RNASeq_stranded	transcript_region	859	868	2.0	+	.	
+ch.1_543	RNASeq_splice	intron	822	868	4.0	+	.	
+ch.1_543	RNASeq_splice	intron	763	868	4.0	+	.	
+ch.1_543	RNASeq_splice	intron	651	868	3.0	+	.	
+ch.1_543	RNASeq_reads	transcript_region	848	858	4.0	.	.	
+ch.1_543	RNASeq_stranded	transcript_region	846	858	4.0	+	.	
+ch.1_543	RNASeq	transcription_end_site	854	854	.	-	.	
+ch.1_543	RNASeq	transcription_end_site	854	854	.	-	.	
+ch.1_543	RNASeq	transcription_end_site	852	852	.	-	.	
+ch.1_543	RNASeq_reads	transcript_region	837	847	7.0	.	.	
+ch.1_543	RNASeq_stranded	transcript_region	834	845	7.0	+	.	
+ch.1_543	RNASeq_reads	transcript_region	807	836	11.0	.	.	
+ch.1_543	RNASeq_stranded	transcript_region	633	833	11.0	+	.	
+ch.1_543	RNASeq_F_asymmetry	transcript_region	825	826	48133.0	.	.	
+ch.1_543	RNASeq	transcription_end_site	816	816	.	-	.	
+ch.1_543	RNASeq	transcription_end_site	816	816	.	-	.	
+ch.1_543	RNASeq_F_asymmetry	transcript_region	805	810	55411.0	.	.	
+ch.1_543	RNASeq	transcription_end_site	809	809	.	-	.	
+ch.1_543	RNASeq_reads	transcript_region	788	806	17.0	.	.	
+ch.1_543	RNASeq_F_asymmetry	transcript_region	769	804	84161.0	.	.	
+ch.1_543	RNASeq_reads	transcript_region	739	787	26.0	.	.	
+ch.1_543	RNASeq_F_asymmetry	transcript_region	752	766	126005.0	.	.	
+ch.1_543	RNASeq_reads	transcript_region	720	738	40.0	.	.	
+ch.1_543	RNASeq_F_asymmetry	transcript_region	714	737	186865.0	.	.	
+ch.1_543	RNASeq_stranded	transcript_region	687	737	1.0	-	.	
+ch.1_543	RNASeq_splice	intron	680	721	5.0	+	.	
+ch.1_543	RNASeq_splice	intron	676	721	4.0	+	.	
+ch.1_543	RNASeq_reads	transcript_region	577	719	61.0	.	.	
+ch.1_543	RNASeq	transcription_end_site	696	696	.	-	.	
+ch.1_543	RNASeq	transcription_end_site	696	696	.	-	.	
+ch.1_543	WormBase	CDS	565	692	.	+	.	ID=CDS:T04C12.11;Parent=Transcript:T04C12.11.1
+ch.1_543	RNASeq_stranded	transcript_region	625	632	7.0	+	.	
+ch.1_543	RNASeq_stranded	transcript_region	565	624	11.0	+	.	
+ch.1_543	RNASeq_reads	transcript_region	565	576	92.0	.	.	
+ch.1_543	RNASeq_reads	transcript_region	563	564	10.0	.	.	
+ch.1_543	RNASeq_stranded	transcript_region	563	564	2.0	+	.	
+ch.1_543	WormBase	intron	308	564	.	+	.	Parent=Transcript:T04C12.11.1
+ch.1_543	RNASeq_splice	intron	308	564	455117.0	+	.	
+ch.1_543	RNASeq_stranded	transcript_region	254	307	12.0	+	.	
+ch.1_543	RNASeq_reads	transcript_region	117	307	83.0	.	.	
+ch.1_543	WormBase	CDS	115	307	.	+	.	ID=CDS:T04C12.11;Parent=Transcript:T04C12.11.1
+ch.1_543	WormBase	exon	101	307	.	+	.	Parent=Transcript:T04C12.11.1
+ch.1_543	RNASeq_splice	intron	257	291	10.0	+	.	
+ch.1_543	RNASeq_splice	intron	196	282	11.0	+	.	
+ch.1_543	RNASeq_splice	intron	167	274	3.0	-	.	
+ch.1_543	RNASeq_stranded	transcript_region	216	253	7.0	+	.	
+ch.1_543	RNASeq_stranded	transcript_region	160	215	11.0	+	.	
+ch.1_543	RNASeq_R_asymmetry	transcript_region	108	177	298371.0	.	.	
+ch.1_543	RNASeq_stranded	transcript_region	152	159	21.0	+	.	
+ch.1_543	RNASeq_stranded	transcript_region	109	151	32.0	+	.	
+ch.1_543	RNASeq_reads	transcript_region	107	116	54.0	.	.	
+ch.1_543	WormBase	five_prime_UTR	101	114	.	+	.	Parent=Transcript:T04C12.11.1
+ch.1_543	RNASeq_stranded	transcript_region	103	108	17.0	+	.	
+ch.1_543	RNASeq_R_asymmetry	transcript_region	103	107	191497.0	.	.	
+ch.1_543	RNASeq_reads	transcript_region	102	106	34.0	.	.	
+ch.1_543	RNASeq_stranded	transcript_region	102	102	10.0	-	.	
+ch.1_543	RNASeq_R_asymmetry	transcript_region	101	102	116607.0	.	.	
+ch.1_543	RNASeq_reads	transcript_region	101	101	19.0	.	.	
+ch.1_543	RNASeq_stranded	transcript_region	101	101	6.0	-	.	

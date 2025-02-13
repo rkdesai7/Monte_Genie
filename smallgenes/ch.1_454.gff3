@@ -1,0 +1,38 @@
+ch.1_454	RNASeq_splice	intron	695	738	96.0	-	.	
+ch.1_454	RNASeq_splice	intron	614	738	5.0	-	.	
+ch.1_454	WormBase	three_prime_UTR	675	717	.	+	.	Parent=Transcript:ZK355.3.1
+ch.1_454	WormBase	exon	556	717	.	+	.	Parent=Transcript:ZK355.3.1
+ch.1_454	WormBase	gene	101	717	.	+	.	ID=Gene:WBGene00022713
+ch.1_454	WormBase	mRNA	101	717	.	+	.	ID=Transcript:ZK355.3.1;Parent=Gene:WBGene00022713
+ch.1_454	RNASeq_reads	transcript_region	696	713	1.0	.	.	
+ch.1_454	RNASeq_stranded	transcript_region	678	706	1.0	+	.	
+ch.1_454	RNASeq_F_asymmetry	transcript_region	694	695	8345.0	.	.	
+ch.1_454	RNASeq_reads	transcript_region	694	695	2.0	.	.	
+ch.1_454	RNASeq_F_asymmetry	transcript_region	690	693	19324.0	.	.	
+ch.1_454	RNASeq_reads	transcript_region	689	693	4.0	.	.	
+ch.1_454	RNASeq_F_asymmetry	transcript_region	669	689	30742.0	.	.	
+ch.1_454	RNASeq_reads	transcript_region	662	688	7.0	.	.	
+ch.1_454	RNASeq_stranded	transcript_region	565	677	2.0	+	.	
+ch.1_454	WormBase	CDS	556	674	.	+	.	ID=CDS:ZK355.3;Parent=Transcript:ZK355.3.1
+ch.1_454	RNASeq_F_asymmetry	transcript_region	647	668	46149.0	.	.	
+ch.1_454	RNASeq_reads	transcript_region	572	661	11.0	.	.	
+ch.1_454	RNASeq_F_asymmetry	transcript_region	602	646	69965.0	.	.	
+ch.1_454	RNASeq_reads	transcript_region	556	571	17.0	.	.	
+ch.1_454	RNASeq_stranded	transcript_region	556	564	1.0	+	.	
+ch.1_454	WormBase	intron	513	555	.	+	.	Parent=Transcript:ZK355.3.1
+ch.1_454	RNASeq_splice	intron	513	555	72578.0	+	.	
+ch.1_454	RNASeq_splice	intron	509	555	3.0	+	.	
+ch.1_454	RNASeq_splice	intron	503	555	15.0	+	.	
+ch.1_454	RNASeq_reads	transcript_region	445	512	14.0	.	.	
+ch.1_454	RNASeq_stranded	transcript_region	442	512	1.0	+	.	
+ch.1_454	WormBase	CDS	101	512	.	+	.	ID=CDS:ZK355.3;Parent=Transcript:ZK355.3.1
+ch.1_454	WormBase	exon	101	512	.	+	.	Parent=Transcript:ZK355.3.1
+ch.1_454	RNASeq_R_asymmetry	transcript_region	443	504	58347.0	.	.	
+ch.1_454	RNASeq_reads	transcript_region	440	444	9.0	.	.	
+ch.1_454	RNASeq_R_asymmetry	transcript_region	440	442	37760.0	.	.	
+ch.1_454	RNASeq_R_asymmetry	transcript_region	433	439	23881.0	.	.	
+ch.1_454	RNASeq_reads	transcript_region	433	439	5.0	.	.	
+ch.1_454	RNASeq_splice	intron	203	332	22.0	-	.	
+ch.1_454	RNASeq_F_asymmetry	transcript_region	68	71	1235.0	.	.	
+ch.1_454	RNASeq_F_asymmetry	transcript_region	43	66	1341.0	.	.	
+ch.1_454	RNASeq_F_asymmetry	transcript_region	40	41	1537.0	.	.	

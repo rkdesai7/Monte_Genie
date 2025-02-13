@@ -1,0 +1,53 @@
+ch.1_427	RNASeq_F_asymmetry	transcript_region	856	864	452.0	.	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	842	855	716.0	.	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	825	841	1138.0	.	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	766	824	1768.0	.	.	
+ch.1_427	RNASeq	transcription_end_site	771	771	.	-	.	
+ch.1_427	RNASeq	transcription_end_site	771	771	.	-	.	
+ch.1_427	RNASeq_reads	transcript_region	747	765	1.0	.	.	
+ch.1_427	WormBase	three_prime_UTR	706	765	.	+	.	Parent=Transcript:M151.10.1
+ch.1_427	WormBase	exon	500	765	.	+	.	Parent=Transcript:M151.10.1
+ch.1_427	WormBase	gene	101	765	.	+	.	ID=Gene:WBGene00303365
+ch.1_427	WormBase	mRNA	101	765	.	+	.	ID=Transcript:M151.10.1;Parent=Gene:WBGene00303365
+ch.1_427	RNASeq_F_asymmetry	transcript_region	764	764	2432.0	.	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	746	763	4307.0	.	.	
+ch.1_427	RNASeq_splice	intron	718	763	564.0	-	.	
+ch.1_427	RNASeq_splice	intron	679	763	8.0	-	.	
+ch.1_427	RNASeq_splice	intron	287	763	3.0	-	.	
+ch.1_427	RNASeq_reads	transcript_region	670	746	2.0	.	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	704	745	6463.0	.	.	
+ch.1_427	RNASeq_splice	intron	679	731	5.0	-	.	
+ch.1_427	WormBase	CDS	500	705	.	+	.	ID=CDS:M151.10;Parent=Transcript:M151.10.1
+ch.1_427	RNASeq_F_asymmetry	transcript_region	678	697	8332.0	.	.	
+ch.1_427	RNASeq_stranded	transcript_region	636	683	1.0	+	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	673	677	12583.0	.	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	652	671	12670.0	.	.	
+ch.1_427	RNASeq_reads	transcript_region	581	669	4.0	.	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	617	624	19715.0	.	.	
+ch.1_427	RNASeq_stranded	transcript_region	594	605	1.0	+	.	
+ch.1_427	RNASeq_stranded	transcript_region	559	593	2.0	+	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	579	580	26560.0	.	.	
+ch.1_427	RNASeq_reads	transcript_region	527	580	7.0	.	.	
+ch.1_427	RNASeq_F_asymmetry	transcript_region	575	576	27931.0	.	.	
+ch.1_427	RNASeq_stranded	transcript_region	500	558	1.0	+	.	
+ch.1_427	RNASeq_reads	transcript_region	500	526	4.0	.	.	
+ch.1_427	RNASeq_splice	intron	313	521	43.0	-	.	
+ch.1_427	RNASeq_splice	intron	287	521	838.0	-	.	
+ch.1_427	RNASeq_splice	intron	339	514	9.0	+	.	
+ch.1_427	WormBase	intron	339	499	.	+	.	Parent=Transcript:M151.10.1
+ch.1_427	RNASeq_splice	intron	339	499	21816.0	+	.	
+ch.1_427	RNASeq_splice	intron	287	474	4.0	-	.	
+ch.1_427	RNASeq_stranded	transcript_region	332	338	1.0	+	.	
+ch.1_427	RNASeq_reads	transcript_region	165	338	4.0	.	.	
+ch.1_427	WormBase	CDS	101	338	.	+	.	ID=CDS:M151.10;Parent=Transcript:M151.10.1
+ch.1_427	WormBase	exon	101	338	.	+	.	Parent=Transcript:M151.10.1
+ch.1_427	RNASeq_stranded	transcript_region	313	331	2.0	+	.	
+ch.1_427	RNASeq_stranded	transcript_region	285	312	1.0	+	.	
+ch.1_427	RNASeq_splice	intron	178	229	16.0	-	.	
+ch.1_427	RNASeq_stranded	transcript_region	190	224	1.0	+	.	
+ch.1_427	RNASeq_reads	transcript_region	114	164	2.0	.	.	
+ch.1_427	RNASeq_stranded	transcript_region	100	147	1.0	+	.	
+ch.1_427	RNASeq_R_asymmetry	transcript_region	110	143	7839.0	.	.	
+ch.1_427	RNASeq_reads	transcript_region	104	113	1.0	.	.	
+ch.1_427	RNASeq_R_asymmetry	transcript_region	108	109	4904.0	.	.	
+ch.1_427	RNASeq_R_asymmetry	transcript_region	107	107	3015.0	.	.	

@@ -1,0 +1,32 @@
+ch.2_30	RNASeq_reads	transcript_region	59	96	1.0	.	.	
+ch.2_30	RNASeq_F_asymmetry	transcript_region	75	91	3428.0	.	.	
+ch.2_30	RNASeq_splice	intron	82	162	3.0	-	.	
+ch.2_30	RNASeq_F_asymmetry	transcript_region	92	99	5147.0	.	.	
+ch.2_30	RNASeq_reads	transcript_region	97	198	2.0	.	.	
+ch.2_30	RNASeq_F_asymmetry	transcript_region	100	144	8467.0	.	.	
+ch.2_30	WormBase	five_prime_UTR	101	182	.	+	.	Parent=Transcript:K10C8.4.1
+ch.2_30	WormBase	exon	101	210	.	+	.	Parent=Transcript:K10C8.4.1
+ch.2_30	WormBase	gene	101	695	.	+	.	ID=Gene:WBGene00010737
+ch.2_30	WormBase	mRNA	101	695	.	+	.	ID=Transcript:K10C8.4.1;Parent=Gene:WBGene00010737
+ch.2_30	RNASeq_stranded	transcript_region	160	210	1.0	+	.	
+ch.2_30	WormBase	CDS	183	210	.	+	.	ID=CDS:K10C8.4;Parent=Transcript:K10C8.4.1
+ch.2_30	RNASeq_reads	transcript_region	199	210	4.0	.	.	
+ch.2_30	RNASeq_reads	transcript_region	211	213	1.0	.	.	
+ch.2_30	WormBase	intron	211	278	.	+	.	Parent=Transcript:K10C8.4.1
+ch.2_30	RNASeq_splice	intron	211	278	14472.0	+	.	
+ch.2_30	WormBase	CDS	279	394	.	+	.	ID=CDS:K10C8.4;Parent=Transcript:K10C8.4.1
+ch.2_30	WormBase	exon	279	394	.	+	.	Parent=Transcript:K10C8.4.1
+ch.2_30	RNASeq_reads	transcript_region	279	394	3.0	.	.	
+ch.2_30	RNASeq_stranded	transcript_region	296	299	1.0	+	.	
+ch.2_30	RNASeq_stranded	transcript_region	301	344	1.0	+	.	
+ch.2_30	WormBase	intron	395	445	.	+	.	Parent=Transcript:K10C8.4.1
+ch.2_30	RNASeq_splice	intron	395	445	17932.0	+	.	
+ch.2_30	RNASeq_splice	intron	399	445	9.0	+	.	
+ch.2_30	WormBase	CDS	446	589	.	+	.	ID=CDS:K10C8.4;Parent=Transcript:K10C8.4.1
+ch.2_30	RNASeq_reads	transcript_region	446	632	4.0	.	.	
+ch.2_30	WormBase	exon	446	695	.	+	.	Parent=Transcript:K10C8.4.1
+ch.2_30	RNASeq_stranded	transcript_region	456	456	1.0	+	.	
+ch.2_30	RNASeq_stranded	transcript_region	490	494	1.0	+	.	
+ch.2_30	RNASeq_stranded	transcript_region	539	671	1.0	+	.	
+ch.2_30	WormBase	three_prime_UTR	590	695	.	+	.	Parent=Transcript:K10C8.4.1
+ch.2_30	RNASeq_reads	transcript_region	633	669	2.0	.	.	

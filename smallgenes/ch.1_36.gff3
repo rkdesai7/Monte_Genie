@@ -1,0 +1,34 @@
+ch.1_36	WormBase	three_prime_UTR	441	543	.	-	.	Parent=Transcript:F49D11.2.1
+ch.1_36	RNASeq_stranded	transcript_region	490	523	1.0	-	.	
+ch.1_36	RNASeq_reads	transcript_region	454	455	1.0	.	.	
+ch.1_36	RNASeq_F_asymmetry	transcript_region	454	454	4857.0	.	.	
+ch.1_36	WormBase	three_prime_UTR	448	454	.	+	.	Parent=Transcript:F49D11.7.1
+ch.1_36	WormBase	exon	384	454	.	+	.	Parent=Transcript:F49D11.7.1
+ch.1_36	WormBase	gene	101	454	.	+	.	ID=Gene:WBGene00018631
+ch.1_36	WormBase	mRNA	101	454	.	+	.	ID=Transcript:F49D11.7.1;Parent=Gene:WBGene00018631
+ch.1_36	RNASeq_F_asymmetry	transcript_region	432	453	7417.0	.	.	
+ch.1_36	RNASeq_reads	transcript_region	404	453	2.0	.	.	
+ch.1_36	WormBase	CDS	384	447	.	+	.	ID=CDS:F49D11.7;Parent=Transcript:F49D11.7.1
+ch.1_36	RNASeq_stranded	transcript_region	384	435	1.0	+	.	
+ch.1_36	RNASeq_F_asymmetry	transcript_region	401	431	11143.0	.	.	
+ch.1_36	RNASeq_reads	transcript_region	384	403	4.0	.	.	
+ch.1_36	RNASeq_F_asymmetry	transcript_region	384	400	17463.0	.	.	
+ch.1_36	RNASeq_splice	intron	273	383	3.0	+	.	
+ch.1_36	WormBase	intron	269	383	.	+	.	Parent=Transcript:F49D11.7.1
+ch.1_36	RNASeq_splice	intron	269	383	21360.0	+	.	
+ch.1_36	RNASeq_F_asymmetry	transcript_region	249	268	17654.0	.	.	
+ch.1_36	RNASeq_stranded	transcript_region	207	268	1.0	+	.	
+ch.1_36	WormBase	CDS	129	268	.	+	.	ID=CDS:F49D11.7;Parent=Transcript:F49D11.7.1
+ch.1_36	RNASeq_reads	transcript_region	123	268	4.0	.	.	
+ch.1_36	WormBase	exon	101	268	.	+	.	Parent=Transcript:F49D11.7.1
+ch.1_36	RNASeq_stranded	transcript_region	169	199	1.0	+	.	
+ch.1_36	RNASeq_stranded	transcript_region	118	168	2.0	+	.	
+ch.1_36	RNASeq_R_asymmetry	transcript_region	124	164	21008.0	.	.	
+ch.1_36	WormBase	five_prime_UTR	101	128	.	+	.	Parent=Transcript:F49D11.7.1
+ch.1_36	RNASeq_R_asymmetry	transcript_region	116	123	13237.0	.	.	
+ch.1_36	RNASeq_reads	transcript_region	111	122	2.0	.	.	
+ch.1_36	RNASeq_stranded	transcript_region	108	117	1.0	+	.	
+ch.1_36	RNASeq_R_asymmetry	transcript_region	110	115	8252.0	.	.	
+ch.1_36	RNASeq_reads	transcript_region	106	110	1.0	.	.	
+ch.1_36	RNASeq_R_asymmetry	transcript_region	106	109	4088.0	.	.	
+ch.1_36	RNASeq_R_asymmetry	transcript_region	103	105	1882.0	.	.	

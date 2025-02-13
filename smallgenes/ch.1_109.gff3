@@ -1,0 +1,43 @@
+ch.1_109	RNASeq_reads	transcript_region	99	101	1.0	.	.	
+ch.1_109	WormBase	five_prime_UTR	101	135	.	+	.	Parent=Transcript:F35C5.10.1
+ch.1_109	WormBase	exon	101	149	.	+	.	Parent=Transcript:F35C5.10.1
+ch.1_109	WormBase	gene	101	514	.	+	.	ID=Gene:WBGene00009398
+ch.1_109	WormBase	mRNA	101	514	.	+	.	ID=Transcript:F35C5.10.1;Parent=Gene:WBGene00009398
+ch.1_109	RNASeq_reads	transcript_region	102	103	3.0	.	.	
+ch.1_109	RNASeq_reads	transcript_region	104	116	8.0	.	.	
+ch.1_109	RNASeq_stranded	transcript_region	116	149	1.0	+	.	
+ch.1_109	RNASeq_reads	transcript_region	117	128	16.0	.	.	
+ch.1_109	RNASeq_reads	transcript_region	129	149	25.0	.	.	
+ch.1_109	WormBase	CDS	136	149	.	+	.	ID=CDS:F35C5.10;Parent=Transcript:F35C5.10.1
+ch.1_109	RNASeq_splice	intron	147	201	78.0	+	.	
+ch.1_109	WormBase	intron	150	201	.	+	.	Parent=Transcript:F35C5.10.1
+ch.1_109	RNASeq_splice	intron	150	201	152925.0	+	.	
+ch.1_109	RNASeq_reads	transcript_region	201	201	4.0	.	.	
+ch.1_109	RNASeq_stranded	transcript_region	202	221	1.0	+	.	
+ch.1_109	RNASeq_reads	transcript_region	202	244	32.0	.	.	
+ch.1_109	WormBase	CDS	202	430	.	+	.	ID=CDS:F35C5.10;Parent=Transcript:F35C5.10.1
+ch.1_109	WormBase	exon	202	514	.	+	.	Parent=Transcript:F35C5.10.1
+ch.1_109	RNASeq_stranded	transcript_region	222	258	2.0	+	.	
+ch.1_109	RNASeq_reads	transcript_region	245	289	49.0	.	.	
+ch.1_109	RNASeq_stranded	transcript_region	259	269	4.0	+	.	
+ch.1_109	RNASeq_stranded	transcript_region	270	320	8.0	+	.	
+ch.1_109	RNASeq_splice	intron	280	318	14.0	-	.	
+ch.1_109	RNASeq_reads	transcript_region	290	428	74.0	.	.	
+ch.1_109	RNASeq_stranded	transcript_region	321	453	3.0	+	.	
+ch.1_109	RNASeq_reads	transcript_region	429	442	48.0	.	.	
+ch.1_109	WormBase	three_prime_UTR	431	514	.	+	.	Parent=Transcript:F35C5.10.1
+ch.1_109	RNASeq_reads	transcript_region	443	457	31.0	.	.	
+ch.1_109	RNASeq	transcription_end_site	445	445	.	+	.	
+ch.1_109	RNASeq_stranded	transcript_region	454	458	1.0	+	.	
+ch.1_109	RNASeq_reads	transcript_region	458	481	20.0	.	.	
+ch.1_109	RNASeq_stranded	transcript_region	459	460	2.0	+	.	
+ch.1_109	RNASeq_stranded	transcript_region	461	501	1.0	+	.	
+ch.1_109	RNASeq	transcription_end_site	469	469	.	+	.	
+ch.1_109	RNASeq_reads	transcript_region	482	501	13.0	.	.	
+ch.1_109	RNASeq_reads	transcript_region	502	510	8.0	.	.	
+ch.1_109	RNASeq_reads	transcript_region	511	512	5.0	.	.	
+ch.1_109	RNASeq_reads	transcript_region	513	514	2.0	.	.	
+ch.1_109	RNASeq	transcription_end_site	515	515	.	+	.	
+ch.1_109	RNASeq_reads	transcript_region	515	516	1.0	.	.	
+ch.1_109	RNASeq	transcription_end_site	516	516	.	+	.	
+ch.1_109	RNASeq	transcription_end_site	536	536	.	+	.	

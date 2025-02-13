@@ -1,0 +1,66 @@
+ch.1_490	RNASeq_stranded	transcript_region	839	870	20.0	-	.	
+ch.1_490	RNASeq	transcription_end_site	854	854	.	-	.	
+ch.1_490	WormBase	three_prime_UTR	709	848	.	-	.	Parent=Transcript:T20B3.1a.1
+ch.1_490	WormBase	three_prime_UTR	705	848	.	-	.	Parent=Transcript:T20B3.1b.1
+ch.1_490	RNASeq	transcription_end_site	843	843	.	-	.	
+ch.1_490	RNASeq_reads	transcript_region	827	843	11.0	.	.	
+ch.1_490	RNASeq	transcription_end_site	841	841	.	-	.	
+ch.1_490	RNASeq_stranded	transcript_region	808	838	13.0	-	.	
+ch.1_490	RNASeq	transcription_end_site	827	827	.	-	.	
+ch.1_490	RNASeq_reads	transcript_region	794	826	7.0	.	.	
+ch.1_490	RNASeq	transcription_end_site	819	819	.	-	.	
+ch.1_490	RNASeq_stranded	transcript_region	791	807	8.0	-	.	
+ch.1_490	RNASeq_R_asymmetry	transcript_region	799	804	26129.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	783	793	4.0	.	.	
+ch.1_490	RNASeq_stranded	transcript_region	785	791	1.0	+	.	
+ch.1_490	RNASeq_stranded	transcript_region	761	790	5.0	-	.	
+ch.1_490	WormBase	three_prime_UTR	730	790	.	+	.	Parent=Transcript:T20B3.14.1
+ch.1_490	WormBase	exon	614	790	.	+	.	Parent=Transcript:T20B3.14.1
+ch.1_490	WormBase	gene	101	790	.	+	.	ID=Gene:WBGene00011854
+ch.1_490	WormBase	mRNA	101	790	.	+	.	ID=Transcript:T20B3.14.1;Parent=Gene:WBGene00011854
+ch.1_490	RNASeq	transcription_end_site	787	787	.	-	.	
+ch.1_490	RNASeq_stranded	transcript_region	760	784	2.0	+	.	
+ch.1_490	RNASeq_reads	transcript_region	769	782	7.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	712	768	11.0	.	.	
+ch.1_490	RNASeq_stranded	transcript_region	731	760	3.0	-	.	
+ch.1_490	RNASeq_stranded	transcript_region	716	759	4.0	+	.	
+ch.1_490	RNASeq_stranded	transcript_region	712	730	1.0	-	.	
+ch.1_490	WormBase	CDS	614	729	.	+	.	ID=CDS:T20B3.14;Parent=Transcript:T20B3.14.1
+ch.1_490	RNASeq_stranded	transcript_region	645	715	7.0	+	.	
+ch.1_490	RNASeq_reads	transcript_region	697	711	17.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	614	696	26.0	.	.	
+ch.1_490	RNASeq_splice	intron	184	673	5.0	+	.	
+ch.1_490	RNASeq_stranded	transcript_region	615	644	4.0	+	.	
+ch.1_490	RNASeq_splice	intron	188	616	99.0	+	.	
+ch.1_490	RNASeq_stranded	transcript_region	614	614	2.0	-	.	
+ch.1_490	RNASeq_stranded	transcript_region	613	613	1.0	-	.	
+ch.1_490	RNASeq_reads	transcript_region	612	613	4.0	.	.	
+ch.1_490	WormBase	intron	184	613	.	+	.	Parent=Transcript:T20B3.14.1
+ch.1_490	RNASeq_splice	intron	184	613	124528.0	+	.	
+ch.1_490	RNASeq	transcription_end_site	611	611	.	-	.	
+ch.1_490	RNASeq_reads	transcript_region	431	611	1.0	.	.	
+ch.1_490	RNASeq_splice	intron	184	587	20.0	+	.	
+ch.1_490	RNASeq_splice	intron	184	515	13.0	+	.	
+ch.1_490	RNASeq_reads	transcript_region	423	426	1.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	417	417	1.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	415	415	1.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	185	413	1.0	.	.	
+ch.1_490	RNASeq_R_asymmetry	transcript_region	184	184	10521.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	184	184	3.0	.	.	
+ch.1_490	RNASeq_stranded	transcript_region	184	184	1.0	-	.	
+ch.1_490	RNASeq_reads	transcript_region	116	183	29.0	.	.	
+ch.1_490	WormBase	CDS	105	183	.	+	.	ID=CDS:T20B3.14;Parent=Transcript:T20B3.14.1
+ch.1_490	RNASeq_stranded	transcript_region	104	183	4.0	+	.	
+ch.1_490	WormBase	exon	101	183	.	+	.	Parent=Transcript:T20B3.14.1
+ch.1_490	RNASeq_R_asymmetry	transcript_region	107	145	106175.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	104	115	19.0	.	.	
+ch.1_490	RNASeq_R_asymmetry	transcript_region	100	106	62409.0	.	.	
+ch.1_490	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:T20B3.14.1
+ch.1_490	RNASeq_reads	transcript_region	100	103	12.0	.	.	
+ch.1_490	RNASeq_stranded	transcript_region	99	103	2.0	+	.	
+ch.1_490	RNASeq_R_asymmetry	transcript_region	99	99	30685.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	99	99	7.0	.	.	
+ch.1_490	RNASeq_R_asymmetry	transcript_region	88	98	9286.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	88	98	2.0	.	.	
+ch.1_490	RNASeq_reads	transcript_region	52	87	1.0	.	.	
+ch.1_490	RNASeq_R_asymmetry	transcript_region	79	82	4749.0	.	.	

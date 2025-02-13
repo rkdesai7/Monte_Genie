@@ -1,0 +1,34 @@
+ch.1_541	RNASeq_F_asymmetry	transcript_region	101	105	1133.0	.	.	
+ch.1_541	WormBase	five_prime_UTR	101	160	.	+	.	Parent=Transcript:Y39E4A.1.1
+ch.1_541	WormBase	exon	101	466	.	+	.	Parent=Transcript:Y39E4A.1.1
+ch.1_541	WormBase	gene	101	1072	.	+	.	ID=Gene:WBGene00012711
+ch.1_541	WormBase	mRNA	101	1072	.	+	.	ID=Transcript:Y39E4A.1.1;Parent=Gene:WBGene00012711
+ch.1_541	RNASeq_F_asymmetry	transcript_region	106	110	2165.0	.	.	
+ch.1_541	RNASeq_reads	transcript_region	107	128	1.0	.	.	
+ch.1_541	RNASeq_F_asymmetry	transcript_region	111	112	3292.0	.	.	
+ch.1_541	RNASeq_F_asymmetry	transcript_region	113	136	4946.0	.	.	
+ch.1_541	RNASeq_reads	transcript_region	129	364	2.0	.	.	
+ch.1_541	RNASeq_F_asymmetry	transcript_region	137	162	7782.0	.	.	
+ch.1_541	RNASeq_stranded	transcript_region	154	233	1.0	+	.	
+ch.1_541	WormBase	CDS	161	466	.	+	.	ID=CDS:Y39E4A.1;Parent=Transcript:Y39E4A.1.1
+ch.1_541	RNASeq_stranded	transcript_region	238	241	1.0	+	.	
+ch.1_541	RNASeq_stranded	transcript_region	246	246	1.0	+	.	
+ch.1_541	RNASeq_stranded	transcript_region	251	311	1.0	+	.	
+ch.1_541	RNASeq_stranded	transcript_region	362	408	1.0	+	.	
+ch.1_541	RNASeq_reads	transcript_region	365	466	4.0	.	.	
+ch.1_541	RNASeq_splice	intron	467	915	9.0	+	.	
+ch.1_541	WormBase	intron	467	935	.	+	.	Parent=Transcript:Y39E4A.1.1
+ch.1_541	RNASeq_splice	intron	467	935	14330.0	+	.	
+ch.1_541	RNASeq_R_asymmetry	transcript_region	551	564	88.0	.	.	
+ch.1_541	RNASeq_reads	transcript_region	936	1025	3.0	.	.	
+ch.1_541	WormBase	CDS	936	1031	.	+	.	ID=CDS:Y39E4A.1;Parent=Transcript:Y39E4A.1.1
+ch.1_541	WormBase	exon	936	1072	.	+	.	Parent=Transcript:Y39E4A.1.1
+ch.1_541	RNASeq_R_asymmetry	transcript_region	977	1025	9907.0	.	.	
+ch.1_541	RNASeq_R_asymmetry	transcript_region	1026	1045	6526.0	.	.	
+ch.1_541	RNASeq_reads	transcript_region	1026	1064	1.0	.	.	
+ch.1_541	WormBase	three_prime_UTR	1032	1072	.	+	.	Parent=Transcript:Y39E4A.1.1
+ch.1_541	RNASeq_R_asymmetry	transcript_region	1046	1052	4205.0	.	.	
+ch.1_541	RNASeq_R_asymmetry	transcript_region	1053	1070	2773.0	.	.	
+ch.1_541	RNASeq_R_asymmetry	transcript_region	1071	1076	1800.0	.	.	
+ch.1_541	RNASeq_R_asymmetry	transcript_region	1113	1134	140.0	.	.	
+ch.1_541	RNASeq_R_asymmetry	transcript_region	1137	1137	100.0	.	.	

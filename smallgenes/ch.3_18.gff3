@@ -1,0 +1,58 @@
+ch.3_18	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:F17E9.3.1
+ch.3_18	WormBase	exon	101	263	.	+	.	Parent=Transcript:F17E9.3.1
+ch.3_18	WormBase	gene	101	692	.	+	.	ID=Gene:WBGene00017540
+ch.3_18	WormBase	mRNA	101	692	.	+	.	ID=Transcript:F17E9.3.1;Parent=Gene:WBGene00017540
+ch.3_18	RNASeq_F_asymmetry	transcript_region	102	103	940.0	.	.	
+ch.3_18	RNASeq_stranded	transcript_region	103	105	1.0	+	.	
+ch.3_18	WormBase	CDS	103	263	.	+	.	ID=CDS:F17E9.3;Parent=Transcript:F17E9.3.1
+ch.3_18	RNASeq_F_asymmetry	transcript_region	104	106	1681.0	.	.	
+ch.3_18	RNASeq_reads	transcript_region	106	128	1.0	.	.	
+ch.3_18	RNASeq_stranded	transcript_region	106	205	2.0	+	.	
+ch.3_18	RNASeq_F_asymmetry	transcript_region	107	110	3063.0	.	.	
+ch.3_18	RNASeq_F_asymmetry	transcript_region	111	135	4659.0	.	.	
+ch.3_18	RNASeq_reads	transcript_region	129	252	2.0	.	.	
+ch.3_18	RNASeq_F_asymmetry	transcript_region	136	151	7109.0	.	.	
+ch.3_18	RNASeq_stranded	transcript_region	206	243	1.0	+	.	
+ch.3_18	RNASeq_stranded	transcript_region	244	259	2.0	+	.	
+ch.3_18	RNASeq_reads	transcript_region	253	263	1.0	.	.	
+ch.3_18	RNASeq_stranded	transcript_region	260	263	1.0	+	.	
+ch.3_18	WormBase	intron	264	312	.	+	.	Parent=Transcript:F17E9.3.1
+ch.3_18	RNASeq_splice	intron	264	312	5918.0	+	.	
+ch.3_18	RNASeq_splice	intron	273	342	6.0	-	.	
+ch.3_18	RNASeq_stranded	transcript_region	313	320	1.0	+	.	
+ch.3_18	RNASeq_reads	transcript_region	313	361	1.0	.	.	
+ch.3_18	WormBase	CDS	313	418	.	+	.	ID=CDS:F17E9.3;Parent=Transcript:F17E9.3.1
+ch.3_18	WormBase	exon	313	418	.	+	.	Parent=Transcript:F17E9.3.1
+ch.3_18	RNASeq_stranded	transcript_region	321	323	2.0	+	.	
+ch.3_18	RNASeq_stranded	transcript_region	324	336	1.0	+	.	
+ch.3_18	RNASeq_stranded	transcript_region	337	338	2.0	+	.	
+ch.3_18	RNASeq_stranded	transcript_region	339	377	1.0	+	.	
+ch.3_18	RNASeq_reads	transcript_region	362	363	2.0	.	.	
+ch.3_18	RNASeq_reads	transcript_region	364	369	1.0	.	.	
+ch.3_18	RNASeq_reads	transcript_region	370	373	2.0	.	.	
+ch.3_18	RNASeq_reads	transcript_region	374	375	1.0	.	.	
+ch.3_18	RNASeq_reads	transcript_region	376	417	2.0	.	.	
+ch.3_18	RNASeq_stranded	transcript_region	378	418	2.0	+	.	
+ch.3_18	RNASeq_reads	transcript_region	418	418	1.0	.	.	
+ch.3_18	WormBase	intron	419	461	.	+	.	Parent=Transcript:F17E9.3.1
+ch.3_18	RNASeq_splice	intron	419	461	7876.0	+	.	
+ch.3_18	RNASeq_stranded	transcript_region	462	472	3.0	+	.	
+ch.3_18	WormBase	CDS	462	571	.	+	.	ID=CDS:F17E9.3;Parent=Transcript:F17E9.3.1
+ch.3_18	WormBase	exon	462	571	.	+	.	Parent=Transcript:F17E9.3.1
+ch.3_18	RNASeq_reads	transcript_region	462	571	2.0	.	.	
+ch.3_18	RNASeq_stranded	transcript_region	473	498	5.0	+	.	
+ch.3_18	RNASeq_stranded	transcript_region	499	527	8.0	+	.	
+ch.3_18	RNASeq_stranded	transcript_region	528	571	13.0	+	.	
+ch.3_18	WormBase	intron	572	619	.	+	.	Parent=Transcript:F17E9.3.1
+ch.3_18	RNASeq_splice	intron	572	619	11542.0	+	.	
+ch.3_18	RNASeq_reads	transcript_region	620	650	2.0	.	.	
+ch.3_18	RNASeq_stranded	transcript_region	620	654	14.0	+	.	
+ch.3_18	WormBase	CDS	620	662	.	+	.	ID=CDS:F17E9.3;Parent=Transcript:F17E9.3.1
+ch.3_18	WormBase	exon	620	692	.	+	.	Parent=Transcript:F17E9.3.1
+ch.3_18	RNASeq_reads	transcript_region	651	685	1.0	.	.	
+ch.3_18	RNASeq_stranded	transcript_region	655	672	9.0	+	.	
+ch.3_18	WormBase	three_prime_UTR	663	692	.	+	.	Parent=Transcript:F17E9.3.1
+ch.3_18	RNASeq_stranded	transcript_region	673	681	5.0	+	.	
+ch.3_18	RNASeq_stranded	transcript_region	682	693	3.0	+	.	
+ch.3_18	RNASeq_F_asymmetry	transcript_region	694	704	552.0	.	.	
+ch.3_18	RNASeq_stranded	transcript_region	694	716	1.0	+	.	

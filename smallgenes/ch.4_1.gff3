@@ -1,0 +1,65 @@
+ch.4_1	RNASeq_F_asymmetry	transcript_region	84	93	1525.0	.	.	
+ch.4_1	RNASeq_F_asymmetry	transcript_region	94	102	2310.0	.	.	
+ch.4_1	RNASeq_reads	transcript_region	94	126	1.0	.	.	
+ch.4_1	WormBase	five_prime_UTR	101	121	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	exon	101	151	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	gene	101	692	.	+	.	ID=Gene:WBGene00021967
+ch.4_1	WormBase	mRNA	101	692	.	+	.	ID=Transcript:Y57G7A.3a.1;Parent=Gene:WBGene00021967
+ch.4_1	RNASeq_stranded	transcript_region	102	150	1.0	+	.	
+ch.4_1	RNASeq_F_asymmetry	transcript_region	103	116	3545.0	.	.	
+ch.4_1	RNASeq_F_asymmetry	transcript_region	117	151	5466.0	.	.	
+ch.4_1	WormBase	CDS	122	151	.	+	.	ID=CDS:Y57G7A.3a;Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	CDS	122	151	.	+	.	ID=CDS:Y57G7A.3b;Parent=Transcript:Y57G7A.3b.1
+ch.4_1	WormBase	exon	122	151	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	WormBase	mRNA	122	626	.	+	.	ID=Transcript:Y57G7A.3b.1;Parent=Gene:WBGene00021967
+ch.4_1	RNASeq_reads	transcript_region	127	150	2.0	.	.	
+ch.4_1	RNASeq_reads	transcript_region	151	151	1.0	.	.	
+ch.4_1	WormBase	intron	152	220	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	intron	152	220	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	RNASeq_splice	intron	152	220	7682.0	+	.	
+ch.4_1	WormBase	CDS	221	307	.	+	.	ID=CDS:Y57G7A.3a;Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	CDS	221	307	.	+	.	ID=CDS:Y57G7A.3b;Parent=Transcript:Y57G7A.3b.1
+ch.4_1	WormBase	exon	221	307	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	exon	221	307	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	RNASeq_reads	transcript_region	221	307	2.0	.	.	
+ch.4_1	RNASeq_stranded	transcript_region	265	307	1.0	+	.	
+ch.4_1	WormBase	intron	308	354	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	RNASeq_splice	intron	308	354	11938.0	+	.	
+ch.4_1	WormBase	intron	308	364	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	RNASeq_splice	intron	308	364	20.0	+	.	
+ch.4_1	RNASeq_splice	intron	308	478	8.0	+	.	
+ch.4_1	RNASeq_splice	intron	308	582	29.0	+	.	
+ch.4_1	WormBase	CDS	355	434	.	+	.	ID=CDS:Y57G7A.3a;Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	exon	355	434	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	RNASeq_reads	transcript_region	355	434	2.0	.	.	
+ch.4_1	RNASeq_stranded	transcript_region	361	434	1.0	+	.	
+ch.4_1	WormBase	CDS	365	434	.	+	.	ID=CDS:Y57G7A.3b;Parent=Transcript:Y57G7A.3b.1
+ch.4_1	WormBase	exon	365	434	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	WormBase	intron	435	478	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	intron	435	478	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	RNASeq_splice	intron	435	478	10981.0	+	.	
+ch.4_1	RNASeq_stranded	transcript_region	479	508	1.0	+	.	
+ch.4_1	WormBase	CDS	479	538	.	+	.	ID=CDS:Y57G7A.3a;Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	CDS	479	538	.	+	.	ID=CDS:Y57G7A.3b;Parent=Transcript:Y57G7A.3b.1
+ch.4_1	WormBase	exon	479	538	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	exon	479	538	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	RNASeq_reads	transcript_region	479	538	2.0	.	.	
+ch.4_1	RNASeq_stranded	transcript_region	509	527	2.0	+	.	
+ch.4_1	RNASeq_stranded	transcript_region	528	538	1.0	+	.	
+ch.4_1	WormBase	intron	539	582	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	intron	539	582	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	RNASeq_splice	intron	539	582	10249.0	+	.	
+ch.4_1	WormBase	CDS	583	590	.	+	.	ID=CDS:Y57G7A.3b;Parent=Transcript:Y57G7A.3b.1
+ch.4_1	RNASeq_stranded	transcript_region	583	600	1.0	+	.	
+ch.4_1	WormBase	exon	583	626	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	RNASeq_reads	transcript_region	583	630	2.0	.	.	
+ch.4_1	WormBase	CDS	583	652	.	+	.	ID=CDS:Y57G7A.3a;Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	exon	583	692	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	WormBase	three_prime_UTR	591	626	.	+	.	Parent=Transcript:Y57G7A.3b.1
+ch.4_1	RNASeq_stranded	transcript_region	601	603	2.0	+	.	
+ch.4_1	RNASeq_stranded	transcript_region	604	653	1.0	+	.	
+ch.4_1	RNASeq_reads	transcript_region	631	687	1.0	.	.	
+ch.4_1	RNASeq_R_asymmetry	transcript_region	650	682	5153.0	.	.	
+ch.4_1	WormBase	three_prime_UTR	653	692	.	+	.	Parent=Transcript:Y57G7A.3a.1
+ch.4_1	RNASeq_R_asymmetry	transcript_region	683	687	3085.0	.	.	
+ch.4_1	RNASeq_R_asymmetry	transcript_region	688	688	1788.0	.	.	

@@ -1,0 +1,53 @@
+ch.1_426	RNASeq_F_asymmetry	transcript_region	97	101	12588.0	.	.	
+ch.1_426	RNASeq_reads	transcript_region	97	101	3.0	.	.	
+ch.1_426	RNASeq_stranded	transcript_region	101	101	1.0	+	.	
+ch.1_426	WormBase	five_prime_UTR	101	122	.	+	.	Parent=Transcript:C39D10.2.1
+ch.1_426	WormBase	exon	101	327	.	+	.	Parent=Transcript:C39D10.2.1
+ch.1_426	WormBase	gene	101	651	.	+	.	ID=Gene:WBGene00016530
+ch.1_426	WormBase	mRNA	101	651	.	+	.	ID=Transcript:C39D10.2.1;Parent=Gene:WBGene00016530
+ch.1_426	RNASeq_F_asymmetry	transcript_region	102	105	23144.0	.	.	
+ch.1_426	RNASeq_reads	transcript_region	102	105	5.0	.	.	
+ch.1_426	RNASeq_stranded	transcript_region	102	175	2.0	+	.	
+ch.1_426	RNASeq_F_asymmetry	transcript_region	106	112	37777.0	.	.	
+ch.1_426	RNASeq_reads	transcript_region	106	117	8.0	.	.	
+ch.1_426	RNASeq_F_asymmetry	transcript_region	113	176	56771.0	.	.	
+ch.1_426	RNASeq_reads	transcript_region	118	188	13.0	.	.	
+ch.1_426	WormBase	CDS	123	327	.	+	.	ID=CDS:C39D10.2;Parent=Transcript:C39D10.2.1
+ch.1_426	RNASeq_stranded	transcript_region	176	204	4.0	+	.	
+ch.1_426	RNASeq_reads	transcript_region	189	327	20.0	.	.	
+ch.1_426	RNASeq_stranded	transcript_region	205	226	2.0	+	.	
+ch.1_426	RNASeq_splice	intron	210	263	4.0	+	.	
+ch.1_426	RNASeq_stranded	transcript_region	227	227	1.0	+	.	
+ch.1_426	RNASeq_stranded	transcript_region	228	302	2.0	+	.	
+ch.1_426	RNASeq_stranded	transcript_region	303	327	4.0	+	.	
+ch.1_426	WormBase	intron	328	403	.	+	.	Parent=Transcript:C39D10.2.1
+ch.1_426	RNASeq_splice	intron	328	403	88929.0	+	.	
+ch.1_426	RNASeq_splice	intron	360	403	106.0	+	.	
+ch.1_426	RNASeq_reads	transcript_region	403	403	2.0	.	.	
+ch.1_426	RNASeq_stranded	transcript_region	403	403	1.0	+	.	
+ch.1_426	RNASeq_stranded	transcript_region	404	415	5.0	+	.	
+ch.1_426	WormBase	CDS	404	507	.	+	.	ID=CDS:C39D10.2;Parent=Transcript:C39D10.2.1
+ch.1_426	RNASeq_reads	transcript_region	404	544	19.0	.	.	
+ch.1_426	WormBase	exon	404	651	.	+	.	Parent=Transcript:C39D10.2.1
+ch.1_426	RNASeq_stranded	transcript_region	416	564	8.0	+	.	
+ch.1_426	WormBase	three_prime_UTR	508	651	.	+	.	Parent=Transcript:C39D10.2.1
+ch.1_426	RNASeq	transcription_end_site	544	544	.	+	.	
+ch.1_426	RNASeq_reads	transcript_region	545	595	12.0	.	.	
+ch.1_426	RNASeq	transcription_end_site	558	558	.	+	.	
+ch.1_426	RNASeq_stranded	transcript_region	565	597	5.0	+	.	
+ch.1_426	RNASeq_R_asymmetry	transcript_region	568	609	39545.0	.	.	
+ch.1_426	RNASeq_reads	transcript_region	596	615	7.0	.	.	
+ch.1_426	RNASeq_stranded	transcript_region	598	639	3.0	+	.	
+ch.1_426	RNASeq_R_asymmetry	transcript_region	610	611	25676.0	.	.	
+ch.1_426	RNASeq_stranded	transcript_region	615	675	1.0	-	.	
+ch.1_426	RNASeq_reads	transcript_region	616	630	4.0	.	.	
+ch.1_426	RNASeq	transcription_end_site	618	618	.	+	.	
+ch.1_426	RNASeq	transcription_end_site	621	621	.	+	.	
+ch.1_426	RNASeq_reads	transcript_region	631	653	2.0	.	.	
+ch.1_426	RNASeq_stranded	transcript_region	640	652	1.0	+	.	
+ch.1_426	RNASeq	transcription_end_site	654	654	.	+	.	
+ch.1_426	RNASeq_F_asymmetry	transcript_region	654	661	5567.0	.	.	
+ch.1_426	RNASeq_reads	transcript_region	654	665	1.0	.	.	
+ch.1_426	RNASeq_F_asymmetry	transcript_region	665	670	5914.0	.	.	
+ch.1_426	RNASeq_F_asymmetry	transcript_region	671	688	9185.0	.	.	
+ch.1_426	RNASeq_stranded	transcript_region	676	722	2.0	-	.	

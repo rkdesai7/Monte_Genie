@@ -1,0 +1,84 @@
+ch.1_442	RNASeq	transcription_end_site	797	797	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	797	797	.	-	.	
+ch.1_442	RNASeq_stranded	transcript_region	782	791	1.0	+	.	
+ch.1_442	RNASeq	transcription_end_site	789	789	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	789	789	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	785	785	.	-	.	
+ch.1_442	RNASeq_reads	transcript_region	782	785	1.0	.	.	
+ch.1_442	RNASeq	transcription_end_site	784	784	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	784	784	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	781	781	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	781	781	.	-	.	
+ch.1_442	RNASeq_reads	transcript_region	780	781	4.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	775	781	8.0	+	.	
+ch.1_442	RNASeq_stranded	transcript_region	701	781	2.0	-	.	
+ch.1_442	RNASeq_F_asymmetry	transcript_region	779	780	24957.0	.	.	
+ch.1_442	WormBase	three_prime_UTR	628	780	.	+	.	Parent=Transcript:F54C4.2.1
+ch.1_442	WormBase	exon	423	780	.	+	.	Parent=Transcript:F54C4.2.1
+ch.1_442	WormBase	gene	101	780	.	+	.	ID=Gene:WBGene00005014
+ch.1_442	WormBase	mRNA	101	780	.	+	.	ID=Transcript:F54C4.2.1;Parent=Gene:WBGene00005014
+ch.1_442	RNASeq_reads	transcript_region	774	779	8.0	.	.	
+ch.1_442	RNASeq_F_asymmetry	transcript_region	772	778	39927.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	768	774	13.0	+	.	
+ch.1_442	RNASeq_reads	transcript_region	769	773	13.0	.	.	
+ch.1_442	RNASeq_F_asymmetry	transcript_region	763	771	69519.0	.	.	
+ch.1_442	RNASeq_reads	transcript_region	753	768	21.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	761	767	21.0	+	.	
+ch.1_442	RNASeq_F_asymmetry	transcript_region	730	762	106039.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	751	760	32.0	+	.	
+ch.1_442	RNASeq_reads	transcript_region	703	752	32.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	716	750	49.0	+	.	
+ch.1_442	RNASeq	transcription_end_site	728	728	.	-	.	
+ch.1_442	RNASeq_stranded	transcript_region	688	715	76.0	+	.	
+ch.1_442	RNASeq	transcription_end_site	710	710	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	710	710	.	-	.	
+ch.1_442	RNASeq_reads	transcript_region	688	702	49.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	691	700	1.0	-	.	
+ch.1_442	RNASeq	transcription_end_site	698	698	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	698	698	.	-	.	
+ch.1_442	RNASeq_stranded	transcript_region	653	687	222.0	+	.	
+ch.1_442	RNASeq_reads	transcript_region	517	687	79.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	593	652	51.0	+	.	
+ch.1_442	RNASeq	transcription_end_site	643	643	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	643	643	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	627	627	.	-	.	
+ch.1_442	RNASeq	transcription_end_site	627	627	.	-	.	
+ch.1_442	WormBase	CDS	423	627	.	+	.	ID=CDS:F54C4.2;Parent=Transcript:F54C4.2.1
+ch.1_442	RNASeq_stranded	transcript_region	550	592	27.0	+	.	
+ch.1_442	RNASeq_stranded	transcript_region	423	549	17.0	+	.	
+ch.1_442	RNASeq_splice	intron	273	535	16.0	+	.	
+ch.1_442	RNASeq_splice	intron	273	524	48.0	+	.	
+ch.1_442	RNASeq_reads	transcript_region	423	516	119.0	.	.	
+ch.1_442	RNASeq_splice	intron	468	502	3.0	+	.	
+ch.1_442	RNASeq_reads	transcript_region	420	422	18.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	420	422	6.0	+	.	
+ch.1_442	RNASeq_splice	intron	276	422	21.0	+	.	
+ch.1_442	WormBase	intron	273	422	.	+	.	Parent=Transcript:F54C4.2.1
+ch.1_442	RNASeq_splice	intron	273	422	650078.0	+	.	
+ch.1_442	RNASeq_splice	intron	256	422	357.0	+	.	
+ch.1_442	RNASeq_splice	intron	175	422	8.0	+	.	
+ch.1_442	RNASeq_stranded	transcript_region	257	272	17.0	+	.	
+ch.1_442	RNASeq_reads	transcript_region	125	272	117.0	.	.	
+ch.1_442	WormBase	CDS	115	272	.	+	.	ID=CDS:F54C4.2;Parent=Transcript:F54C4.2.1
+ch.1_442	WormBase	exon	101	272	.	+	.	Parent=Transcript:F54C4.2.1
+ch.1_442	RNASeq_stranded	transcript_region	221	256	26.0	+	.	
+ch.1_442	RNASeq_stranded	transcript_region	239	250	1.0	-	.	
+ch.1_442	RNASeq_splice	intron	172	234	5.0	-	.	
+ch.1_442	RNASeq_stranded	transcript_region	141	220	40.0	+	.	
+ch.1_442	RNASeq_splice	intron	171	205	3.0	-	.	
+ch.1_442	RNASeq_splice	intron	152	198	4.0	+	.	
+ch.1_442	RNASeq_R_asymmetry	transcript_region	111	175	475565.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	156	157	1.0	-	.	
+ch.1_442	RNASeq_stranded	transcript_region	114	140	26.0	+	.	
+ch.1_442	RNASeq_reads	transcript_region	105	124	77.0	.	.	
+ch.1_442	WormBase	five_prime_UTR	101	114	.	+	.	Parent=Transcript:F54C4.2.1
+ch.1_442	RNASeq_stranded	transcript_region	106	113	17.0	+	.	
+ch.1_442	RNASeq_R_asymmetry	transcript_region	102	110	311069.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	101	105	11.0	+	.	
+ch.1_442	RNASeq_reads	transcript_region	101	104	45.0	.	.	
+ch.1_442	RNASeq_R_asymmetry	transcript_region	101	101	202865.0	.	.	
+ch.1_442	RNASeq_reads	transcript_region	98	100	3.0	.	.	
+ch.1_442	RNASeq_stranded	transcript_region	98	100	1.0	+	.	
+ch.1_442	RNASeq_reads	transcript_region	56	97	1.0	.	.	
+ch.1_442	RNASeq_R_asymmetry	transcript_region	75	94	5229.0	.	.	
+ch.1_442	RNASeq_R_asymmetry	transcript_region	74	74	3285.0	.	.	

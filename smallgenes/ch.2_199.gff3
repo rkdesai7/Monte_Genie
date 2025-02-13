@@ -1,0 +1,79 @@
+ch.2_199	RNASeq_F_asymmetry	transcript_region	68	70	409.0	.	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	76	80	479.0	.	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	81	85	862.0	.	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	86	89	2099.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	88	91	1.0	.	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	90	91	4603.0	.	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	92	96	8385.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	92	100	2.0	.	.	
+ch.2_199	RNASeq_stranded	transcript_region	95	113	1.0	+	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	97	104	12724.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	101	106	4.0	.	.	
+ch.2_199	WormBase	five_prime_UTR	101	172	.	+	.	Parent=Transcript:C25F9.10a.1
+ch.2_199	WormBase	exon	101	184	.	+	.	Parent=Transcript:C25F9.10a.1
+ch.2_199	WormBase	gene	101	766	.	+	.	ID=Gene:WBGene00044291
+ch.2_199	WormBase	mRNA	101	766	.	+	.	ID=Transcript:C25F9.10a.1;Parent=Gene:WBGene00044291
+ch.2_199	RNASeq_F_asymmetry	transcript_region	105	107	19938.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	107	121	7.0	.	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	108	120	30020.0	.	.	
+ch.2_199	RNASeq_stranded	transcript_region	114	166	2.0	+	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	121	140	46349.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	122	140	11.0	.	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	141	169	71212.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	141	184	17.0	.	.	
+ch.2_199	RNASeq_stranded	transcript_region	167	184	4.0	+	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	171	175	93713.0	.	.	
+ch.2_199	WormBase	CDS	173	184	.	+	.	ID=CDS:C25F9.10a;Parent=Transcript:C25F9.10a.1
+ch.2_199	RNASeq_splice	intron	178	236	5.0	+	.	
+ch.2_199	RNASeq_splice	intron	183	236	260.0	+	.	
+ch.2_199	RNASeq_F_asymmetry	transcript_region	185	185	2056.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	185	188	1.0	.	.	
+ch.2_199	WormBase	intron	185	236	.	+	.	Parent=Transcript:C25F9.10a.1
+ch.2_199	RNASeq_splice	intron	185	236	120355.0	+	.	
+ch.2_199	RNASeq_splice	intron	185	242	18.0	+	.	
+ch.2_199	RNASeq_splice	intron	189	236	330.0	+	.	
+ch.2_199	RNASeq_reads	transcript_region	212	236	1.0	.	.	
+ch.2_199	RNASeq_stranded	transcript_region	237	319	3.0	+	.	
+ch.2_199	WormBase	CDS	237	502	.	+	.	ID=CDS:C25F9.10a;Parent=Transcript:C25F9.10a.1
+ch.2_199	WormBase	exon	237	502	.	+	.	Parent=Transcript:C25F9.10a.1
+ch.2_199	RNASeq_reads	transcript_region	237	502	25.0	.	.	
+ch.2_199	RNASeq	transcription_end_site	289	289	.	+	.	
+ch.2_199	RNASeq	transcription_end_site	290	290	.	+	.	
+ch.2_199	WormBase	CDS	294	502	.	+	.	ID=CDS:C25F9.10b;Parent=Transcript:C25F9.10b.1
+ch.2_199	WormBase	exon	294	502	.	+	.	Parent=Transcript:C25F9.10b.1
+ch.2_199	WormBase	mRNA	294	765	.	+	.	ID=Transcript:C25F9.10b.1;Parent=Gene:WBGene00044291
+ch.2_199	RNASeq_stranded	transcript_region	320	334	5.0	+	.	
+ch.2_199	RNASeq_splice	intron	321	456	6.0	+	.	
+ch.2_199	RNASeq_stranded	transcript_region	335	384	8.0	+	.	
+ch.2_199	RNASeq_splice	intron	357	456	6.0	+	.	
+ch.2_199	RNASeq_stranded	transcript_region	385	392	5.0	+	.	
+ch.2_199	RNASeq_stranded	transcript_region	393	475	3.0	+	.	
+ch.2_199	RNASeq_stranded	transcript_region	476	502	6.0	+	.	
+ch.2_199	RNASeq_reads	transcript_region	503	544	1.0	.	.	
+ch.2_199	RNASeq_splice	intron	503	544	9769.0	+	.	
+ch.2_199	WormBase	intron	503	551	.	+	.	Parent=Transcript:C25F9.10a.1
+ch.2_199	WormBase	intron	503	551	.	+	.	Parent=Transcript:C25F9.10b.1
+ch.2_199	RNASeq_splice	intron	503	551	116429.0	+	.	
+ch.2_199	RNASeq_splice	intron	503	563	6.0	+	.	
+ch.2_199	RNASeq_reads	transcript_region	545	551	3.0	.	.	
+ch.2_199	RNASeq_stranded	transcript_region	552	575	6.0	+	.	
+ch.2_199	RNASeq_reads	transcript_region	552	649	25.0	.	.	
+ch.2_199	WormBase	CDS	552	765	.	+	.	ID=CDS:C25F9.10a;Parent=Transcript:C25F9.10a.1
+ch.2_199	WormBase	CDS	552	765	.	+	.	ID=CDS:C25F9.10b;Parent=Transcript:C25F9.10b.1
+ch.2_199	WormBase	exon	552	765	.	+	.	Parent=Transcript:C25F9.10b.1
+ch.2_199	WormBase	exon	552	766	.	+	.	Parent=Transcript:C25F9.10a.1
+ch.2_199	RNASeq_stranded	transcript_region	576	602	3.0	+	.	
+ch.2_199	RNASeq_stranded	transcript_region	603	622	5.0	+	.	
+ch.2_199	RNASeq_stranded	transcript_region	623	722	10.0	+	.	
+ch.2_199	RNASeq_reads	transcript_region	650	690	16.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	691	728	10.0	.	.	
+ch.2_199	RNASeq_stranded	transcript_region	723	746	4.0	+	.	
+ch.2_199	RNASeq_R_asymmetry	transcript_region	724	754	27867.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	729	755	6.0	.	.	
+ch.2_199	RNASeq_stranded	transcript_region	747	757	2.0	+	.	
+ch.2_199	RNASeq_R_asymmetry	transcript_region	755	758	16982.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	756	760	3.0	.	.	
+ch.2_199	RNASeq_stranded	transcript_region	758	767	1.0	+	.	
+ch.2_199	RNASeq_R_asymmetry	transcript_region	759	760	11007.0	.	.	
+ch.2_199	RNASeq_reads	transcript_region	761	767	1.0	.	.	
+ch.2_199	WormBase	three_prime_UTR	766	766	.	+	.	Parent=Transcript:C25F9.10a.1

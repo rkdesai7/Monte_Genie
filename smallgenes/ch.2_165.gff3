@@ -1,0 +1,74 @@
+ch.2_165	WormBase	three_prime_UTR	554	741	.	-	.	Parent=Transcript:C49A9.7.1
+ch.2_165	RNASeq_splice	intron	564	716	24.0	+	.	
+ch.2_165	RNASeq	transcription_end_site	676	676	.	-	.	
+ch.2_165	RNASeq	transcription_end_site	676	676	.	-	.	
+ch.2_165	WormBase	three_prime_UTR	561	661	.	+	.	Parent=Transcript:C49A9.10.1
+ch.2_165	WormBase	exon	391	661	.	+	.	Parent=Transcript:C49A9.10.1
+ch.2_165	WormBase	gene	101	661	.	+	.	ID=Gene:WBGene00016764
+ch.2_165	WormBase	mRNA	101	661	.	+	.	ID=Transcript:C49A9.10.1;Parent=Gene:WBGene00016764
+ch.2_165	RNASeq	transcription_end_site	659	659	.	-	.	
+ch.2_165	RNASeq	transcription_end_site	659	659	.	-	.	
+ch.2_165	RNASeq_stranded	transcript_region	653	655	1.0	+	.	
+ch.2_165	RNASeq_reads	transcript_region	629	653	2.0	.	.	
+ch.2_165	RNASeq_stranded	transcript_region	642	652	2.0	+	.	
+ch.2_165	RNASeq	transcription_end_site	646	646	.	-	.	
+ch.2_165	RNASeq	transcription_end_site	646	646	.	-	.	
+ch.2_165	RNASeq_stranded	transcript_region	616	641	4.0	+	.	
+ch.2_165	RNASeq	transcription_end_site	629	629	.	-	.	
+ch.2_165	RNASeq	transcription_end_site	629	629	.	-	.	
+ch.2_165	RNASeq_reads	transcript_region	626	628	4.0	.	.	
+ch.2_165	RNASeq_F_asymmetry	transcript_region	626	626	22232.0	.	.	
+ch.2_165	RNASeq_F_asymmetry	transcript_region	624	625	33966.0	.	.	
+ch.2_165	RNASeq_reads	transcript_region	623	625	8.0	.	.	
+ch.2_165	RNASeq_F_asymmetry	transcript_region	616	623	53022.0	.	.	
+ch.2_165	RNASeq_reads	transcript_region	604	622	13.0	.	.	
+ch.2_165	RNASeq_stranded	transcript_region	581	615	7.0	+	.	
+ch.2_165	RNASeq_F_asymmetry	transcript_region	569	615	80371.0	.	.	
+ch.2_165	RNASeq_reads	transcript_region	547	603	20.0	.	.	
+ch.2_165	RNASeq	transcription_end_site	590	590	.	-	.	
+ch.2_165	RNASeq	transcription_end_site	589	589	.	-	.	
+ch.2_165	RNASeq	transcription_end_site	583	583	.	-	.	
+ch.2_165	RNASeq_stranded	transcript_region	569	580	11.0	+	.	
+ch.2_165	RNASeq_stranded	transcript_region	554	568	17.0	+	.	
+ch.2_165	WormBase	CDS	391	560	.	+	.	ID=CDS:C49A9.10;Parent=Transcript:C49A9.10.1
+ch.2_165	RNASeq_stranded	transcript_region	510	553	26.0	+	.	
+ch.2_165	RNASeq_reads	transcript_region	391	546	33.0	.	.	
+ch.2_165	RNASeq_F_asymmetry	transcript_region	531	542	157052.0	.	.	
+ch.2_165	RNASeq_stranded	transcript_region	460	509	17.0	+	.	
+ch.2_165	RNASeq_stranded	transcript_region	391	459	11.0	+	.	
+ch.2_165	RNASeq_splice	intron	348	390	40.0	+	.	
+ch.2_165	RNASeq_splice	intron	337	390	14.0	+	.	
+ch.2_165	WormBase	intron	333	390	.	+	.	Parent=Transcript:C49A9.10.1
+ch.2_165	RNASeq_splice	intron	333	390	246499.0	+	.	
+ch.2_165	RNASeq_F_asymmetry	transcript_region	333	333	49235.0	.	.	
+ch.2_165	RNASeq_reads	transcript_region	333	333	12.0	.	.	
+ch.2_165	RNASeq_stranded	transcript_region	333	333	2.0	-	.	
+ch.2_165	RNASeq_stranded	transcript_region	318	332	11.0	+	.	
+ch.2_165	WormBase	CDS	236	332	.	+	.	ID=CDS:C49A9.10;Parent=Transcript:C49A9.10.1
+ch.2_165	WormBase	exon	236	332	.	+	.	Parent=Transcript:C49A9.10.1
+ch.2_165	RNASeq_reads	transcript_region	236	332	50.0	.	.	
+ch.2_165	RNASeq_stranded	transcript_region	292	317	17.0	+	.	
+ch.2_165	RNASeq_stranded	transcript_region	236	291	27.0	+	.	
+ch.2_165	RNASeq_splice	intron	191	237	90.0	+	.	
+ch.2_165	RNASeq_F_asymmetry	transcript_region	235	235	20957.0	.	.	
+ch.2_165	RNASeq_reads	transcript_region	235	235	5.0	.	.	
+ch.2_165	RNASeq_stranded	transcript_region	235	235	2.0	-	.	
+ch.2_165	RNASeq_splice	intron	197	235	3.0	+	.	
+ch.2_165	WormBase	intron	191	235	.	+	.	Parent=Transcript:C49A9.10.1
+ch.2_165	RNASeq_splice	intron	191	235	305289.0	+	.	
+ch.2_165	RNASeq_stranded	transcript_region	145	190	17.0	+	.	
+ch.2_165	RNASeq_reads	transcript_region	128	190	58.0	.	.	
+ch.2_165	WormBase	CDS	116	190	.	+	.	ID=CDS:C49A9.10;Parent=Transcript:C49A9.10.1
+ch.2_165	WormBase	exon	101	190	.	+	.	Parent=Transcript:C49A9.10.1
+ch.2_165	RNASeq_R_asymmetry	transcript_region	109	157	200321.0	.	.	
+ch.2_165	RNASeq_stranded	transcript_region	114	144	11.0	+	.	
+ch.2_165	RNASeq_reads	transcript_region	108	127	38.0	.	.	
+ch.2_165	WormBase	five_prime_UTR	101	115	.	+	.	Parent=Transcript:C49A9.10.1
+ch.2_165	RNASeq_stranded	transcript_region	103	113	7.0	+	.	
+ch.2_165	RNASeq_R_asymmetry	transcript_region	103	108	131424.0	.	.	
+ch.2_165	RNASeq_reads	transcript_region	103	107	24.0	.	.	
+ch.2_165	RNASeq_R_asymmetry	transcript_region	101	102	53709.0	.	.	
+ch.2_165	RNASeq_reads	transcript_region	101	102	11.0	.	.	
+ch.2_165	RNASeq_stranded	transcript_region	101	102	4.0	+	.	
+ch.2_165	RNASeq_R_asymmetry	transcript_region	94	100	7729.0	.	.	
+ch.2_165	RNASeq_reads	transcript_region	94	100	2.0	.	.	

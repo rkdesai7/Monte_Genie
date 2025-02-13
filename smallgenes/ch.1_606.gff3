@@ -1,0 +1,34 @@
+ch.1_606	RNASeq_F_asymmetry	transcript_region	81	92	1455.0	.	.	
+ch.1_606	RNASeq_reads	transcript_region	92	130	1.0	.	.	
+ch.1_606	RNASeq_F_asymmetry	transcript_region	93	105	2191.0	.	.	
+ch.1_606	WormBase	five_prime_UTR	101	182	.	+	.	Parent=Transcript:C55A1.6.1
+ch.1_606	WormBase	exon	101	261	.	+	.	Parent=Transcript:C55A1.6.1
+ch.1_606	WormBase	gene	101	918	.	+	.	ID=Gene:WBGene00008323
+ch.1_606	WormBase	mRNA	101	918	.	+	.	ID=Transcript:C55A1.6.1;Parent=Gene:WBGene00008323
+ch.1_606	RNASeq_F_asymmetry	transcript_region	106	119	3355.0	.	.	
+ch.1_606	RNASeq_F_asymmetry	transcript_region	120	148	5068.0	.	.	
+ch.1_606	RNASeq_reads	transcript_region	131	181	2.0	.	.	
+ch.1_606	RNASeq_reads	transcript_region	182	208	4.0	.	.	
+ch.1_606	WormBase	CDS	183	261	.	+	.	ID=CDS:C55A1.6;Parent=Transcript:C55A1.6.1
+ch.1_606	RNASeq_stranded	transcript_region	191	219	1.0	+	.	
+ch.1_606	RNASeq_reads	transcript_region	209	261	7.0	.	.	
+ch.1_606	RNASeq_stranded	transcript_region	221	261	1.0	+	.	
+ch.1_606	WormBase	intron	262	634	.	+	.	Parent=Transcript:C55A1.6.1
+ch.1_606	RNASeq_splice	intron	262	634	36440.0	+	.	
+ch.1_606	RNASeq_splice	intron	262	637	22.0	+	.	
+ch.1_606	RNASeq_splice	intron	262	700	783.0	+	.	
+ch.1_606	RNASeq_splice	intron	266	637	365.0	+	.	
+ch.1_606	RNASeq_splice	intron	266	640	5.0	+	.	
+ch.1_606	RNASeq_reads	transcript_region	634	634	1.0	.	.	
+ch.1_606	RNASeq_reads	transcript_region	635	706	8.0	.	.	
+ch.1_606	RNASeq_stranded	transcript_region	635	769	1.0	+	.	
+ch.1_606	WormBase	CDS	635	870	.	+	.	ID=CDS:C55A1.6;Parent=Transcript:C55A1.6.1
+ch.1_606	WormBase	exon	635	918	.	+	.	Parent=Transcript:C55A1.6.1
+ch.1_606	RNASeq_reads	transcript_region	707	838	13.0	.	.	
+ch.1_606	RNASeq_stranded	transcript_region	770	870	2.0	+	.	
+ch.1_606	RNASeq_reads	transcript_region	839	855	8.0	.	.	
+ch.1_606	RNASeq_reads	transcript_region	856	861	5.0	.	.	
+ch.1_606	RNASeq_reads	transcript_region	862	876	3.0	.	.	
+ch.1_606	RNASeq_stranded	transcript_region	871	911	1.0	+	.	
+ch.1_606	WormBase	three_prime_UTR	871	918	.	+	.	Parent=Transcript:C55A1.6.1
+ch.1_606	RNASeq_reads	transcript_region	877	913	1.0	.	.	

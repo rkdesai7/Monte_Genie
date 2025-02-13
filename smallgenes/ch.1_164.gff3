@@ -1,0 +1,30 @@
+ch.1_164	RNASeq_F_asymmetry	transcript_region	658	667	871.0	.	.	
+ch.1_164	RNASeq_F_asymmetry	transcript_region	632	636	1227.0	.	.	
+ch.1_164	WormBase	three_prime_UTR	608	625	.	+	.	Parent=Transcript:B0207.10.1
+ch.1_164	WormBase	exon	426	625	.	+	.	Parent=Transcript:B0207.10.1
+ch.1_164	WormBase	gene	101	625	.	+	.	ID=Gene:WBGene00015033
+ch.1_164	WormBase	mRNA	101	625	.	+	.	ID=Transcript:B0207.10.1;Parent=Gene:WBGene00015033
+ch.1_164	RNASeq_reads	transcript_region	601	620	1.0	.	.	
+ch.1_164	WormBase	CDS	426	607	.	+	.	ID=CDS:B0207.10;Parent=Transcript:B0207.10.1
+ch.1_164	RNASeq_F_asymmetry	transcript_region	601	601	5057.0	.	.	
+ch.1_164	RNASeq_F_asymmetry	transcript_region	558	600	8049.0	.	.	
+ch.1_164	RNASeq_reads	transcript_region	510	600	2.0	.	.	
+ch.1_164	RNASeq_stranded	transcript_region	457	582	1.0	+	.	
+ch.1_164	RNASeq_reads	transcript_region	426	509	4.0	.	.	
+ch.1_164	RNASeq	transcription_end_site	458	458	.	-	.	
+ch.1_164	RNASeq	transcription_end_site	458	458	.	-	.	
+ch.1_164	RNASeq_splice	intron	336	425	81.0	+	.	
+ch.1_164	WormBase	intron	177	425	.	+	.	Parent=Transcript:B0207.10.1
+ch.1_164	RNASeq_splice	intron	177	425	25443.0	+	.	
+ch.1_164	RNASeq_reads	transcript_region	115	176	4.0	.	.	
+ch.1_164	WormBase	CDS	113	176	.	+	.	ID=CDS:B0207.10;Parent=Transcript:B0207.10.1
+ch.1_164	WormBase	exon	101	176	.	+	.	Parent=Transcript:B0207.10.1
+ch.1_164	RNASeq_stranded	transcript_region	117	167	1.0	+	.	
+ch.1_164	RNASeq_R_asymmetry	transcript_region	116	142	16786.0	.	.	
+ch.1_164	RNASeq_R_asymmetry	transcript_region	109	115	10750.0	.	.	
+ch.1_164	RNASeq_reads	transcript_region	108	114	2.0	.	.	
+ch.1_164	WormBase	five_prime_UTR	101	112	.	+	.	Parent=Transcript:B0207.10.1
+ch.1_164	RNASeq_R_asymmetry	transcript_region	106	108	6335.0	.	.	
+ch.1_164	RNASeq_reads	transcript_region	102	107	1.0	.	.	
+ch.1_164	RNASeq_splice	intron	56	106	8762.0	+	.	
+ch.1_164	RNASeq_R_asymmetry	transcript_region	105	105	4172.0	.	.	

@@ -1,0 +1,52 @@
+ch.1_546	RNASeq_stranded	transcript_region	968	978	1.0	+	.	
+ch.1_546	RNASeq_reads	transcript_region	973	977	1.0	.	.	
+ch.1_546	WormBase	three_prime_UTR	661	977	.	+	.	Parent=Transcript:C13G3.1.1
+ch.1_546	WormBase	exon	395	977	.	+	.	Parent=Transcript:C13G3.1.1
+ch.1_546	WormBase	gene	101	977	.	+	.	ID=Gene:WBGene00007553
+ch.1_546	WormBase	mRNA	101	977	.	+	.	ID=Transcript:C13G3.1.1;Parent=Gene:WBGene00007553
+ch.1_546	RNASeq_reads	transcript_region	955	972	2.0	.	.	
+ch.1_546	RNASeq_stranded	transcript_region	938	967	2.0	+	.	
+ch.1_546	RNASeq_reads	transcript_region	949	954	4.0	.	.	
+ch.1_546	RNASeq_reads	transcript_region	941	948	9.0	.	.	
+ch.1_546	RNASeq	transcription_end_site	947	947	.	-	.	
+ch.1_546	RNASeq	transcription_end_site	947	947	.	-	.	
+ch.1_546	RNASeq_reads	transcript_region	931	940	14.0	.	.	
+ch.1_546	RNASeq_stranded	transcript_region	894	937	4.0	+	.	
+ch.1_546	RNASeq_reads	transcript_region	910	930	33.0	.	.	
+ch.1_546	RNASeq_reads	transcript_region	881	909	50.0	.	.	
+ch.1_546	RNASeq_stranded	transcript_region	790	893	7.0	+	.	
+ch.1_546	RNASeq_reads	transcript_region	395	880	76.0	.	.	
+ch.1_546	RNASeq_stranded	transcript_region	730	789	4.0	+	.	
+ch.1_546	RNASeq_stranded	transcript_region	707	729	2.0	+	.	
+ch.1_546	RNASeq_stranded	transcript_region	706	706	1.0	-	.	
+ch.1_546	RNASeq_stranded	transcript_region	669	705	2.0	+	.	
+ch.1_546	RNASeq_stranded	transcript_region	555	668	4.0	+	.	
+ch.1_546	WormBase	CDS	395	660	.	+	.	ID=CDS:C13G3.1;Parent=Transcript:C13G3.1.1
+ch.1_546	RNASeq_splice	intron	514	585	10.0	-	.	
+ch.1_546	RNASeq_stranded	transcript_region	395	554	2.0	+	.	
+ch.1_546	RNASeq_splice	intron	234	546	3.0	-	.	
+ch.1_546	RNASeq_splice	intron	451	496	43.0	+	.	
+ch.1_546	RNASeq_stranded	transcript_region	394	394	1.0	-	.	
+ch.1_546	RNASeq_reads	transcript_region	391	394	18.0	.	.	
+ch.1_546	RNASeq_splice	intron	352	394	3.0	+	.	
+ch.1_546	WormBase	intron	345	394	.	+	.	Parent=Transcript:C13G3.1.1
+ch.1_546	RNASeq_splice	intron	345	394	288647.0	+	.	
+ch.1_546	RNASeq_reads	transcript_region	345	390	9.0	.	.	
+ch.1_546	WormBase	CDS	200	344	.	+	.	ID=CDS:C13G3.1;Parent=Transcript:C13G3.1.1
+ch.1_546	RNASeq_stranded	transcript_region	176	344	1.0	+	.	
+ch.1_546	RNASeq_reads	transcript_region	161	344	72.0	.	.	
+ch.1_546	WormBase	exon	101	344	.	+	.	Parent=Transcript:C13G3.1.1
+ch.1_546	WormBase	five_prime_UTR	101	199	.	+	.	Parent=Transcript:C13G3.1.1
+ch.1_546	RNASeq_stranded	transcript_region	165	175	2.0	+	.	
+ch.1_546	RNASeq_stranded	transcript_region	153	164	1.0	+	.	
+ch.1_546	RNASeq_reads	transcript_region	140	160	47.0	.	.	
+ch.1_546	RNASeq_stranded	transcript_region	152	152	2.0	-	.	
+ch.1_546	RNASeq_stranded	transcript_region	150	151	1.0	+	.	
+ch.1_546	RNASeq_stranded	transcript_region	137	149	2.0	+	.	
+ch.1_546	RNASeq_reads	transcript_region	125	139	29.0	.	.	
+ch.1_546	RNASeq_stranded	transcript_region	110	136	1.0	+	.	
+ch.1_546	RNASeq_reads	transcript_region	114	124	19.0	.	.	
+ch.1_546	RNASeq_reads	transcript_region	105	113	12.0	.	.	
+ch.1_546	RNASeq_reads	transcript_region	103	104	7.0	.	.	
+ch.1_546	RNASeq_reads	transcript_region	100	102	1.0	.	.	
+ch.1_546	RNASeq	possible_base_call_error	51	52	.	-	.	

@@ -1,0 +1,81 @@
+ch.1_487	RNASeq_stranded	transcript_region	926	928	1.0	+	.	
+ch.1_487	RNASeq_reads	transcript_region	926	926	1.0	.	.	
+ch.1_487	RNASeq_reads	transcript_region	920	925	2.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	910	925	2.0	+	.	
+ch.1_487	WormBase	three_prime_UTR	507	922	.	+	.	Parent=Transcript:ZC250.4.1
+ch.1_487	WormBase	exon	343	922	.	+	.	Parent=Transcript:ZC250.4.1
+ch.1_487	WormBase	gene	101	922	.	+	.	ID=Gene:WBGene00045305
+ch.1_487	WormBase	mRNA	101	922	.	+	.	ID=Transcript:ZC250.4.1;Parent=Gene:WBGene00045305
+ch.1_487	RNASeq_reads	transcript_region	914	919	4.0	.	.	
+ch.1_487	RNASeq_reads	transcript_region	904	913	7.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	892	909	4.0	+	.	
+ch.1_487	RNASeq	transcription_end_site	905	905	.	-	.	
+ch.1_487	RNASeq	transcription_end_site	905	905	.	-	.	
+ch.1_487	RNASeq_reads	transcript_region	896	903	11.0	.	.	
+ch.1_487	RNASeq_reads	transcript_region	887	895	17.0	.	.	
+ch.1_487	RNASeq	transcription_end_site	892	892	.	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	860	891	7.0	+	.	
+ch.1_487	RNASeq_reads	transcript_region	858	886	26.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	836	859	11.0	+	.	
+ch.1_487	RNASeq_reads	transcript_region	824	857	41.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	763	835	17.0	+	.	
+ch.1_487	RNASeq_reads	transcript_region	593	823	62.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	764	814	1.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	707	762	11.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	732	736	1.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	728	731	2.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	682	727	4.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	697	706	20.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	656	696	31.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	681	681	2.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	678	680	1.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	653	671	1.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	647	655	13.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	604	652	2.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	542	646	8.0	+	.	
+ch.1_487	RNASeq	transcription_end_site	609	609	.	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	601	603	1.0	-	.	
+ch.1_487	RNASeq_reads	transcript_region	343	592	94.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	553	586	1.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	536	552	2.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	501	541	5.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	506	535	1.0	-	.	
+ch.1_487	WormBase	CDS	343	506	.	+	.	ID=CDS:ZC250.4;Parent=Transcript:ZC250.4.1
+ch.1_487	RNASeq_stranded	transcript_region	472	500	8.0	+	.	
+ch.1_487	RNASeq_splice	intron	437	483	6.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	400	471	13.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	401	402	1.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	384	399	8.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	343	383	5.0	+	.	
+ch.1_487	RNASeq_splice	intron	289	378	59.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	357	374	1.0	-	.	
+ch.1_487	RNASeq_reads	transcript_region	342	342	12.0	.	.	
+ch.1_487	WormBase	intron	289	342	.	+	.	Parent=Transcript:ZC250.4.1
+ch.1_487	RNASeq_splice	intron	289	342	383776.0	+	.	
+ch.1_487	RNASeq_reads	transcript_region	289	341	1.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	289	324	1.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	259	288	6.0	+	.	
+ch.1_487	RNASeq_reads	transcript_region	147	288	72.0	.	.	
+ch.1_487	WormBase	CDS	141	288	.	+	.	ID=CDS:ZC250.4;Parent=Transcript:ZC250.4.1
+ch.1_487	WormBase	exon	101	288	.	+	.	Parent=Transcript:ZC250.4.1
+ch.1_487	RNASeq_stranded	transcript_region	173	258	10.0	+	.	
+ch.1_487	RNASeq_stranded	transcript_region	191	239	1.0	-	.	
+ch.1_487	RNASeq_stranded	transcript_region	119	172	16.0	+	.	
+ch.1_487	RNASeq_reads	transcript_region	118	146	47.0	.	.	
+ch.1_487	RNASeq_R_asymmetry	transcript_region	140	141	180431.0	.	.	
+ch.1_487	WormBase	five_prime_UTR	101	140	.	+	.	Parent=Transcript:ZC250.4.1
+ch.1_487	RNASeq_R_asymmetry	transcript_region	114	138	174274.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	118	118	10.0	-	.	
+ch.1_487	RNASeq_reads	transcript_region	106	117	31.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	101	117	6.0	+	.	
+ch.1_487	RNASeq_R_asymmetry	transcript_region	104	113	111984.0	.	.	
+ch.1_487	RNASeq_reads	transcript_region	100	105	19.0	.	.	
+ch.1_487	RNASeq_R_asymmetry	transcript_region	99	103	61250.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	91	100	3.0	+	.	
+ch.1_487	RNASeq_reads	transcript_region	96	99	12.0	.	.	
+ch.1_487	RNASeq_reads	transcript_region	91	95	7.0	.	.	
+ch.1_487	RNASeq_reads	transcript_region	88	90	4.0	.	.	
+ch.1_487	RNASeq_stranded	transcript_region	85	90	1.0	+	.	
+ch.1_487	RNASeq_reads	transcript_region	81	87	2.0	.	.	
+ch.1_487	RNASeq_reads	transcript_region	69	80	1.0	.	.	
+ch.1_487	RNASeq_reads	transcript_region	59	64	1.0	.	.	

@@ -1,0 +1,13 @@
+ch.1_525	WormBase	exon	101	239	.	+	.	Parent=Transcript:Y13C8A.1.1
+ch.1_525	WormBase	CDS	101	239	.	+	.	ID=CDS:Y13C8A.1;Parent=Transcript:Y13C8A.1.1
+ch.1_525	WormBase	gene	101	848	.	+	.	ID=Gene:WBGene00021188
+ch.1_525	WormBase	mRNA	101	848	.	+	.	ID=Transcript:Y13C8A.1.1;Parent=Gene:WBGene00021188
+ch.1_525	WormBase	intron	240	777	.	+	.	Parent=Transcript:Y13C8A.1.1
+ch.1_525	RNASeq_splice	intron	240	777	14347.0	+	.	
+ch.1_525	RNASeq_splice	intron	240	782	12.0	+	.	
+ch.1_525	RNASeq_splice	intron	245	775	34.0	+	.	
+ch.1_525	RNASeq_F_asymmetry	transcript_region	601	633	91.0	.	.	
+ch.1_525	RNASeq_R_asymmetry	transcript_region	658	663	158.0	.	.	
+ch.1_525	RNASeq_splice	intron	718	777	16.0	+	.	
+ch.1_525	WormBase	CDS	778	848	.	+	.	ID=CDS:Y13C8A.1;Parent=Transcript:Y13C8A.1.1
+ch.1_525	WormBase	exon	778	848	.	+	.	Parent=Transcript:Y13C8A.1.1

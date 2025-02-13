@@ -1,0 +1,34 @@
+ch.1_299	WormBase	three_prime_UTR	526	621	.	+	.	Parent=Transcript:T08A9.13.1
+ch.1_299	WormBase	exon	271	621	.	+	.	Parent=Transcript:T08A9.13.1
+ch.1_299	WormBase	gene	101	621	.	+	.	ID=Gene:WBGene00044442
+ch.1_299	WormBase	mRNA	101	621	.	+	.	ID=Transcript:T08A9.13.1;Parent=Gene:WBGene00044442
+ch.1_299	RNASeq_reads	transcript_region	525	619	1.0	.	.	
+ch.1_299	RNASeq_stranded	transcript_region	566	615	1.0	+	.	
+ch.1_299	RNASeq_stranded	transcript_region	487	565	2.0	+	.	
+ch.1_299	WormBase	CDS	271	525	.	+	.	ID=CDS:T08A9.13;Parent=Transcript:T08A9.13.1
+ch.1_299	RNASeq	transcription_end_site	524	524	.	-	.	
+ch.1_299	RNASeq_reads	transcript_region	481	524	2.0	.	.	
+ch.1_299	RNASeq_stranded	transcript_region	312	486	1.0	+	.	
+ch.1_299	RNASeq_reads	transcript_region	271	480	4.0	.	.	
+ch.1_299	RNASeq	transcription_end_site	432	432	.	-	.	
+ch.1_299	RNASeq	transcription_end_site	432	432	.	-	.	
+ch.1_299	RNASeq_splice	intron	364	419	18.0	-	.	
+ch.1_299	RNASeq	transcription_end_site	387	387	.	-	.	
+ch.1_299	RNASeq	transcription_end_site	387	387	.	-	.	
+ch.1_299	RNASeq_stranded	transcript_region	271	311	2.0	+	.	
+ch.1_299	RNASeq	transcription_end_site	272	272	.	-	.	
+ch.1_299	RNASeq	transcription_end_site	272	272	.	-	.	
+ch.1_299	WormBase	intron	224	270	.	+	.	Parent=Transcript:T08A9.13.1
+ch.1_299	RNASeq_splice	intron	224	270	19944.0	+	.	
+ch.1_299	RNASeq_splice	intron	224	262	424.0	+	.	
+ch.1_299	RNASeq_stranded	transcript_region	188	223	3.0	+	.	
+ch.1_299	RNASeq_reads	transcript_region	118	223	4.0	.	.	
+ch.1_299	WormBase	CDS	116	223	.	+	.	ID=CDS:T08A9.13;Parent=Transcript:T08A9.13.1
+ch.1_299	WormBase	exon	101	223	.	+	.	Parent=Transcript:T08A9.13.1
+ch.1_299	RNASeq_stranded	transcript_region	116	187	1.0	+	.	
+ch.1_299	RNASeq_R_asymmetry	transcript_region	114	171	14878.0	.	.	
+ch.1_299	RNASeq_reads	transcript_region	110	117	2.0	.	.	
+ch.1_299	WormBase	five_prime_UTR	101	115	.	+	.	Parent=Transcript:T08A9.13.1
+ch.1_299	RNASeq_R_asymmetry	transcript_region	110	113	9716.0	.	.	
+ch.1_299	RNASeq_R_asymmetry	transcript_region	105	109	4535.0	.	.	
+ch.1_299	RNASeq_reads	transcript_region	105	109	1.0	.	.	

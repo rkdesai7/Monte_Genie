@@ -1,0 +1,46 @@
+ch.2_11	WormBase	three_prime_UTR	527	598	.	+	.	Parent=Transcript:T06D10.3.2
+ch.2_11	WormBase	exon	457	598	.	+	.	Parent=Transcript:T06D10.3.2
+ch.2_11	WormBase	mRNA	271	598	.	+	.	ID=Transcript:T06D10.3.2;Parent=Gene:WBGene00077558
+ch.2_11	WormBase	gene	101	598	.	+	.	ID=Gene:WBGene00077558
+ch.2_11	WormBase	three_prime_UTR	527	597	.	+	.	Parent=Transcript:T06D10.3.1
+ch.2_11	WormBase	exon	457	597	.	+	.	Parent=Transcript:T06D10.3.1
+ch.2_11	WormBase	mRNA	101	597	.	+	.	ID=Transcript:T06D10.3.1;Parent=Gene:WBGene00077558
+ch.2_11	WormBase	CDS	457	526	.	+	.	ID=CDS:T06D10.3;Parent=Transcript:T06D10.3.1,Transcript:T06D10.3.2
+ch.2_11	RNASeq_reads	transcript_region	503	525	1.0	.	.	
+ch.2_11	RNASeq_stranded	transcript_region	457	521	1.0	+	.	
+ch.2_11	RNASeq_F_asymmetry	transcript_region	503	509	3409.0	.	.	
+ch.2_11	RNASeq_F_asymmetry	transcript_region	498	502	8193.0	.	.	
+ch.2_11	RNASeq_reads	transcript_region	494	502	2.0	.	.	
+ch.2_11	RNASeq_F_asymmetry	transcript_region	457	497	13070.0	.	.	
+ch.2_11	RNASeq_reads	transcript_region	457	493	4.0	.	.	
+ch.2_11	WormBase	intron	386	456	.	+	.	Parent=Transcript:T06D10.3.1
+ch.2_11	WormBase	intron	386	456	.	+	.	Parent=Transcript:T06D10.3.2
+ch.2_11	RNASeq_splice	intron	386	456	20336.0	+	.	
+ch.2_11	RNASeq_reads	transcript_region	386	387	1.0	.	.	
+ch.2_11	RNASeq_stranded	transcript_region	368	385	1.0	+	.	
+ch.2_11	WormBase	CDS	291	385	.	+	.	ID=CDS:T06D10.3;Parent=Transcript:T06D10.3.1,Transcript:T06D10.3.2
+ch.2_11	WormBase	exon	277	385	.	+	.	Parent=Transcript:T06D10.3.1
+ch.2_11	RNASeq_reads	transcript_region	277	385	4.0	.	.	
+ch.2_11	WormBase	exon	271	385	.	+	.	Parent=Transcript:T06D10.3.2
+ch.2_11	RNASeq_stranded	transcript_region	332	367	2.0	+	.	
+ch.2_11	RNASeq_stranded	transcript_region	331	331	1.0	-	.	
+ch.2_11	RNASeq_stranded	transcript_region	330	330	2.0	-	.	
+ch.2_11	RNASeq_stranded	transcript_region	277	329	1.0	+	.	
+ch.2_11	WormBase	five_prime_UTR	277	290	.	+	.	Parent=Transcript:T06D10.3.1
+ch.2_11	WormBase	five_prime_UTR	271	290	.	+	.	Parent=Transcript:T06D10.3.2
+ch.2_11	RNASeq_R_asymmetry	transcript_region	277	288	14727.0	.	.	
+ch.2_11	RNASeq_splice	intron	162	281	5.0	+	.	
+ch.2_11	WormBase	intron	162	276	.	+	.	Parent=Transcript:T06D10.3.1
+ch.2_11	RNASeq_splice	intron	162	276	16469.0	+	.	
+ch.2_11	RNASeq_splice	intron	118	276	5.0	+	.	
+ch.2_11	RNASeq_splice	intron	162	260	6.0	+	.	
+ch.2_11	RNASeq_stranded	transcript_region	138	161	1.0	+	.	
+ch.2_11	RNASeq_R_asymmetry	transcript_region	107	161	13558.0	.	.	
+ch.2_11	RNASeq_reads	transcript_region	102	161	3.0	.	.	
+ch.2_11	WormBase	exon	101	161	.	+	.	Parent=Transcript:T06D10.3.1
+ch.2_11	WormBase	five_prime_UTR	101	161	.	+	.	Parent=Transcript:T06D10.3.1
+ch.2_11	RNASeq_stranded	transcript_region	132	137	2.0	+	.	
+ch.2_11	RNASeq_stranded	transcript_region	109	131	1.0	+	.	
+ch.2_11	RNASeq_R_asymmetry	transcript_region	100	106	8106.0	.	.	
+ch.2_11	RNASeq_reads	transcript_region	99	101	1.0	.	.	
+ch.2_11	RNASeq_R_asymmetry	transcript_region	99	99	3975.0	.	.	

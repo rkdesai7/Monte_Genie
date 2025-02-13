@@ -1,0 +1,73 @@
+ch.1_574	RNASeq_stranded	transcript_region	99	101	5.0	+	.	
+ch.1_574	RNASeq_F_asymmetry	transcript_region	99	104	62692.0	.	.	
+ch.1_574	RNASeq_reads	transcript_region	99	104	13.0	.	.	
+ch.1_574	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:T22G5.2.1
+ch.1_574	WormBase	exon	101	317	.	+	.	Parent=Transcript:T22G5.2.1
+ch.1_574	WormBase	gene	101	762	.	+	.	ID=Gene:WBGene00002259
+ch.1_574	WormBase	mRNA	101	762	.	+	.	ID=Transcript:T22G5.2.1;Parent=Gene:WBGene00002259
+ch.1_574	RNASeq_stranded	transcript_region	102	104	8.0	+	.	
+ch.1_574	RNASeq_F_asymmetry	transcript_region	105	111	114636.0	.	.	
+ch.1_574	RNASeq_reads	transcript_region	105	111	23.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	105	113	14.0	+	.	
+ch.1_574	WormBase	CDS	105	317	.	+	.	ID=CDS:T22G5.2;Parent=Transcript:T22G5.2.1
+ch.1_574	RNASeq_reads	transcript_region	112	132	38.0	.	.	
+ch.1_574	RNASeq_F_asymmetry	transcript_region	112	134	187103.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	114	145	23.0	+	.	
+ch.1_574	RNASeq_reads	transcript_region	133	194	58.0	.	.	
+ch.1_574	RNASeq_F_asymmetry	transcript_region	135	182	282848.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	146	180	35.0	+	.	
+ch.1_574	RNASeq_stranded	transcript_region	181	245	23.0	+	.	
+ch.1_574	RNASeq_reads	transcript_region	195	317	88.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	246	273	42.0	+	.	
+ch.1_574	RNASeq_stranded	transcript_region	274	296	27.0	+	.	
+ch.1_574	RNASeq_stranded	transcript_region	290	315	1.0	-	.	
+ch.1_574	RNASeq_stranded	transcript_region	297	304	8.0	+	.	
+ch.1_574	RNASeq_stranded	transcript_region	305	317	13.0	+	.	
+ch.1_574	RNASeq_splice	intron	308	462	7.0	+	.	
+ch.1_574	RNASeq_reads	transcript_region	318	318	9.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	318	318	1.0	+	.	
+ch.1_574	WormBase	intron	318	462	.	+	.	Parent=Transcript:T22G5.2.1
+ch.1_574	RNASeq_splice	intron	318	462	469760.0	+	.	
+ch.1_574	RNASeq_splice	intron	318	474	8.0	+	.	
+ch.1_574	RNASeq_splice	intron	318	543	3.0	+	.	
+ch.1_574	RNASeq_reads	transcript_region	319	411	1.0	.	.	
+ch.1_574	RNASeq_reads	transcript_region	416	460	1.0	.	.	
+ch.1_574	RNASeq_reads	transcript_region	461	462	11.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	461	462	4.0	+	.	
+ch.1_574	RNASeq_stranded	transcript_region	463	485	15.0	+	.	
+ch.1_574	RNASeq_reads	transcript_region	463	653	87.0	.	.	
+ch.1_574	WormBase	CDS	463	663	.	+	.	ID=CDS:T22G5.2;Parent=Transcript:T22G5.2.1
+ch.1_574	WormBase	exon	463	762	.	+	.	Parent=Transcript:T22G5.2.1
+ch.1_574	RNASeq_stranded	transcript_region	486	689	23.0	+	.	
+ch.1_574	RNASeq_splice	intron	529	604	5.0	-	.	
+ch.1_574	RNASeq_stranded	transcript_region	602	626	1.0	-	.	
+ch.1_574	RNASeq_R_asymmetry	transcript_region	622	628	295765.0	.	.	
+ch.1_574	RNASeq_R_asymmetry	transcript_region	630	680	262822.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	632	653	1.0	-	.	
+ch.1_574	RNASeq_reads	transcript_region	654	681	57.0	.	.	
+ch.1_574	RNASeq	transcription_end_site	656	656	.	+	.	
+ch.1_574	WormBase	three_prime_UTR	664	762	.	+	.	Parent=Transcript:T22G5.2.1
+ch.1_574	RNASeq_stranded	transcript_region	674	676	1.0	-	.	
+ch.1_574	RNASeq	transcription_end_site	681	681	.	+	.	
+ch.1_574	RNASeq_R_asymmetry	transcript_region	681	694	171259.0	.	.	
+ch.1_574	RNASeq_reads	transcript_region	682	697	37.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	690	724	15.0	+	.	
+ch.1_574	RNASeq	transcription_end_site	691	691	.	+	.	
+ch.1_574	RNASeq_R_asymmetry	transcript_region	695	706	108064.0	.	.	
+ch.1_574	RNASeq_reads	transcript_region	698	706	24.0	.	.	
+ch.1_574	RNASeq	transcription_end_site	706	706	.	+	.	
+ch.1_574	RNASeq_reads	transcript_region	707	726	13.0	.	.	
+ch.1_574	RNASeq	transcription_end_site	708	708	.	+	.	
+ch.1_574	RNASeq_stranded	transcript_region	725	744	9.0	+	.	
+ch.1_574	RNASeq_reads	transcript_region	727	751	8.0	.	.	
+ch.1_574	RNASeq_R_asymmetry	transcript_region	730	753	32485.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	745	751	5.0	+	.	
+ch.1_574	RNASeq_stranded	transcript_region	752	757	3.0	+	.	
+ch.1_574	RNASeq_reads	transcript_region	752	758	5.0	.	.	
+ch.1_574	RNASeq_R_asymmetry	transcript_region	754	758	21435.0	.	.	
+ch.1_574	RNASeq_stranded	transcript_region	758	762	1.0	+	.	
+ch.1_574	RNASeq_R_asymmetry	transcript_region	759	763	11623.0	.	.	
+ch.1_574	RNASeq_reads	transcript_region	759	763	3.0	.	.	
+ch.1_574	RNASeq	transcription_end_site	763	763	.	+	.	
+ch.1_574	RNASeq	transcription_end_site	764	764	.	+	.	
+ch.1_574	RNASeq	transcription_end_site	765	765	.	+	.	

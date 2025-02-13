@@ -1,0 +1,89 @@
+ch.1_550	RNASeq_splice	intron	1	100	367.0	+	.	
+ch.1_550	RNASeq_splice	intron	10	69	4.0	-	.	
+ch.1_550	RNASeq_splice	intron	10	467	5.0	-	.	
+ch.1_550	RNASeq_splice	intron	49	100	13.0	+	.	
+ch.1_550	RNASeq_reads	transcript_region	82	94	2.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	82	94	1.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	95	98	2.0	+	.	
+ch.1_550	RNASeq_F_asymmetry	transcript_region	95	99	106657.0	.	.	
+ch.1_550	RNASeq_reads	transcript_region	95	99	22.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	99	99	10.0	+	.	
+ch.1_550	RNASeq_F_asymmetry	transcript_region	100	101	208390.0	.	.	
+ch.1_550	RNASeq_reads	transcript_region	100	102	43.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	100	111	17.0	+	.	
+ch.1_550	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:F13H10.8a.1
+ch.1_550	WormBase	exon	101	204	.	+	.	Parent=Transcript:F13H10.8a.1
+ch.1_550	WormBase	gene	101	1022	.	+	.	ID=Gene:WBGene00044784
+ch.1_550	WormBase	mRNA	101	1022	.	+	.	ID=Transcript:F13H10.8a.1;Parent=Gene:WBGene00044784
+ch.1_550	RNASeq_F_asymmetry	transcript_region	102	115	313942.0	.	.	
+ch.1_550	RNASeq_reads	transcript_region	103	115	65.0	.	.	
+ch.1_550	WormBase	CDS	109	204	.	+	.	ID=CDS:F13H10.8a;Parent=Transcript:F13H10.8a.1
+ch.1_550	RNASeq_stranded	transcript_region	112	129	26.0	+	.	
+ch.1_550	RNASeq_reads	transcript_region	116	137	99.0	.	.	
+ch.1_550	RNASeq_F_asymmetry	transcript_region	116	142	475642.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	130	204	41.0	+	.	
+ch.1_550	RNASeq_reads	transcript_region	138	204	149.0	.	.	
+ch.1_550	RNASeq_F_asymmetry	transcript_region	143	176	719692.0	.	.	
+ch.1_550	RNASeq_splice	intron	197	467	13.0	-	.	
+ch.1_550	RNASeq_splice	intron	199	493	16.0	+	.	
+ch.1_550	WormBase	intron	205	493	.	+	.	Parent=Transcript:F13H10.8a.1
+ch.1_550	RNASeq_splice	intron	205	493	917824.0	+	.	
+ch.1_550	RNASeq_splice	intron	402	493	18.0	+	.	
+ch.1_550	RNASeq_reads	transcript_region	491	491	1.0	.	.	
+ch.1_550	RNASeq_reads	transcript_region	492	493	21.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	492	493	4.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	494	530	26.0	+	.	
+ch.1_550	WormBase	CDS	494	640	.	+	.	ID=CDS:F13H10.8a;Parent=Transcript:F13H10.8a.1
+ch.1_550	RNASeq_reads	transcript_region	494	765	191.0	.	.	
+ch.1_550	WormBase	exon	494	1022	.	+	.	Parent=Transcript:F13H10.8a.1
+ch.1_550	RNASeq_splice	intron	512	568	9.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	531	622	40.0	+	.	
+ch.1_550	WormBase	mRNA	548	640	.	+	.	ID=Transcript:F13H10.8b.1;Parent=Gene:WBGene00044784
+ch.1_550	WormBase	exon	548	640	.	+	.	Parent=Transcript:F13H10.8b.1
+ch.1_550	WormBase	CDS	548	640	.	+	.	ID=CDS:F13H10.8b;Parent=Transcript:F13H10.8b.1
+ch.1_550	RNASeq_stranded	transcript_region	588	627	1.0	-	.	
+ch.1_550	RNASeq_stranded	transcript_region	623	674	63.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	628	638	2.0	-	.	
+ch.1_550	RNASeq_stranded	transcript_region	639	684	1.0	-	.	
+ch.1_550	WormBase	three_prime_UTR	641	1022	.	+	.	Parent=Transcript:F13H10.8a.1
+ch.1_550	RNASeq_stranded	transcript_region	675	693	109.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	692	708	1.0	-	.	
+ch.1_550	RNASeq_stranded	transcript_region	694	798	164.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	714	715	1.0	-	.	
+ch.1_550	RNASeq_splice	intron	716	749	59.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	716	755	2.0	-	.	
+ch.1_550	RNASeq_R_asymmetry	transcript_region	747	765	577704.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	756	766	4.0	-	.	
+ch.1_550	RNASeq_reads	transcript_region	766	789	126.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	767	797	2.0	-	.	
+ch.1_550	RNASeq	transcription_end_site	768	768	.	+	.	
+ch.1_550	RNASeq_R_asymmetry	transcript_region	771	772	483655.0	.	.	
+ch.1_550	RNASeq_R_asymmetry	transcript_region	775	788	454662.0	.	.	
+ch.1_550	RNASeq_reads	transcript_region	790	804	79.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	798	851	1.0	-	.	
+ch.1_550	RNASeq_stranded	transcript_region	799	815	108.0	+	.	
+ch.1_550	RNASeq_reads	transcript_region	805	816	52.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	816	827	67.0	+	.	
+ch.1_550	RNASeq_reads	transcript_region	817	836	34.0	.	.	
+ch.1_550	RNASeq	transcription_end_site	821	821	.	+	.	
+ch.1_550	RNASeq	transcription_end_site	823	823	.	+	.	
+ch.1_550	RNASeq_splice	intron	826	875	37.0	-	.	
+ch.1_550	RNASeq_stranded	transcript_region	828	843	44.0	+	.	
+ch.1_550	RNASeq_reads	transcript_region	837	849	22.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	844	849	29.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	850	859	18.0	+	.	
+ch.1_550	RNASeq_reads	transcript_region	850	865	13.0	.	.	
+ch.1_550	RNASeq	transcription_end_site	851	851	.	+	.	
+ch.1_550	RNASeq	transcription_end_site	853	853	.	+	.	
+ch.1_550	RNASeq	transcription_end_site	856	856	.	+	.	
+ch.1_550	RNASeq	transcription_end_site	858	858	.	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	860	940	11.0	+	.	
+ch.1_550	RNASeq	transcription_end_site	866	866	.	+	.	
+ch.1_550	RNASeq_reads	transcript_region	866	918	8.0	.	.	
+ch.1_550	RNASeq_reads	transcript_region	919	936	5.0	.	.	
+ch.1_550	RNASeq_reads	transcript_region	937	990	3.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	941	968	7.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	969	990	4.0	+	.	
+ch.1_550	RNASeq_stranded	transcript_region	991	1007	2.0	+	.	
+ch.1_550	RNASeq_reads	transcript_region	991	1022	1.0	.	.	
+ch.1_550	RNASeq_stranded	transcript_region	1008	1022	1.0	+	.	

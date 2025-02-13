@@ -1,0 +1,52 @@
+ch.1_202	RNASeq_F_asymmetry	transcript_region	59	60	721.0	.	.	
+ch.1_202	RNASeq_F_asymmetry	transcript_region	69	74	1536.0	.	.	
+ch.1_202	RNASeq_F_asymmetry	transcript_region	75	78	2315.0	.	.	
+ch.1_202	RNASeq_reads	transcript_region	75	99	1.0	.	.	
+ch.1_202	RNASeq_F_asymmetry	transcript_region	79	83	3585.0	.	.	
+ch.1_202	RNASeq_F_asymmetry	transcript_region	84	102	5457.0	.	.	
+ch.1_202	RNASeq_reads	transcript_region	100	117	2.0	.	.	
+ch.1_202	WormBase	five_prime_UTR	101	123	.	+	.	Parent=Transcript:C34F11.2.1
+ch.1_202	WormBase	exon	101	307	.	+	.	Parent=Transcript:C34F11.2.1
+ch.1_202	WormBase	gene	101	620	.	+	.	ID=Gene:WBGene00016414
+ch.1_202	WormBase	mRNA	101	620	.	+	.	ID=Transcript:C34F11.2.1;Parent=Gene:WBGene00016414
+ch.1_202	RNASeq_F_asymmetry	transcript_region	103	115	8235.0	.	.	
+ch.1_202	RNASeq_stranded	transcript_region	104	143	1.0	+	.	
+ch.1_202	RNASeq_F_asymmetry	transcript_region	116	118	12901.0	.	.	
+ch.1_202	RNASeq_reads	transcript_region	118	122	4.0	.	.	
+ch.1_202	RNASeq_F_asymmetry	transcript_region	119	126	26773.0	.	.	
+ch.1_202	RNASeq_reads	transcript_region	123	140	7.0	.	.	
+ch.1_202	WormBase	CDS	124	307	.	+	.	ID=CDS:C34F11.2;Parent=Transcript:C34F11.2.1
+ch.1_202	RNASeq_F_asymmetry	transcript_region	127	166	40291.0	.	.	
+ch.1_202	RNASeq_reads	transcript_region	141	188	11.0	.	.	
+ch.1_202	RNASeq_stranded	transcript_region	144	194	2.0	+	.	
+ch.1_202	RNASeq_F_asymmetry	transcript_region	167	175	61219.0	.	.	
+ch.1_202	RNASeq_reads	transcript_region	189	307	17.0	.	.	
+ch.1_202	RNASeq_stranded	transcript_region	195	222	1.0	+	.	
+ch.1_202	RNASeq_stranded	transcript_region	223	276	2.0	+	.	
+ch.1_202	RNASeq_stranded	transcript_region	277	307	1.0	+	.	
+ch.1_202	WormBase	intron	308	359	.	+	.	Parent=Transcript:C34F11.2.1
+ch.1_202	RNASeq_splice	intron	308	359	96555.0	+	.	
+ch.1_202	RNASeq_reads	transcript_region	358	359	2.0	.	.	
+ch.1_202	RNASeq_stranded	transcript_region	358	359	1.0	+	.	
+ch.1_202	RNASeq_stranded	transcript_region	360	380	2.0	+	.	
+ch.1_202	RNASeq_reads	transcript_region	360	546	17.0	.	.	
+ch.1_202	WormBase	CDS	360	568	.	+	.	ID=CDS:C34F11.2;Parent=Transcript:C34F11.2.1
+ch.1_202	WormBase	exon	360	620	.	+	.	Parent=Transcript:C34F11.2.1
+ch.1_202	RNASeq_stranded	transcript_region	381	432	4.0	+	.	
+ch.1_202	RNASeq_stranded	transcript_region	433	447	2.0	+	.	
+ch.1_202	RNASeq_stranded	transcript_region	448	464	1.0	+	.	
+ch.1_202	RNASeq_stranded	transcript_region	465	542	2.0	+	.	
+ch.1_202	RNASeq_R_asymmetry	transcript_region	500	548	65059.0	.	.	
+ch.1_202	RNASeq_stranded	transcript_region	543	594	1.0	+	.	
+ch.1_202	RNASeq_reads	transcript_region	547	584	10.0	.	.	
+ch.1_202	RNASeq_R_asymmetry	transcript_region	549	587	42243.0	.	.	
+ch.1_202	WormBase	three_prime_UTR	569	620	.	+	.	Parent=Transcript:C34F11.2.1
+ch.1_202	RNASeq_reads	transcript_region	585	594	6.0	.	.	
+ch.1_202	RNASeq_R_asymmetry	transcript_region	588	594	26986.0	.	.	
+ch.1_202	RNASeq_R_asymmetry	transcript_region	595	608	15061.0	.	.	
+ch.1_202	RNASeq_reads	transcript_region	595	613	3.0	.	.	
+ch.1_202	RNASeq_R_asymmetry	transcript_region	609	614	9908.0	.	.	
+ch.1_202	RNASeq_reads	transcript_region	614	621	1.0	.	.	
+ch.1_202	RNASeq_R_asymmetry	transcript_region	615	619	5776.0	.	.	
+ch.1_202	RNASeq_R_asymmetry	transcript_region	620	620	3697.0	.	.	
+ch.1_202	RNASeq_R_asymmetry	transcript_region	621	626	2062.0	.	.	

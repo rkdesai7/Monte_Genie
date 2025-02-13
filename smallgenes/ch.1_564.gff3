@@ -1,0 +1,84 @@
+ch.1_564	WormBase	three_prime_UTR	663	821	.	-	.	Parent=Transcript:C27D6.1.1
+ch.1_564	RNASeq	transcription_end_site	811	811	.	-	.	
+ch.1_564	RNASeq	transcription_end_site	811	811	.	-	.	
+ch.1_564	RNASeq	transcription_end_site	809	809	.	-	.	
+ch.1_564	RNASeq	transcription_end_site	805	805	.	-	.	
+ch.1_564	RNASeq	transcription_end_site	805	805	.	-	.	
+ch.1_564	RNASeq_reads	transcript_region	799	805	1.0	.	.	
+ch.1_564	WormBase	three_prime_UTR	726	804	.	+	.	Parent=Transcript:C27D6.12a.1
+ch.1_564	WormBase	exon	685	804	.	+	.	Parent=Transcript:C27D6.12a.1
+ch.1_564	WormBase	gene	101	804	.	+	.	ID=Gene:WBGene00044389
+ch.1_564	WormBase	mRNA	101	804	.	+	.	ID=Transcript:C27D6.12a.1;Parent=Gene:WBGene00044389
+ch.1_564	RNASeq	transcription_end_site	803	803	.	-	.	
+ch.1_564	RNASeq	transcription_end_site	803	803	.	-	.	
+ch.1_564	RNASeq_stranded	transcript_region	792	802	1.0	+	.	
+ch.1_564	RNASeq_reads	transcript_region	785	798	2.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	761	791	2.0	+	.	
+ch.1_564	RNASeq	transcription_end_site	785	785	.	-	.	
+ch.1_564	RNASeq	transcription_end_site	785	785	.	-	.	
+ch.1_564	RNASeq_reads	transcript_region	779	784	4.0	.	.	
+ch.1_564	RNASeq_F_asymmetry	transcript_region	779	783	18954.0	.	.	
+ch.1_564	RNASeq_F_asymmetry	transcript_region	762	778	29477.0	.	.	
+ch.1_564	RNASeq_reads	transcript_region	755	778	7.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	689	776	1.0	-	.	
+ch.1_564	RNASeq_stranded	transcript_region	732	760	4.0	+	.	
+ch.1_564	RNASeq	transcription_end_site	756	756	.	-	.	
+ch.1_564	RNASeq_reads	transcript_region	737	754	11.0	.	.	
+ch.1_564	RNASeq_F_asymmetry	transcript_region	728	741	58850.0	.	.	
+ch.1_564	RNASeq_reads	transcript_region	723	736	18.0	.	.	
+ch.1_564	RNASeq	transcription_end_site	733	733	.	-	.	
+ch.1_564	RNASeq	transcription_end_site	733	733	.	-	.	
+ch.1_564	RNASeq_stranded	transcript_region	710	731	7.0	+	.	
+ch.1_564	RNASeq_F_asymmetry	transcript_region	718	727	88915.0	.	.	
+ch.1_564	WormBase	CDS	685	725	.	+	.	ID=CDS:C27D6.12a;Parent=Transcript:C27D6.12a.1
+ch.1_564	WormBase	CDS	685	725	.	+	.	ID=CDS:C27D6.12b;Parent=Transcript:C27D6.12b.1
+ch.1_564	WormBase	exon	685	725	.	+	.	Parent=Transcript:C27D6.12b.1
+ch.1_564	WormBase	mRNA	207	725	.	+	.	ID=Transcript:C27D6.12b.1;Parent=Gene:WBGene00044389
+ch.1_564	RNASeq_reads	transcript_region	685	722	28.0	.	.	
+ch.1_564	RNASeq_F_asymmetry	transcript_region	685	717	137539.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	685	709	11.0	+	.	
+ch.1_564	RNASeq_splice	intron	305	687	32.0	+	.	
+ch.1_564	RNASeq_splice	intron	301	687	11.0	+	.	
+ch.1_564	RNASeq_F_asymmetry	transcript_region	684	684	16501.0	.	.	
+ch.1_564	RNASeq_reads	transcript_region	684	684	4.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	684	684	2.0	-	.	
+ch.1_564	RNASeq_splice	intron	374	684	3.0	+	.	
+ch.1_564	RNASeq_splice	intron	312	684	9.0	+	.	
+ch.1_564	WormBase	intron	301	684	.	+	.	Parent=Transcript:C27D6.12a.1
+ch.1_564	WormBase	intron	301	684	.	+	.	Parent=Transcript:C27D6.12b.1
+ch.1_564	RNASeq_splice	intron	301	684	198100.0	+	.	
+ch.1_564	RNASeq_splice	intron	259	684	4.0	+	.	
+ch.1_564	RNASeq_F_asymmetry	transcript_region	681	683	4870.0	.	.	
+ch.1_564	RNASeq_reads	transcript_region	681	683	1.0	.	.	
+ch.1_564	RNASeq_splice	intron	298	682	40.0	-	.	
+ch.1_564	RNASeq_splice	intron	301	672	38.0	+	.	
+ch.1_564	RNASeq_splice	intron	478	523	11.0	-	.	
+ch.1_564	RNASeq_F_asymmetry	transcript_region	301	301	47659.0	.	.	
+ch.1_564	RNASeq_reads	transcript_region	301	301	11.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	301	301	2.0	-	.	
+ch.1_564	RNASeq_F_asymmetry	transcript_region	283	300	179951.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	282	300	11.0	+	.	
+ch.1_564	RNASeq_reads	transcript_region	227	300	43.0	.	.	
+ch.1_564	WormBase	CDS	207	300	.	+	.	ID=CDS:C27D6.12b;Parent=Transcript:C27D6.12b.1
+ch.1_564	WormBase	exon	207	300	.	+	.	Parent=Transcript:C27D6.12b.1
+ch.1_564	WormBase	CDS	111	300	.	+	.	ID=CDS:C27D6.12a;Parent=Transcript:C27D6.12a.1
+ch.1_564	WormBase	exon	101	300	.	+	.	Parent=Transcript:C27D6.12a.1
+ch.1_564	RNASeq_stranded	transcript_region	191	281	17.0	+	.	
+ch.1_564	RNASeq_stranded	transcript_region	192	238	1.0	-	.	
+ch.1_564	RNASeq_reads	transcript_region	118	226	65.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	171	190	11.0	+	.	
+ch.1_564	RNASeq_stranded	transcript_region	152	170	7.0	+	.	
+ch.1_564	RNASeq_R_asymmetry	transcript_region	105	152	208081.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	101	151	12.0	+	.	
+ch.1_564	RNASeq_reads	transcript_region	105	117	42.0	.	.	
+ch.1_564	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:C27D6.12a.1
+ch.1_564	RNASeq_R_asymmetry	transcript_region	99	104	136874.0	.	.	
+ch.1_564	RNASeq_reads	transcript_region	99	104	27.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	95	100	7.0	+	.	
+ch.1_564	RNASeq_R_asymmetry	transcript_region	94	98	82836.0	.	.	
+ch.1_564	RNASeq_reads	transcript_region	94	98	16.0	.	.	
+ch.1_564	RNASeq_stranded	transcript_region	94	94	4.0	-	.	
+ch.1_564	RNASeq_R_asymmetry	transcript_region	90	93	35739.0	.	.	
+ch.1_564	RNASeq_reads	transcript_region	90	93	7.0	.	.	
+ch.1_564	RNASeq_R_asymmetry	transcript_region	87	89	9433.0	.	.	
+ch.1_564	RNASeq_reads	transcript_region	87	89	2.0	.	.	

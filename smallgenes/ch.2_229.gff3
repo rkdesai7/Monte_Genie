@@ -1,0 +1,44 @@
+ch.2_229	WormBase	three_prime_UTR	863	915	.	+	.	Parent=Transcript:K02E7.11.1
+ch.2_229	WormBase	exon	719	915	.	+	.	Parent=Transcript:K02E7.11.1
+ch.2_229	WormBase	gene	101	915	.	+	.	ID=Gene:WBGene00019315
+ch.2_229	WormBase	mRNA	101	915	.	+	.	ID=Transcript:K02E7.11.1;Parent=Gene:WBGene00019315
+ch.2_229	RNASeq_reads	transcript_region	852	891	1.0	.	.	
+ch.2_229	WormBase	CDS	719	862	.	+	.	ID=CDS:K02E7.11;Parent=Transcript:K02E7.11.1
+ch.2_229	RNASeq_stranded	transcript_region	741	861	1.0	+	.	
+ch.2_229	RNASeq_reads	transcript_region	797	851	2.0	.	.	
+ch.2_229	RNASeq_reads	transcript_region	719	796	4.0	.	.	
+ch.2_229	RNASeq	transcription_end_site	786	786	.	-	.	
+ch.2_229	RNASeq	transcription_end_site	720	720	.	-	.	
+ch.2_229	RNASeq	transcription_end_site	720	720	.	-	.	
+ch.2_229	WormBase	intron	499	718	.	+	.	Parent=Transcript:K02E7.11.1
+ch.2_229	RNASeq_splice	intron	499	718	23841.0	+	.	
+ch.2_229	WormBase	CDS	381	498	.	+	.	ID=CDS:K02E7.11;Parent=Transcript:K02E7.11.1
+ch.2_229	WormBase	exon	381	498	.	+	.	Parent=Transcript:K02E7.11.1
+ch.2_229	RNASeq_reads	transcript_region	381	498	5.0	.	.	
+ch.2_229	RNASeq_stranded	transcript_region	437	494	1.0	+	.	
+ch.2_229	RNASeq_reads	transcript_region	380	380	1.0	.	.	
+ch.2_229	WormBase	intron	269	380	.	+	.	Parent=Transcript:K02E7.11.1
+ch.2_229	RNASeq_splice	intron	269	380	20918.0	+	.	
+ch.2_229	RNASeq_splice	intron	264	380	7.0	+	.	
+ch.2_229	RNASeq_splice	intron	161	380	3.0	+	.	
+ch.2_229	RNASeq_splice	intron	76	380	10.0	+	.	
+ch.2_229	RNASeq_splice	intron	19	380	39.0	+	.	
+ch.2_229	RNASeq_reads	transcript_region	151	268	4.0	.	.	
+ch.2_229	WormBase	CDS	120	268	.	+	.	ID=CDS:K02E7.11;Parent=Transcript:K02E7.11.1
+ch.2_229	WormBase	exon	101	268	.	+	.	Parent=Transcript:K02E7.11.1
+ch.2_229	RNASeq_stranded	transcript_region	258	266	1.0	+	.	
+ch.2_229	RNASeq_stranded	transcript_region	182	244	1.0	+	.	
+ch.2_229	RNASeq_R_asymmetry	transcript_region	132	187	12765.0	.	.	
+ch.2_229	RNASeq_stranded	transcript_region	165	166	1.0	+	.	
+ch.2_229	RNASeq_stranded	transcript_region	162	163	1.0	+	.	
+ch.2_229	RNASeq_reads	transcript_region	126	150	2.0	.	.	
+ch.2_229	RNASeq_R_asymmetry	transcript_region	124	131	8416.0	.	.	
+ch.2_229	RNASeq_reads	transcript_region	109	125	1.0	.	.	
+ch.2_229	RNASeq_R_asymmetry	transcript_region	115	123	5100.0	.	.	
+ch.2_229	WormBase	five_prime_UTR	101	119	.	+	.	Parent=Transcript:K02E7.11.1
+ch.2_229	RNASeq_R_asymmetry	transcript_region	107	114	2791.0	.	.	
+ch.2_229	RNASeq_R_asymmetry	transcript_region	96	106	1685.0	.	.	
+ch.2_229	RNASeq_R_asymmetry	transcript_region	94	95	1102.0	.	.	
+ch.2_229	RNASeq_R_asymmetry	transcript_region	90	93	705.0	.	.	
+ch.2_229	RNASeq_R_asymmetry	transcript_region	89	89	145.0	.	.	
+ch.2_229	RNASeq_R_asymmetry	transcript_region	85	87	140.0	.	.	

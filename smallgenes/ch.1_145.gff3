@@ -1,0 +1,41 @@
+ch.1_145	RNASeq_reads	transcript_region	474	526	1.0	.	.	
+ch.1_145	WormBase	three_prime_UTR	436	523	.	+	.	Parent=Transcript:F28F5.4.1
+ch.1_145	WormBase	exon	377	523	.	+	.	Parent=Transcript:F28F5.4.1
+ch.1_145	WormBase	gene	101	523	.	+	.	ID=Gene:WBGene00043297
+ch.1_145	WormBase	mRNA	101	523	.	+	.	ID=Transcript:F28F5.4.1;Parent=Gene:WBGene00043297
+ch.1_145	RNASeq_stranded	transcript_region	460	483	1.0	+	.	
+ch.1_145	RNASeq_reads	transcript_region	445	473	2.0	.	.	
+ch.1_145	RNASeq_stranded	transcript_region	438	459	2.0	+	.	
+ch.1_145	RNASeq_reads	transcript_region	410	444	4.0	.	.	
+ch.1_145	RNASeq_stranded	transcript_region	377	437	4.0	+	.	
+ch.1_145	WormBase	CDS	377	435	.	+	.	ID=CDS:F28F5.4;Parent=Transcript:F28F5.4.1
+ch.1_145	RNASeq_reads	transcript_region	377	409	7.0	.	.	
+ch.1_145	RNASeq_reads	transcript_region	375	376	1.0	.	.	
+ch.1_145	RNASeq_stranded	transcript_region	375	376	1.0	+	.	
+ch.1_145	WormBase	intron	328	376	.	+	.	Parent=Transcript:F28F5.4.1
+ch.1_145	RNASeq_splice	intron	328	376	46871.0	+	.	
+ch.1_145	RNASeq_reads	transcript_region	328	328	2.0	.	.	
+ch.1_145	RNASeq_stranded	transcript_region	328	328	1.0	-	.	
+ch.1_145	RNASeq_stranded	transcript_region	283	327	5.0	+	.	
+ch.1_145	WormBase	CDS	264	327	.	+	.	ID=CDS:F28F5.4;Parent=Transcript:F28F5.4.1
+ch.1_145	RNASeq_reads	transcript_region	263	327	10.0	.	.	
+ch.1_145	WormBase	exon	101	327	.	+	.	Parent=Transcript:F28F5.4.1
+ch.1_145	RNASeq_stranded	transcript_region	229	282	3.0	+	.	
+ch.1_145	WormBase	five_prime_UTR	101	263	.	+	.	Parent=Transcript:F28F5.4.1
+ch.1_145	RNASeq_reads	transcript_region	121	262	16.0	.	.	
+ch.1_145	RNASeq_stranded	transcript_region	215	228	1.0	+	.	
+ch.1_145	RNASeq_stranded	transcript_region	182	214	2.0	+	.	
+ch.1_145	RNASeq_stranded	transcript_region	160	181	1.0	+	.	
+ch.1_145	RNASeq_stranded	transcript_region	105	159	2.0	+	.	
+ch.1_145	RNASeq_R_asymmetry	transcript_region	113	138	49454.0	.	.	
+ch.1_145	RNASeq_reads	transcript_region	109	120	10.0	.	.	
+ch.1_145	RNASeq_R_asymmetry	transcript_region	105	112	31869.0	.	.	
+ch.1_145	RNASeq_reads	transcript_region	97	108	6.0	.	.	
+ch.1_145	RNASeq_R_asymmetry	transcript_region	97	104	20867.0	.	.	
+ch.1_145	RNASeq_stranded	transcript_region	93	104	1.0	+	.	
+ch.1_145	RNASeq_R_asymmetry	transcript_region	93	96	13635.0	.	.	
+ch.1_145	RNASeq_reads	transcript_region	89	96	3.0	.	.	
+ch.1_145	RNASeq_R_asymmetry	transcript_region	88	91	6354.0	.	.	
+ch.1_145	RNASeq_reads	transcript_region	68	88	1.0	.	.	
+ch.1_145	RNASeq_R_asymmetry	transcript_region	85	86	5040.0	.	.	
+ch.1_145	RNASeq_R_asymmetry	transcript_region	77	80	4270.0	.	.	

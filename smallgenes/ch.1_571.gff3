@@ -1,0 +1,32 @@
+ch.1_571	RNASeq_reads	transcript_region	801	862	1.0	.	.	
+ch.1_571	WormBase	three_prime_UTR	818	859	.	+	.	Parent=Transcript:Y71F9AM.11.1
+ch.1_571	WormBase	exon	593	859	.	+	.	Parent=Transcript:Y71F9AM.11.1
+ch.1_571	WormBase	gene	101	859	.	+	.	ID=Gene:WBGene00306080
+ch.1_571	WormBase	mRNA	101	859	.	+	.	ID=Transcript:Y71F9AM.11.1;Parent=Gene:WBGene00306080
+ch.1_571	RNASeq_stranded	transcript_region	743	822	1.0	+	.	
+ch.1_571	WormBase	CDS	593	817	.	+	.	ID=CDS:Y71F9AM.11;Parent=Transcript:Y71F9AM.11.1
+ch.1_571	RNASeq_F_asymmetry	transcript_region	781	801	5780.0	.	.	
+ch.1_571	RNASeq_reads	transcript_region	703	800	2.0	.	.	
+ch.1_571	RNASeq_F_asymmetry	transcript_region	754	780	8748.0	.	.	
+ch.1_571	RNASeq_F_asymmetry	transcript_region	745	745	10275.0	.	.	
+ch.1_571	RNASeq_F_asymmetry	transcript_region	740	743	10417.0	.	.	
+ch.1_571	RNASeq_F_asymmetry	transcript_region	724	731	11463.0	.	.	
+ch.1_571	RNASeq_reads	transcript_region	653	702	4.0	.	.	
+ch.1_571	RNASeq_splice	intron	173	667	554.0	+	.	
+ch.1_571	RNASeq_reads	transcript_region	593	652	2.0	.	.	
+ch.1_571	RNASeq_R_asymmetry	transcript_region	593	622	12026.0	.	.	
+ch.1_571	WormBase	intron	173	592	.	+	.	Parent=Transcript:Y71F9AM.11.1
+ch.1_571	RNASeq_splice	intron	173	592	10368.0	+	.	
+ch.1_571	RNASeq_reads	transcript_region	338	381	1.0	.	.	
+ch.1_571	RNASeq_reads	transcript_region	336	336	1.0	.	.	
+ch.1_571	RNASeq_reads	transcript_region	333	334	1.0	.	.	
+ch.1_571	RNASeq_reads	transcript_region	307	319	1.0	.	.	
+ch.1_571	RNASeq_reads	transcript_region	301	302	1.0	.	.	
+ch.1_571	RNASeq_reads	transcript_region	173	298	1.0	.	.	
+ch.1_571	RNASeq_R_asymmetry	transcript_region	108	172	12989.0	.	.	
+ch.1_571	RNASeq_reads	transcript_region	106	172	3.0	.	.	
+ch.1_571	WormBase	CDS	101	172	.	+	.	ID=CDS:Y71F9AM.11;Parent=Transcript:Y71F9AM.11.1
+ch.1_571	WormBase	exon	101	172	.	+	.	Parent=Transcript:Y71F9AM.11.1
+ch.1_571	RNASeq_R_asymmetry	transcript_region	105	107	8299.0	.	.	
+ch.1_571	RNASeq_reads	transcript_region	58	105	1.0	.	.	
+ch.1_571	RNASeq_R_asymmetry	transcript_region	103	104	4571.0	.	.	

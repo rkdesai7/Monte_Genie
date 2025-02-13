@@ -1,0 +1,24 @@
+ch.1_26	RNASeq_splice	intron	73	123	37.0	+	.	
+ch.1_26	WormBase	exon	101	245	.	+	.	Parent=Transcript:ZK688.4.1
+ch.1_26	WormBase	CDS	101	245	.	+	.	ID=CDS:ZK688.4;Parent=Transcript:ZK688.4.1
+ch.1_26	WormBase	gene	101	378	.	+	.	ID=Gene:WBGene00022799
+ch.1_26	WormBase	mRNA	101	378	.	+	.	ID=Transcript:ZK688.4.1;Parent=Gene:WBGene00022799
+ch.1_26	RNASeq_reads	transcript_region	123	123	1.0	.	.	
+ch.1_26	RNASeq_stranded	transcript_region	124	137	1.0	+	.	
+ch.1_26	RNASeq_reads	transcript_region	124	245	3.0	.	.	
+ch.1_26	RNASeq_stranded	transcript_region	152	153	1.0	+	.	
+ch.1_26	RNASeq_stranded	transcript_region	159	245	1.0	+	.	
+ch.1_26	RNASeq_R_asymmetry	transcript_region	211	212	10159.0	.	.	
+ch.1_26	RNASeq_R_asymmetry	transcript_region	217	245	9410.0	.	.	
+ch.1_26	RNASeq_splice	intron	235	288	4.0	+	.	
+ch.1_26	WormBase	intron	246	288	.	+	.	Parent=Transcript:ZK688.4.1
+ch.1_26	RNASeq_splice	intron	246	288	11273.0	+	.	
+ch.1_26	RNASeq_R_asymmetry	transcript_region	287	288	1320.0	.	.	
+ch.1_26	RNASeq_reads	transcript_region	289	318	2.0	.	.	
+ch.1_26	RNASeq_R_asymmetry	transcript_region	289	320	9100.0	.	.	
+ch.1_26	RNASeq_stranded	transcript_region	289	345	1.0	+	.	
+ch.1_26	WormBase	CDS	289	347	.	+	.	ID=CDS:ZK688.4;Parent=Transcript:ZK688.4.1
+ch.1_26	WormBase	exon	289	378	.	+	.	Parent=Transcript:ZK688.4.1
+ch.1_26	RNASeq_reads	transcript_region	319	337	1.0	.	.	
+ch.1_26	RNASeq_R_asymmetry	transcript_region	321	334	5964.0	.	.	
+ch.1_26	WormBase	three_prime_UTR	348	378	.	+	.	Parent=Transcript:ZK688.4.1

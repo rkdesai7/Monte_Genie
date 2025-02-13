@@ -1,0 +1,44 @@
+ch.1_30	RNASeq_reads	transcript_region	15	106	4.0	.	.	
+ch.1_30	RNASeq_stranded	transcript_region	16	93	1.0	+	.	
+ch.1_30	RNASeq_stranded	transcript_region	94	113	2.0	+	.	
+ch.1_30	WormBase	five_prime_UTR	101	118	.	+	.	Parent=Transcript:Y75B8A.23.1
+ch.1_30	WormBase	exon	101	242	.	+	.	Parent=Transcript:Y75B8A.23.1
+ch.1_30	WormBase	gene	101	450	.	+	.	ID=Gene:WBGene00013556
+ch.1_30	WormBase	mRNA	101	450	.	+	.	ID=Transcript:Y75B8A.23.1;Parent=Gene:WBGene00013556
+ch.1_30	RNASeq_reads	transcript_region	107	118	7.0	.	.	
+ch.1_30	RNASeq_stranded	transcript_region	114	141	4.0	+	.	
+ch.1_30	RNASeq_reads	transcript_region	119	144	11.0	.	.	
+ch.1_30	WormBase	CDS	119	242	.	+	.	ID=CDS:Y75B8A.23;Parent=Transcript:Y75B8A.23.1
+ch.1_30	RNASeq_F_asymmetry	transcript_region	121	144	44475.0	.	.	
+ch.1_30	RNASeq_stranded	transcript_region	142	157	7.0	+	.	
+ch.1_30	RNASeq_F_asymmetry	transcript_region	145	156	67400.0	.	.	
+ch.1_30	RNASeq_reads	transcript_region	145	242	17.0	.	.	
+ch.1_30	RNASeq_stranded	transcript_region	158	205	11.0	+	.	
+ch.1_30	RNASeq_stranded	transcript_region	206	242	7.0	+	.	
+ch.1_30	RNASeq_reads	transcript_region	243	289	1.0	.	.	
+ch.1_30	WormBase	intron	243	294	.	+	.	Parent=Transcript:Y75B8A.23.1
+ch.1_30	RNASeq_splice	intron	243	294	109487.0	+	.	
+ch.1_30	RNASeq_splice	intron	251	304	7.0	-	.	
+ch.1_30	RNASeq_reads	transcript_region	290	293	2.0	.	.	
+ch.1_30	RNASeq_stranded	transcript_region	291	293	1.0	+	.	
+ch.1_30	RNASeq_R_asymmetry	transcript_region	294	294	17831.0	.	.	
+ch.1_30	RNASeq_reads	transcript_region	294	294	4.0	.	.	
+ch.1_30	RNASeq_stranded	transcript_region	294	294	2.0	+	.	
+ch.1_30	RNASeq_reads	transcript_region	295	385	23.0	.	.	
+ch.1_30	RNASeq_stranded	transcript_region	295	413	7.0	+	.	
+ch.1_30	WormBase	CDS	295	431	.	+	.	ID=CDS:Y75B8A.23;Parent=Transcript:Y75B8A.23.1
+ch.1_30	WormBase	exon	295	450	.	+	.	Parent=Transcript:Y75B8A.23.1
+ch.1_30	RNASeq_R_asymmetry	transcript_region	352	353	82169.0	.	.	
+ch.1_30	RNASeq_R_asymmetry	transcript_region	355	389	78849.0	.	.	
+ch.1_30	RNASeq_reads	transcript_region	386	393	15.0	.	.	
+ch.1_30	RNASeq_R_asymmetry	transcript_region	390	391	51987.0	.	.	
+ch.1_30	RNASeq_reads	transcript_region	394	417	9.0	.	.	
+ch.1_30	RNASeq_R_asymmetry	transcript_region	407	421	28992.0	.	.	
+ch.1_30	RNASeq_stranded	transcript_region	414	430	4.0	+	.	
+ch.1_30	RNASeq_reads	transcript_region	418	424	5.0	.	.	
+ch.1_30	RNASeq_R_asymmetry	transcript_region	422	422	18981.0	.	.	
+ch.1_30	RNASeq_reads	transcript_region	425	449	3.0	.	.	
+ch.1_30	RNASeq_stranded	transcript_region	431	440	2.0	+	.	
+ch.1_30	WormBase	three_prime_UTR	432	450	.	+	.	Parent=Transcript:Y75B8A.23.1
+ch.1_30	RNASeq_stranded	transcript_region	441	453	1.0	+	.	
+ch.1_30	RNASeq_reads	transcript_region	450	453	1.0	.	.	

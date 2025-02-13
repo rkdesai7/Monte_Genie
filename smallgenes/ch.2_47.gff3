@@ -1,0 +1,55 @@
+ch.2_47	WormBase	three_prime_UTR	462	691	.	+	.	Parent=Transcript:C43C3.4.1
+ch.2_47	WormBase	exon	409	691	.	+	.	Parent=Transcript:C43C3.4.1
+ch.2_47	WormBase	gene	101	691	.	+	.	ID=Gene:WBGene00195084
+ch.2_47	WormBase	mRNA	101	691	.	+	.	ID=Transcript:C43C3.4.1;Parent=Gene:WBGene00195084
+ch.2_47	RNASeq_F_asymmetry	transcript_region	631	657	540.0	.	.	
+ch.2_47	RNASeq_F_asymmetry	transcript_region	625	630	881.0	.	.	
+ch.2_47	RNASeq_F_asymmetry	transcript_region	624	624	1406.0	.	.	
+ch.2_47	RNASeq_reads	transcript_region	576	614	1.0	.	.	
+ch.2_47	RNASeq	transcription_end_site	611	611	.	-	.	
+ch.2_47	RNASeq	transcription_end_site	611	611	.	-	.	
+ch.2_47	RNASeq_stranded	transcript_region	522	602	1.0	+	.	
+ch.2_47	RNASeq	transcription_end_site	579	579	.	-	.	
+ch.2_47	RNASeq	transcription_end_site	579	579	.	-	.	
+ch.2_47	RNASeq_F_asymmetry	transcript_region	544	575	8294.0	.	.	
+ch.2_47	RNASeq_reads	transcript_region	532	575	2.0	.	.	
+ch.2_47	RNASeq	transcription_end_site	564	564	.	-	.	
+ch.2_47	RNASeq	transcription_end_site	564	564	.	-	.	
+ch.2_47	RNASeq_F_asymmetry	transcript_region	533	542	12113.0	.	.	
+ch.2_47	RNASeq	transcription_end_site	537	537	.	-	.	
+ch.2_47	RNASeq_F_asymmetry	transcript_region	526	531	13960.0	.	.	
+ch.2_47	RNASeq_reads	transcript_region	479	531	4.0	.	.	
+ch.2_47	RNASeq_stranded	transcript_region	501	521	2.0	+	.	
+ch.2_47	RNASeq_stranded	transcript_region	409	500	1.0	+	.	
+ch.2_47	RNASeq	transcription_end_site	481	481	.	-	.	
+ch.2_47	RNASeq_reads	transcript_region	409	478	7.0	.	.	
+ch.2_47	RNASeq_F_asymmetry	transcript_region	475	477	27656.0	.	.	
+ch.2_47	WormBase	CDS	409	461	.	+	.	ID=CDS:C43C3.4;Parent=Transcript:C43C3.4.1
+ch.2_47	RNASeq_splice	intron	367	411	4007.0	+	.	
+ch.2_47	RNASeq_reads	transcript_region	407	408	1.0	.	.	
+ch.2_47	WormBase	intron	367	408	.	+	.	Parent=Transcript:C43C3.4.1
+ch.2_47	RNASeq_splice	intron	367	408	29291.0	+	.	
+ch.2_47	WormBase	CDS	248	366	.	+	.	ID=CDS:C43C3.4;Parent=Transcript:C43C3.4.1
+ch.2_47	WormBase	exon	248	366	.	+	.	Parent=Transcript:C43C3.4.1
+ch.2_47	RNASeq_reads	transcript_region	248	366	7.0	.	.	
+ch.2_47	RNASeq_stranded	transcript_region	333	363	1.0	+	.	
+ch.2_47	RNASeq_stranded	transcript_region	248	332	2.0	+	.	
+ch.2_47	RNASeq_reads	transcript_region	245	247	1.0	.	.	
+ch.2_47	WormBase	intron	182	247	.	+	.	Parent=Transcript:C43C3.4.1
+ch.2_47	RNASeq_splice	intron	182	247	26381.0	+	.	
+ch.2_47	WormBase	CDS	135	181	.	+	.	ID=CDS:C43C3.4;Parent=Transcript:C43C3.4.1
+ch.2_47	RNASeq_stranded	transcript_region	134	181	2.0	+	.	
+ch.2_47	RNASeq_reads	transcript_region	119	181	5.0	.	.	
+ch.2_47	WormBase	exon	101	181	.	+	.	Parent=Transcript:C43C3.4.1
+ch.2_47	RNASeq_R_asymmetry	transcript_region	116	162	20474.0	.	.	
+ch.2_47	WormBase	five_prime_UTR	101	134	.	+	.	Parent=Transcript:C43C3.4.1
+ch.2_47	RNASeq_stranded	transcript_region	106	133	1.0	+	.	
+ch.2_47	RNASeq_reads	transcript_region	107	118	3.0	.	.	
+ch.2_47	RNASeq_R_asymmetry	transcript_region	108	115	13338.0	.	.	
+ch.2_47	RNASeq_splice	intron	58	109	35.0	-	.	
+ch.2_47	RNASeq_R_asymmetry	transcript_region	102	107	6866.0	.	.	
+ch.2_47	RNASeq_reads	transcript_region	96	106	1.0	.	.	
+ch.2_47	RNASeq_splice	intron	57	102	3.0	-	.	
+ch.2_47	RNASeq_R_asymmetry	transcript_region	101	101	4390.0	.	.	
+ch.2_47	RNASeq_R_asymmetry	transcript_region	97	98	3360.0	.	.	
+ch.2_47	RNASeq_reads	transcript_region	52	53	1.0	.	.	

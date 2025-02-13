@@ -1,0 +1,39 @@
+ch.1_222	WormBase	five_prime_UTR	101	145	.	+	.	Parent=Transcript:F02C9.1.1
+ch.1_222	WormBase	exon	101	185	.	+	.	Parent=Transcript:F02C9.1.1
+ch.1_222	WormBase	gene	101	569	.	+	.	ID=Gene:WBGene00017172
+ch.1_222	WormBase	mRNA	101	569	.	+	.	ID=Transcript:F02C9.1.1;Parent=Gene:WBGene00017172
+ch.1_222	RNASeq_F_asymmetry	transcript_region	110	120	1314.0	.	.	
+ch.1_222	RNASeq_F_asymmetry	transcript_region	121	125	1976.0	.	.	
+ch.1_222	RNASeq_F_asymmetry	transcript_region	126	129	4356.0	.	.	
+ch.1_222	RNASeq_reads	transcript_region	126	130	1.0	.	.	
+ch.1_222	RNASeq_F_asymmetry	transcript_region	130	133	7217.0	.	.	
+ch.1_222	RNASeq_reads	transcript_region	131	166	2.0	.	.	
+ch.1_222	RNASeq_F_asymmetry	transcript_region	134	185	11421.0	.	.	
+ch.1_222	RNASeq_stranded	transcript_region	137	185	1.0	+	.	
+ch.1_222	WormBase	CDS	146	185	.	+	.	ID=CDS:F02C9.1;Parent=Transcript:F02C9.1.1
+ch.1_222	RNASeq_reads	transcript_region	167	185	4.0	.	.	
+ch.1_222	RNASeq_splice	intron	182	237	4.0	+	.	
+ch.1_222	RNASeq_F_asymmetry	transcript_region	186	188	1355.0	.	.	
+ch.1_222	RNASeq_splice	intron	186	221	5.0	+	.	
+ch.1_222	WormBase	intron	186	237	.	+	.	Parent=Transcript:F02C9.1.1
+ch.1_222	RNASeq_splice	intron	186	237	18040.0	+	.	
+ch.1_222	RNASeq_splice	intron	190	237	173.0	+	.	
+ch.1_222	RNASeq_reads	transcript_region	237	237	1.0	.	.	
+ch.1_222	RNASeq_stranded	transcript_region	238	255	1.0	+	.	
+ch.1_222	RNASeq_reads	transcript_region	238	453	4.0	.	.	
+ch.1_222	WormBase	CDS	238	488	.	+	.	ID=CDS:F02C9.1;Parent=Transcript:F02C9.1.1
+ch.1_222	WormBase	exon	238	569	.	+	.	Parent=Transcript:F02C9.1.1
+ch.1_222	RNASeq_stranded	transcript_region	256	306	2.0	+	.	
+ch.1_222	RNASeq_stranded	transcript_region	307	312	1.0	+	.	
+ch.1_222	RNASeq_stranded	transcript_region	313	336	2.0	+	.	
+ch.1_222	RNASeq_stranded	transcript_region	337	384	1.0	+	.	
+ch.1_222	RNASeq_stranded	transcript_region	393	393	1.0	+	.	
+ch.1_222	RNASeq_stranded	transcript_region	395	492	1.0	+	.	
+ch.1_222	RNASeq_reads	transcript_region	454	482	2.0	.	.	
+ch.1_222	RNASeq_reads	transcript_region	483	567	1.0	.	.	
+ch.1_222	WormBase	three_prime_UTR	489	569	.	+	.	Parent=Transcript:F02C9.1.1
+ch.1_222	RNASeq_R_asymmetry	transcript_region	497	549	5757.0	.	.	
+ch.1_222	RNASeq_R_asymmetry	transcript_region	550	566	3793.0	.	.	
+ch.1_222	RNASeq_R_asymmetry	transcript_region	567	569	2470.0	.	.	
+ch.1_222	RNASeq_R_asymmetry	transcript_region	570	571	608.0	.	.	
+ch.1_222	RNASeq_R_asymmetry	transcript_region	572	573	373.0	.	.	

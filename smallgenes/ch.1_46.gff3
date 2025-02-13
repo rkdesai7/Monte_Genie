@@ -1,0 +1,49 @@
+ch.1_46	RNASeq_reads	transcript_region	522	563	2.0	.	.	
+ch.1_46	RNASeq_reads	transcript_region	507	521	1.0	.	.	
+ch.1_46	RNASeq_splice	intron	443	506	4.0	-	.	
+ch.1_46	RNASeq_splice	intron	332	506	6.0	-	.	
+ch.1_46	RNASeq_splice	intron	443	487	9.0	-	.	
+ch.1_46	RNASeq_reads	transcript_region	458	465	1.0	.	.	
+ch.1_46	WormBase	three_prime_UTR	405	463	.	+	.	Parent=Transcript:C50H2.10.1
+ch.1_46	WormBase	exon	194	463	.	+	.	Parent=Transcript:C50H2.10.1
+ch.1_46	WormBase	gene	101	463	.	+	.	ID=Gene:WBGene00008244
+ch.1_46	WormBase	mRNA	101	463	.	+	.	ID=Transcript:C50H2.10.1;Parent=Gene:WBGene00008244
+ch.1_46	RNASeq_F_asymmetry	transcript_region	450	457	10548.0	.	.	
+ch.1_46	RNASeq_reads	transcript_region	443	457	3.0	.	.	
+ch.1_46	RNASeq_F_asymmetry	transcript_region	428	449	16708.0	.	.	
+ch.1_46	RNASeq_reads	transcript_region	416	442	5.0	.	.	
+ch.1_46	RNASeq_stranded	transcript_region	414	440	1.0	+	.	
+ch.1_46	RNASeq_F_asymmetry	transcript_region	397	427	26627.0	.	.	
+ch.1_46	RNASeq_reads	transcript_region	392	415	8.0	.	.	
+ch.1_46	RNASeq_stranded	transcript_region	365	413	2.0	+	.	
+ch.1_46	WormBase	CDS	194	404	.	+	.	ID=CDS:C50H2.10;Parent=Transcript:C50H2.10.1
+ch.1_46	RNASeq_F_asymmetry	transcript_region	384	396	41140.0	.	.	
+ch.1_46	RNASeq_reads	transcript_region	194	391	13.0	.	.	
+ch.1_46	RNASeq_F_asymmetry	transcript_region	346	383	62168.0	.	.	
+ch.1_46	RNASeq_stranded	transcript_region	323	364	4.0	+	.	
+ch.1_46	RNASeq_stranded	transcript_region	295	322	2.0	+	.	
+ch.1_46	RNASeq_stranded	transcript_region	293	294	1.0	+	.	
+ch.1_46	RNASeq_stranded	transcript_region	266	292	2.0	+	.	
+ch.1_46	RNASeq_stranded	transcript_region	250	265	14.0	+	.	
+ch.1_46	RNASeq_stranded	transcript_region	215	249	22.0	+	.	
+ch.1_46	RNASeq_R_asymmetry	transcript_region	194	245	63468.0	.	.	
+ch.1_46	RNASeq_stranded	transcript_region	213	214	9.0	+	.	
+ch.1_46	RNASeq_stranded	transcript_region	194	212	5.0	+	.	
+ch.1_46	WormBase	intron	149	193	.	+	.	Parent=Transcript:C50H2.10.1
+ch.1_46	RNASeq_splice	intron	149	193	50616.0	+	.	
+ch.1_46	WormBase	CDS	135	148	.	+	.	ID=CDS:C50H2.10;Parent=Transcript:C50H2.10.1
+ch.1_46	RNASeq_R_asymmetry	transcript_region	129	148	40545.0	.	.	
+ch.1_46	RNASeq_reads	transcript_region	129	148	8.0	.	.	
+ch.1_46	RNASeq_stranded	transcript_region	123	148	5.0	+	.	
+ch.1_46	WormBase	exon	101	148	.	+	.	Parent=Transcript:C50H2.10.1
+ch.1_46	WormBase	five_prime_UTR	101	134	.	+	.	Parent=Transcript:C50H2.10.1
+ch.1_46	RNASeq_R_asymmetry	transcript_region	122	128	26326.0	.	.	
+ch.1_46	RNASeq_reads	transcript_region	121	128	5.0	.	.	
+ch.1_46	RNASeq_stranded	transcript_region	112	122	3.0	+	.	
+ch.1_46	RNASeq_R_asymmetry	transcript_region	117	121	17172.0	.	.	
+ch.1_46	RNASeq_reads	transcript_region	111	120	3.0	.	.	
+ch.1_46	RNASeq_R_asymmetry	transcript_region	111	116	10576.0	.	.	
+ch.1_46	RNASeq_stranded	transcript_region	109	111	1.0	+	.	
+ch.1_46	RNASeq_R_asymmetry	transcript_region	105	110	4820.0	.	.	
+ch.1_46	RNASeq_reads	transcript_region	102	110	1.0	.	.	
+ch.1_46	RNASeq_R_asymmetry	transcript_region	102	104	3058.0	.	.	

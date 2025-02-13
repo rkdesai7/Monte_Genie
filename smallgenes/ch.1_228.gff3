@@ -1,0 +1,34 @@
+ch.1_228	WormBase	three_prime_UTR	527	665	.	+	.	Parent=Transcript:C06E2.8.1
+ch.1_228	WormBase	exon	438	665	.	+	.	Parent=Transcript:C06E2.8.1
+ch.1_228	WormBase	gene	101	665	.	+	.	ID=Gene:WBGene00002092
+ch.1_228	WormBase	mRNA	101	665	.	+	.	ID=Transcript:C06E2.8.1;Parent=Gene:WBGene00002092
+ch.1_228	RNASeq_F_asymmetry	transcript_region	642	660	1174.0	.	.	
+ch.1_228	RNASeq_F_asymmetry	transcript_region	633	641	1791.0	.	.	
+ch.1_228	RNASeq_reads	transcript_region	587	636	1.0	.	.	
+ch.1_228	RNASeq_F_asymmetry	transcript_region	624	632	2832.0	.	.	
+ch.1_228	RNASeq_F_asymmetry	transcript_region	584	623	4302.0	.	.	
+ch.1_228	RNASeq_reads	transcript_region	438	586	2.0	.	.	
+ch.1_228	RNASeq_F_asymmetry	transcript_region	567	583	6469.0	.	.	
+ch.1_228	WormBase	CDS	438	526	.	+	.	ID=CDS:C06E2.8;Parent=Transcript:C06E2.8.1
+ch.1_228	RNASeq_stranded	transcript_region	438	507	1.0	+	.	
+ch.1_228	RNASeq_splice	intron	392	448	6.0	+	.	
+ch.1_228	RNASeq_splice	intron	396	437	5.0	+	.	
+ch.1_228	WormBase	intron	392	437	.	+	.	Parent=Transcript:C06E2.8.1
+ch.1_228	RNASeq_splice	intron	392	437	12005.0	+	.	
+ch.1_228	RNASeq_reads	transcript_region	392	392	1.0	.	.	
+ch.1_228	RNASeq_stranded	transcript_region	380	391	1.0	+	.	
+ch.1_228	WormBase	CDS	124	391	.	+	.	ID=CDS:C06E2.8;Parent=Transcript:C06E2.8.1
+ch.1_228	RNASeq_reads	transcript_region	108	391	3.0	.	.	
+ch.1_228	WormBase	exon	101	391	.	+	.	Parent=Transcript:C06E2.8.1
+ch.1_228	RNASeq_stranded	transcript_region	329	379	2.0	+	.	
+ch.1_228	RNASeq_stranded	transcript_region	285	328	1.0	+	.	
+ch.1_228	RNASeq_stranded	transcript_region	168	217	1.0	+	.	
+ch.1_228	RNASeq_R_asymmetry	transcript_region	108	193	11754.0	.	.	
+ch.1_228	RNASeq_stranded	transcript_region	146	146	1.0	-	.	
+ch.1_228	RNASeq_stranded	transcript_region	97	145	2.0	+	.	
+ch.1_228	WormBase	five_prime_UTR	101	123	.	+	.	Parent=Transcript:C06E2.8.1
+ch.1_228	RNASeq_R_asymmetry	transcript_region	101	107	7543.0	.	.	
+ch.1_228	RNASeq_reads	transcript_region	95	107	1.0	.	.	
+ch.1_228	RNASeq_R_asymmetry	transcript_region	96	100	4976.0	.	.	
+ch.1_228	RNASeq_stranded	transcript_region	96	96	1.0	-	.	
+ch.1_228	RNASeq_R_asymmetry	transcript_region	92	95	2469.0	.	.	

@@ -1,0 +1,64 @@
+ch.3_8	RNASeq_R_asymmetry	transcript_region	22	34	511.0	.	.	
+ch.3_8	RNASeq_F_asymmetry	transcript_region	87	91	919.0	.	.	
+ch.3_8	RNASeq_F_asymmetry	transcript_region	92	95	1691.0	.	.	
+ch.3_8	RNASeq_stranded	transcript_region	92	95	1.0	+	.	
+ch.3_8	RNASeq_F_asymmetry	transcript_region	96	97	3569.0	.	.	
+ch.3_8	RNASeq_reads	transcript_region	96	98	1.0	.	.	
+ch.3_8	RNASeq_stranded	transcript_region	96	148	2.0	+	.	
+ch.3_8	RNASeq_F_asymmetry	transcript_region	98	100	5359.0	.	.	
+ch.3_8	RNASeq_reads	transcript_region	99	110	2.0	.	.	
+ch.3_8	RNASeq_F_asymmetry	transcript_region	101	106	8259.0	.	.	
+ch.3_8	WormBase	five_prime_UTR	101	321	.	+	.	Parent=Transcript:Y82E9BR.6.1
+ch.3_8	WormBase	exon	101	394	.	+	.	Parent=Transcript:Y82E9BR.6.1
+ch.3_8	WormBase	gene	101	710	.	+	.	ID=Gene:WBGene00022339
+ch.3_8	WormBase	mRNA	101	710	.	+	.	ID=Transcript:Y82E9BR.6.1;Parent=Gene:WBGene00022339
+ch.3_8	RNASeq_F_asymmetry	transcript_region	107	113	12860.0	.	.	
+ch.3_8	WormBase	exon	108	192	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	WormBase	five_prime_UTR	108	192	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	WormBase	mRNA	108	710	.	+	.	ID=Transcript:Y82E9BR.6.2;Parent=Gene:WBGene00022339
+ch.3_8	RNASeq_reads	transcript_region	111	192	4.0	.	.	
+ch.3_8	RNASeq_F_asymmetry	transcript_region	114	177	19422.0	.	.	
+ch.3_8	RNASeq_stranded	transcript_region	149	154	1.0	+	.	
+ch.3_8	WormBase	intron	193	243	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	RNASeq_splice	intron	193	243	19503.0	+	.	
+ch.3_8	RNASeq_splice	intron	193	315	181.0	+	.	
+ch.3_8	RNASeq_reads	transcript_region	244	266	5.0	.	.	
+ch.3_8	WormBase	five_prime_UTR	244	321	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	WormBase	exon	244	394	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	RNASeq_splice	intron	267	315	21202.0	+	.	
+ch.3_8	RNASeq_splice	intron	271	315	13.0	+	.	
+ch.3_8	RNASeq_reads	transcript_region	313	315	1.0	.	.	
+ch.3_8	RNASeq_reads	transcript_region	316	394	6.0	.	.	
+ch.3_8	WormBase	CDS	322	394	.	+	.	ID=CDS:Y82E9BR.6;Parent=Transcript:Y82E9BR.6.1,Transcript:Y82E9BR.6.2
+ch.3_8	RNASeq_stranded	transcript_region	342	394	1.0	+	.	
+ch.3_8	RNASeq_splice	intron	386	436	7.0	+	.	
+ch.3_8	RNASeq_splice	intron	391	436	4.0	+	.	
+ch.3_8	WormBase	intron	395	436	.	+	.	Parent=Transcript:Y82E9BR.6.1
+ch.3_8	WormBase	intron	395	436	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	RNASeq_splice	intron	395	436	25499.0	+	.	
+ch.3_8	RNASeq_reads	transcript_region	434	436	1.0	.	.	
+ch.3_8	WormBase	CDS	437	504	.	+	.	ID=CDS:Y82E9BR.6;Parent=Transcript:Y82E9BR.6.1,Transcript:Y82E9BR.6.2
+ch.3_8	WormBase	exon	437	516	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	RNASeq_reads	transcript_region	437	516	6.0	.	.	
+ch.3_8	RNASeq_stranded	transcript_region	437	516	1.0	+	.	
+ch.3_8	WormBase	exon	437	710	.	+	.	Parent=Transcript:Y82E9BR.6.1
+ch.3_8	WormBase	three_prime_UTR	505	516	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	WormBase	three_prime_UTR	505	710	.	+	.	Parent=Transcript:Y82E9BR.6.1
+ch.3_8	RNASeq_splice	intron	517	557	124.0	+	.	
+ch.3_8	RNASeq_splice	intron	517	569	21.0	+	.	
+ch.3_8	WormBase	intron	517	621	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	RNASeq_splice	intron	517	621	9653.0	+	.	
+ch.3_8	RNASeq_splice	intron	517	630	4.0	+	.	
+ch.3_8	RNASeq_reads	transcript_region	517	666	3.0	.	.	
+ch.3_8	RNASeq_stranded	transcript_region	548	632	1.0	+	.	
+ch.3_8	RNASeq_splice	intron	569	621	124.0	+	.	
+ch.3_8	RNASeq_R_asymmetry	transcript_region	602	621	8066.0	.	.	
+ch.3_8	RNASeq_R_asymmetry	transcript_region	622	655	18537.0	.	.	
+ch.3_8	WormBase	exon	622	710	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	WormBase	three_prime_UTR	622	710	.	+	.	Parent=Transcript:Y82E9BR.6.2
+ch.3_8	RNASeq_stranded	transcript_region	633	636	2.0	+	.	
+ch.3_8	RNASeq_stranded	transcript_region	637	688	1.0	+	.	
+ch.3_8	RNASeq_R_asymmetry	transcript_region	656	665	11756.0	.	.	
+ch.3_8	RNASeq_R_asymmetry	transcript_region	666	666	7062.0	.	.	
+ch.3_8	RNASeq_reads	transcript_region	667	690	1.0	.	.	
+ch.3_8	RNASeq_R_asymmetry	transcript_region	713	715	953.0	.	.	

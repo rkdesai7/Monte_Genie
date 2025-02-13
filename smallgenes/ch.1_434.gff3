@@ -1,0 +1,99 @@
+ch.1_434	RNASeq_reads	transcript_region	92	94	1.0	.	.	
+ch.1_434	RNASeq_F_asymmetry	transcript_region	95	98	241916.0	.	.	
+ch.1_434	RNASeq_reads	transcript_region	95	98	48.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	95	98	5.0	+	.	
+ch.1_434	RNASeq_F_asymmetry	transcript_region	99	101	501593.0	.	.	
+ch.1_434	RNASeq_reads	transcript_region	99	101	99.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	99	113	49.0	+	.	
+ch.1_434	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:F52A8.1.1
+ch.1_434	WormBase	exon	101	345	.	+	.	Parent=Transcript:F52A8.1.1
+ch.1_434	WormBase	gene	101	792	.	+	.	ID=Gene:WBGene00009915
+ch.1_434	WormBase	mRNA	101	792	.	+	.	ID=Transcript:F52A8.1.1;Parent=Gene:WBGene00009915
+ch.1_434	RNASeq_F_asymmetry	transcript_region	102	107	760069.0	.	.	
+ch.1_434	RNASeq_reads	transcript_region	102	107	150.0	.	.	
+ch.1_434	WormBase	CDS	103	345	.	+	.	ID=CDS:F52A8.1;Parent=Transcript:F52A8.1.1
+ch.1_434	RNASeq_reads	transcript_region	108	134	229.0	.	.	
+ch.1_434	RNASeq_F_asymmetry	transcript_region	108	167	1156810.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	114	204	74.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	119	127	1.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	130	132	1.0	-	.	
+ch.1_434	RNASeq_reads	transcript_region	135	345	346.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	151	174	1.0	-	.	
+ch.1_434	RNASeq_splice	intron	153	446	12.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	175	244	2.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	205	311	48.0	+	.	
+ch.1_434	RNASeq_splice	intron	207	314	7.0	+	.	
+ch.1_434	RNASeq_splice	intron	233	282	24.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	245	262	1.0	-	.	
+ch.1_434	RNASeq_splice	intron	254	312	7.0	+	.	
+ch.1_434	RNASeq_splice	intron	256	414	22.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	263	345	2.0	-	.	
+ch.1_434	RNASeq_splice	intron	294	414	23.0	+	.	
+ch.1_434	RNASeq_splice	intron	303	414	11.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	312	345	73.0	+	.	
+ch.1_434	RNASeq_splice	intron	338	414	3.0	+	.	
+ch.1_434	RNASeq_reads	transcript_region	346	346	36.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	346	346	13.0	+	.	
+ch.1_434	WormBase	intron	346	414	.	+	.	Parent=Transcript:F52A8.1.1
+ch.1_434	RNASeq_splice	intron	346	414	1986340.0	+	.	
+ch.1_434	RNASeq_reads	transcript_region	347	347	1.0	.	.	
+ch.1_434	RNASeq_splice	intron	373	425	3.0	-	.	
+ch.1_434	RNASeq	transcription_end_site	407	407	.	+	.	
+ch.1_434	RNASeq	transcription_end_site	407	407	.	+	.	
+ch.1_434	RNASeq_reads	transcript_region	409	409	1.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	410	410	13.0	+	.	
+ch.1_434	RNASeq_reads	transcript_region	410	412	33.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	410	412	1.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	411	414	29.0	+	.	
+ch.1_434	RNASeq_reads	transcript_region	413	414	51.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	413	414	2.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	415	432	4.0	-	.	
+ch.1_434	WormBase	CDS	415	504	.	+	.	ID=CDS:F52A8.1;Parent=Transcript:F52A8.1.1
+ch.1_434	RNASeq_stranded	transcript_region	415	519	96.0	+	.	
+ch.1_434	RNASeq_reads	transcript_region	415	663	387.0	.	.	
+ch.1_434	WormBase	exon	415	792	.	+	.	Parent=Transcript:F52A8.1.1
+ch.1_434	RNASeq_stranded	transcript_region	433	483	7.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	484	484	2.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	485	486	1.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	487	496	2.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	497	499	4.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	500	500	17.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	501	550	27.0	-	.	
+ch.1_434	WormBase	three_prime_UTR	505	792	.	+	.	Parent=Transcript:F52A8.1.1
+ch.1_434	RNASeq_stranded	transcript_region	520	554	62.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	551	551	13.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	552	553	7.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	554	653	3.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	555	571	98.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	572	585	151.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	586	615	235.0	+	.	
+ch.1_434	RNASeq_splice	intron	604	653	84.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	616	666	353.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	654	663	5.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	664	704	8.0	-	.	
+ch.1_434	RNASeq_reads	transcript_region	664	718	250.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	667	739	540.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	705	731	5.0	-	.	
+ch.1_434	RNASeq_reads	transcript_region	719	771	164.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	732	745	8.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	740	761	338.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	746	756	13.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	757	773	21.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	762	773	223.0	+	.	
+ch.1_434	RNASeq	transcription_end_site	768	768	.	+	.	
+ch.1_434	RNASeq_reads	transcript_region	772	784	106.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	774	784	140.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	774	804	32.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	785	786	91.0	+	.	
+ch.1_434	RNASeq_reads	transcript_region	785	792	56.0	.	.	
+ch.1_434	RNASeq	transcription_end_site	787	787	.	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	787	790	59.0	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	791	793	37.0	+	.	
+ch.1_434	RNASeq	transcription_end_site	793	793	.	+	.	
+ch.1_434	RNASeq_reads	transcript_region	793	796	35.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	794	796	10.0	+	.	
+ch.1_434	RNASeq_reads	transcript_region	797	822	22.0	.	.	
+ch.1_434	RNASeq_stranded	transcript_region	797	865	1.0	+	.	
+ch.1_434	RNASeq	transcription_end_site	799	799	.	+	.	
+ch.1_434	RNASeq_stranded	transcript_region	805	867	49.0	-	.	
+ch.1_434	RNASeq_stranded	transcript_region	868	876	30.0	-	.	

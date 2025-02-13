@@ -1,0 +1,51 @@
+ch.2_210	WormBase	three_prime_UTR	810	836	.	+	.	Parent=Transcript:Y81G3A.6.1
+ch.2_210	WormBase	exon	624	836	.	+	.	Parent=Transcript:Y81G3A.6.1
+ch.2_210	WormBase	gene	101	836	.	+	.	ID=Gene:WBGene00195150
+ch.2_210	WormBase	mRNA	101	836	.	+	.	ID=Transcript:Y81G3A.6.1;Parent=Gene:WBGene00195150
+ch.2_210	RNASeq_F_asymmetry	transcript_region	829	834	297.0	.	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	815	828	553.0	.	.	
+ch.2_210	WormBase	CDS	624	809	.	+	.	ID=CDS:Y81G3A.6;Parent=Transcript:Y81G3A.6.1
+ch.2_210	RNASeq_reads	transcript_region	752	783	1.0	.	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	779	782	2152.0	.	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	773	778	3394.0	.	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	729	772	5373.0	.	.	
+ch.2_210	RNASeq_stranded	transcript_region	667	755	1.0	+	.	
+ch.2_210	RNASeq_reads	transcript_region	624	751	2.0	.	.	
+ch.2_210	WormBase	intron	579	623	.	+	.	Parent=Transcript:Y81G3A.6.1
+ch.2_210	RNASeq_splice	intron	579	623	11206.0	+	.	
+ch.2_210	RNASeq_splice	intron	577	623	4.0	+	.	
+ch.2_210	WormBase	CDS	445	578	.	+	.	ID=CDS:Y81G3A.6;Parent=Transcript:Y81G3A.6.1
+ch.2_210	WormBase	exon	445	578	.	+	.	Parent=Transcript:Y81G3A.6.1
+ch.2_210	RNASeq_reads	transcript_region	445	578	2.0	.	.	
+ch.2_210	RNASeq_stranded	transcript_region	569	574	1.0	+	.	
+ch.2_210	RNASeq_stranded	transcript_region	556	566	1.0	+	.	
+ch.2_210	RNASeq_stranded	transcript_region	538	552	1.0	+	.	
+ch.2_210	RNASeq_stranded	transcript_region	518	534	1.0	+	.	
+ch.2_210	RNASeq_stranded	transcript_region	516	516	1.0	-	.	
+ch.2_210	WormBase	intron	388	444	.	+	.	Parent=Transcript:Y81G3A.6.1
+ch.2_210	RNASeq_splice	intron	388	444	9868.0	+	.	
+ch.2_210	RNASeq_reads	transcript_region	354	387	2.0	.	.	
+ch.2_210	WormBase	CDS	306	387	.	+	.	ID=CDS:Y81G3A.6;Parent=Transcript:Y81G3A.6.1
+ch.2_210	WormBase	exon	101	387	.	+	.	Parent=Transcript:Y81G3A.6.1
+ch.2_210	WormBase	three_prime_UTR	101	381	.	+	.	Parent=Transcript:Y81G3A.1.1
+ch.2_210	RNASeq_R_asymmetry	transcript_region	367	369	6804.0	.	.	
+ch.2_210	RNASeq_R_asymmetry	transcript_region	312	365	6230.0	.	.	
+ch.2_210	RNASeq_reads	transcript_region	301	353	1.0	.	.	
+ch.2_210	RNASeq_R_asymmetry	transcript_region	306	311	3741.0	.	.	
+ch.2_210	RNASeq_R_asymmetry	transcript_region	283	305	2304.0	.	.	
+ch.2_210	WormBase	five_prime_UTR	101	305	.	+	.	Parent=Transcript:Y81G3A.6.1
+ch.2_210	RNASeq_R_asymmetry	transcript_region	265	282	1493.0	.	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	182	191	2392.0	.	.	
+ch.2_210	RNASeq_reads	transcript_region	179	191	1.0	.	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	180	181	3744.0	.	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	175	179	6083.0	.	.	
+ch.2_210	RNASeq_reads	transcript_region	163	178	2.0	.	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	164	174	9200.0	.	.	
+ch.2_210	RNASeq_stranded	transcript_region	161	174	1.0	+	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	159	163	15069.0	.	.	
+ch.2_210	RNASeq_reads	transcript_region	150	162	4.0	.	.	
+ch.2_210	RNASeq_stranded	transcript_region	146	160	2.0	+	.	
+ch.2_210	RNASeq_F_asymmetry	transcript_region	125	158	22706.0	.	.	
+ch.2_210	RNASeq_reads	transcript_region	90	149	7.0	.	.	
+ch.2_210	RNASeq_stranded	transcript_region	117	145	4.0	+	.	
+ch.2_210	RNASeq_stranded	transcript_region	39	116	7.0	+	.	

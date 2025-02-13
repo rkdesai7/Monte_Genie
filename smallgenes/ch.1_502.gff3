@@ -1,0 +1,60 @@
+ch.1_502	RNASeq_F_asymmetry	transcript_region	906	906	9380.0	.	.	
+ch.1_502	RNASeq_F_asymmetry	transcript_region	904	904	10802.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	845	853	1.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	819	822	1.0	.	.	
+ch.1_502	RNASeq	transcription_end_site	820	820	.	-	.	
+ch.1_502	RNASeq_stranded	transcript_region	818	818	1.0	-	.	
+ch.1_502	RNASeq_reads	transcript_region	811	818	2.0	.	.	
+ch.1_502	RNASeq_stranded	transcript_region	807	817	2.0	+	.	
+ch.1_502	WormBase	three_prime_UTR	711	817	.	+	.	Parent=Transcript:F38E11.1.1
+ch.1_502	WormBase	exon	456	817	.	+	.	Parent=Transcript:F38E11.1.1
+ch.1_502	WormBase	gene	101	817	.	+	.	ID=Gene:WBGene00002012
+ch.1_502	WormBase	mRNA	101	817	.	+	.	ID=Transcript:F38E11.1.1;Parent=Gene:WBGene00002012
+ch.1_502	RNASeq	transcription_end_site	812	812	.	-	.	
+ch.1_502	RNASeq_reads	transcript_region	807	810	4.0	.	.	
+ch.1_502	RNASeq_stranded	transcript_region	800	806	4.0	+	.	
+ch.1_502	RNASeq_reads	transcript_region	794	806	7.0	.	.	
+ch.1_502	RNASeq_stranded	transcript_region	771	799	8.0	+	.	
+ch.1_502	RNASeq	transcription_end_site	794	794	.	-	.	
+ch.1_502	RNASeq_reads	transcript_region	779	793	12.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	757	778	20.0	.	.	
+ch.1_502	RNASeq_stranded	transcript_region	669	770	13.0	+	.	
+ch.1_502	RNASeq_splice	intron	725	766	30.0	-	.	
+ch.1_502	RNASeq_reads	transcript_region	715	756	31.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	625	714	47.0	.	.	
+ch.1_502	WormBase	CDS	456	710	.	+	.	ID=CDS:F38E11.1;Parent=Transcript:F38E11.1.1
+ch.1_502	RNASeq_stranded	transcript_region	646	668	8.0	+	.	
+ch.1_502	RNASeq_stranded	transcript_region	626	645	5.0	+	.	
+ch.1_502	RNASeq_splice	intron	584	632	22.0	+	.	
+ch.1_502	RNASeq_stranded	transcript_region	456	625	3.0	+	.	
+ch.1_502	RNASeq_reads	transcript_region	456	624	71.0	.	.	
+ch.1_502	RNASeq_splice	intron	584	622	19.0	+	.	
+ch.1_502	RNASeq_splice	intron	404	482	10.0	+	.	
+ch.1_502	RNASeq_reads	transcript_region	454	455	12.0	.	.	
+ch.1_502	WormBase	intron	404	455	.	+	.	Parent=Transcript:F38E11.1.1
+ch.1_502	RNASeq_splice	intron	404	455	262143.0	+	.	
+ch.1_502	RNASeq_splice	intron	398	455	14.0	+	.	
+ch.1_502	RNASeq_reads	transcript_region	434	453	1.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	407	407	1.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	404	406	5.0	.	.	
+ch.1_502	RNASeq_stranded	transcript_region	404	406	1.0	+	.	
+ch.1_502	RNASeq_reads	transcript_region	344	403	55.0	.	.	
+ch.1_502	WormBase	CDS	329	403	.	+	.	ID=CDS:F38E11.1;Parent=Transcript:F38E11.1.1
+ch.1_502	RNASeq_stranded	transcript_region	302	403	3.0	+	.	
+ch.1_502	WormBase	exon	101	403	.	+	.	Parent=Transcript:F38E11.1.1
+ch.1_502	RNASeq_reads	transcript_region	306	343	36.0	.	.	
+ch.1_502	WormBase	five_prime_UTR	101	328	.	+	.	Parent=Transcript:F38E11.1.1
+ch.1_502	RNASeq_R_asymmetry	transcript_region	307	308	104000.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	284	305	23.0	.	.	
+ch.1_502	RNASeq_stranded	transcript_region	292	301	1.0	+	.	
+ch.1_502	RNASeq_reads	transcript_region	158	283	8.0	.	.	
+ch.1_502	RNASeq_stranded	transcript_region	231	281	1.0	+	.	
+ch.1_502	RNASeq_splice	intron	170	227	23.0	+	.	
+ch.1_502	RNASeq_stranded	transcript_region	189	216	1.0	+	.	
+ch.1_502	RNASeq_R_asymmetry	transcript_region	133	161	22881.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	131	157	5.0	.	.	
+ch.1_502	RNASeq_R_asymmetry	transcript_region	115	132	15085.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	103	130	3.0	.	.	
+ch.1_502	RNASeq_R_asymmetry	transcript_region	104	114	9450.0	.	.	
+ch.1_502	RNASeq_R_asymmetry	transcript_region	103	103	6215.0	.	.	
+ch.1_502	RNASeq_reads	transcript_region	41	102	1.0	.	.	

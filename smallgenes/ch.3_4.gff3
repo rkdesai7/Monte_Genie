@@ -1,0 +1,88 @@
+ch.3_4	RNASeq_F_asymmetry	transcript_region	56	65	2086.0	.	.	
+ch.3_4	RNASeq_reads	transcript_region	56	78	1.0	.	.	
+ch.3_4	RNASeq_F_asymmetry	transcript_region	66	78	4781.0	.	.	
+ch.3_4	RNASeq_F_asymmetry	transcript_region	79	89	7754.0	.	.	
+ch.3_4	RNASeq_reads	transcript_region	79	94	2.0	.	.	
+ch.3_4	RNASeq_F_asymmetry	transcript_region	90	94	11779.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	95	95	1.0	+	.	
+ch.3_4	RNASeq_F_asymmetry	transcript_region	95	98	54006.0	.	.	
+ch.3_4	RNASeq_reads	transcript_region	95	98	11.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	96	98	2.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	99	101	6.0	+	.	
+ch.3_4	RNASeq_F_asymmetry	transcript_region	99	103	97893.0	.	.	
+ch.3_4	RNASeq_reads	transcript_region	99	103	20.0	.	.	
+ch.3_4	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:C40H1.5.1
+ch.3_4	WormBase	exon	101	246	.	+	.	Parent=Transcript:C40H1.5.1
+ch.3_4	WormBase	gene	101	713	.	+	.	ID=Gene:WBGene00008040
+ch.3_4	WormBase	mRNA	101	713	.	+	.	ID=Transcript:C40H1.5.1;Parent=Gene:WBGene00008040
+ch.3_4	RNASeq_stranded	transcript_region	102	112	10.0	+	.	
+ch.3_4	WormBase	CDS	102	246	.	+	.	ID=CDS:C40H1.5;Parent=Transcript:C40H1.5.1
+ch.3_4	RNASeq_F_asymmetry	transcript_region	104	108	158207.0	.	.	
+ch.3_4	RNASeq_reads	transcript_region	104	108	31.0	.	.	
+ch.3_4	RNASeq_reads	transcript_region	109	132	47.0	.	.	
+ch.3_4	RNASeq_F_asymmetry	transcript_region	109	144	238427.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	113	164	16.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	133	246	72.0	.	.	
+ch.3_4	RNASeq_F_asymmetry	transcript_region	145	190	361033.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	165	192	25.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	193	242	41.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	243	246	26.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	247	247	15.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	247	247	6.0	+	.	
+ch.3_4	WormBase	intron	247	291	.	+	.	Parent=Transcript:C40H1.5.1
+ch.3_4	RNASeq_splice	intron	247	291	449705.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	290	291	13.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	290	291	4.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	292	309	19.0	+	.	
+ch.3_4	WormBase	CDS	292	428	.	+	.	ID=CDS:C40H1.5;Parent=Transcript:C40H1.5.1
+ch.3_4	WormBase	exon	292	428	.	+	.	Parent=Transcript:C40H1.5.1
+ch.3_4	RNASeq_reads	transcript_region	292	428	94.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	310	329	29.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	330	385	45.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	386	407	29.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	408	428	19.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	411	428	1.0	-	.	
+ch.3_4	WormBase	intron	429	473	.	+	.	Parent=Transcript:C40H1.5.1
+ch.3_4	RNASeq_splice	intron	429	473	501101.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	469	471	6.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	469	471	1.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	472	473	10.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	472	473	3.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	474	496	16.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	474	500	1.0	-	.	
+ch.3_4	WormBase	CDS	474	530	.	+	.	ID=CDS:C40H1.5;Parent=Transcript:C40H1.5.1
+ch.3_4	WormBase	exon	474	530	.	+	.	Parent=Transcript:C40H1.5.1
+ch.3_4	RNASeq_reads	transcript_region	474	530	96.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	497	530	25.0	+	.	
+ch.3_4	RNASeq_splice	intron	517	610	9.0	+	.	
+ch.3_4	WormBase	intron	531	578	.	+	.	Parent=Transcript:C40H1.5.1
+ch.3_4	RNASeq_splice	intron	531	578	387568.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	577	578	7.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	577	578	4.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	579	601	28.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	579	653	73.0	.	.	
+ch.3_4	WormBase	CDS	579	659	.	+	.	ID=CDS:C40H1.5;Parent=Transcript:C40H1.5.1
+ch.3_4	WormBase	exon	579	713	.	+	.	Parent=Transcript:C40H1.5.1
+ch.3_4	RNASeq_R_asymmetry	transcript_region	590	604	303276.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	602	671	43.0	+	.	
+ch.3_4	RNASeq_R_asymmetry	transcript_region	606	659	265466.0	.	.	
+ch.3_4	RNASeq_reads	transcript_region	654	665	47.0	.	.	
+ch.3_4	RNASeq_R_asymmetry	transcript_region	660	665	174115.0	.	.	
+ch.3_4	WormBase	three_prime_UTR	660	713	.	+	.	Parent=Transcript:C40H1.5.1
+ch.3_4	RNASeq_R_asymmetry	transcript_region	666	666	103835.0	.	.	
+ch.3_4	RNASeq_reads	transcript_region	666	669	26.0	.	.	
+ch.3_4	RNASeq_reads	transcript_region	670	679	15.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	672	680	28.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	680	693	9.0	.	.	
+ch.3_4	RNASeq	transcription_end_site	681	681	.	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	681	690	18.0	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	691	701	11.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	694	706	5.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	702	707	7.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	707	712	3.0	.	.	
+ch.3_4	RNASeq_stranded	transcript_region	708	711	4.0	+	.	
+ch.3_4	RNASeq	transcription_end_site	710	710	.	+	.	
+ch.3_4	RNASeq_stranded	transcript_region	712	715	2.0	+	.	
+ch.3_4	RNASeq_reads	transcript_region	713	715	1.0	.	.	
+ch.3_4	RNASeq	transcription_end_site	714	714	.	+	.	
+ch.3_4	RNASeq	transcription_end_site	715	715	.	+	.	

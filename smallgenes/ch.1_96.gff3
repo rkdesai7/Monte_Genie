@@ -1,0 +1,42 @@
+ch.1_96	RNASeq_F_asymmetry	transcript_region	89	89	2323.0	.	.	
+ch.1_96	RNASeq_reads	transcript_region	89	90	1.0	.	.	
+ch.1_96	RNASeq_F_asymmetry	transcript_region	90	92	6196.0	.	.	
+ch.1_96	RNASeq_reads	transcript_region	91	102	2.0	.	.	
+ch.1_96	RNASeq_F_asymmetry	transcript_region	93	100	9375.0	.	.	
+ch.1_96	RNASeq_F_asymmetry	transcript_region	101	111	14124.0	.	.	
+ch.1_96	WormBase	five_prime_UTR	101	127	.	+	.	Parent=Transcript:C37A5.5.1
+ch.1_96	WormBase	exon	101	282	.	+	.	Parent=Transcript:C37A5.5.1
+ch.1_96	WormBase	gene	101	542	.	+	.	ID=Gene:WBGene00014699
+ch.1_96	WormBase	mRNA	101	542	.	+	.	ID=Transcript:C37A5.5.1;Parent=Gene:WBGene00014699
+ch.1_96	RNASeq_reads	transcript_region	103	132	4.0	.	.	
+ch.1_96	RNASeq_F_asymmetry	transcript_region	112	136	21503.0	.	.	
+ch.1_96	WormBase	CDS	128	282	.	+	.	ID=CDS:C37A5.5;Parent=Transcript:C37A5.5.1
+ch.1_96	RNASeq_reads	transcript_region	133	282	7.0	.	.	
+ch.1_96	RNASeq_F_asymmetry	transcript_region	137	178	32471.0	.	.	
+ch.1_96	RNASeq_stranded	transcript_region	198	207	1.0	+	.	
+ch.1_96	RNASeq_stranded	transcript_region	209	282	1.0	+	.	
+ch.1_96	WormBase	intron	283	327	.	+	.	Parent=Transcript:C37A5.5.1
+ch.1_96	RNASeq_reads	transcript_region	283	327	1.0	.	.	
+ch.1_96	RNASeq_splice	intron	283	327	13387.0	+	.	
+ch.1_96	RNASeq_reads	transcript_region	328	370	4.0	.	.	
+ch.1_96	WormBase	CDS	328	442	.	+	.	ID=CDS:C37A5.5;Parent=Transcript:C37A5.5.1
+ch.1_96	WormBase	exon	328	542	.	+	.	Parent=Transcript:C37A5.5.1
+ch.1_96	RNASeq_stranded	transcript_region	356	358	1.0	+	.	
+ch.1_96	RNASeq_stranded	transcript_region	359	363	2.0	+	.	
+ch.1_96	RNASeq_stranded	transcript_region	364	370	4.0	+	.	
+ch.1_96	RNASeq_stranded	transcript_region	371	376	7.0	+	.	
+ch.1_96	RNASeq_reads	transcript_region	371	400	7.0	.	.	
+ch.1_96	RNASeq_stranded	transcript_region	377	385	13.0	+	.	
+ch.1_96	RNASeq_stranded	transcript_region	386	397	20.0	+	.	
+ch.1_96	RNASeq_stranded	transcript_region	398	476	31.0	+	.	
+ch.1_96	RNASeq_reads	transcript_region	401	457	11.0	.	.	
+ch.1_96	WormBase	three_prime_UTR	443	542	.	+	.	Parent=Transcript:C37A5.5.1
+ch.1_96	RNASeq_reads	transcript_region	458	476	7.0	.	.	
+ch.1_96	RNASeq_stranded	transcript_region	477	485	19.0	+	.	
+ch.1_96	RNASeq_reads	transcript_region	477	491	4.0	.	.	
+ch.1_96	RNASeq_stranded	transcript_region	486	491	12.0	+	.	
+ch.1_96	RNASeq_stranded	transcript_region	492	494	7.0	+	.	
+ch.1_96	RNASeq_reads	transcript_region	492	504	2.0	.	.	
+ch.1_96	RNASeq_stranded	transcript_region	495	496	4.0	+	.	
+ch.1_96	RNASeq_stranded	transcript_region	497	533	1.0	+	.	
+ch.1_96	RNASeq_reads	transcript_region	505	544	1.0	.	.	

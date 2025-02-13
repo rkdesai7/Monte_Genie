@@ -1,0 +1,68 @@
+ch.1_191	RNASeq_splice	intron	18	100	288.0	+	.	
+ch.1_191	RNASeq_splice	intron	46	100	6.0	+	.	
+ch.1_191	RNASeq_reads	transcript_region	56	94	1.0	.	.	
+ch.1_191	RNASeq_splice	intron	56	100	1874.0	+	.	
+ch.1_191	RNASeq_reads	transcript_region	95	98	2.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	99	104	11.0	+	.	
+ch.1_191	RNASeq_F_asymmetry	transcript_region	99	105	173293.0	.	.	
+ch.1_191	RNASeq_reads	transcript_region	99	105	35.0	.	.	
+ch.1_191	WormBase	five_prime_UTR	101	114	.	+	.	Parent=Transcript:Y39G10AR.20.1
+ch.1_191	WormBase	exon	101	303	.	+	.	Parent=Transcript:Y39G10AR.20.1
+ch.1_191	WormBase	gene	101	563	.	+	.	ID=Gene:WBGene00021475
+ch.1_191	WormBase	mRNA	101	563	.	+	.	ID=Transcript:Y39G10AR.20.1;Parent=Gene:WBGene00021475
+ch.1_191	RNASeq_stranded	transcript_region	105	107	17.0	+	.	
+ch.1_191	RNASeq_reads	transcript_region	106	116	53.0	.	.	
+ch.1_191	RNASeq_F_asymmetry	transcript_region	106	118	265087.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	108	119	26.0	+	.	
+ch.1_191	WormBase	CDS	115	303	.	+	.	ID=CDS:Y39G10AR.20;Parent=Transcript:Y39G10AR.20.1
+ch.1_191	RNASeq_reads	transcript_region	117	188	80.0	.	.	
+ch.1_191	RNASeq_F_asymmetry	transcript_region	119	162	399230.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	120	185	40.0	+	.	
+ch.1_191	RNASeq_stranded	transcript_region	172	265	1.0	-	.	
+ch.1_191	RNASeq_stranded	transcript_region	186	303	25.0	+	.	
+ch.1_191	RNASeq_reads	transcript_region	189	303	121.0	.	.	
+ch.1_191	RNASeq_reads	transcript_region	304	304	13.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	304	304	4.0	+	.	
+ch.1_191	WormBase	intron	304	354	.	+	.	Parent=Transcript:Y39G10AR.20.1
+ch.1_191	RNASeq_splice	intron	304	354	449660.0	+	.	
+ch.1_191	RNASeq_reads	transcript_region	350	352	5.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	350	352	1.0	+	.	
+ch.1_191	RNASeq_reads	transcript_region	353	354	10.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	353	354	3.0	+	.	
+ch.1_191	RNASeq_stranded	transcript_region	355	380	16.0	+	.	
+ch.1_191	WormBase	CDS	355	501	.	+	.	ID=CDS:Y39G10AR.20;Parent=Transcript:Y39G10AR.20.1
+ch.1_191	RNASeq_reads	transcript_region	355	528	86.0	.	.	
+ch.1_191	WormBase	exon	355	563	.	+	.	Parent=Transcript:Y39G10AR.20.1
+ch.1_191	RNASeq_stranded	transcript_region	381	394	25.0	+	.	
+ch.1_191	RNASeq_stranded	transcript_region	395	452	38.0	+	.	
+ch.1_191	RNASeq_stranded	transcript_region	453	475	61.0	+	.	
+ch.1_191	RNASeq_stranded	transcript_region	476	561	96.0	+	.	
+ch.1_191	RNASeq_stranded	transcript_region	481	481	1.0	+	.	
+ch.1_191	RNASeq_stranded	transcript_region	486	521	1.0	-	.	
+ch.1_191	WormBase	three_prime_UTR	502	563	.	+	.	Parent=Transcript:Y39G10AR.20.1
+ch.1_191	RNASeq_stranded	transcript_region	522	606	2.0	-	.	
+ch.1_191	RNASeq_reads	transcript_region	529	545	56.0	.	.	
+ch.1_191	RNASeq_reads	transcript_region	546	569	36.0	.	.	
+ch.1_191	RNASeq	transcription_end_site	550	550	.	+	.	
+ch.1_191	RNASeq_stranded	transcript_region	562	575	63.0	+	.	
+ch.1_191	RNASeq	transcription_end_site	563	563	.	+	.	
+ch.1_191	RNASeq	transcription_end_site	566	566	.	+	.	
+ch.1_191	RNASeq_reads	transcript_region	570	587	23.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	576	585	36.0	+	.	
+ch.1_191	RNASeq_R_asymmetry	transcript_region	585	591	68959.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	586	595	22.0	+	.	
+ch.1_191	RNASeq_reads	transcript_region	588	591	15.0	.	.	
+ch.1_191	RNASeq_reads	transcript_region	592	604	9.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	596	606	14.0	+	.	
+ch.1_191	RNASeq_reads	transcript_region	605	610	5.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	607	610	9.0	+	.	
+ch.1_191	RNASeq_stranded	transcript_region	607	613	1.0	-	.	
+ch.1_191	RNASeq_R_asymmetry	transcript_region	611	611	12582.0	.	.	
+ch.1_191	RNASeq	transcription_end_site	611	611	.	+	.	
+ch.1_191	RNASeq_reads	transcript_region	611	612	3.0	.	.	
+ch.1_191	RNASeq_stranded	transcript_region	611	613	3.0	+	.	
+ch.1_191	RNASeq	transcription_end_site	612	612	.	+	.	
+ch.1_191	RNASeq_reads	transcript_region	613	613	1.0	.	.	
+ch.1_191	RNASeq	transcription_end_site	613	613	.	+	.	
+ch.1_191	RNASeq	transcription_end_site	614	614	.	+	.	
+ch.1_191	RNASeq_reads	transcript_region	628	629	1.0	.	.	

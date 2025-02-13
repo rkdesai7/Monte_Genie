@@ -1,0 +1,88 @@
+ch.2_153	RNASeq_reads	transcript_region	7	12	4.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	8	15	3.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	13	15	2.0	.	.	
+ch.2_153	RNASeq	transcription_end_site	16	16	.	+	.	
+ch.2_153	RNASeq	transcription_end_site	19	19	.	+	.	
+ch.2_153	RNASeq	transcription_end_site	34	34	.	+	.	
+ch.2_153	RNASeq_stranded	transcript_region	44	94	1.0	+	.	
+ch.2_153	RNASeq_F_asymmetry	transcript_region	46	60	1840.0	.	.	
+ch.2_153	RNASeq_reads	transcript_region	48	98	1.0	.	.	
+ch.2_153	RNASeq_F_asymmetry	transcript_region	61	92	2794.0	.	.	
+ch.2_153	RNASeq_F_asymmetry	transcript_region	93	98	4257.0	.	.	
+ch.2_153	RNASeq_F_asymmetry	transcript_region	99	102	83967.0	.	.	
+ch.2_153	RNASeq_reads	transcript_region	99	102	17.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	99	111	6.0	+	.	
+ch.2_153	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:F22A3.2.1
+ch.2_153	WormBase	exon	101	192	.	+	.	Parent=Transcript:F22A3.2.1
+ch.2_153	WormBase	gene	101	734	.	+	.	ID=Gene:WBGene00017688
+ch.2_153	WormBase	mRNA	101	734	.	+	.	ID=Transcript:F22A3.2.1;Parent=Gene:WBGene00017688
+ch.2_153	RNASeq_F_asymmetry	transcript_region	103	110	130851.0	.	.	
+ch.2_153	RNASeq_reads	transcript_region	103	110	26.0	.	.	
+ch.2_153	WormBase	CDS	103	192	.	+	.	ID=CDS:F22A3.2;Parent=Transcript:F22A3.2.1
+ch.2_153	RNASeq_reads	transcript_region	111	151	43.0	.	.	
+ch.2_153	RNASeq_F_asymmetry	transcript_region	111	185	215875.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	112	151	10.0	+	.	
+ch.2_153	RNASeq_stranded	transcript_region	152	156	23.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	152	192	65.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	157	192	36.0	+	.	
+ch.2_153	RNASeq_F_asymmetry	transcript_region	193	195	52126.0	.	.	
+ch.2_153	RNASeq_reads	transcript_region	193	195	11.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	193	195	8.0	+	.	
+ch.2_153	RNASeq_splice	intron	193	227	29.0	+	.	
+ch.2_153	WormBase	intron	193	237	.	+	.	Parent=Transcript:F22A3.2.1
+ch.2_153	RNASeq_splice	intron	193	237	366308.0	+	.	
+ch.2_153	RNASeq_splice	intron	193	254	5.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	196	201	1.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	196	201	1.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	204	204	1.0	.	.	
+ch.2_153	RNASeq_reads	transcript_region	219	225	1.0	.	.	
+ch.2_153	RNASeq_reads	transcript_region	227	237	1.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	238	252	31.0	+	.	
+ch.2_153	WormBase	CDS	238	447	.	+	.	ID=CDS:F22A3.2;Parent=Transcript:F22A3.2.1
+ch.2_153	WormBase	exon	238	447	.	+	.	Parent=Transcript:F22A3.2.1
+ch.2_153	RNASeq_reads	transcript_region	238	447	71.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	253	300	19.0	+	.	
+ch.2_153	RNASeq_stranded	transcript_region	301	372	29.0	+	.	
+ch.2_153	RNASeq_stranded	transcript_region	373	381	19.0	+	.	
+ch.2_153	RNASeq_stranded	transcript_region	382	447	39.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	448	485	1.0	.	.	
+ch.2_153	WormBase	intron	448	490	.	+	.	Parent=Transcript:F22A3.2.1
+ch.2_153	RNASeq_splice	intron	448	490	412520.0	+	.	
+ch.2_153	RNASeq_splice	intron	448	501	12.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	486	490	3.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	491	549	29.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	491	605	74.0	.	.	
+ch.2_153	WormBase	CDS	491	628	.	+	.	ID=CDS:F22A3.2;Parent=Transcript:F22A3.2.1
+ch.2_153	WormBase	exon	491	734	.	+	.	Parent=Transcript:F22A3.2.1
+ch.2_153	RNASeq_stranded	transcript_region	550	598	44.0	+	.	
+ch.2_153	RNASeq_stranded	transcript_region	556	585	1.0	-	.	
+ch.2_153	RNASeq_R_asymmetry	transcript_region	598	614	226848.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	599	695	24.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	606	615	48.0	.	.	
+ch.2_153	RNASeq	transcription_end_site	614	614	.	+	.	
+ch.2_153	RNASeq_reads	transcript_region	616	641	31.0	.	.	
+ch.2_153	RNASeq	transcription_end_site	621	621	.	+	.	
+ch.2_153	RNASeq	transcription_end_site	622	622	.	+	.	
+ch.2_153	RNASeq	transcription_end_site	627	627	.	+	.	
+ch.2_153	WormBase	three_prime_UTR	629	734	.	+	.	Parent=Transcript:F22A3.2.1
+ch.2_153	RNASeq	transcription_end_site	634	634	.	+	.	
+ch.2_153	RNASeq	transcription_end_site	636	636	.	+	.	
+ch.2_153	RNASeq	transcription_end_site	638	638	.	+	.	
+ch.2_153	RNASeq_reads	transcript_region	642	682	18.0	.	.	
+ch.2_153	RNASeq_R_asymmetry	transcript_region	673	674	57525.0	.	.	
+ch.2_153	RNASeq_reads	transcript_region	683	702	11.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	696	713	15.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	703	715	7.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	714	720	9.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	716	733	4.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	721	728	5.0	+	.	
+ch.2_153	RNASeq_stranded	transcript_region	729	736	3.0	+	.	
+ch.2_153	RNASeq_reads	transcript_region	734	736	2.0	.	.	
+ch.2_153	RNASeq_R_asymmetry	transcript_region	735	736	7413.0	.	.	
+ch.2_153	RNASeq	transcription_end_site	737	737	.	+	.	
+ch.2_153	RNASeq_reads	transcript_region	737	739	1.0	.	.	
+ch.2_153	RNASeq_stranded	transcript_region	737	746	1.0	+	.	
+ch.2_153	RNASeq	transcription_end_site	738	738	.	+	.	
+ch.2_153	RNASeq_R_asymmetry	transcript_region	739	739	2391.0	.	.	
+ch.2_153	RNASeq	transcription_end_site	743	743	.	+	.	
+ch.2_153	RNASeq	transcription_end_site	761	761	.	+	.	

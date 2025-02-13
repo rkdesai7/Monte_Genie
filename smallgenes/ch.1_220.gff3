@@ -1,0 +1,61 @@
+ch.1_220	RNASeq_stranded	transcript_region	688	710	1.0	+	.	
+ch.1_220	RNASeq_reads	transcript_region	681	687	1.0	.	.	
+ch.1_220	RNASeq_stranded	transcript_region	657	687	2.0	+	.	
+ch.1_220	WormBase	three_prime_UTR	549	685	.	+	.	Parent=Transcript:H32K16.2.1
+ch.1_220	WormBase	exon	451	685	.	+	.	Parent=Transcript:H32K16.2.1
+ch.1_220	WormBase	gene	101	685	.	+	.	ID=Gene:WBGene00010422
+ch.1_220	WormBase	mRNA	101	685	.	+	.	ID=Transcript:H32K16.2.1;Parent=Gene:WBGene00010422
+ch.1_220	RNASeq_reads	transcript_region	637	680	2.0	.	.	
+ch.1_220	RNASeq_stranded	transcript_region	508	656	4.0	+	.	
+ch.1_220	RNASeq_reads	transcript_region	634	636	4.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	627	633	7.0	.	.	
+ch.1_220	RNASeq_F_asymmetry	transcript_region	621	631	35681.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	590	626	11.0	.	.	
+ch.1_220	RNASeq_F_asymmetry	transcript_region	588	620	54430.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	579	589	17.0	.	.	
+ch.1_220	RNASeq_F_asymmetry	transcript_region	539	587	86061.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	451	578	26.0	.	.	
+ch.1_220	WormBase	CDS	451	548	.	+	.	ID=CDS:H32K16.2;Parent=Transcript:H32K16.2.1
+ch.1_220	RNASeq_F_asymmetry	transcript_region	523	538	135438.0	.	.	
+ch.1_220	RNASeq_stranded	transcript_region	497	507	2.0	+	.	
+ch.1_220	RNASeq_stranded	transcript_region	451	496	4.0	+	.	
+ch.1_220	RNASeq_splice	intron	323	486	4.0	+	.	
+ch.1_220	RNASeq_reads	transcript_region	449	450	4.0	.	.	
+ch.1_220	RNASeq_stranded	transcript_region	449	450	2.0	+	.	
+ch.1_220	WormBase	intron	323	450	.	+	.	Parent=Transcript:H32K16.2.1
+ch.1_220	RNASeq_splice	intron	323	450	132731.0	+	.	
+ch.1_220	RNASeq_splice	intron	61	450	7031.0	+	.	
+ch.1_220	RNASeq_stranded	transcript_region	448	448	1.0	-	.	
+ch.1_220	RNASeq_reads	transcript_region	444	448	2.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	336	443	1.0	.	.	
+ch.1_220	RNASeq_splice	intron	323	423	3.0	+	.	
+ch.1_220	RNASeq_reads	transcript_region	333	333	1.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	325	325	1.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	323	324	3.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	219	322	26.0	.	.	
+ch.1_220	WormBase	CDS	208	322	.	+	.	ID=CDS:H32K16.2;Parent=Transcript:H32K16.2.1
+ch.1_220	RNASeq_stranded	transcript_region	193	322	2.0	+	.	
+ch.1_220	WormBase	exon	101	322	.	+	.	Parent=Transcript:H32K16.2.1
+ch.1_220	RNASeq_R_asymmetry	transcript_region	193	245	85436.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	191	218	17.0	.	.	
+ch.1_220	WormBase	five_prime_UTR	101	207	.	+	.	Parent=Transcript:H32K16.2.1
+ch.1_220	RNASeq_stranded	transcript_region	192	192	1.0	-	.	
+ch.1_220	RNASeq_R_asymmetry	transcript_region	183	192	54880.0	.	.	
+ch.1_220	RNASeq_stranded	transcript_region	184	191	2.0	+	.	
+ch.1_220	RNASeq_reads	transcript_region	183	190	11.0	.	.	
+ch.1_220	RNASeq_stranded	transcript_region	148	183	1.0	+	.	
+ch.1_220	RNASeq_splice	intron	61	183	42.0	+	.	
+ch.1_220	RNASeq_R_asymmetry	transcript_region	176	182	33797.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	176	182	7.0	.	.	
+ch.1_220	RNASeq_R_asymmetry	transcript_region	169	175	19105.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	161	175	4.0	.	.	
+ch.1_220	RNASeq_R_asymmetry	transcript_region	160	168	12447.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	152	160	2.0	.	.	
+ch.1_220	RNASeq_R_asymmetry	transcript_region	154	159	8184.0	.	.	
+ch.1_220	RNASeq_reads	transcript_region	61	151	1.0	.	.	
+ch.1_220	RNASeq_splice	intron	61	150	5.0	+	.	
+ch.1_220	RNASeq_stranded	transcript_region	146	146	1.0	-	.	
+ch.1_220	RNASeq_splice	intron	93	142	11.0	+	.	
+ch.1_220	RNASeq_splice	intron	61	142	89.0	+	.	
+ch.1_220	RNASeq_stranded	transcript_region	44	60	1.0	+	.	
+ch.1_220	RNASeq_reads	transcript_region	4	60	2.0	.	.	

@@ -1,0 +1,40 @@
+ch.1_141	WormBase	five_prime_UTR	101	119	.	+	.	Parent=Transcript:C08E8.3.1
+ch.1_141	WormBase	exon	101	305	.	+	.	Parent=Transcript:C08E8.3.1
+ch.1_141	WormBase	gene	101	531	.	+	.	ID=Gene:WBGene00007439
+ch.1_141	WormBase	mRNA	101	531	.	+	.	ID=Transcript:C08E8.3.1;Parent=Gene:WBGene00007439
+ch.1_141	RNASeq_F_asymmetry	transcript_region	109	110	3109.0	.	.	
+ch.1_141	RNASeq_reads	transcript_region	109	112	1.0	.	.	
+ch.1_141	RNASeq_stranded	transcript_region	109	113	1.0	+	.	
+ch.1_141	RNASeq_F_asymmetry	transcript_region	113	114	6328.0	.	.	
+ch.1_141	RNASeq_reads	transcript_region	113	121	2.0	.	.	
+ch.1_141	RNASeq_stranded	transcript_region	114	128	2.0	+	.	
+ch.1_141	RNASeq_F_asymmetry	transcript_region	115	122	11199.0	.	.	
+ch.1_141	WormBase	CDS	120	305	.	+	.	ID=CDS:C08E8.3;Parent=Transcript:C08E8.3.1
+ch.1_141	RNASeq_reads	transcript_region	122	305	4.0	.	.	
+ch.1_141	RNASeq_F_asymmetry	transcript_region	123	160	17049.0	.	.	
+ch.1_141	RNASeq_stranded	transcript_region	129	256	4.0	+	.	
+ch.1_141	RNASeq_splice	intron	141	365	5.0	+	.	
+ch.1_141	RNASeq_F_asymmetry	transcript_region	171	179	20108.0	.	.	
+ch.1_141	RNASeq_splice	intron	231	365	9.0	+	.	
+ch.1_141	RNASeq_stranded	transcript_region	257	305	2.0	+	.	
+ch.1_141	RNASeq_R_asymmetry	transcript_region	282	305	22732.0	.	.	
+ch.1_141	RNASeq_splice	intron	303	365	8.0	+	.	
+ch.1_141	WormBase	intron	306	365	.	+	.	Parent=Transcript:C08E8.3.1
+ch.1_141	RNASeq_splice	intron	306	365	49304.0	+	.	
+ch.1_141	RNASeq_reads	transcript_region	365	365	1.0	.	.	
+ch.1_141	RNASeq_stranded	transcript_region	365	365	3.0	+	.	
+ch.1_141	RNASeq_R_asymmetry	transcript_region	366	375	24449.0	.	.	
+ch.1_141	RNASeq_stranded	transcript_region	366	385	6.0	+	.	
+ch.1_141	WormBase	CDS	366	416	.	+	.	ID=CDS:C08E8.3;Parent=Transcript:C08E8.3.1
+ch.1_141	RNASeq_reads	transcript_region	366	452	6.0	.	.	
+ch.1_141	WormBase	exon	366	531	.	+	.	Parent=Transcript:C08E8.3.1
+ch.1_141	RNASeq_stranded	transcript_region	386	401	10.0	+	.	
+ch.1_141	RNASeq_stranded	transcript_region	402	494	16.0	+	.	
+ch.1_141	WormBase	three_prime_UTR	417	531	.	+	.	Parent=Transcript:C08E8.3.1
+ch.1_141	RNASeq	transcription_end_site	422	422	.	+	.	
+ch.1_141	RNASeq_reads	transcript_region	453	501	3.0	.	.	
+ch.1_141	RNASeq_F_asymmetry	transcript_region	460	462	11511.0	.	.	
+ch.1_141	RNASeq_stranded	transcript_region	495	507	10.0	+	.	
+ch.1_141	RNASeq_reads	transcript_region	502	524	1.0	.	.	
+ch.1_141	RNASeq_stranded	transcript_region	508	514	6.0	+	.	
+ch.1_141	RNASeq_stranded	transcript_region	515	529	3.0	+	.	

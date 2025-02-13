@@ -1,0 +1,56 @@
+ch.1_351	RNASeq_reads	transcript_region	18	46	2.0	.	.	
+ch.1_351	RNASeq_F_asymmetry	transcript_region	23	34	8147.0	.	.	
+ch.1_351	RNASeq_F_asymmetry	transcript_region	35	51	12642.0	.	.	
+ch.1_351	RNASeq_stranded	transcript_region	39	39	2.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	40	42	1.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	43	51	2.0	+	.	
+ch.1_351	RNASeq_reads	transcript_region	47	90	4.0	.	.	
+ch.1_351	RNASeq_stranded	transcript_region	52	86	1.0	+	.	
+ch.1_351	RNASeq_F_asymmetry	transcript_region	52	95	19603.0	.	.	
+ch.1_351	RNASeq_splice	intron	68	261	3.0	-	.	
+ch.1_351	RNASeq_stranded	transcript_region	87	94	2.0	+	.	
+ch.1_351	RNASeq_reads	transcript_region	91	98	7.0	.	.	
+ch.1_351	RNASeq_stranded	transcript_region	95	96	1.0	+	.	
+ch.1_351	RNASeq_F_asymmetry	transcript_region	96	98	31424.0	.	.	
+ch.1_351	RNASeq_stranded	transcript_region	97	99	2.0	+	.	
+ch.1_351	RNASeq_F_asymmetry	transcript_region	99	105	64407.0	.	.	
+ch.1_351	RNASeq_reads	transcript_region	99	109	14.0	.	.	
+ch.1_351	RNASeq_stranded	transcript_region	100	169	4.0	+	.	
+ch.1_351	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:Y51H7C.41.1
+ch.1_351	WormBase	exon	101	172	.	+	.	Parent=Transcript:Y51H7C.41.1
+ch.1_351	WormBase	gene	101	711	.	+	.	ID=Gene:WBGene00302984
+ch.1_351	WormBase	mRNA	101	711	.	+	.	ID=Transcript:Y51H7C.41.1;Parent=Gene:WBGene00302984
+ch.1_351	WormBase	CDS	105	172	.	+	.	ID=CDS:Y51H7C.41;Parent=Transcript:Y51H7C.41.1
+ch.1_351	RNASeq_F_asymmetry	transcript_region	106	153	96928.0	.	.	
+ch.1_351	RNASeq_reads	transcript_region	110	172	22.0	.	.	
+ch.1_351	RNASeq_stranded	transcript_region	170	172	2.0	+	.	
+ch.1_351	RNASeq_F_asymmetry	transcript_region	173	173	11599.0	.	.	
+ch.1_351	RNASeq_reads	transcript_region	173	173	3.0	.	.	
+ch.1_351	RNASeq_stranded	transcript_region	173	173	1.0	+	.	
+ch.1_351	WormBase	intron	173	218	.	+	.	Parent=Transcript:Y51H7C.41.1
+ch.1_351	RNASeq_splice	intron	173	218	159267.0	+	.	
+ch.1_351	RNASeq_splice	intron	173	225	66.0	+	.	
+ch.1_351	RNASeq_reads	transcript_region	174	176	1.0	.	.	
+ch.1_351	RNASeq_stranded	transcript_region	219	225	2.0	+	.	
+ch.1_351	WormBase	CDS	219	384	.	+	.	ID=CDS:Y51H7C.41;Parent=Transcript:Y51H7C.41.1
+ch.1_351	WormBase	exon	219	711	.	+	.	Parent=Transcript:Y51H7C.41.1
+ch.1_351	WormBase	five_prime_UTR	221	390	.	+	.	Parent=Transcript:Y51H7C.6a.1
+ch.1_351	RNASeq_stranded	transcript_region	226	256	4.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	257	307	7.0	+	.	
+ch.1_351	RNASeq_splice	intron	298	663	4.0	-	.	
+ch.1_351	RNASeq_stranded	transcript_region	308	322	4.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	323	327	2.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	328	358	4.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	359	380	7.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	381	396	4.0	+	.	
+ch.1_351	WormBase	three_prime_UTR	385	711	.	+	.	Parent=Transcript:Y51H7C.41.1
+ch.1_351	RNASeq_stranded	transcript_region	397	425	8.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	426	522	13.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	523	575	8.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	576	634	5.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	635	682	3.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	683	723	5.0	+	.	
+ch.1_351	RNASeq_splice	intron	688	767	5.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	724	786	8.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	787	791	5.0	+	.	
+ch.1_351	RNASeq_stranded	transcript_region	792	796	9.0	+	.	

@@ -1,0 +1,47 @@
+ch.1_438	RNASeq_F_asymmetry	transcript_region	101	107	1965.0	.	.	
+ch.1_438	WormBase	five_prime_UTR	101	128	.	+	.	Parent=Transcript:C25E10.13.1
+ch.1_438	WormBase	exon	101	198	.	+	.	Parent=Transcript:C25E10.13.1
+ch.1_438	WormBase	gene	101	857	.	+	.	ID=Gene:WBGene00023431
+ch.1_438	WormBase	mRNA	101	857	.	+	.	ID=Transcript:C25E10.13.1;Parent=Gene:WBGene00023431
+ch.1_438	RNASeq_reads	transcript_region	104	121	1.0	.	.	
+ch.1_438	RNASeq_F_asymmetry	transcript_region	108	117	3189.0	.	.	
+ch.1_438	RNASeq_F_asymmetry	transcript_region	118	121	5124.0	.	.	
+ch.1_438	RNASeq_reads	transcript_region	122	137	2.0	.	.	
+ch.1_438	RNASeq_F_asymmetry	transcript_region	122	138	9594.0	.	.	
+ch.1_438	WormBase	CDS	129	198	.	+	.	ID=CDS:C25E10.13;Parent=Transcript:C25E10.13.1
+ch.1_438	RNASeq_reads	transcript_region	138	198	4.0	.	.	
+ch.1_438	RNASeq_stranded	transcript_region	138	198	1.0	+	.	
+ch.1_438	RNASeq_F_asymmetry	transcript_region	139	142	14499.0	.	.	
+ch.1_438	WormBase	intron	199	653	.	+	.	Parent=Transcript:C25E10.13.1
+ch.1_438	RNASeq_splice	intron	199	653	28354.0	+	.	
+ch.1_438	RNASeq_splice	intron	199	680	18.0	+	.	
+ch.1_438	RNASeq_reads	transcript_region	652	653	1.0	.	.	
+ch.1_438	RNASeq_stranded	transcript_region	654	719	1.0	+	.	
+ch.1_438	RNASeq_reads	transcript_region	654	803	7.0	.	.	
+ch.1_438	WormBase	CDS	654	811	.	+	.	ID=CDS:C25E10.13;Parent=Transcript:C25E10.13.1
+ch.1_438	WormBase	exon	654	857	.	+	.	Parent=Transcript:C25E10.13.1
+ch.1_438	RNASeq_splice	intron	698	741	19.0	+	.	
+ch.1_438	RNASeq_stranded	transcript_region	720	804	2.0	+	.	
+ch.1_438	RNASeq_splice	intron	765	822	7.0	-	.	
+ch.1_438	RNASeq_reads	transcript_region	804	824	4.0	.	.	
+ch.1_438	RNASeq_stranded	transcript_region	805	842	1.0	+	.	
+ch.1_438	WormBase	three_prime_UTR	812	857	.	+	.	Parent=Transcript:C25E10.13.1
+ch.1_438	RNASeq_reads	transcript_region	825	840	2.0	.	.	
+ch.1_438	RNASeq_reads	transcript_region	841	852	1.0	.	.	
+ch.1_438	RNASeq_stranded	transcript_region	850	852	1.0	-	.	
+ch.1_438	RNASeq_stranded	transcript_region	850	898	1.0	+	.	
+ch.1_438	RNASeq_reads	transcript_region	853	855	2.0	.	.	
+ch.1_438	RNASeq_stranded	transcript_region	853	857	2.0	-	.	
+ch.1_438	RNASeq_reads	transcript_region	856	868	4.0	.	.	
+ch.1_438	RNASeq_stranded	transcript_region	858	859	4.0	-	.	
+ch.1_438	RNASeq_stranded	transcript_region	860	872	9.0	-	.	
+ch.1_438	RNASeq_reads	transcript_region	869	882	7.0	.	.	
+ch.1_438	RNASeq	transcription_end_site	872	872	.	+	.	
+ch.1_438	RNASeq	transcription_end_site	872	872	.	+	.	
+ch.1_438	RNASeq_stranded	transcript_region	873	882	14.0	-	.	
+ch.1_438	RNASeq_stranded	transcript_region	883	897	22.0	-	.	
+ch.1_438	RNASeq_reads	transcript_region	883	899	11.0	.	.	
+ch.1_438	RNASeq_stranded	transcript_region	898	924	34.0	-	.	
+ch.1_438	RNASeq_stranded	transcript_region	899	902	2.0	+	.	
+ch.1_438	RNASeq_reads	transcript_region	900	938	17.0	.	.	
+ch.1_438	RNASeq_stranded	transcript_region	903	949	1.0	+	.	

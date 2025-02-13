@@ -1,0 +1,45 @@
+ch.3_0	WormBase	exon	80	200	.	+	.	Parent=Transcript:T08D2.5.1
+ch.3_0	WormBase	five_prime_UTR	80	200	.	+	.	Parent=Transcript:T08D2.5.1
+ch.3_0	RNASeq_reads	transcript_region	82	137	1.0	.	.	
+ch.3_0	WormBase	exon	101	200	.	+	.	Parent=Transcript:T08D2.4.1
+ch.3_0	WormBase	CDS	101	200	.	+	.	ID=CDS:T08D2.4;Parent=Transcript:T08D2.4.1
+ch.3_0	WormBase	gene	101	561	.	+	.	ID=Gene:WBGene00011609
+ch.3_0	WormBase	mRNA	101	561	.	+	.	ID=Transcript:T08D2.4.1;Parent=Gene:WBGene00011609
+ch.3_0	RNASeq_reads	transcript_region	138	156	2.0	.	.	
+ch.3_0	RNASeq_stranded	transcript_region	141	163	1.0	+	.	
+ch.3_0	RNASeq_reads	transcript_region	157	186	4.0	.	.	
+ch.3_0	RNASeq_stranded	transcript_region	164	200	2.0	+	.	
+ch.3_0	RNASeq_reads	transcript_region	187	200	7.0	.	.	
+ch.3_0	WormBase	intron	201	244	.	+	.	Parent=Transcript:T08D2.4.1
+ch.3_0	RNASeq_splice	intron	201	244	23297.0	+	.	
+ch.3_0	RNASeq_splice	intron	201	512	7.0	+	.	
+ch.3_0	RNASeq_reads	transcript_region	244	244	1.0	.	.	
+ch.3_0	RNASeq_stranded	transcript_region	245	260	2.0	+	.	
+ch.3_0	RNASeq_reads	transcript_region	245	280	4.0	.	.	
+ch.3_0	WormBase	CDS	245	324	.	+	.	ID=CDS:T08D2.4;Parent=Transcript:T08D2.4.1
+ch.3_0	WormBase	exon	245	324	.	+	.	Parent=Transcript:T08D2.4.1
+ch.3_0	RNASeq_stranded	transcript_region	261	278	1.0	+	.	
+ch.3_0	RNASeq_splice	intron	268	400	12.0	+	.	
+ch.3_0	RNASeq_splice	intron	268	436	6.0	+	.	
+ch.3_0	RNASeq_reads	transcript_region	281	284	2.0	.	.	
+ch.3_0	RNASeq_reads	transcript_region	285	354	1.0	.	.	
+ch.3_0	WormBase	intron	325	400	.	+	.	Parent=Transcript:T08D2.4.1
+ch.3_0	RNASeq_splice	intron	325	400	2906.0	+	.	
+ch.3_0	RNASeq_splice	intron	325	436	94.0	+	.	
+ch.3_0	RNASeq_reads	transcript_region	364	448	1.0	.	.	
+ch.3_0	WormBase	CDS	401	461	.	+	.	ID=CDS:T08D2.4;Parent=Transcript:T08D2.4.1
+ch.3_0	WormBase	exon	401	461	.	+	.	Parent=Transcript:T08D2.4.1
+ch.3_0	RNASeq_reads	transcript_region	449	449	2.0	.	.	
+ch.3_0	RNASeq_reads	transcript_region	450	453	1.0	.	.	
+ch.3_0	RNASeq_reads	transcript_region	454	454	2.0	.	.	
+ch.3_0	RNASeq_reads	transcript_region	455	461	1.0	.	.	
+ch.3_0	WormBase	intron	462	512	.	+	.	Parent=Transcript:T08D2.4.1
+ch.3_0	RNASeq_splice	intron	462	512	5986.0	+	.	
+ch.3_0	RNASeq_splice	intron	466	512	27.0	+	.	
+ch.3_0	RNASeq_reads	transcript_region	513	518	1.0	.	.	
+ch.3_0	WormBase	CDS	513	559	.	+	.	ID=CDS:T08D2.4;Parent=Transcript:T08D2.4.1
+ch.3_0	WormBase	exon	513	561	.	+	.	Parent=Transcript:T08D2.4.1
+ch.3_0	RNASeq_reads	transcript_region	519	540	2.0	.	.	
+ch.3_0	RNASeq_reads	transcript_region	541	542	1.0	.	.	
+ch.3_0	RNASeq_reads	transcript_region	543	563	2.0	.	.	
+ch.3_0	WormBase	three_prime_UTR	560	561	.	+	.	Parent=Transcript:T08D2.4.1

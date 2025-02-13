@@ -1,0 +1,45 @@
+ch.1_443	RNASeq_reads	transcript_region	59	101	1.0	.	.	
+ch.1_443	RNASeq_stranded	transcript_region	99	149	1.0	+	.	
+ch.1_443	WormBase	five_prime_UTR	101	149	.	+	.	Parent=Transcript:Y106G6G.3.1
+ch.1_443	WormBase	exon	101	362	.	+	.	Parent=Transcript:Y106G6G.3.1
+ch.1_443	WormBase	gene	101	679	.	+	.	ID=Gene:WBGene00013712
+ch.1_443	WormBase	mRNA	101	679	.	+	.	ID=Transcript:Y106G6G.3.1;Parent=Gene:WBGene00013712
+ch.1_443	RNASeq_F_asymmetry	transcript_region	102	109	7142.0	.	.	
+ch.1_443	RNASeq_reads	transcript_region	102	116	2.0	.	.	
+ch.1_443	RNASeq_F_asymmetry	transcript_region	110	130	12483.0	.	.	
+ch.1_443	RNASeq_reads	transcript_region	117	197	4.0	.	.	
+ch.1_443	RNASeq_F_asymmetry	transcript_region	131	148	18840.0	.	.	
+ch.1_443	WormBase	CDS	150	362	.	+	.	ID=CDS:Y106G6G.3;Parent=Transcript:Y106G6G.3.1
+ch.1_443	RNASeq_stranded	transcript_region	190	270	1.0	+	.	
+ch.1_443	RNASeq_reads	transcript_region	198	362	7.0	.	.	
+ch.1_443	RNASeq_stranded	transcript_region	271	302	2.0	+	.	
+ch.1_443	RNASeq_stranded	transcript_region	303	353	4.0	+	.	
+ch.1_443	RNASeq_stranded	transcript_region	354	356	2.0	+	.	
+ch.1_443	RNASeq_stranded	transcript_region	357	362	1.0	+	.	
+ch.1_443	RNASeq_reads	transcript_region	363	363	2.0	.	.	
+ch.1_443	RNASeq_splice	intron	363	411	3.0	+	.	
+ch.1_443	WormBase	intron	363	484	.	+	.	Parent=Transcript:Y106G6G.3.1
+ch.1_443	RNASeq_splice	intron	363	484	28575.0	+	.	
+ch.1_443	RNASeq_splice	intron	363	488	6.0	+	.	
+ch.1_443	RNASeq_reads	transcript_region	364	480	1.0	.	.	
+ch.1_443	RNASeq_reads	transcript_region	481	484	2.0	.	.	
+ch.1_443	RNASeq	transcription_end_site	485	485	.	+	.	
+ch.1_443	RNASeq_reads	transcript_region	485	589	7.0	.	.	
+ch.1_443	RNASeq_stranded	transcript_region	485	610	1.0	+	.	
+ch.1_443	WormBase	CDS	485	661	.	+	.	ID=CDS:Y106G6G.3;Parent=Transcript:Y106G6G.3.1
+ch.1_443	WormBase	exon	485	679	.	+	.	Parent=Transcript:Y106G6G.3.1
+ch.1_443	RNASeq_splice	intron	525	683	7.0	-	.	
+ch.1_443	RNASeq_R_asymmetry	transcript_region	571	599	20736.0	.	.	
+ch.1_443	RNASeq_reads	transcript_region	590	604	4.0	.	.	
+ch.1_443	RNASeq	transcription_end_site	604	604	.	+	.	
+ch.1_443	RNASeq_reads	transcript_region	605	647	2.0	.	.	
+ch.1_443	RNASeq_R_asymmetry	transcript_region	626	626	8609.0	.	.	
+ch.1_443	RNASeq_R_asymmetry	transcript_region	631	653	8218.0	.	.	
+ch.1_443	RNASeq_splice	intron	637	683	477.0	-	.	
+ch.1_443	RNASeq_splice	intron	643	683	536.0	-	.	
+ch.1_443	RNASeq_reads	transcript_region	648	683	1.0	.	.	
+ch.1_443	RNASeq_R_asymmetry	transcript_region	654	679	5421.0	.	.	
+ch.1_443	WormBase	three_prime_UTR	662	679	.	+	.	Parent=Transcript:Y106G6G.3.1
+ch.1_443	RNASeq	transcription_end_site	692	692	.	+	.	
+ch.1_443	RNASeq	transcription_end_site	692	692	.	+	.	
+ch.1_443	RNASeq_stranded	transcript_region	740	777	1.0	-	.	

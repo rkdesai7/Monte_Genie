@@ -1,0 +1,115 @@
+ch.2_304	RNASeq	transcription_end_site	965	965	.	-	.	
+ch.2_304	RNASeq_reads	transcript_region	942	943	1.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	941	942	1.0	+	.	
+ch.2_304	RNASeq	transcription_end_site	941	941	.	-	.	
+ch.2_304	RNASeq	transcription_end_site	941	941	.	-	.	
+ch.2_304	RNASeq_reads	transcript_region	938	941	2.0	.	.	
+ch.2_304	RNASeq	transcription_end_site	940	940	.	-	.	
+ch.2_304	RNASeq_F_asymmetry	transcript_region	939	940	9159.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	938	940	2.0	+	.	
+ch.2_304	RNASeq	transcription_end_site	939	939	.	-	.	
+ch.2_304	RNASeq_F_asymmetry	transcript_region	938	938	14382.0	.	.	
+ch.2_304	RNASeq	transcription_end_site	937	937	.	-	.	
+ch.2_304	RNASeq	transcription_end_site	937	937	.	-	.	
+ch.2_304	RNASeq_F_asymmetry	transcript_region	935	937	79139.0	.	.	
+ch.2_304	RNASeq_reads	transcript_region	935	937	18.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	935	937	13.0	+	.	
+ch.2_304	RNASeq_stranded	transcript_region	935	937	1.0	-	.	
+ch.2_304	WormBase	three_prime_UTR	671	937	.	+	.	Parent=Transcript:ZK287.5.1
+ch.2_304	WormBase	exon	620	937	.	+	.	Parent=Transcript:ZK287.5.1
+ch.2_304	WormBase	gene	101	937	.	+	.	ID=Gene:WBGene00004320
+ch.2_304	WormBase	mRNA	101	937	.	+	.	ID=Transcript:ZK287.5.1;Parent=Gene:WBGene00004320
+ch.2_304	RNASeq	transcription_end_site	934	934	.	-	.	
+ch.2_304	RNASeq	transcription_end_site	934	934	.	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	929	934	23.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	927	934	33.0	.	.	
+ch.2_304	RNASeq_F_asymmetry	transcript_region	926	934	150127.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	889	934	2.0	-	.	
+ch.2_304	RNASeq	transcription_end_site	928	928	.	-	.	
+ch.2_304	RNASeq	transcription_end_site	928	928	.	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	922	928	36.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	912	926	50.0	.	.	
+ch.2_304	RNASeq_F_asymmetry	transcript_region	911	925	234394.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	915	921	61.0	+	.	
+ch.2_304	RNASeq_stranded	transcript_region	904	914	92.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	894	911	84.0	.	.	
+ch.2_304	RNASeq_F_asymmetry	transcript_region	898	910	361133.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	897	903	141.0	+	.	
+ch.2_304	RNASeq_stranded	transcript_region	883	896	214.0	+	.	
+ch.2_304	RNASeq_splice	intron	765	896	16.0	-	.	
+ch.2_304	RNASeq_reads	transcript_region	866	893	127.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	858	888	4.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	799	882	330.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	709	865	194.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	846	857	2.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	806	845	1.0	-	.	
+ch.2_304	RNASeq_splice	intron	683	835	8.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	797	805	2.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	767	798	211.0	+	.	
+ch.2_304	RNASeq_stranded	transcript_region	726	796	1.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	645	766	135.0	+	.	
+ch.2_304	RNASeq_splice	intron	684	713	4.0	-	.	
+ch.2_304	RNASeq_reads	transcript_region	620	708	293.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	691	700	1.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	648	682	1.0	-	.	
+ch.2_304	WormBase	CDS	620	670	.	+	.	ID=CDS:ZK287.5;Parent=Transcript:ZK287.5.1
+ch.2_304	RNASeq_splice	intron	379	649	9.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	620	644	88.0	+	.	
+ch.2_304	RNASeq_stranded	transcript_region	632	634	1.0	-	.	
+ch.2_304	RNASeq_reads	transcript_region	617	619	45.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	617	619	15.0	+	.	
+ch.2_304	RNASeq_splice	intron	439	619	60.0	+	.	
+ch.2_304	WormBase	intron	435	619	.	+	.	Parent=Transcript:ZK287.5.1
+ch.2_304	RNASeq_splice	intron	435	619	1501100.0	+	.	
+ch.2_304	RNASeq_splice	intron	382	619	33.0	+	.	
+ch.2_304	RNASeq_splice	intron	178	619	5.0	+	.	
+ch.2_304	RNASeq_splice	intron	160	619	6.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	616	616	1.0	.	.	
+ch.2_304	RNASeq_splice	intron	435	589	5.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	438	451	1.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	438	439	1.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	435	437	27.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	435	437	13.0	+	.	
+ch.2_304	RNASeq_stranded	transcript_region	395	434	1.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	314	434	73.0	+	.	
+ch.2_304	WormBase	CDS	228	434	.	+	.	ID=CDS:ZK287.5;Parent=Transcript:ZK287.5.1
+ch.2_304	WormBase	exon	228	434	.	+	.	Parent=Transcript:ZK287.5.1
+ch.2_304	RNASeq_reads	transcript_region	228	434	296.0	.	.	
+ch.2_304	RNASeq_splice	intron	366	402	7.0	-	.	
+ch.2_304	RNASeq_splice	intron	303	389	14.0	+	.	
+ch.2_304	RNASeq_stranded	transcript_region	385	386	1.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	352	376	1.0	-	.	
+ch.2_304	RNASeq_splice	intron	303	339	3.0	-	.	
+ch.2_304	RNASeq_stranded	transcript_region	228	313	45.0	+	.	
+ch.2_304	RNASeq_splice	intron	136	272	12.0	+	.	
+ch.2_304	RNASeq_splice	intron	178	233	146.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	226	227	30.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	226	227	7.0	+	.	
+ch.2_304	WormBase	intron	178	227	.	+	.	Parent=Transcript:ZK287.5.1
+ch.2_304	RNASeq_splice	intron	178	227	1603310.0	+	.	
+ch.2_304	RNASeq_splice	intron	170	227	28.0	+	.	
+ch.2_304	RNASeq_splice	intron	160	227	24.0	+	.	
+ch.2_304	RNASeq_splice	intron	136	227	11.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	222	225	2.0	.	.	
+ch.2_304	RNASeq_reads	transcript_region	180	221	1.0	.	.	
+ch.2_304	RNASeq_splice	intron	178	216	1425.0	+	.	
+ch.2_304	RNASeq_splice	intron	170	216	7.0	+	.	
+ch.2_304	RNASeq_R_asymmetry	transcript_region	178	179	85316.0	.	.	
+ch.2_304	RNASeq_reads	transcript_region	178	179	18.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	178	179	5.0	+	.	
+ch.2_304	RNASeq_reads	transcript_region	120	177	303.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	120	177	49.0	+	.	
+ch.2_304	RNASeq_R_asymmetry	transcript_region	110	177	1246890.0	.	.	
+ch.2_304	WormBase	CDS	103	177	.	+	.	ID=CDS:ZK287.5;Parent=Transcript:ZK287.5.1
+ch.2_304	WormBase	exon	101	177	.	+	.	Parent=Transcript:ZK287.5.1
+ch.2_304	RNASeq_reads	transcript_region	106	119	198.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	106	119	32.0	+	.	
+ch.2_304	RNASeq_R_asymmetry	transcript_region	105	109	784636.0	.	.	
+ch.2_304	RNASeq_reads	transcript_region	100	105	110.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	100	105	21.0	+	.	
+ch.2_304	RNASeq_R_asymmetry	transcript_region	100	104	504390.0	.	.	
+ch.2_304	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:ZK287.5.1
+ch.2_304	RNASeq_R_asymmetry	transcript_region	99	99	289329.0	.	.	
+ch.2_304	RNASeq_reads	transcript_region	99	99	57.0	.	.	
+ch.2_304	RNASeq_stranded	transcript_region	99	99	12.0	-	.	
+ch.2_304	RNASeq_reads	transcript_region	94	98	1.0	.	.	

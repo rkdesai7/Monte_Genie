@@ -1,0 +1,31 @@
+ch.1_168	WormBase	three_prime_UTR	480	571	.	+	.	Parent=Transcript:W09C2.7.1
+ch.1_168	WormBase	exon	290	571	.	+	.	Parent=Transcript:W09C2.7.1
+ch.1_168	WormBase	gene	101	571	.	+	.	ID=Gene:WBGene00185095
+ch.1_168	WormBase	mRNA	101	571	.	+	.	ID=Transcript:W09C2.7.1;Parent=Gene:WBGene00185095
+ch.1_168	RNASeq_F_asymmetry	transcript_region	567	568	1446.0	.	.	
+ch.1_168	RNASeq_F_asymmetry	transcript_region	550	566	2212.0	.	.	
+ch.1_168	RNASeq_reads	transcript_region	500	566	1.0	.	.	
+ch.1_168	RNASeq_F_asymmetry	transcript_region	538	549	3343.0	.	.	
+ch.1_168	RNASeq_stranded	transcript_region	427	542	1.0	+	.	
+ch.1_168	RNASeq_reads	transcript_region	319	499	2.0	.	.	
+ch.1_168	RNASeq_F_asymmetry	transcript_region	469	497	7786.0	.	.	
+ch.1_168	WormBase	CDS	290	479	.	+	.	ID=CDS:W09C2.7;Parent=Transcript:W09C2.7.1
+ch.1_168	RNASeq_F_asymmetry	transcript_region	463	466	10247.0	.	.	
+ch.1_168	RNASeq_F_asymmetry	transcript_region	461	461	10545.0	.	.	
+ch.1_168	RNASeq_stranded	transcript_region	290	366	1.0	+	.	
+ch.1_168	RNASeq_reads	transcript_region	290	318	4.0	.	.	
+ch.1_168	WormBase	intron	193	289	.	+	.	Parent=Transcript:W09C2.7.1
+ch.1_168	RNASeq_splice	intron	193	289	15583.0	+	.	
+ch.1_168	RNASeq_splice	intron	186	283	5.0	-	.	
+ch.1_168	RNASeq_stranded	transcript_region	164	192	1.0	+	.	
+ch.1_168	RNASeq_reads	transcript_region	119	192	3.0	.	.	
+ch.1_168	WormBase	CDS	107	192	.	+	.	ID=CDS:W09C2.7;Parent=Transcript:W09C2.7.1
+ch.1_168	WormBase	exon	101	192	.	+	.	Parent=Transcript:W09C2.7.1
+ch.1_168	RNASeq_R_asymmetry	transcript_region	117	142	9311.0	.	.	
+ch.1_168	RNASeq_reads	transcript_region	107	118	1.0	.	.	
+ch.1_168	RNASeq_R_asymmetry	transcript_region	109	116	6136.0	.	.	
+ch.1_168	RNASeq_R_asymmetry	transcript_region	107	108	3702.0	.	.	
+ch.1_168	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:W09C2.7.1
+ch.1_168	RNASeq_R_asymmetry	transcript_region	98	106	1604.0	.	.	
+ch.1_168	RNASeq_R_asymmetry	transcript_region	91	97	1043.0	.	.	
+ch.1_168	RNASeq_R_asymmetry	transcript_region	84	90	659.0	.	.	

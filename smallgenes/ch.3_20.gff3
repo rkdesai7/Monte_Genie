@@ -1,0 +1,107 @@
+ch.3_20	RNASeq_F_asymmetry	transcript_region	65	71	1349.0	.	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	72	75	2102.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	72	81	1.0	.	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	76	81	3354.0	.	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	82	84	8575.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	82	84	2.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	85	89	9.0	.	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	85	90	46492.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	85	92	1.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	90	98	14.0	.	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	91	98	70073.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	93	100	2.0	+	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	99	106	108054.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	99	106	22.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	101	104	4.0	+	.	
+ch.3_20	WormBase	five_prime_UTR	101	115	.	+	.	Parent=Transcript:F27C8.4a.1
+ch.3_20	WormBase	exon	101	137	.	+	.	Parent=Transcript:F27C8.4a.1
+ch.3_20	WormBase	gene	101	802	.	+	.	ID=Gene:WBGene00005003
+ch.3_20	WormBase	mRNA	101	802	.	+	.	ID=Transcript:F27C8.4a.1;Parent=Gene:WBGene00005003
+ch.3_20	RNASeq_stranded	transcript_region	105	107	8.0	+	.	
+ch.3_20	RNASeq_splice	intron	106	195	5.0	-	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	107	114	169321.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	107	115	36.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	108	127	15.0	+	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	115	123	260295.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	116	123	56.0	.	.	
+ch.3_20	WormBase	CDS	116	137	.	+	.	ID=CDS:F27C8.4a;Parent=Transcript:F27C8.4a.1
+ch.3_20	RNASeq_F_asymmetry	transcript_region	124	137	398627.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	124	137	85.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	128	137	23.0	+	.	
+ch.3_20	RNASeq_splice	intron	129	195	3.0	-	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	138	188	560.0	.	.	
+ch.3_20	WormBase	intron	138	203	.	+	.	Parent=Transcript:F27C8.4a.1
+ch.3_20	RNASeq_splice	intron	138	203	479024.0	+	.	
+ch.3_20	RNASeq_splice	intron	138	364	39.0	+	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	197	203	1097.0	.	.	
+ch.3_20	RNASeq_F_asymmetry	transcript_region	204	246	429041.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	204	258	93.0	.	.	
+ch.3_20	WormBase	CDS	204	308	.	+	.	ID=CDS:F27C8.4a;Parent=Transcript:F27C8.4a.1
+ch.3_20	WormBase	exon	204	308	.	+	.	Parent=Transcript:F27C8.4a.1
+ch.3_20	RNASeq_stranded	transcript_region	204	308	24.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	259	308	141.0	.	.	
+ch.3_20	RNASeq	transcription_end_site	269	269	.	+	.	
+ch.3_20	WormBase	exon	284	308	.	+	.	Parent=Transcript:F27C8.4b.1
+ch.3_20	WormBase	CDS	284	308	.	+	.	ID=CDS:F27C8.4b;Parent=Transcript:F27C8.4b.1
+ch.3_20	WormBase	mRNA	284	732	.	+	.	ID=Transcript:F27C8.4b.1;Parent=Gene:WBGene00005003
+ch.3_20	WormBase	intron	309	364	.	+	.	Parent=Transcript:F27C8.4a.1
+ch.3_20	WormBase	intron	309	364	.	+	.	Parent=Transcript:F27C8.4b.1
+ch.3_20	RNASeq_splice	intron	309	364	708239.0	+	.	
+ch.3_20	RNASeq_stranded	transcript_region	365	458	31.0	+	.	
+ch.3_20	WormBase	CDS	365	537	.	+	.	ID=CDS:F27C8.4a;Parent=Transcript:F27C8.4a.1
+ch.3_20	WormBase	CDS	365	537	.	+	.	ID=CDS:F27C8.4b;Parent=Transcript:F27C8.4b.1
+ch.3_20	WormBase	exon	365	537	.	+	.	Parent=Transcript:F27C8.4a.1
+ch.3_20	WormBase	exon	365	537	.	+	.	Parent=Transcript:F27C8.4b.1
+ch.3_20	RNASeq_reads	transcript_region	365	537	141.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	459	477	19.0	+	.	
+ch.3_20	RNASeq_stranded	transcript_region	478	512	12.0	+	.	
+ch.3_20	RNASeq_stranded	transcript_region	513	526	19.0	+	.	
+ch.3_20	RNASeq_stranded	transcript_region	527	537	29.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	538	538	12.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	538	538	2.0	+	.	
+ch.3_20	RNASeq_splice	intron	538	634	356.0	+	.	
+ch.3_20	WormBase	intron	538	651	.	+	.	Parent=Transcript:F27C8.4a.1
+ch.3_20	WormBase	intron	538	651	.	+	.	Parent=Transcript:F27C8.4b.1
+ch.3_20	RNASeq_splice	intron	538	651	672576.0	+	.	
+ch.3_20	RNASeq_splice	intron	538	664	45.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	539	539	1.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	642	647	1.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	648	651	6.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	648	651	3.0	+	.	
+ch.3_20	RNASeq_stranded	transcript_region	652	681	33.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	652	717	120.0	.	.	
+ch.3_20	WormBase	CDS	652	732	.	+	.	ID=CDS:F27C8.4a;Parent=Transcript:F27C8.4a.1
+ch.3_20	WormBase	CDS	652	732	.	+	.	ID=CDS:F27C8.4b;Parent=Transcript:F27C8.4b.1
+ch.3_20	WormBase	exon	652	732	.	+	.	Parent=Transcript:F27C8.4b.1
+ch.3_20	WormBase	exon	652	802	.	+	.	Parent=Transcript:F27C8.4a.1
+ch.3_20	RNASeq_stranded	transcript_region	682	758	50.0	+	.	
+ch.3_20	RNASeq_R_asymmetry	transcript_region	697	700	407025.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	718	729	78.0	.	.	
+ch.3_20	RNASeq	transcription_end_site	727	727	.	+	.	
+ch.3_20	RNASeq	transcription_end_site	729	729	.	+	.	
+ch.3_20	RNASeq_reads	transcript_region	730	759	48.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	732	746	1.0	-	.	
+ch.3_20	WormBase	three_prime_UTR	733	802	.	+	.	Parent=Transcript:F27C8.4a.1
+ch.3_20	RNASeq_stranded	transcript_region	747	796	2.0	-	.	
+ch.3_20	RNASeq_stranded	transcript_region	759	770	32.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	760	788	31.0	.	.	
+ch.3_20	RNASeq_R_asymmetry	transcript_region	765	791	115552.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	771	789	21.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	789	795	20.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	790	791	13.0	+	.	
+ch.3_20	RNASeq_R_asymmetry	transcript_region	792	796	75682.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	792	796	8.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	796	796	13.0	.	.	
+ch.3_20	RNASeq_R_asymmetry	transcript_region	797	797	30286.0	.	.	
+ch.3_20	RNASeq_reads	transcript_region	797	799	8.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	797	799	1.0	-	.	
+ch.3_20	RNASeq_stranded	transcript_region	797	802	5.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	800	804	5.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	803	806	3.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	805	808	3.0	.	.	
+ch.3_20	RNASeq_R_asymmetry	transcript_region	806	806	11800.0	.	.	
+ch.3_20	RNASeq_R_asymmetry	transcript_region	807	811	7288.0	.	.	
+ch.3_20	RNASeq_stranded	transcript_region	807	812	1.0	+	.	
+ch.3_20	RNASeq_reads	transcript_region	809	815	1.0	.	.	
+ch.3_20	RNASeq_R_asymmetry	transcript_region	812	814	4625.0	.	.	
+ch.3_20	RNASeq_R_asymmetry	transcript_region	815	815	2924.0	.	.	

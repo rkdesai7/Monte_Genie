@@ -1,0 +1,36 @@
+ch.1_123	RNASeq	transcription_end_site	461	461	.	-	.	
+ch.1_123	RNASeq	transcription_end_site	461	461	.	-	.	
+ch.1_123	RNASeq	transcription_end_site	459	459	.	-	.	
+ch.1_123	RNASeq	transcription_end_site	459	459	.	-	.	
+ch.1_123	RNASeq_F_asymmetry	transcript_region	455	456	1865.0	.	.	
+ch.1_123	RNASeq_reads	transcript_region	439	455	1.0	.	.	
+ch.1_123	RNASeq_F_asymmetry	transcript_region	439	454	4636.0	.	.	
+ch.1_123	WormBase	three_prime_UTR	445	450	.	+	.	Parent=Transcript:F58B4.7.1
+ch.1_123	WormBase	exon	298	450	.	+	.	Parent=Transcript:F58B4.7.1
+ch.1_123	WormBase	gene	101	450	.	+	.	ID=Gene:WBGene00077682
+ch.1_123	WormBase	mRNA	101	450	.	+	.	ID=Transcript:F58B4.7.1;Parent=Gene:WBGene00077682
+ch.1_123	WormBase	CDS	298	444	.	+	.	ID=CDS:F58B4.7;Parent=Transcript:F58B4.7.1
+ch.1_123	RNASeq_F_asymmetry	transcript_region	435	438	6988.0	.	.	
+ch.1_123	RNASeq_reads	transcript_region	412	438	2.0	.	.	
+ch.1_123	RNASeq_F_asymmetry	transcript_region	413	434	10594.0	.	.	
+ch.1_123	RNASeq_stranded	transcript_region	379	427	1.0	+	.	
+ch.1_123	RNASeq_F_asymmetry	transcript_region	362	412	16056.0	.	.	
+ch.1_123	RNASeq_reads	transcript_region	298	411	4.0	.	.	
+ch.1_123	RNASeq_splice	intron	341	385	7.0	+	.	
+ch.1_123	RNASeq_stranded	transcript_region	319	347	1.0	+	.	
+ch.1_123	RNASeq_splice	intron	247	313	12.0	+	.	
+ch.1_123	RNASeq_reads	transcript_region	297	297	1.0	.	.	
+ch.1_123	WormBase	intron	247	297	.	+	.	Parent=Transcript:F58B4.7.1
+ch.1_123	RNASeq_splice	intron	247	297	19403.0	+	.	
+ch.1_123	RNASeq_reads	transcript_region	138	246	4.0	.	.	
+ch.1_123	WormBase	CDS	103	246	.	+	.	ID=CDS:F58B4.7;Parent=Transcript:F58B4.7.1
+ch.1_123	WormBase	exon	101	246	.	+	.	Parent=Transcript:F58B4.7.1
+ch.1_123	RNASeq_stranded	transcript_region	161	211	1.0	+	.	
+ch.1_123	RNASeq_R_asymmetry	transcript_region	122	170	14599.0	.	.	
+ch.1_123	RNASeq_reads	transcript_region	118	137	2.0	.	.	
+ch.1_123	RNASeq_R_asymmetry	transcript_region	118	121	9457.0	.	.	
+ch.1_123	RNASeq_R_asymmetry	transcript_region	112	117	6155.0	.	.	
+ch.1_123	RNASeq_reads	transcript_region	110	117	1.0	.	.	
+ch.1_123	RNASeq_R_asymmetry	transcript_region	108	111	2363.0	.	.	
+ch.1_123	RNASeq_R_asymmetry	transcript_region	106	107	1255.0	.	.	
+ch.1_123	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:F58B4.7.1

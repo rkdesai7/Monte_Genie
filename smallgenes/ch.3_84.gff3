@@ -1,0 +1,99 @@
+ch.3_84	RNASeq_F_asymmetry	transcript_region	101	105	18840.0	.	.	
+ch.3_84	RNASeq_reads	transcript_region	101	105	4.0	.	.	
+ch.3_84	WormBase	five_prime_UTR	101	128	.	+	.	Parent=Transcript:T01G1.2.1
+ch.3_84	WormBase	exon	101	281	.	+	.	Parent=Transcript:T01G1.2.1
+ch.3_84	WormBase	gene	101	1098	.	+	.	ID=Gene:WBGene00011337
+ch.3_84	WormBase	mRNA	101	1098	.	+	.	ID=Transcript:T01G1.2.1;Parent=Gene:WBGene00011337
+ch.3_84	RNASeq_stranded	transcript_region	105	109	1.0	+	.	
+ch.3_84	RNASeq_F_asymmetry	transcript_region	106	113	41026.0	.	.	
+ch.3_84	RNASeq_reads	transcript_region	106	116	9.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	110	119	2.0	+	.	
+ch.3_84	RNASeq_F_asymmetry	transcript_region	114	145	63361.0	.	.	
+ch.3_84	RNASeq_reads	transcript_region	117	145	14.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	120	130	4.0	+	.	
+ch.3_84	WormBase	CDS	129	281	.	+	.	ID=CDS:T01G1.2;Parent=Transcript:T01G1.2.1
+ch.3_84	RNASeq_stranded	transcript_region	131	172	7.0	+	.	
+ch.3_84	RNASeq_F_asymmetry	transcript_region	146	170	95141.0	.	.	
+ch.3_84	RNASeq_reads	transcript_region	146	281	22.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	173	281	4.0	+	.	
+ch.3_84	RNASeq_splice	intron	274	327	14.0	+	.	
+ch.3_84	RNASeq_reads	transcript_region	282	317	1.0	.	.	
+ch.3_84	WormBase	intron	282	327	.	+	.	Parent=Transcript:T01G1.2.1
+ch.3_84	RNASeq_splice	intron	282	327	128941.0	+	.	
+ch.3_84	RNASeq_splice	intron	282	371	14.0	+	.	
+ch.3_84	RNASeq_splice	intron	282	545	278.0	+	.	
+ch.3_84	RNASeq_reads	transcript_region	318	324	2.0	.	.	
+ch.3_84	RNASeq_reads	transcript_region	325	327	4.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	325	327	1.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	328	334	3.0	+	.	
+ch.3_84	WormBase	CDS	328	494	.	+	.	ID=CDS:T01G1.2;Parent=Transcript:T01G1.2.1
+ch.3_84	WormBase	exon	328	494	.	+	.	Parent=Transcript:T01G1.2.1
+ch.3_84	RNASeq_reads	transcript_region	328	494	27.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	335	376	5.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	377	418	8.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	419	430	5.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	431	478	3.0	+	.	
+ch.3_84	RNASeq_splice	intron	434	480	5.0	-	.	
+ch.3_84	RNASeq_splice	intron	437	571	7.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	468	479	1.0	-	.	
+ch.3_84	RNASeq_splice	intron	477	533	3.0	-	.	
+ch.3_84	RNASeq_splice	intron	477	1107	19.0	-	.	
+ch.3_84	RNASeq_stranded	transcript_region	479	494	5.0	+	.	
+ch.3_84	RNASeq_splice	intron	494	545	3.0	+	.	
+ch.3_84	WormBase	intron	495	545	.	+	.	Parent=Transcript:T01G1.2.1
+ch.3_84	RNASeq_reads	transcript_region	495	545	1.0	.	.	
+ch.3_84	RNASeq_splice	intron	495	545	158770.0	+	.	
+ch.3_84	RNASeq_splice	intron	495	553	7.0	+	.	
+ch.3_84	RNASeq_splice	intron	495	571	105.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	546	642	7.0	+	.	
+ch.3_84	WormBase	CDS	546	660	.	+	.	ID=CDS:T01G1.2;Parent=Transcript:T01G1.2.1
+ch.3_84	WormBase	exon	546	660	.	+	.	Parent=Transcript:T01G1.2.1
+ch.3_84	RNASeq_reads	transcript_region	546	660	34.0	.	.	
+ch.3_84	RNASeq_splice	intron	590	1107	142.0	-	.	
+ch.3_84	RNASeq_stranded	transcript_region	643	660	3.0	+	.	
+ch.3_84	RNASeq_reads	transcript_region	661	662	5.0	.	.	
+ch.3_84	WormBase	intron	661	716	.	+	.	Parent=Transcript:T01G1.2.1
+ch.3_84	RNASeq_splice	intron	661	716	149804.0	+	.	
+ch.3_84	RNASeq_splice	intron	661	723	103.0	+	.	
+ch.3_84	RNASeq_reads	transcript_region	663	713	1.0	.	.	
+ch.3_84	RNASeq_splice	intron	665	716	128.0	+	.	
+ch.3_84	RNASeq_splice	intron	671	1107	15.0	-	.	
+ch.3_84	RNASeq_splice	intron	674	716	57.0	+	.	
+ch.3_84	RNASeq	transcription_end_site	689	689	.	+	.	
+ch.3_84	RNASeq	transcription_end_site	711	711	.	+	.	
+ch.3_84	RNASeq_reads	transcript_region	714	716	5.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	714	716	2.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	715	854	1.0	-	.	
+ch.3_84	WormBase	CDS	717	755	.	+	.	ID=CDS:T01G1.2;Parent=Transcript:T01G1.2.1
+ch.3_84	RNASeq_stranded	transcript_region	717	850	4.0	+	.	
+ch.3_84	RNASeq_reads	transcript_region	717	852	32.0	.	.	
+ch.3_84	WormBase	exon	717	1098	.	+	.	Parent=Transcript:T01G1.2.1
+ch.3_84	WormBase	three_prime_UTR	756	1098	.	+	.	Parent=Transcript:T01G1.2.1
+ch.3_84	RNASeq_stranded	transcript_region	851	898	7.0	+	.	
+ch.3_84	RNASeq_reads	transcript_region	853	941	20.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	899	963	4.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	902	992	1.0	-	.	
+ch.3_84	RNASeq_reads	transcript_region	942	1032	12.0	.	.	
+ch.3_84	RNASeq_splice	intron	950	1107	19.0	-	.	
+ch.3_84	RNASeq_stranded	transcript_region	964	998	12.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	993	994	2.0	-	.	
+ch.3_84	RNASeq_stranded	transcript_region	995	1002	1.0	-	.	
+ch.3_84	RNASeq_stranded	transcript_region	999	1031	7.0	+	.	
+ch.3_84	RNASeq_stranded	transcript_region	1003	1043	2.0	-	.	
+ch.3_84	RNASeq_stranded	transcript_region	1032	1066	26.0	+	.	
+ch.3_84	RNASeq_reads	transcript_region	1033	1063	19.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	1044	1107	1.0	-	.	
+ch.3_84	RNASeq	transcription_end_site	1051	1051	.	+	.	
+ch.3_84	RNASeq	transcription_end_site	1054	1054	.	+	.	
+ch.3_84	RNASeq_F_asymmetry	transcript_region	1054	1065	55188.0	.	.	
+ch.3_84	RNASeq_reads	transcript_region	1064	1066	12.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	1067	1082	3.0	+	.	
+ch.3_84	RNASeq_reads	transcript_region	1067	1085	5.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	1083	1094	1.0	+	.	
+ch.3_84	RNASeq	transcription_end_site	1084	1084	.	+	.	
+ch.3_84	RNASeq_reads	transcript_region	1086	1097	3.0	.	.	
+ch.3_84	RNASeq_reads	transcript_region	1098	1106	1.0	.	.	
+ch.3_84	RNASeq_reads	transcript_region	1107	1107	6.0	.	.	
+ch.3_84	RNASeq_stranded	transcript_region	1108	1131	3.0	-	.	
+ch.3_84	RNASeq_stranded	transcript_region	1132	1157	5.0	-	.	
+ch.3_84	RNASeq_stranded	transcript_region	1158	1186	8.0	-	.	

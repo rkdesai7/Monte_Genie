@@ -1,0 +1,43 @@
+ch.1_267	RNASeq_splice	intron	607	652	10.0	+	.	
+ch.1_267	RNASeq	transcription_end_site	569	569	.	-	.	
+ch.1_267	RNASeq	transcription_end_site	569	569	.	-	.	
+ch.1_267	WormBase	three_prime_UTR	486	559	.	+	.	Parent=Transcript:B0310.6.1
+ch.1_267	WormBase	exon	267	559	.	+	.	Parent=Transcript:B0310.6.1
+ch.1_267	WormBase	gene	101	559	.	+	.	ID=Gene:WBGene00015142
+ch.1_267	WormBase	mRNA	101	559	.	+	.	ID=Transcript:B0310.6.1;Parent=Gene:WBGene00015142
+ch.1_267	RNASeq_reads	transcript_region	555	558	1.0	.	.	
+ch.1_267	RNASeq_stranded	transcript_region	548	556	1.0	+	.	
+ch.1_267	RNASeq_reads	transcript_region	548	554	2.0	.	.	
+ch.1_267	RNASeq_reads	transcript_region	537	547	5.0	.	.	
+ch.1_267	RNASeq_stranded	transcript_region	508	547	2.0	+	.	
+ch.1_267	RNASeq_reads	transcript_region	512	536	8.0	.	.	
+ch.1_267	RNASeq_reads	transcript_region	484	511	15.0	.	.	
+ch.1_267	RNASeq_stranded	transcript_region	400	507	4.0	+	.	
+ch.1_267	WormBase	CDS	267	485	.	+	.	ID=CDS:B0310.6;Parent=Transcript:B0310.6.1
+ch.1_267	RNASeq_reads	transcript_region	445	483	23.0	.	.	
+ch.1_267	RNASeq_splice	intron	418	474	3.0	-	.	
+ch.1_267	RNASeq_splice	intron	406	456	4.0	+	.	
+ch.1_267	RNASeq_reads	transcript_region	267	444	35.0	.	.	
+ch.1_267	RNASeq_stranded	transcript_region	381	399	2.0	+	.	
+ch.1_267	RNASeq_stranded	transcript_region	373	380	1.0	+	.	
+ch.1_267	RNASeq_stranded	transcript_region	355	372	2.0	+	.	
+ch.1_267	RNASeq_stranded	transcript_region	276	354	1.0	+	.	
+ch.1_267	RNASeq_splice	intron	141	310	7.0	-	.	
+ch.1_267	RNASeq_stranded	transcript_region	267	275	2.0	+	.	
+ch.1_267	RNASeq_splice	intron	218	268	30.0	+	.	
+ch.1_267	RNASeq_reads	transcript_region	265	266	5.0	.	.	
+ch.1_267	WormBase	intron	218	266	.	+	.	Parent=Transcript:B0310.6.1
+ch.1_267	RNASeq_splice	intron	218	266	106710.0	+	.	
+ch.1_267	RNASeq_stranded	transcript_region	173	217	4.0	+	.	
+ch.1_267	RNASeq_reads	transcript_region	161	217	22.0	.	.	
+ch.1_267	WormBase	CDS	149	217	.	+	.	ID=CDS:B0310.6;Parent=Transcript:B0310.6.1
+ch.1_267	WormBase	exon	101	217	.	+	.	Parent=Transcript:B0310.6.1
+ch.1_267	RNASeq_stranded	transcript_region	168	172	2.0	+	.	
+ch.1_267	RNASeq_stranded	transcript_region	124	167	1.0	+	.	
+ch.1_267	RNASeq_reads	transcript_region	135	160	14.0	.	.	
+ch.1_267	WormBase	five_prime_UTR	101	148	.	+	.	Parent=Transcript:B0310.6.1
+ch.1_267	RNASeq_reads	transcript_region	118	134	9.0	.	.	
+ch.1_267	RNASeq_stranded	transcript_region	122	122	1.0	-	.	
+ch.1_267	RNASeq_reads	transcript_region	105	117	5.0	.	.	
+ch.1_267	RNASeq_reads	transcript_region	102	104	3.0	.	.	
+ch.1_267	RNASeq_reads	transcript_region	99	101	1.0	.	.	

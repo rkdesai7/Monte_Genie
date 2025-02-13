@@ -1,0 +1,44 @@
+ch.1_279	WormBase	three_prime_UTR	461	601	.	+	.	Parent=Transcript:T03F6.10.1
+ch.1_279	WormBase	exon	236	601	.	+	.	Parent=Transcript:T03F6.10.1
+ch.1_279	WormBase	gene	101	601	.	+	.	ID=Gene:WBGene00185005
+ch.1_279	WormBase	mRNA	101	601	.	+	.	ID=Transcript:T03F6.10.1;Parent=Gene:WBGene00185005
+ch.1_279	RNASeq	transcription_end_site	584	584	.	-	.	
+ch.1_279	RNASeq	transcription_end_site	584	584	.	-	.	
+ch.1_279	RNASeq_stranded	transcript_region	565	582	1.0	+	.	
+ch.1_279	RNASeq_reads	transcript_region	564	580	1.0	.	.	
+ch.1_279	RNASeq_F_asymmetry	transcript_region	577	579	2638.0	.	.	
+ch.1_279	RNASeq_F_asymmetry	transcript_region	563	576	4196.0	.	.	
+ch.1_279	RNASeq_stranded	transcript_region	537	564	2.0	+	.	
+ch.1_279	RNASeq_reads	transcript_region	490	563	2.0	.	.	
+ch.1_279	RNASeq_F_asymmetry	transcript_region	556	562	6333.0	.	.	
+ch.1_279	RNASeq_stranded	transcript_region	520	536	4.0	+	.	
+ch.1_279	RNASeq_stranded	transcript_region	409	519	7.0	+	.	
+ch.1_279	RNASeq_reads	transcript_region	446	489	4.0	.	.	
+ch.1_279	WormBase	CDS	236	460	.	+	.	ID=CDS:T03F6.10;Parent=Transcript:T03F6.10.1
+ch.1_279	RNASeq_reads	transcript_region	424	445	7.0	.	.	
+ch.1_279	RNASeq_reads	transcript_region	264	423	11.0	.	.	
+ch.1_279	RNASeq_stranded	transcript_region	331	408	4.0	+	.	
+ch.1_279	RNASeq	transcription_end_site	376	376	.	-	.	
+ch.1_279	RNASeq_stranded	transcript_region	324	330	8.0	+	.	
+ch.1_279	RNASeq_stranded	transcript_region	281	323	13.0	+	.	
+ch.1_279	RNASeq_stranded	transcript_region	280	280	8.0	-	.	
+ch.1_279	RNASeq_stranded	transcript_region	273	279	3.0	+	.	
+ch.1_279	RNASeq_stranded	transcript_region	236	272	1.0	+	.	
+ch.1_279	RNASeq_reads	transcript_region	236	263	7.0	.	.	
+ch.1_279	RNASeq_R_asymmetry	transcript_region	245	245	26350.0	.	.	
+ch.1_279	RNASeq_R_asymmetry	transcript_region	236	243	25491.0	.	.	
+ch.1_279	WormBase	intron	177	235	.	+	.	Parent=Transcript:T03F6.10.1
+ch.1_279	RNASeq_splice	intron	177	235	25889.0	+	.	
+ch.1_279	WormBase	CDS	162	176	.	+	.	ID=CDS:T03F6.10;Parent=Transcript:T03F6.10.1
+ch.1_279	RNASeq_reads	transcript_region	130	176	5.0	.	.	
+ch.1_279	RNASeq_R_asymmetry	transcript_region	129	176	22681.0	.	.	
+ch.1_279	RNASeq_stranded	transcript_region	115	176	1.0	+	.	
+ch.1_279	WormBase	exon	101	176	.	+	.	Parent=Transcript:T03F6.10.1
+ch.1_279	WormBase	five_prime_UTR	101	161	.	+	.	Parent=Transcript:T03F6.10.1
+ch.1_279	RNASeq_reads	transcript_region	113	129	3.0	.	.	
+ch.1_279	RNASeq_R_asymmetry	transcript_region	118	128	14732.0	.	.	
+ch.1_279	RNASeq_R_asymmetry	transcript_region	110	117	8203.0	.	.	
+ch.1_279	RNASeq_reads	transcript_region	95	112	1.0	.	.	
+ch.1_279	RNASeq_R_asymmetry	transcript_region	101	109	5356.0	.	.	
+ch.1_279	RNASeq	transcription_end_site	5	5	.	-	.	
+ch.1_279	RNASeq	transcription_end_site	5	5	.	-	.	

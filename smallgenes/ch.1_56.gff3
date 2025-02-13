@@ -1,0 +1,44 @@
+ch.1_56	RNASeq_F_asymmetry	transcript_region	438	438	590.0	.	.	
+ch.1_56	WormBase	three_prime_UTR	405	438	.	+	.	Parent=Transcript:K05F1.8.1
+ch.1_56	WormBase	exon	213	438	.	+	.	Parent=Transcript:K05F1.8.1
+ch.1_56	WormBase	gene	101	438	.	+	.	ID=Gene:WBGene00019409
+ch.1_56	WormBase	mRNA	101	438	.	+	.	ID=Transcript:K05F1.8.1;Parent=Gene:WBGene00019409
+ch.1_56	RNASeq_F_asymmetry	transcript_region	436	437	1152.0	.	.	
+ch.1_56	RNASeq_F_asymmetry	transcript_region	426	435	2099.0	.	.	
+ch.1_56	RNASeq_reads	transcript_region	367	433	1.0	.	.	
+ch.1_56	RNASeq_F_asymmetry	transcript_region	390	425	3517.0	.	.	
+ch.1_56	WormBase	CDS	213	404	.	+	.	ID=CDS:K05F1.8;Parent=Transcript:K05F1.8.1
+ch.1_56	RNASeq_F_asymmetry	transcript_region	374	389	5413.0	.	.	
+ch.1_56	RNASeq_stranded	transcript_region	329	384	1.0	+	.	
+ch.1_56	RNASeq_F_asymmetry	transcript_region	355	366	6261.0	.	.	
+ch.1_56	RNASeq_reads	transcript_region	353	366	2.0	.	.	
+ch.1_56	RNASeq_F_asymmetry	transcript_region	354	354	9445.0	.	.	
+ch.1_56	RNASeq_F_asymmetry	transcript_region	319	353	15069.0	.	.	
+ch.1_56	RNASeq_reads	transcript_region	213	352	4.0	.	.	
+ch.1_56	RNASeq_stranded	transcript_region	324	325	1.0	+	.	
+ch.1_56	RNASeq_F_asymmetry	transcript_region	303	318	22669.0	.	.	
+ch.1_56	RNASeq_stranded	transcript_region	213	275	1.0	+	.	
+ch.1_56	RNASeq	transcription_end_site	264	264	.	-	.	
+ch.1_56	RNASeq_R_asymmetry	transcript_region	213	228	18789.0	.	.	
+ch.1_56	WormBase	intron	164	212	.	+	.	Parent=Transcript:K05F1.8.1
+ch.1_56	RNASeq_splice	intron	164	212	20064.0	+	.	
+ch.1_56	RNASeq_splice	intron	164	202	9.0	+	.	
+ch.1_56	RNASeq_R_asymmetry	transcript_region	164	164	1536.0	.	.	
+ch.1_56	RNASeq_stranded	transcript_region	160	164	1.0	+	.	
+ch.1_56	RNASeq_reads	transcript_region	127	163	4.0	.	.	
+ch.1_56	RNASeq_R_asymmetry	transcript_region	125	163	17245.0	.	.	
+ch.1_56	WormBase	CDS	119	163	.	+	.	ID=CDS:K05F1.8;Parent=Transcript:K05F1.8.1
+ch.1_56	WormBase	exon	101	163	.	+	.	Parent=Transcript:K05F1.8.1
+ch.1_56	RNASeq_stranded	transcript_region	134	159	2.0	+	.	
+ch.1_56	RNASeq_stranded	transcript_region	133	133	1.0	-	.	
+ch.1_56	RNASeq_stranded	transcript_region	132	132	2.0	-	.	
+ch.1_56	RNASeq_stranded	transcript_region	110	131	1.0	+	.	
+ch.1_56	RNASeq_reads	transcript_region	117	126	2.0	.	.	
+ch.1_56	RNASeq_R_asymmetry	transcript_region	119	124	11157.0	.	.	
+ch.1_56	RNASeq_R_asymmetry	transcript_region	114	118	7321.0	.	.	
+ch.1_56	WormBase	five_prime_UTR	101	118	.	+	.	Parent=Transcript:K05F1.8.1
+ch.1_56	RNASeq_reads	transcript_region	106	116	1.0	.	.	
+ch.1_56	RNASeq_R_asymmetry	transcript_region	109	113	4585.0	.	.	
+ch.1_56	RNASeq_R_asymmetry	transcript_region	106	108	2874.0	.	.	
+ch.1_56	RNASeq_R_asymmetry	transcript_region	89	101	956.0	.	.	
+ch.1_56	RNASeq_R_asymmetry	transcript_region	88	88	613.0	.	.	

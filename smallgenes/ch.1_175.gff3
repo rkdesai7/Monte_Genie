@@ -1,0 +1,56 @@
+ch.1_175	RNASeq_stranded	transcript_region	7	18	2.0	-	.	
+ch.1_175	RNASeq_reads	transcript_region	19	22	1.0	.	.	
+ch.1_175	RNASeq_splice	intron	19	257	18.0	-	.	
+ch.1_175	WormBase	intron	19	571	.	-	.	Parent=Transcript:T24H7.5a.1
+ch.1_175	WormBase	intron	19	571	.	-	.	Parent=Transcript:T24H7.5a.2
+ch.1_175	RNASeq_splice	intron	19	571	23391.0	-	.	
+ch.1_175	RNASeq_splice	intron	36	571	4.0	-	.	
+ch.1_175	WormBase	five_prime_UTR	101	142	.	+	.	Parent=Transcript:T24H7.8.1
+ch.1_175	WormBase	exon	101	355	.	+	.	Parent=Transcript:T24H7.8.1
+ch.1_175	WormBase	gene	101	585	.	+	.	ID=Gene:WBGene00206412
+ch.1_175	WormBase	mRNA	101	585	.	+	.	ID=Transcript:T24H7.8.1;Parent=Gene:WBGene00206412
+ch.1_175	RNASeq_F_asymmetry	transcript_region	104	115	915.0	.	.	
+ch.1_175	RNASeq_F_asymmetry	transcript_region	116	118	1431.0	.	.	
+ch.1_175	RNASeq_F_asymmetry	transcript_region	119	125	2539.0	.	.	
+ch.1_175	RNASeq_reads	transcript_region	119	135	1.0	.	.	
+ch.1_175	RNASeq_F_asymmetry	transcript_region	126	130	3872.0	.	.	
+ch.1_175	RNASeq_F_asymmetry	transcript_region	131	140	6001.0	.	.	
+ch.1_175	RNASeq_reads	transcript_region	136	160	2.0	.	.	
+ch.1_175	RNASeq_F_asymmetry	transcript_region	141	152	9119.0	.	.	
+ch.1_175	WormBase	CDS	143	355	.	+	.	ID=CDS:T24H7.8;Parent=Transcript:T24H7.8.1
+ch.1_175	RNASeq_stranded	transcript_region	145	187	1.0	+	.	
+ch.1_175	RNASeq_F_asymmetry	transcript_region	153	171	13856.0	.	.	
+ch.1_175	RNASeq_reads	transcript_region	161	355	4.0	.	.	
+ch.1_175	RNASeq_F_asymmetry	transcript_region	172	243	20892.0	.	.	
+ch.1_175	RNASeq_stranded	transcript_region	188	196	2.0	+	.	
+ch.1_175	RNASeq_stranded	transcript_region	197	212	1.0	+	.	
+ch.1_175	RNASeq_stranded	transcript_region	213	214	2.0	+	.	
+ch.1_175	RNASeq_stranded	transcript_region	215	277	1.0	+	.	
+ch.1_175	RNASeq_stranded	transcript_region	278	355	2.0	+	.	
+ch.1_175	RNASeq_R_asymmetry	transcript_region	314	318	21480.0	.	.	
+ch.1_175	RNASeq_R_asymmetry	transcript_region	320	355	21224.0	.	.	
+ch.1_175	RNASeq_reads	transcript_region	356	356	1.0	.	.	
+ch.1_175	RNASeq_stranded	transcript_region	356	357	1.0	+	.	
+ch.1_175	RNASeq_splice	intron	356	406	29.0	+	.	
+ch.1_175	WormBase	intron	356	424	.	+	.	Parent=Transcript:T24H7.8.1
+ch.1_175	RNASeq_splice	intron	356	424	25428.0	+	.	
+ch.1_175	RNASeq_R_asymmetry	transcript_region	425	444	20019.0	.	.	
+ch.1_175	RNASeq_reads	transcript_region	425	445	5.0	.	.	
+ch.1_175	RNASeq_stranded	transcript_region	425	450	2.0	+	.	
+ch.1_175	WormBase	CDS	425	502	.	+	.	ID=CDS:T24H7.8;Parent=Transcript:T24H7.8.1
+ch.1_175	WormBase	exon	425	585	.	+	.	Parent=Transcript:T24H7.8.1
+ch.1_175	RNASeq_reads	transcript_region	446	530	3.0	.	.	
+ch.1_175	RNASeq_stranded	transcript_region	451	544	4.0	+	.	
+ch.1_175	WormBase	three_prime_UTR	503	585	.	+	.	Parent=Transcript:T24H7.8.1
+ch.1_175	RNASeq_reads	transcript_region	531	553	1.0	.	.	
+ch.1_175	RNASeq_stranded	transcript_region	545	549	2.0	+	.	
+ch.1_175	RNASeq_stranded	transcript_region	550	565	1.0	+	.	
+ch.1_175	RNASeq_reads	transcript_region	569	570	1.0	.	.	
+ch.1_175	RNASeq_stranded	transcript_region	572	610	2.0	-	.	
+ch.1_175	WormBase	CDS	572	668	.	-	.	ID=CDS:T24H7.5a;Parent=Transcript:T24H7.5a.1,Transcript:T24H7.5a.2
+ch.1_175	WormBase	exon	572	668	.	-	.	Parent=Transcript:T24H7.5a.1
+ch.1_175	WormBase	exon	572	668	.	-	.	Parent=Transcript:T24H7.5a.2
+ch.1_175	WormBase	exon	572	668	.	-	.	Parent=Transcript:T24H7.5b
+ch.1_175	WormBase	exon	572	668	.	-	.	Parent=Transcript:T24H7.5d
+ch.1_175	RNASeq_reads	transcript_region	572	668	4.0	.	.	
+ch.1_175	RNASeq_stranded	transcript_region	611	635	1.0	-	.	

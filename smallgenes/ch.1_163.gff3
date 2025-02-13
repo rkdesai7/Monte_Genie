@@ -1,0 +1,73 @@
+ch.1_163	RNASeq_stranded	transcript_region	641	642	1.0	+	.	
+ch.1_163	RNASeq_reads	transcript_region	640	642	10.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	640	640	2.0	-	.	
+ch.1_163	RNASeq_reads	transcript_region	639	639	21.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	639	639	4.0	-	.	
+ch.1_163	RNASeq_reads	transcript_region	635	638	56.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	631	638	15.0	+	.	
+ch.1_163	RNASeq_reads	transcript_region	629	634	122.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	609	630	23.0	+	.	
+ch.1_163	RNASeq_reads	transcript_region	614	628	190.0	.	.	
+ch.1_163	RNASeq_reads	transcript_region	603	613	287.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	461	608	35.0	+	.	
+ch.1_163	RNASeq_reads	transcript_region	594	602	433.0	.	.	
+ch.1_163	RNASeq_reads	transcript_region	566	593	652.0	.	.	
+ch.1_163	WormBase	exon	294	587	.	+	.	Parent=Transcript:T27E4.9.1
+ch.1_163	WormBase	CDS	294	587	.	+	.	ID=CDS:T27E4.9;Parent=Transcript:T27E4.9.1
+ch.1_163	WormBase	gene	101	587	.	+	.	ID=Gene:WBGene00002020
+ch.1_163	WormBase	mRNA	101	587	.	+	.	ID=Transcript:T27E4.9.1;Parent=Gene:WBGene00002020
+ch.1_163	RNASeq_reads	transcript_region	550	565	998.0	.	.	
+ch.1_163	RNASeq_reads	transcript_region	294	549	1504.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	487	530	1.0	-	.	
+ch.1_163	RNASeq_splice	intron	109	527	38.0	+	.	
+ch.1_163	RNASeq_splice	intron	137	523	10.0	-	.	
+ch.1_163	RNASeq_splice	intron	239	510	14.0	+	.	
+ch.1_163	RNASeq_splice	intron	357	470	10.0	-	.	
+ch.1_163	RNASeq_splice	intron	239	465	11.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	427	460	22.0	+	.	
+ch.1_163	RNASeq_splice	intron	343	455	7.0	-	.	
+ch.1_163	RNASeq_splice	intron	332	432	6.0	-	.	
+ch.1_163	RNASeq_stranded	transcript_region	394	426	35.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	375	421	1.0	-	.	
+ch.1_163	RNASeq_splice	intron	239	396	7.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	356	393	53.0	+	.	
+ch.1_163	RNASeq_splice	intron	239	381	9.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	369	369	1.0	-	.	
+ch.1_163	RNASeq_stranded	transcript_region	353	367	1.0	-	.	
+ch.1_163	RNASeq_stranded	transcript_region	294	355	34.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	302	352	4.0	-	.	
+ch.1_163	RNASeq_splice	intron	239	351	22.0	+	.	
+ch.1_163	RNASeq_splice	intron	252	305	13.0	-	.	
+ch.1_163	RNASeq_stranded	transcript_region	299	301	1.0	-	.	
+ch.1_163	RNASeq_reads	transcript_region	292	293	348.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	292	293	7.0	+	.	
+ch.1_163	WormBase	intron	239	293	.	+	.	Parent=Transcript:T27E4.9.1
+ch.1_163	RNASeq_splice	intron	239	293	9869380.0	+	.	
+ch.1_163	RNASeq_reads	transcript_region	239	291	148.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	239	291	1.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	157	238	37.0	+	.	
+ch.1_163	WormBase	CDS	101	238	.	+	.	ID=CDS:T27E4.9;Parent=Transcript:T27E4.9.1
+ch.1_163	WormBase	exon	101	238	.	+	.	Parent=Transcript:T27E4.9.1
+ch.1_163	RNASeq_reads	transcript_region	78	238	2124.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	219	236	1.0	-	.	
+ch.1_163	RNASeq_stranded	transcript_region	213	214	1.0	-	.	
+ch.1_163	RNASeq_stranded	transcript_region	205	205	1.0	-	.	
+ch.1_163	RNASeq_stranded	transcript_region	203	203	1.0	-	.	
+ch.1_163	RNASeq_stranded	transcript_region	186	201	1.0	-	.	
+ch.1_163	RNASeq_splice	intron	112	199	6.0	-	.	
+ch.1_163	RNASeq_splice	intron	103	198	5.0	-	.	
+ch.1_163	RNASeq_splice	intron	141	176	3.0	-	.	
+ch.1_163	RNASeq_stranded	transcript_region	100	156	56.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	88	99	35.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	69	87	20.0	+	.	
+ch.1_163	RNASeq_reads	transcript_region	64	77	1389.0	.	.	
+ch.1_163	RNASeq_splice	intron	23	70	20.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	62	68	13.0	+	.	
+ch.1_163	RNASeq_reads	transcript_region	54	63	898.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	55	61	20.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	12	54	31.0	+	.	
+ch.1_163	RNASeq_reads	transcript_region	25	53	60.0	.	.	
+ch.1_163	RNASeq_R_asymmetry	transcript_region	20	43	181213.0	.	.	
+ch.1_163	RNASeq_reads	transcript_region	12	24	38.0	.	.	
+ch.1_163	RNASeq_stranded	transcript_region	7	11	16.0	+	.	
+ch.1_163	RNASeq_stranded	transcript_region	4	6	10.0	+	.	

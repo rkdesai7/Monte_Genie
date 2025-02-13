@@ -1,0 +1,75 @@
+ch.1_278	RNASeq_splice	intron	368	751	6.0	+	.	
+ch.1_278	RNASeq_stranded	transcript_region	726	728	1.0	-	.	
+ch.1_278	RNASeq_reads	transcript_region	725	728	2.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	723	728	8.0	+	.	
+ch.1_278	WormBase	three_prime_UTR	437	726	.	+	.	Parent=Transcript:C25F9.11.1
+ch.1_278	WormBase	exon	411	726	.	+	.	Parent=Transcript:C25F9.11.1
+ch.1_278	WormBase	gene	101	726	.	+	.	ID=Gene:WBGene00045411
+ch.1_278	WormBase	mRNA	101	726	.	+	.	ID=Transcript:C25F9.11.1;Parent=Gene:WBGene00045411
+ch.1_278	RNASeq_stranded	transcript_region	645	725	2.0	-	.	
+ch.1_278	RNASeq_reads	transcript_region	715	724	4.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	718	722	14.0	+	.	
+ch.1_278	RNASeq_stranded	transcript_region	713	717	23.0	+	.	
+ch.1_278	RNASeq	transcription_end_site	715	715	.	-	.	
+ch.1_278	RNASeq	transcription_end_site	715	715	.	-	.	
+ch.1_278	RNASeq_reads	transcript_region	700	714	7.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	701	712	35.0	+	.	
+ch.1_278	RNASeq_stranded	transcript_region	698	700	54.0	+	.	
+ch.1_278	RNASeq_reads	transcript_region	682	699	12.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	675	697	82.0	+	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	683	686	64038.0	.	.	
+ch.1_278	RNASeq_reads	transcript_region	650	681	19.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	587	674	124.0	+	.	
+ch.1_278	RNASeq_reads	transcript_region	411	649	29.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	638	644	1.0	-	.	
+ch.1_278	RNASeq_splice	intron	490	619	8.0	-	.	
+ch.1_278	RNASeq_stranded	transcript_region	569	586	80.0	+	.	
+ch.1_278	RNASeq_stranded	transcript_region	556	568	52.0	+	.	
+ch.1_278	RNASeq_stranded	transcript_region	534	555	33.0	+	.	
+ch.1_278	RNASeq_stranded	transcript_region	411	533	21.0	+	.	
+ch.1_278	RNASeq	transcription_end_site	513	513	.	-	.	
+ch.1_278	RNASeq	transcription_end_site	513	513	.	-	.	
+ch.1_278	RNASeq	transcription_end_site	454	454	.	-	.	
+ch.1_278	RNASeq	transcription_end_site	451	451	.	-	.	
+ch.1_278	WormBase	CDS	411	436	.	+	.	ID=CDS:C25F9.11;Parent=Transcript:C25F9.11.1
+ch.1_278	RNASeq	transcription_end_site	433	433	.	-	.	
+ch.1_278	RNASeq	transcription_end_site	433	433	.	-	.	
+ch.1_278	RNASeq_reads	transcript_region	410	410	5.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	410	410	3.0	-	.	
+ch.1_278	WormBase	intron	364	410	.	+	.	Parent=Transcript:C25F9.11.1
+ch.1_278	RNASeq_splice	intron	364	410	165250.0	+	.	
+ch.1_278	RNASeq_splice	intron	319	410	20.0	+	.	
+ch.1_278	RNASeq_stranded	transcript_region	409	409	1.0	-	.	
+ch.1_278	RNASeq_reads	transcript_region	364	409	2.0	.	.	
+ch.1_278	RNASeq_splice	intron	364	398	62.0	+	.	
+ch.1_278	RNASeq_splice	intron	328	380	21.0	-	.	
+ch.1_278	RNASeq_reads	transcript_region	277	363	32.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	212	363	11.0	+	.	
+ch.1_278	WormBase	CDS	114	363	.	+	.	ID=CDS:C25F9.11;Parent=Transcript:C25F9.11.1
+ch.1_278	WormBase	exon	101	363	.	+	.	Parent=Transcript:C25F9.11.1
+ch.1_278	RNASeq_reads	transcript_region	109	276	49.0	.	.	
+ch.1_278	RNASeq_splice	intron	189	250	4.0	-	.	
+ch.1_278	RNASeq_stranded	transcript_region	202	244	1.0	-	.	
+ch.1_278	RNASeq_stranded	transcript_region	201	211	24.0	+	.	
+ch.1_278	RNASeq_stranded	transcript_region	111	200	37.0	+	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	161	161	246318.0	.	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	109	158	237790.0	.	.	
+ch.1_278	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:C25F9.11.1
+ch.1_278	RNASeq_stranded	transcript_region	104	110	23.0	+	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	102	108	137575.0	.	.	
+ch.1_278	RNASeq_reads	transcript_region	102	108	28.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	100	103	15.0	+	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	100	101	81571.0	.	.	
+ch.1_278	RNASeq_reads	transcript_region	99	101	16.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	99	99	9.0	-	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	96	99	51909.0	.	.	
+ch.1_278	RNASeq_reads	transcript_region	95	98	8.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	95	98	5.0	+	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	95	95	34068.0	.	.	
+ch.1_278	RNASeq_reads	transcript_region	82	94	2.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	51	94	2.0	+	.	
+ch.1_278	RNASeq_reads	transcript_region	17	81	1.0	.	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	33	71	5156.0	.	.	
+ch.1_278	RNASeq_stranded	transcript_region	21	50	1.0	+	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	13	32	3355.0	.	.	
+ch.1_278	RNASeq_R_asymmetry	transcript_region	3	12	2200.0	.	.	

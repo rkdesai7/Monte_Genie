@@ -1,0 +1,100 @@
+ch.2_154	RNASeq_F_asymmetry	transcript_region	2	12	1377.0	.	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	13	23	2100.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	16	41	1.0	.	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	24	34	3260.0	.	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	35	45	4968.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	37	46	1.0	+	.	
+ch.2_154	RNASeq_reads	transcript_region	42	57	2.0	.	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	46	53	7505.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	47	103	2.0	+	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	54	62	11395.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	58	82	4.0	.	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	63	80	18548.0	.	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	81	96	28598.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	83	97	7.0	.	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	97	100	44774.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	98	104	11.0	.	.	
+ch.2_154	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:C26B2.7a.1
+ch.2_154	RNASeq_F_asymmetry	transcript_region	101	110	70061.0	.	.	
+ch.2_154	WormBase	exon	101	207	.	+	.	Parent=Transcript:C26B2.7a.1
+ch.2_154	WormBase	gene	101	709	.	+	.	ID=Gene:WBGene00016129
+ch.2_154	WormBase	mRNA	101	709	.	+	.	ID=Transcript:C26B2.7a.1;Parent=Gene:WBGene00016129
+ch.2_154	RNASeq_stranded	transcript_region	104	117	6.0	+	.	
+ch.2_154	RNASeq_reads	transcript_region	105	113	17.0	.	.	
+ch.2_154	WormBase	CDS	107	207	.	+	.	ID=CDS:C26B2.7a;Parent=Transcript:C26B2.7a.1
+ch.2_154	RNASeq_F_asymmetry	transcript_region	111	124	106366.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	114	134	27.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	118	132	10.0	+	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	125	145	164416.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	133	139	16.0	+	.	
+ch.2_154	RNASeq_reads	transcript_region	135	167	42.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	140	199	25.0	+	.	
+ch.2_154	RNASeq_F_asymmetry	transcript_region	146	183	248867.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	168	207	64.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	200	207	16.0	+	.	
+ch.2_154	RNASeq_stranded	transcript_region	200	207	1.0	-	.	
+ch.2_154	WormBase	intron	208	257	.	+	.	Parent=Transcript:C26B2.7a.1
+ch.2_154	RNASeq_splice	intron	208	257	342164.0	+	.	
+ch.2_154	RNASeq_splice	intron	208	277	5.0	+	.	
+ch.2_154	RNASeq_reads	transcript_region	224	225	1.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	227	257	1.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	258	306	1.0	-	.	
+ch.2_154	RNASeq_stranded	transcript_region	258	326	18.0	+	.	
+ch.2_154	WormBase	CDS	258	360	.	+	.	ID=CDS:C26B2.7a;Parent=Transcript:C26B2.7a.1
+ch.2_154	WormBase	exon	258	360	.	+	.	Parent=Transcript:C26B2.7a.1
+ch.2_154	RNASeq_reads	transcript_region	258	360	72.0	.	.	
+ch.2_154	WormBase	exon	262	360	.	+	.	Parent=Transcript:C26B2.7b.1
+ch.2_154	WormBase	CDS	262	360	.	+	.	ID=CDS:C26B2.7b;Parent=Transcript:C26B2.7b.1
+ch.2_154	WormBase	mRNA	262	618	.	+	.	ID=Transcript:C26B2.7b.1;Parent=Gene:WBGene00016129
+ch.2_154	RNASeq_stranded	transcript_region	316	331	1.0	-	.	
+ch.2_154	RNASeq_stranded	transcript_region	327	360	29.0	+	.	
+ch.2_154	WormBase	intron	361	414	.	+	.	Parent=Transcript:C26B2.7a.1
+ch.2_154	WormBase	intron	361	414	.	+	.	Parent=Transcript:C26B2.7b.1
+ch.2_154	RNASeq_splice	intron	361	414	404096.0	+	.	
+ch.2_154	RNASeq_splice	intron	361	519	7.0	+	.	
+ch.2_154	RNASeq_splice	intron	375	468	4.0	-	.	
+ch.2_154	RNASeq_reads	transcript_region	413	414	9.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	413	414	5.0	+	.	
+ch.2_154	RNASeq_stranded	transcript_region	415	513	27.0	+	.	
+ch.2_154	RNASeq_reads	transcript_region	415	607	74.0	.	.	
+ch.2_154	WormBase	CDS	415	618	.	+	.	ID=CDS:C26B2.7a;Parent=Transcript:C26B2.7a.1
+ch.2_154	WormBase	CDS	415	618	.	+	.	ID=CDS:C26B2.7b;Parent=Transcript:C26B2.7b.1
+ch.2_154	WormBase	exon	415	618	.	+	.	Parent=Transcript:C26B2.7b.1
+ch.2_154	WormBase	exon	415	709	.	+	.	Parent=Transcript:C26B2.7a.1
+ch.2_154	RNASeq_stranded	transcript_region	477	477	1.0	+	.	
+ch.2_154	RNASeq_stranded	transcript_region	482	510	1.0	-	.	
+ch.2_154	RNASeq_splice	intron	494	540	134.0	+	.	
+ch.2_154	RNASeq_stranded	transcript_region	514	516	41.0	+	.	
+ch.2_154	RNASeq_stranded	transcript_region	517	566	68.0	+	.	
+ch.2_154	RNASeq_splice	intron	520	566	6.0	+	.	
+ch.2_154	RNASeq_stranded	transcript_region	562	577	1.0	-	.	
+ch.2_154	RNASeq_stranded	transcript_region	567	567	33.0	+	.	
+ch.2_154	RNASeq_stranded	transcript_region	568	644	19.0	+	.	
+ch.2_154	RNASeq_R_asymmetry	transcript_region	576	589	287407.0	.	.	
+ch.2_154	RNASeq_R_asymmetry	transcript_region	596	610	208373.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	608	641	48.0	.	.	
+ch.2_154	RNASeq	transcription_end_site	617	617	.	+	.	
+ch.2_154	WormBase	three_prime_UTR	619	709	.	+	.	Parent=Transcript:C26B2.7a.1
+ch.2_154	RNASeq_R_asymmetry	transcript_region	621	656	147956.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	642	662	31.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	645	683	12.0	+	.	
+ch.2_154	RNASeq_R_asymmetry	transcript_region	657	672	96833.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	663	672	20.0	.	.	
+ch.2_154	RNASeq	transcription_end_site	672	672	.	+	.	
+ch.2_154	RNASeq_R_asymmetry	transcript_region	673	677	41935.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	673	685	10.0	.	.	
+ch.2_154	RNASeq	transcription_end_site	675	675	.	+	.	
+ch.2_154	RNASeq_R_asymmetry	transcript_region	679	703	30194.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	684	690	7.0	+	.	
+ch.2_154	RNASeq_reads	transcript_region	686	708	6.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	691	703	4.0	+	.	
+ch.2_154	RNASeq_R_asymmetry	transcript_region	704	709	19706.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	704	709	2.0	+	.	
+ch.2_154	RNASeq_reads	transcript_region	709	712	3.0	.	.	
+ch.2_154	RNASeq_R_asymmetry	transcript_region	710	712	11806.0	.	.	
+ch.2_154	RNASeq_stranded	transcript_region	710	714	1.0	+	.	
+ch.2_154	RNASeq	transcription_end_site	712	712	.	+	.	
+ch.2_154	RNASeq	transcription_end_site	713	713	.	+	.	
+ch.2_154	RNASeq_R_asymmetry	transcript_region	713	717	3092.0	.	.	
+ch.2_154	RNASeq_reads	transcript_region	713	717	1.0	.	.	
+ch.2_154	RNASeq	transcription_end_site	716	716	.	+	.	

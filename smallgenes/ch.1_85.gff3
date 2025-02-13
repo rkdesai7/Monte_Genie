@@ -1,0 +1,26 @@
+ch.1_85	WormBase	three_prime_UTR	403	454	.	+	.	Parent=Transcript:Y57E12B.11.1
+ch.1_85	WormBase	exon	326	454	.	+	.	Parent=Transcript:Y57E12B.11.1
+ch.1_85	WormBase	gene	101	454	.	+	.	ID=Gene:WBGene00235311
+ch.1_85	WormBase	mRNA	101	454	.	+	.	ID=Transcript:Y57E12B.11.1;Parent=Gene:WBGene00235311
+ch.1_85	RNASeq_stranded	transcript_region	326	411	1.0	+	.	
+ch.1_85	RNASeq_reads	transcript_region	380	407	1.0	.	.	
+ch.1_85	WormBase	CDS	326	402	.	+	.	ID=CDS:Y57E12B.11;Parent=Transcript:Y57E12B.11.1
+ch.1_85	RNASeq_F_asymmetry	transcript_region	353	379	6957.0	.	.	
+ch.1_85	RNASeq_reads	transcript_region	326	379	2.0	.	.	
+ch.1_85	RNASeq_F_asymmetry	transcript_region	330	352	10598.0	.	.	
+ch.1_85	RNASeq_F_asymmetry	transcript_region	324	325	1140.0	.	.	
+ch.1_85	WormBase	intron	277	325	.	+	.	Parent=Transcript:Y57E12B.11.1
+ch.1_85	RNASeq_splice	intron	277	325	11337.0	+	.	
+ch.1_85	RNASeq_F_asymmetry	transcript_region	321	322	828.0	.	.	
+ch.1_85	RNASeq_splice	intron	271	317	3.0	-	.	
+ch.1_85	RNASeq_stranded	transcript_region	263	276	1.0	+	.	
+ch.1_85	WormBase	CDS	117	276	.	+	.	ID=CDS:Y57E12B.11;Parent=Transcript:Y57E12B.11.1
+ch.1_85	RNASeq_reads	transcript_region	112	276	2.0	.	.	
+ch.1_85	WormBase	exon	101	276	.	+	.	Parent=Transcript:Y57E12B.11.1
+ch.1_85	RNASeq_stranded	transcript_region	119	202	1.0	+	.	
+ch.1_85	RNASeq_R_asymmetry	transcript_region	114	163	11239.0	.	.	
+ch.1_85	WormBase	five_prime_UTR	101	116	.	+	.	Parent=Transcript:Y57E12B.11.1
+ch.1_85	RNASeq_R_asymmetry	transcript_region	110	113	7237.0	.	.	
+ch.1_85	RNASeq_reads	transcript_region	100	111	1.0	.	.	
+ch.1_85	RNASeq_R_asymmetry	transcript_region	107	109	4123.0	.	.	
+ch.1_85	RNASeq_splice	intron	40	90	37.0	+	.	

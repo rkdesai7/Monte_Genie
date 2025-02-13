@@ -1,0 +1,137 @@
+ch.3_78	RNASeq_stranded	transcript_region	13	17	2.0	-	.	
+ch.3_78	RNASeq_reads	transcript_region	15	25	15.0	.	.	
+ch.3_78	RNASeq_R_asymmetry	transcript_region	18	26	60516.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	18	49	1.0	-	.	
+ch.3_78	RNASeq_reads	transcript_region	26	40	9.0	.	.	
+ch.3_78	RNASeq_R_asymmetry	transcript_region	27	40	39556.0	.	.	
+ch.3_78	RNASeq_splice	intron	33	132	3.0	-	.	
+ch.3_78	RNASeq_splice	intron	33	608	6.0	-	.	
+ch.3_78	RNASeq_R_asymmetry	transcript_region	41	43	25756.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	41	43	5.0	.	.	
+ch.3_78	RNASeq_R_asymmetry	transcript_region	44	51	12058.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	44	53	3.0	.	.	
+ch.3_78	RNASeq_R_asymmetry	transcript_region	52	54	7860.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	54	69	1.0	.	.	
+ch.3_78	RNASeq_R_asymmetry	transcript_region	55	64	3930.0	.	.	
+ch.3_78	RNASeq_R_asymmetry	transcript_region	65	72	2557.0	.	.	
+ch.3_78	WormBase	five_prime_UTR	101	163	.	+	.	Parent=Transcript:F25H9.7a.1
+ch.3_78	WormBase	exon	101	240	.	+	.	Parent=Transcript:F25H9.7a.1
+ch.3_78	WormBase	gene	101	810	.	+	.	ID=Gene:WBGene00009139
+ch.3_78	WormBase	mRNA	101	810	.	+	.	ID=Transcript:F25H9.7a.1;Parent=Gene:WBGene00009139
+ch.3_78	RNASeq_F_asymmetry	transcript_region	114	116	1939.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	116	129	1.0	.	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	117	123	3736.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	119	129	1.0	+	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	124	130	5613.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	130	142	2.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	130	163	2.0	+	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	131	138	8604.0	.	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	139	145	12972.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	143	162	4.0	.	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	146	162	19489.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	159	193	1.0	-	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	163	167	31190.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	163	168	7.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	164	172	4.0	+	.	
+ch.3_78	WormBase	CDS	164	240	.	+	.	ID=CDS:F25H9.7a;Parent=Transcript:F25H9.7a.1
+ch.3_78	RNASeq_F_asymmetry	transcript_region	168	172	48119.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	169	172	11.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	173	175	7.0	+	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	173	178	81205.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	173	179	17.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	176	182	14.0	+	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	179	204	123060.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	180	203	26.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	183	185	22.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	186	232	34.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	200	230	1.0	-	.	
+ch.3_78	RNASeq_reads	transcript_region	204	240	40.0	.	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	205	240	185364.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	231	232	2.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	233	235	21.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	233	240	1.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	236	240	9.0	+	.	
+ch.3_78	WormBase	intron	241	296	.	+	.	Parent=Transcript:F25H9.7a.1
+ch.3_78	RNASeq_splice	intron	241	296	195248.0	+	.	
+ch.3_78	RNASeq_reads	transcript_region	289	289	1.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	290	294	2.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	295	296	7.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	295	296	2.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	297	329	10.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	297	349	1.0	-	.	
+ch.3_78	RNASeq_reads	transcript_region	297	403	43.0	.	.	
+ch.3_78	WormBase	CDS	297	417	.	+	.	ID=CDS:F25H9.7a;Parent=Transcript:F25H9.7a.1
+ch.3_78	WormBase	exon	297	417	.	+	.	Parent=Transcript:F25H9.7a.1
+ch.3_78	RNASeq_stranded	transcript_region	330	392	16.0	+	.	
+ch.3_78	WormBase	exon	331	417	.	+	.	Parent=Transcript:F25H9.7b.1
+ch.3_78	WormBase	CDS	331	417	.	+	.	ID=CDS:F25H9.7b;Parent=Transcript:F25H9.7b.1
+ch.3_78	WormBase	mRNA	331	730	.	+	.	ID=Transcript:F25H9.7b.1;Parent=Gene:WBGene00009139
+ch.3_78	RNASeq_stranded	transcript_region	350	350	2.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	351	356	1.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	357	360	2.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	361	391	1.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	393	417	9.0	+	.	
+ch.3_78	RNASeq_reads	transcript_region	404	417	65.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	409	417	1.0	-	.	
+ch.3_78	WormBase	intron	418	463	.	+	.	Parent=Transcript:F25H9.7a.1
+ch.3_78	WormBase	intron	418	463	.	+	.	Parent=Transcript:F25H9.7b.1
+ch.3_78	RNASeq_splice	intron	418	463	304308.0	+	.	
+ch.3_78	RNASeq_reads	transcript_region	463	463	9.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	463	463	5.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	464	466	1.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	464	496	14.0	+	.	
+ch.3_78	WormBase	CDS	464	529	.	+	.	ID=CDS:F25H9.7a;Parent=Transcript:F25H9.7a.1
+ch.3_78	WormBase	CDS	464	529	.	+	.	ID=CDS:F25H9.7b;Parent=Transcript:F25H9.7b.1
+ch.3_78	WormBase	exon	464	529	.	+	.	Parent=Transcript:F25H9.7a.1
+ch.3_78	WormBase	exon	464	529	.	+	.	Parent=Transcript:F25H9.7b.1
+ch.3_78	RNASeq_reads	transcript_region	464	529	62.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	467	501	5.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	497	529	22.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	502	529	1.0	-	.	
+ch.3_78	RNASeq_reads	transcript_region	530	530	6.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	530	530	3.0	+	.	
+ch.3_78	WormBase	intron	530	580	.	+	.	Parent=Transcript:F25H9.7a.1
+ch.3_78	WormBase	intron	530	580	.	+	.	Parent=Transcript:F25H9.7b.1
+ch.3_78	RNASeq_splice	intron	530	580	322484.0	+	.	
+ch.3_78	RNASeq_splice	intron	530	587	102.0	+	.	
+ch.3_78	RNASeq_splice	intron	534	587	3.0	+	.	
+ch.3_78	RNASeq_reads	transcript_region	578	580	1.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	581	586	1.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	581	639	20.0	+	.	
+ch.3_78	WormBase	CDS	581	730	.	+	.	ID=CDS:F25H9.7a;Parent=Transcript:F25H9.7a.1
+ch.3_78	WormBase	CDS	581	730	.	+	.	ID=CDS:F25H9.7b;Parent=Transcript:F25H9.7b.1
+ch.3_78	WormBase	exon	581	730	.	+	.	Parent=Transcript:F25H9.7b.1
+ch.3_78	RNASeq_reads	transcript_region	581	733	67.0	.	.	
+ch.3_78	WormBase	exon	581	810	.	+	.	Parent=Transcript:F25H9.7a.1
+ch.3_78	RNASeq_stranded	transcript_region	587	592	2.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	593	600	1.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	601	606	2.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	607	686	1.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	640	705	32.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	706	758	49.0	+	.	
+ch.3_78	WormBase	three_prime_UTR	731	810	.	+	.	Parent=Transcript:F25H9.7a.1
+ch.3_78	RNASeq_reads	transcript_region	734	761	44.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	759	775	32.0	+	.	
+ch.3_78	RNASeq_reads	transcript_region	762	774	29.0	.	.	
+ch.3_78	RNASeq_reads	transcript_region	775	786	19.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	776	796	19.0	+	.	
+ch.3_78	RNASeq_stranded	transcript_region	779	798	1.0	-	.	
+ch.3_78	RNASeq_reads	transcript_region	787	798	12.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	797	804	12.0	+	.	
+ch.3_78	RNASeq_reads	transcript_region	799	807	7.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	799	825	2.0	-	.	
+ch.3_78	RNASeq_stranded	transcript_region	805	808	6.0	+	.	
+ch.3_78	RNASeq_reads	transcript_region	808	812	4.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	809	812	3.0	+	.	
+ch.3_78	RNASeq_reads	transcript_region	813	834	2.0	.	.	
+ch.3_78	RNASeq_stranded	transcript_region	826	845	4.0	-	.	
+ch.3_78	RNASeq_reads	transcript_region	835	852	4.0	.	.	
+ch.3_78	RNASeq	transcription_end_site	851	851	.	+	.	
+ch.3_78	RNASeq	transcription_end_site	851	851	.	+	.	
+ch.3_78	RNASeq	transcription_end_site	852	852	.	+	.	
+ch.3_78	RNASeq	transcription_end_site	852	852	.	+	.	
+ch.3_78	RNASeq	transcription_end_site	868	868	.	+	.	
+ch.3_78	RNASeq	transcription_end_site	868	868	.	+	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	881	882	36313.0	.	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	889	891	37632.0	.	.	
+ch.3_78	RNASeq_F_asymmetry	transcript_region	894	894	39338.0	.	.	

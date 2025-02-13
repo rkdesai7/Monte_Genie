@@ -1,0 +1,79 @@
+ch.1_394	RNASeq_stranded	transcript_region	670	737	112.0	-	.	
+ch.1_394	RNASeq	transcription_end_site	712	712	.	-	.	
+ch.1_394	RNASeq_splice	intron	593	706	12.0	-	.	
+ch.1_394	RNASeq_reads	transcript_region	681	698	41.0	.	.	
+ch.1_394	WormBase	three_prime_UTR	617	689	.	-	.	Parent=Transcript:F37C12.1.1
+ch.1_394	RNASeq_stranded	transcript_region	679	684	1.0	+	.	
+ch.1_394	RNASeq	transcription_end_site	681	681	.	-	.	
+ch.1_394	RNASeq_reads	transcript_region	659	680	27.0	.	.	
+ch.1_394	RNASeq_splice	intron	593	680	158.0	-	.	
+ch.1_394	RNASeq	transcription_end_site	678	678	.	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	638	676	1.0	+	.	
+ch.1_394	RNASeq_stranded	transcript_region	655	669	71.0	-	.	
+ch.1_394	RNASeq_reads	transcript_region	640	658	17.0	.	.	
+ch.1_394	RNASeq_stranded	transcript_region	640	654	45.0	-	.	
+ch.1_394	RNASeq	transcription_end_site	649	649	.	-	.	
+ch.1_394	RNASeq	transcription_end_site	645	645	.	-	.	
+ch.1_394	WormBase	three_prime_UTR	597	644	.	+	.	Parent=Transcript:F37C12.10.1
+ch.1_394	WormBase	exon	337	644	.	+	.	Parent=Transcript:F37C12.10.1
+ch.1_394	WormBase	gene	101	644	.	+	.	ID=Gene:WBGene00018153
+ch.1_394	WormBase	mRNA	101	644	.	+	.	ID=Transcript:F37C12.10.1;Parent=Gene:WBGene00018153
+ch.1_394	RNASeq_stranded	transcript_region	634	639	23.0	-	.	
+ch.1_394	RNASeq_reads	transcript_region	629	639	11.0	.	.	
+ch.1_394	RNASeq_stranded	transcript_region	593	637	2.0	+	.	
+ch.1_394	RNASeq	transcription_end_site	634	634	.	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	625	633	15.0	-	.	
+ch.1_394	RNASeq_reads	transcript_region	621	628	7.0	.	.	
+ch.1_394	RNASeq	transcription_end_site	625	625	.	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	619	624	9.0	-	.	
+ch.1_394	RNASeq_reads	transcript_region	579	620	4.0	.	.	
+ch.1_394	RNASeq_stranded	transcript_region	616	618	3.0	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	615	615	1.0	-	.	
+ch.1_394	RNASeq	transcription_end_site	613	613	.	-	.	
+ch.1_394	RNASeq	transcription_end_site	596	596	.	-	.	
+ch.1_394	RNASeq	transcription_end_site	596	596	.	-	.	
+ch.1_394	WormBase	CDS	337	596	.	+	.	ID=CDS:F37C12.10;Parent=Transcript:F37C12.10.1
+ch.1_394	RNASeq_stranded	transcript_region	450	592	4.0	+	.	
+ch.1_394	RNASeq_F_asymmetry	transcript_region	563	588	21799.0	.	.	
+ch.1_394	RNASeq_reads	transcript_region	528	578	7.0	.	.	
+ch.1_394	RNASeq	transcription_end_site	555	555	.	-	.	
+ch.1_394	RNASeq_F_asymmetry	transcript_region	542	544	37358.0	.	.	
+ch.1_394	RNASeq_reads	transcript_region	337	527	11.0	.	.	
+ch.1_394	RNASeq_stranded	transcript_region	368	449	2.0	+	.	
+ch.1_394	RNASeq_splice	intron	400	446	25.0	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	337	367	1.0	+	.	
+ch.1_394	RNASeq_stranded	transcript_region	357	358	1.0	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	355	355	1.0	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	348	353	1.0	-	.	
+ch.1_394	RNASeq_splice	intron	258	351	18.0	+	.	
+ch.1_394	RNASeq_splice	intron	254	351	40.0	+	.	
+ch.1_394	RNASeq_splice	intron	224	351	4.0	+	.	
+ch.1_394	RNASeq_splice	intron	220	351	4.0	+	.	
+ch.1_394	RNASeq_splice	intron	258	336	2341.0	+	.	
+ch.1_394	WormBase	intron	254	336	.	+	.	Parent=Transcript:F37C12.10.1
+ch.1_394	RNASeq_reads	transcript_region	254	336	3.0	.	.	
+ch.1_394	RNASeq_splice	intron	254	336	36857.0	+	.	
+ch.1_394	RNASeq_stranded	transcript_region	329	332	1.0	-	.	
+ch.1_394	RNASeq_splice	intron	258	327	50.0	+	.	
+ch.1_394	RNASeq_splice	intron	254	327	193.0	+	.	
+ch.1_394	RNASeq_splice	intron	212	305	18.0	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	267	271	1.0	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	225	264	1.0	-	.	
+ch.1_394	RNASeq_splice	intron	212	261	16.0	-	.	
+ch.1_394	RNASeq_stranded	transcript_region	250	253	1.0	+	.	
+ch.1_394	WormBase	CDS	133	253	.	+	.	ID=CDS:F37C12.10;Parent=Transcript:F37C12.10.1
+ch.1_394	RNASeq_reads	transcript_region	113	253	9.0	.	.	
+ch.1_394	WormBase	exon	101	253	.	+	.	Parent=Transcript:F37C12.10.1
+ch.1_394	RNASeq_stranded	transcript_region	239	249	2.0	+	.	
+ch.1_394	RNASeq_stranded	transcript_region	199	238	4.0	+	.	
+ch.1_394	RNASeq_stranded	transcript_region	194	198	2.0	+	.	
+ch.1_394	RNASeq_stranded	transcript_region	87	193	1.0	+	.	
+ch.1_394	RNASeq_R_asymmetry	transcript_region	113	157	36246.0	.	.	
+ch.1_394	WormBase	five_prime_UTR	101	132	.	+	.	Parent=Transcript:F37C12.10.1
+ch.1_394	RNASeq_R_asymmetry	transcript_region	100	112	23455.0	.	.	
+ch.1_394	RNASeq_reads	transcript_region	99	112	5.0	.	.	
+ch.1_394	RNASeq_R_asymmetry	transcript_region	89	99	15446.0	.	.	
+ch.1_394	RNASeq_reads	transcript_region	75	98	3.0	.	.	
+ch.1_394	RNASeq_R_asymmetry	transcript_region	76	88	10033.0	.	.	
+ch.1_394	RNASeq_R_asymmetry	transcript_region	75	75	6355.0	.	.	
+ch.1_394	RNASeq_stranded	transcript_region	65	73	1.0	+	.	

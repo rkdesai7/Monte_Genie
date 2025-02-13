@@ -1,0 +1,33 @@
+ch.1_575	RNASeq_F_asymmetry	transcript_region	71	76	339.0	.	.	
+ch.1_575	RNASeq_F_asymmetry	transcript_region	77	79	529.0	.	.	
+ch.1_575	RNASeq_F_asymmetry	transcript_region	80	82	802.0	.	.	
+ch.1_575	RNASeq_F_asymmetry	transcript_region	83	93	1231.0	.	.	
+ch.1_575	RNASeq_F_asymmetry	transcript_region	94	107	2279.0	.	.	
+ch.1_575	RNASeq_reads	transcript_region	95	144	1.0	.	.	
+ch.1_575	WormBase	five_prime_UTR	101	142	.	+	.	Parent=Transcript:F30A10.15.1
+ch.1_575	WormBase	exon	101	327	.	+	.	Parent=Transcript:F30A10.15.1
+ch.1_575	WormBase	gene	101	949	.	+	.	ID=Gene:WBGene00195244
+ch.1_575	WormBase	mRNA	101	949	.	+	.	ID=Transcript:F30A10.15.1;Parent=Gene:WBGene00195244
+ch.1_575	RNASeq_F_asymmetry	transcript_region	108	123	3543.0	.	.	
+ch.1_575	RNASeq_F_asymmetry	transcript_region	124	152	5487.0	.	.	
+ch.1_575	WormBase	CDS	143	327	.	+	.	ID=CDS:F30A10.15;Parent=Transcript:F30A10.15.1
+ch.1_575	RNASeq_reads	transcript_region	145	287	2.0	.	.	
+ch.1_575	RNASeq_F_asymmetry	transcript_region	153	225	8328.0	.	.	
+ch.1_575	RNASeq_reads	transcript_region	288	327	4.0	.	.	
+ch.1_575	WormBase	intron	328	580	.	+	.	Parent=Transcript:F30A10.15.1
+ch.1_575	RNASeq_splice	intron	328	580	17820.0	+	.	
+ch.1_575	RNASeq_splice	intron	328	650	228.0	+	.	
+ch.1_575	RNASeq_splice	intron	332	583	49.0	+	.	
+ch.1_575	RNASeq_reads	transcript_region	581	822	4.0	.	.	
+ch.1_575	WormBase	CDS	581	875	.	+	.	ID=CDS:F30A10.15;Parent=Transcript:F30A10.15.1
+ch.1_575	WormBase	exon	581	949	.	+	.	Parent=Transcript:F30A10.15.1
+ch.1_575	RNASeq_stranded	transcript_region	730	763	1.0	+	.	
+ch.1_575	RNASeq_R_asymmetry	transcript_region	768	768	14291.0	.	.	
+ch.1_575	RNASeq_splice	intron	771	821	5.0	+	.	
+ch.1_575	RNASeq_R_asymmetry	transcript_region	772	822	13831.0	.	.	
+ch.1_575	RNASeq_stranded	transcript_region	794	887	1.0	+	.	
+ch.1_575	RNASeq_reads	transcript_region	823	836	2.0	.	.	
+ch.1_575	RNASeq_reads	transcript_region	837	922	1.0	.	.	
+ch.1_575	WormBase	three_prime_UTR	876	949	.	+	.	Parent=Transcript:F30A10.15.1
+ch.1_575	RNASeq_stranded	transcript_region	904	910	1.0	+	.	
+ch.1_575	RNASeq_stranded	transcript_region	912	931	1.0	+	.	

@@ -1,0 +1,74 @@
+ch.1_41	RNASeq_F_asymmetry	transcript_region	51	67	5197.0	.	.	
+ch.1_41	RNASeq_reads	transcript_region	59	115	2.0	.	.	
+ch.1_41	RNASeq_F_asymmetry	transcript_region	68	99	8016.0	.	.	
+ch.1_41	RNASeq_F_asymmetry	transcript_region	100	161	12053.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	101	123	1.0	+	.	
+ch.1_41	WormBase	exon	101	274	.	+	.	Parent=Transcript:T22D1.17a.1
+ch.1_41	WormBase	CDS	101	274	.	+	.	ID=CDS:T22D1.17a;Parent=Transcript:T22D1.17a.1
+ch.1_41	WormBase	gene	101	494	.	+	.	ID=Gene:WBGene00195050
+ch.1_41	WormBase	mRNA	101	494	.	+	.	ID=Transcript:T22D1.17a.1;Parent=Gene:WBGene00195050
+ch.1_41	RNASeq_reads	transcript_region	116	274	4.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	133	148	1.0	+	.	
+ch.1_41	RNASeq_stranded	transcript_region	149	199	2.0	+	.	
+ch.1_41	RNASeq_stranded	transcript_region	200	274	1.0	+	.	
+ch.1_41	WormBase	intron	275	363	.	+	.	Parent=Transcript:T22D1.17a.1
+ch.1_41	RNASeq_splice	intron	275	363	30030.0	+	.	
+ch.1_41	RNASeq_reads	transcript_region	336	361	1.0	.	.	
+ch.1_41	WormBase	exon	336	452	.	-	.	Parent=Transcript:T22D1.8.1
+ch.1_41	WormBase	five_prime_UTR	336	452	.	-	.	Parent=Transcript:T22D1.8.1
+ch.1_41	RNASeq_stranded	transcript_region	337	373	1.0	-	.	
+ch.1_41	RNASeq_reads	transcript_region	362	363	2.0	.	.	
+ch.1_41	RNASeq_reads	transcript_region	364	447	7.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	364	480	1.0	+	.	
+ch.1_41	WormBase	CDS	364	483	.	+	.	ID=CDS:T22D1.17a;Parent=Transcript:T22D1.17a.1
+ch.1_41	WormBase	mRNA	364	483	.	+	.	ID=Transcript:T22D1.17b.1;Parent=Gene:WBGene00195050
+ch.1_41	WormBase	exon	364	483	.	+	.	Parent=Transcript:T22D1.17b.1
+ch.1_41	WormBase	CDS	364	483	.	+	.	ID=CDS:T22D1.17b;Parent=Transcript:T22D1.17b.1
+ch.1_41	WormBase	exon	364	494	.	+	.	Parent=Transcript:T22D1.17a.1
+ch.1_41	RNASeq_stranded	transcript_region	374	376	2.0	-	.	
+ch.1_41	RNASeq_stranded	transcript_region	377	382	1.0	-	.	
+ch.1_41	RNASeq_splice	intron	380	451	8.0	-	.	
+ch.1_41	RNASeq_stranded	transcript_region	383	406	2.0	-	.	
+ch.1_41	RNASeq_stranded	transcript_region	407	446	1.0	-	.	
+ch.1_41	RNASeq_R_asymmetry	transcript_region	442	449	18895.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	447	447	2.0	+	.	
+ch.1_41	RNASeq_stranded	transcript_region	448	450	1.0	-	.	
+ch.1_41	RNASeq_reads	transcript_region	448	475	4.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	451	466	2.0	-	.	
+ch.1_41	RNASeq_stranded	transcript_region	467	510	1.0	-	.	
+ch.1_41	RNASeq_reads	transcript_region	476	493	2.0	.	.	
+ch.1_41	WormBase	three_prime_UTR	484	494	.	+	.	Parent=Transcript:T22D1.17a.1
+ch.1_41	RNASeq	transcription_end_site	492	492	.	+	.	
+ch.1_41	RNASeq	transcription_end_site	492	492	.	+	.	
+ch.1_41	RNASeq_reads	transcript_region	494	507	1.0	.	.	
+ch.1_41	RNASeq	transcription_end_site	502	502	.	+	.	
+ch.1_41	RNASeq_reads	transcript_region	508	508	2.0	.	.	
+ch.1_41	RNASeq_reads	transcript_region	509	510	1.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	511	515	2.0	-	.	
+ch.1_41	RNASeq_reads	transcript_region	511	516	2.0	.	.	
+ch.1_41	RNASeq	transcription_end_site	514	514	.	+	.	
+ch.1_41	RNASeq	transcription_end_site	515	515	.	+	.	
+ch.1_41	RNASeq	transcription_end_site	515	515	.	+	.	
+ch.1_41	RNASeq	transcription_end_site	516	516	.	+	.	
+ch.1_41	RNASeq_stranded	transcript_region	516	518	4.0	-	.	
+ch.1_41	RNASeq	transcription_end_site	517	517	.	+	.	
+ch.1_41	RNASeq_reads	transcript_region	517	518	4.0	.	.	
+ch.1_41	RNASeq	transcription_end_site	519	519	.	+	.	
+ch.1_41	RNASeq	transcription_end_site	519	519	.	+	.	
+ch.1_41	RNASeq_reads	transcript_region	519	520	10.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	519	523	15.0	-	.	
+ch.1_41	RNASeq_F_asymmetry	transcript_region	521	523	78985.0	.	.	
+ch.1_41	RNASeq_reads	transcript_region	521	531	19.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	524	531	29.0	-	.	
+ch.1_41	RNASeq_F_asymmetry	transcript_region	525	526	94952.0	.	.	
+ch.1_41	RNASeq_reads	transcript_region	532	535	29.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	532	544	46.0	-	.	
+ch.1_41	RNASeq_F_asymmetry	transcript_region	536	546	182293.0	.	.	
+ch.1_41	RNASeq_reads	transcript_region	536	547	45.0	.	.	
+ch.1_41	RNASeq	transcription_end_site	544	544	.	+	.	
+ch.1_41	RNASeq	transcription_end_site	544	544	.	+	.	
+ch.1_41	RNASeq_stranded	transcript_region	545	560	71.0	-	.	
+ch.1_41	RNASeq_F_asymmetry	transcript_region	547	568	274734.0	.	.	
+ch.1_41	RNASeq_reads	transcript_region	548	569	70.0	.	.	
+ch.1_41	RNASeq_stranded	transcript_region	561	572	110.0	-	.	
+ch.1_41	RNASeq_F_asymmetry	transcript_region	569	575	431107.0	.	.	

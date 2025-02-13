@@ -2,8 +2,8 @@ from genie import sequence, snRNP, u5, u1
 
 #Inputs for test purposes:TTTCAG
 test_sequence = "AGCTGTAAGTAAGTGAAGATATTTCAGTCTCGCGCTAGGGCGTAAGTCTAAAGCTGAGGTCAAAAG"
-u1_pwm_path = "/home/rkdesai7/Documents/Monte_Genie/Data/isoforms/models/don.pwm"
-u5_pwm_path = "/home/rkdesai7/Documents/Monte_Genie/Data/isoforms/models/acc.pwm"
+u1_pwm_path = "models/don.pwm"
+u5_pwm_path = "models/acc.pwm"
 
 ###Look at the sequence properties first:
 #First initialize the sequence object and let's look at it's name
@@ -22,7 +22,9 @@ print("\nAvailable u5 binding starts:\n", my_seq.seq_available(6))
 print("\n=======================================")
 print("CREATE NEW U1 and U5 snRNP")
 my_u1 = u1(u1_pwm_path)
+print("U1 PWM:", my_u1.pwm)
 my_u5 = u5(u5_pwm_path)
+print("U5 PWM:", my_u5.pwm)
 print("The respecitce id's are:", my_u1.id, my_u5.id)
 #Let's look at the position weight matrix of the u1:
 print("\nThe u1 position weight matrix is:\n", my_u1.pwm)

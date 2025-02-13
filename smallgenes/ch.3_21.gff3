@@ -1,0 +1,78 @@
+ch.3_21	WormBase	five_prime_UTR	101	132	.	+	.	Parent=Transcript:K04F1.9a.1
+ch.3_21	WormBase	exon	101	287	.	+	.	Parent=Transcript:K04F1.9a.1
+ch.3_21	WormBase	gene	101	830	.	+	.	ID=Gene:WBGene00019388
+ch.3_21	WormBase	mRNA	101	830	.	+	.	ID=Transcript:K04F1.9a.1;Parent=Gene:WBGene00019388
+ch.3_21	RNASeq_F_asymmetry	transcript_region	102	114	1963.0	.	.	
+ch.3_21	RNASeq_reads	transcript_region	104	120	1.0	.	.	
+ch.3_21	RNASeq_F_asymmetry	transcript_region	115	118	3504.0	.	.	
+ch.3_21	RNASeq_F_asymmetry	transcript_region	119	121	5607.0	.	.	
+ch.3_21	RNASeq_stranded	transcript_region	120	128	1.0	+	.	
+ch.3_21	RNASeq_reads	transcript_region	121	128	2.0	.	.	
+ch.3_21	RNASeq_F_asymmetry	transcript_region	122	128	10268.0	.	.	
+ch.3_21	RNASeq_stranded	transcript_region	129	133	2.0	+	.	
+ch.3_21	RNASeq_F_asymmetry	transcript_region	129	134	20306.0	.	.	
+ch.3_21	RNASeq_reads	transcript_region	129	134	4.0	.	.	
+ch.3_21	WormBase	CDS	133	287	.	+	.	ID=CDS:K04F1.9a;Parent=Transcript:K04F1.9a.1
+ch.3_21	RNASeq_stranded	transcript_region	134	148	4.0	+	.	
+ch.3_21	RNASeq_F_asymmetry	transcript_region	135	141	33691.0	.	.	
+ch.3_21	RNASeq_reads	transcript_region	135	142	7.0	.	.	
+ch.3_21	RNASeq_F_asymmetry	transcript_region	142	217	51297.0	.	.	
+ch.3_21	RNASeq_reads	transcript_region	143	201	11.0	.	.	
+ch.3_21	RNASeq_stranded	transcript_region	149	201	7.0	+	.	
+ch.3_21	RNASeq_stranded	transcript_region	202	267	11.0	+	.	
+ch.3_21	RNASeq_reads	transcript_region	202	287	17.0	.	.	
+ch.3_21	RNASeq_F_asymmetry	transcript_region	219	220	73770.0	.	.	
+ch.3_21	RNASeq_stranded	transcript_region	268	287	7.0	+	.	
+ch.3_21	RNASeq_reads	transcript_region	288	292	1.0	.	.	
+ch.3_21	RNASeq_splice	intron	288	347	19.0	+	.	
+ch.3_21	WormBase	intron	288	360	.	+	.	Parent=Transcript:K04F1.9a.1
+ch.3_21	RNASeq_splice	intron	288	360	119689.0	+	.	
+ch.3_21	RNASeq_splice	intron	288	419	3.0	+	.	
+ch.3_21	RNASeq_splice	intron	316	360	14.0	+	.	
+ch.3_21	RNASeq_reads	transcript_region	358	360	1.0	.	.	
+ch.3_21	RNASeq_stranded	transcript_region	361	427	6.0	+	.	
+ch.3_21	WormBase	CDS	361	454	.	+	.	ID=CDS:K04F1.9a;Parent=Transcript:K04F1.9a.1
+ch.3_21	WormBase	exon	361	454	.	+	.	Parent=Transcript:K04F1.9a.1
+ch.3_21	RNASeq_reads	transcript_region	361	454	20.0	.	.	
+ch.3_21	RNASeq_stranded	transcript_region	428	454	3.0	+	.	
+ch.3_21	RNASeq_splice	intron	455	491	280.0	+	.	
+ch.3_21	WormBase	intron	455	504	.	+	.	Parent=Transcript:K04F1.9a.1
+ch.3_21	RNASeq_splice	intron	455	504	84096.0	+	.	
+ch.3_21	RNASeq_stranded	transcript_region	505	551	4.0	+	.	
+ch.3_21	WormBase	CDS	505	605	.	+	.	ID=CDS:K04F1.9a;Parent=Transcript:K04F1.9a.1
+ch.3_21	WormBase	exon	505	605	.	+	.	Parent=Transcript:K04F1.9a.1
+ch.3_21	RNASeq_reads	transcript_region	505	605	15.0	.	.	
+ch.3_21	WormBase	CDS	523	605	.	+	.	ID=CDS:K04F1.9b;Parent=Transcript:K04F1.9b.1
+ch.3_21	WormBase	exon	523	605	.	+	.	Parent=Transcript:K04F1.9b.1
+ch.3_21	WormBase	mRNA	523	728	.	+	.	ID=Transcript:K04F1.9b.1;Parent=Gene:WBGene00019388
+ch.3_21	RNASeq_stranded	transcript_region	552	577	7.0	+	.	
+ch.3_21	RNASeq_stranded	transcript_region	578	605	11.0	+	.	
+ch.3_21	WormBase	intron	606	658	.	+	.	Parent=Transcript:K04F1.9a.1
+ch.3_21	WormBase	intron	606	658	.	+	.	Parent=Transcript:K04F1.9b.1
+ch.3_21	RNASeq_splice	intron	606	658	86631.0	+	.	
+ch.3_21	RNASeq_splice	intron	606	660	8.0	+	.	
+ch.3_21	RNASeq_splice	intron	611	662	3.0	-	.	
+ch.3_21	RNASeq_reads	transcript_region	658	658	1.0	.	.	
+ch.3_21	RNASeq_stranded	transcript_region	658	658	1.0	+	.	
+ch.3_21	RNASeq_reads	transcript_region	659	701	15.0	.	.	
+ch.3_21	WormBase	CDS	659	728	.	+	.	ID=CDS:K04F1.9a;Parent=Transcript:K04F1.9a.1
+ch.3_21	WormBase	CDS	659	728	.	+	.	ID=CDS:K04F1.9b;Parent=Transcript:K04F1.9b.1
+ch.3_21	WormBase	exon	659	728	.	+	.	Parent=Transcript:K04F1.9b.1
+ch.3_21	RNASeq_stranded	transcript_region	659	737	15.0	+	.	
+ch.3_21	WormBase	exon	659	830	.	+	.	Parent=Transcript:K04F1.9a.1
+ch.3_21	RNASeq_reads	transcript_region	702	726	9.0	.	.	
+ch.3_21	RNASeq	transcription_end_site	704	704	.	+	.	
+ch.3_21	RNASeq_reads	transcript_region	727	751	5.0	.	.	
+ch.3_21	WormBase	three_prime_UTR	729	830	.	+	.	Parent=Transcript:K04F1.9a.1
+ch.3_21	RNASeq_stranded	transcript_region	738	752	9.0	+	.	
+ch.3_21	RNASeq_reads	transcript_region	752	781	3.0	.	.	
+ch.3_21	RNASeq_stranded	transcript_region	753	771	5.0	+	.	
+ch.3_21	RNASeq_stranded	transcript_region	772	789	3.0	+	.	
+ch.3_21	RNASeq_R_asymmetry	transcript_region	776	778	8173.0	.	.	
+ch.3_21	RNASeq_R_asymmetry	transcript_region	781	792	5942.0	.	.	
+ch.3_21	RNASeq_reads	transcript_region	782	793	1.0	.	.	
+ch.3_21	RNASeq_stranded	transcript_region	790	792	1.0	+	.	
+ch.3_21	RNASeq_R_asymmetry	transcript_region	793	804	2246.0	.	.	
+ch.3_21	RNASeq	transcription_end_site	795	795	.	+	.	
+ch.3_21	RNASeq_R_asymmetry	transcript_region	805	820	1283.0	.	.	
+ch.3_21	RNASeq_R_asymmetry	transcript_region	821	831	841.0	.	.	

@@ -1,0 +1,91 @@
+ch.1_74	RNASeq_splice	intron	419	522	3.0	-	.	
+ch.1_74	RNASeq_splice	intron	461	512	7.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	502	504	1.0	.	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	501	504	5798.0	.	.	
+ch.1_74	WormBase	three_prime_UTR	404	504	.	+	.	Parent=Transcript:T08G5.10.1
+ch.1_74	WormBase	exon	228	504	.	+	.	Parent=Transcript:T08G5.10.1
+ch.1_74	WormBase	gene	101	504	.	+	.	ID=Gene:WBGene00003474
+ch.1_74	WormBase	mRNA	101	504	.	+	.	ID=Transcript:T08G5.10.1;Parent=Gene:WBGene00003474
+ch.1_74	RNASeq_stranded	transcript_region	499	502	1.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	500	501	2.0	.	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	500	500	9178.0	.	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	499	499	21003.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	499	499	5.0	.	.	
+ch.1_74	RNASeq	transcription_end_site	498	498	.	-	.	
+ch.1_74	RNASeq	transcription_end_site	498	498	.	-	.	
+ch.1_74	RNASeq_stranded	transcript_region	495	498	2.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	494	498	9.0	.	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	489	498	40912.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	490	494	4.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	482	493	14.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	483	489	7.0	+	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	481	488	63175.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	460	482	11.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	480	481	22.0	.	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	479	480	125411.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	478	479	37.0	.	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	474	478	254174.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	470	477	56.0	.	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	459	473	387268.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	457	469	85.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	441	459	17.0	+	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	425	458	581868.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	417	458	1.0	-	.	
+ch.1_74	RNASeq_reads	transcript_region	425	456	129.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	419	440	27.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	393	424	200.0	.	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	391	424	882835.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	400	418	41.0	+	.	
+ch.1_74	WormBase	CDS	228	403	.	+	.	ID=CDS:T08G5.10;Parent=Transcript:T08G5.10.1
+ch.1_74	RNASeq_stranded	transcript_region	370	399	62.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	331	392	301.0	.	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	357	390	1361660.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	317	369	97.0	+	.	
+ch.1_74	RNASeq_F_asymmetry	transcript_region	355	355	1677950.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	228	330	454.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	270	316	62.0	+	.	
+ch.1_74	RNASeq_stranded	transcript_region	228	269	112.0	+	.	
+ch.1_74	RNASeq_splice	intron	171	269	24.0	+	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	228	262	1998290.0	.	.	
+ch.1_74	RNASeq_splice	intron	148	229	5.0	-	.	
+ch.1_74	RNASeq_reads	transcript_region	227	227	55.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	227	227	16.0	-	.	
+ch.1_74	WormBase	intron	171	227	.	+	.	Parent=Transcript:T08G5.10.1
+ch.1_74	RNASeq_splice	intron	171	227	2482110.0	+	.	
+ch.1_74	RNASeq_splice	intron	168	227	121.0	+	.	
+ch.1_74	RNASeq_splice	intron	158	227	7.0	+	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	225	226	8407.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	223	226	2.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	219	226	2.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	213	222	1.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	171	218	1.0	.	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	171	200	4187.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	162	170	123.0	+	.	
+ch.1_74	WormBase	CDS	155	170	.	+	.	ID=CDS:T08G5.10;Parent=Transcript:T08G5.10.1
+ch.1_74	RNASeq_R_asymmetry	transcript_region	150	170	1998820.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	150	170	401.0	.	.	
+ch.1_74	WormBase	exon	101	170	.	+	.	Parent=Transcript:T08G5.10.1
+ch.1_74	RNASeq_stranded	transcript_region	147	161	79.0	+	.	
+ch.1_74	WormBase	five_prime_UTR	101	154	.	+	.	Parent=Transcript:T08G5.10.1
+ch.1_74	RNASeq_R_asymmetry	transcript_region	148	149	931112.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	148	149	186.0	.	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	143	147	586881.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	143	147	117.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	139	146	37.0	+	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	140	142	185834.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	140	142	39.0	.	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	134	139	103983.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	134	139	22.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	136	138	22.0	+	.	
+ch.1_74	RNASeq_stranded	transcript_region	131	135	8.0	+	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	131	133	62190.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	131	133	14.0	.	.	
+ch.1_74	RNASeq_reads	transcript_region	130	130	2.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	130	130	2.0	-	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	128	130	9078.0	.	.	
+ch.1_74	RNASeq_stranded	transcript_region	128	129	1.0	+	.	
+ch.1_74	RNASeq_reads	transcript_region	117	129	1.0	.	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	123	127	5760.0	.	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	117	122	3322.0	.	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	113	116	2151.0	.	.	
+ch.1_74	RNASeq_R_asymmetry	transcript_region	112	112	1343.0	.	.	

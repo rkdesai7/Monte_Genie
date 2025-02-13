@@ -1,0 +1,22 @@
+ch.1_77	RNASeq_reads	transcript_region	491	518	1.0	.	.	
+ch.1_77	RNASeq_splice	intron	398	470	6.0	+	.	
+ch.1_77	WormBase	exon	290	442	.	+	.	Parent=Transcript:F20B6.6.1
+ch.1_77	WormBase	CDS	290	442	.	+	.	ID=CDS:F20B6.6;Parent=Transcript:F20B6.6.1
+ch.1_77	WormBase	gene	101	442	.	+	.	ID=Gene:WBGene00017630
+ch.1_77	WormBase	mRNA	101	442	.	+	.	ID=Transcript:F20B6.6.1;Parent=Gene:WBGene00017630
+ch.1_77	RNASeq_reads	transcript_region	373	390	1.0	.	.	
+ch.1_77	RNASeq_reads	transcript_region	339	372	2.0	.	.	
+ch.1_77	RNASeq_reads	transcript_region	290	338	4.0	.	.	
+ch.1_77	RNASeq_stranded	transcript_region	290	335	1.0	+	.	
+ch.1_77	RNASeq_F_asymmetry	transcript_region	288	289	2754.0	.	.	
+ch.1_77	RNASeq_reads	transcript_region	288	289	1.0	.	.	
+ch.1_77	WormBase	intron	236	289	.	+	.	Parent=Transcript:F20B6.6.1
+ch.1_77	RNASeq_splice	intron	236	289	20478.0	+	.	
+ch.1_77	RNASeq_stranded	transcript_region	217	235	1.0	+	.	
+ch.1_77	RNASeq_reads	transcript_region	146	235	4.0	.	.	
+ch.1_77	WormBase	CDS	101	235	.	+	.	ID=CDS:F20B6.6;Parent=Transcript:F20B6.6.1
+ch.1_77	WormBase	exon	101	235	.	+	.	Parent=Transcript:F20B6.6.1
+ch.1_77	RNASeq_stranded	transcript_region	210	216	2.0	+	.	
+ch.1_77	RNASeq_stranded	transcript_region	137	209	1.0	+	.	
+ch.1_77	RNASeq_reads	transcript_region	133	145	2.0	.	.	
+ch.1_77	RNASeq_reads	transcript_region	114	132	1.0	.	.	

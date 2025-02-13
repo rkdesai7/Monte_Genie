@@ -1,0 +1,40 @@
+ch.1_480	RNASeq_F_asymmetry	transcript_region	86	89	1534.0	.	.	
+ch.1_480	RNASeq_F_asymmetry	transcript_region	90	97	2715.0	.	.	
+ch.1_480	RNASeq_reads	transcript_region	90	101	1.0	.	.	
+ch.1_480	RNASeq_F_asymmetry	transcript_region	98	101	4526.0	.	.	
+ch.1_480	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:W07G4.1.1
+ch.1_480	WormBase	exon	101	149	.	+	.	Parent=Transcript:W07G4.1.1
+ch.1_480	WormBase	gene	101	799	.	+	.	ID=Gene:WBGene00012335
+ch.1_480	WormBase	mRNA	101	799	.	+	.	ID=Transcript:W07G4.1.1;Parent=Gene:WBGene00012335
+ch.1_480	RNASeq_F_asymmetry	transcript_region	102	105	7827.0	.	.	
+ch.1_480	RNASeq_reads	transcript_region	102	108	2.0	.	.	
+ch.1_480	RNASeq_F_asymmetry	transcript_region	106	108	11966.0	.	.	
+ch.1_480	WormBase	CDS	107	149	.	+	.	ID=CDS:W07G4.1;Parent=Transcript:W07G4.1.1
+ch.1_480	RNASeq_F_asymmetry	transcript_region	109	149	19146.0	.	.	
+ch.1_480	RNASeq_reads	transcript_region	109	149	4.0	.	.	
+ch.1_480	RNASeq_splice	intron	150	263	32.0	+	.	
+ch.1_480	RNASeq_splice	intron	150	271	5.0	+	.	
+ch.1_480	WormBase	intron	150	458	.	+	.	Parent=Transcript:W07G4.1.1
+ch.1_480	RNASeq_splice	intron	150	458	32547.0	+	.	
+ch.1_480	RNASeq_splice	intron	150	464	67.0	+	.	
+ch.1_480	RNASeq_splice	intron	408	458	54.0	+	.	
+ch.1_480	RNASeq_reads	transcript_region	456	458	1.0	.	.	
+ch.1_480	RNASeq_F_asymmetry	transcript_region	459	511	31059.0	.	.	
+ch.1_480	RNASeq_reads	transcript_region	459	714	7.0	.	.	
+ch.1_480	WormBase	CDS	459	742	.	+	.	ID=CDS:W07G4.1;Parent=Transcript:W07G4.1.1
+ch.1_480	WormBase	exon	459	799	.	+	.	Parent=Transcript:W07G4.1.1
+ch.1_480	RNASeq	transcription_end_site	614	614	.	+	.	
+ch.1_480	RNASeq_stranded	transcript_region	653	744	1.0	+	.	
+ch.1_480	RNASeq_R_asymmetry	transcript_region	655	676	32741.0	.	.	
+ch.1_480	RNASeq_R_asymmetry	transcript_region	696	711	22693.0	.	.	
+ch.1_480	RNASeq_reads	transcript_region	715	749	4.0	.	.	
+ch.1_480	WormBase	three_prime_UTR	743	799	.	+	.	Parent=Transcript:W07G4.1.1
+ch.1_480	RNASeq_stranded	transcript_region	746	752	1.0	+	.	
+ch.1_480	RNASeq_reads	transcript_region	750	764	2.0	.	.	
+ch.1_480	RNASeq_reads	transcript_region	765	787	1.0	.	.	
+ch.1_480	WormBase	three_prime_UTR	783	844	.	-	.	Parent=Transcript:W07G4.7.1
+ch.1_480	RNASeq_F_asymmetry	transcript_region	822	827	562.0	.	.	
+ch.1_480	RNASeq_F_asymmetry	transcript_region	828	851	864.0	.	.	
+ch.1_480	RNASeq_F_asymmetry	transcript_region	852	876	1426.0	.	.	
+ch.1_480	RNASeq	transcription_end_site	871	871	.	+	.	
+ch.1_480	RNASeq	transcription_end_site	871	871	.	+	.	

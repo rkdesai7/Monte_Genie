@@ -1,0 +1,67 @@
+ch.1_201	RNASeq_reads	transcript_region	80	99	1.0	.	.	
+ch.1_201	RNASeq_F_asymmetry	transcript_region	100	103	15386.0	.	.	
+ch.1_201	RNASeq_reads	transcript_region	100	103	3.0	.	.	
+ch.1_201	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:ZK512.11.1
+ch.1_201	WormBase	exon	101	243	.	+	.	Parent=Transcript:ZK512.11.1
+ch.1_201	WormBase	gene	101	573	.	+	.	ID=Gene:WBGene00013989
+ch.1_201	WormBase	mRNA	101	573	.	+	.	ID=Transcript:ZK512.11.1;Parent=Gene:WBGene00013989
+ch.1_201	RNASeq_F_asymmetry	transcript_region	104	107	23826.0	.	.	
+ch.1_201	RNASeq_reads	transcript_region	104	109	5.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	104	111	2.0	+	.	
+ch.1_201	RNASeq_F_asymmetry	transcript_region	108	113	35962.0	.	.	
+ch.1_201	WormBase	CDS	109	243	.	+	.	ID=CDS:ZK512.11;Parent=Transcript:ZK512.11.1
+ch.1_201	RNASeq_reads	transcript_region	110	116	8.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	112	124	4.0	+	.	
+ch.1_201	RNASeq_F_asymmetry	transcript_region	114	131	57876.0	.	.	
+ch.1_201	RNASeq_reads	transcript_region	117	144	13.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	125	175	7.0	+	.	
+ch.1_201	RNASeq_F_asymmetry	transcript_region	132	192	87050.0	.	.	
+ch.1_201	RNASeq_reads	transcript_region	145	243	20.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	176	199	4.0	+	.	
+ch.1_201	RNASeq_stranded	transcript_region	200	243	2.0	+	.	
+ch.1_201	RNASeq_reads	transcript_region	244	244	3.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	244	244	1.0	+	.	
+ch.1_201	WormBase	intron	244	296	.	+	.	Parent=Transcript:ZK512.11.1
+ch.1_201	RNASeq_splice	intron	244	296	99732.0	+	.	
+ch.1_201	RNASeq_splice	intron	244	445	4.0	+	.	
+ch.1_201	RNASeq_reads	transcript_region	295	296	2.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	296	296	1.0	+	.	
+ch.1_201	RNASeq_stranded	transcript_region	297	305	2.0	+	.	
+ch.1_201	RNASeq_reads	transcript_region	297	470	19.0	.	.	
+ch.1_201	WormBase	CDS	297	494	.	+	.	ID=CDS:ZK512.11;Parent=Transcript:ZK512.11.1
+ch.1_201	WormBase	exon	297	573	.	+	.	Parent=Transcript:ZK512.11.1
+ch.1_201	RNASeq_stranded	transcript_region	306	334	4.0	+	.	
+ch.1_201	RNASeq_stranded	transcript_region	335	375	7.0	+	.	
+ch.1_201	RNASeq_stranded	transcript_region	372	520	1.0	-	.	
+ch.1_201	RNASeq_stranded	transcript_region	376	385	4.0	+	.	
+ch.1_201	RNASeq_stranded	transcript_region	386	428	2.0	+	.	
+ch.1_201	RNASeq_R_asymmetry	transcript_region	398	461	83621.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	429	549	4.0	+	.	
+ch.1_201	RNASeq	transcription_end_site	443	443	.	+	.	
+ch.1_201	RNASeq_R_asymmetry	transcript_region	462	471	54206.0	.	.	
+ch.1_201	RNASeq_reads	transcript_region	471	489	11.0	.	.	
+ch.1_201	RNASeq_reads	transcript_region	490	539	7.0	.	.	
+ch.1_201	WormBase	three_prime_UTR	495	573	.	+	.	Parent=Transcript:ZK512.11.1
+ch.1_201	RNASeq	transcription_end_site	500	500	.	+	.	
+ch.1_201	RNASeq_stranded	transcript_region	524	525	1.0	-	.	
+ch.1_201	RNASeq_splice	intron	524	568	14.0	-	.	
+ch.1_201	RNASeq_stranded	transcript_region	527	527	1.0	+	.	
+ch.1_201	RNASeq_stranded	transcript_region	529	530	1.0	-	.	
+ch.1_201	RNASeq_reads	transcript_region	540	554	4.0	.	.	
+ch.1_201	RNASeq	transcription_end_site	541	541	.	+	.	
+ch.1_201	RNASeq	transcription_end_site	545	545	.	+	.	
+ch.1_201	RNASeq	transcription_end_site	547	547	.	+	.	
+ch.1_201	RNASeq_stranded	transcript_region	550	560	2.0	+	.	
+ch.1_201	RNASeq_reads	transcript_region	555	564	2.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	561	568	1.0	+	.	
+ch.1_201	RNASeq	transcription_end_site	565	565	.	+	.	
+ch.1_201	RNASeq_reads	transcript_region	565	566	1.0	.	.	
+ch.1_201	RNASeq_reads	transcript_region	567	568	5.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	567	568	1.0	-	.	
+ch.1_201	RNASeq_stranded	transcript_region	569	575	3.0	-	.	
+ch.1_201	RNASeq_reads	transcript_region	569	667	39.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	576	605	6.0	-	.	
+ch.1_201	RNASeq_R_asymmetry	transcript_region	596	669	175846.0	.	.	
+ch.1_201	RNASeq_stranded	transcript_region	606	624	10.0	-	.	
+ch.1_201	RNASeq_stranded	transcript_region	625	656	16.0	-	.	
+ch.1_201	RNASeq_stranded	transcript_region	657	666	10.0	-	.	

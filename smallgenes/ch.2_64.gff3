@@ -1,0 +1,57 @@
+ch.2_64	RNASeq_stranded	transcript_region	44	44	1.0	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	46	69	1.0	+	.	
+ch.2_64	RNASeq_reads	transcript_region	55	64	1.0	.	.	
+ch.2_64	RNASeq_F_asymmetry	transcript_region	65	69	9842.0	.	.	
+ch.2_64	RNASeq_reads	transcript_region	65	70	2.0	.	.	
+ch.2_64	RNASeq_F_asymmetry	transcript_region	70	70	15247.0	.	.	
+ch.2_64	RNASeq_stranded	transcript_region	70	70	2.0	+	.	
+ch.2_64	RNASeq_F_asymmetry	transcript_region	71	80	26305.0	.	.	
+ch.2_64	RNASeq_reads	transcript_region	71	83	6.0	.	.	
+ch.2_64	RNASeq_stranded	transcript_region	71	83	5.0	+	.	
+ch.2_64	RNASeq_F_asymmetry	transcript_region	81	149	39797.0	.	.	
+ch.2_64	RNASeq_stranded	transcript_region	84	170	9.0	+	.	
+ch.2_64	RNASeq_reads	transcript_region	84	181	10.0	.	.	
+ch.2_64	WormBase	CDS	101	181	.	+	.	ID=CDS:T07F10.5;Parent=Transcript:T07F10.5.1
+ch.2_64	WormBase	exon	101	181	.	+	.	Parent=Transcript:T07F10.5.1
+ch.2_64	WormBase	gene	101	631	.	+	.	ID=Gene:WBGene00011591
+ch.2_64	WormBase	mRNA	101	631	.	+	.	ID=Transcript:T07F10.5.1;Parent=Gene:WBGene00011591
+ch.2_64	RNASeq_stranded	transcript_region	171	181	3.0	+	.	
+ch.2_64	RNASeq_splice	intron	180	232	68.0	+	.	
+ch.2_64	RNASeq_splice	intron	180	280	99.0	+	.	
+ch.2_64	RNASeq_reads	transcript_region	182	232	1.0	.	.	
+ch.2_64	RNASeq_splice	intron	182	232	53171.0	+	.	
+ch.2_64	WormBase	intron	182	280	.	+	.	Parent=Transcript:T07F10.5.1
+ch.2_64	RNASeq_splice	intron	182	280	498.0	+	.	
+ch.2_64	RNASeq_splice	intron	182	459	63.0	+	.	
+ch.2_64	RNASeq_splice	intron	186	232	17.0	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	233	280	2.0	+	.	
+ch.2_64	RNASeq_reads	transcript_region	233	378	11.0	.	.	
+ch.2_64	WormBase	CDS	281	378	.	+	.	ID=CDS:T07F10.5;Parent=Transcript:T07F10.5.1
+ch.2_64	WormBase	exon	281	378	.	+	.	Parent=Transcript:T07F10.5.1
+ch.2_64	RNASeq_stranded	transcript_region	281	378	4.0	+	.	
+ch.2_64	RNASeq_reads	transcript_region	379	404	1.0	.	.	
+ch.2_64	RNASeq_splice	intron	379	457	16.0	+	.	
+ch.2_64	WormBase	intron	379	459	.	+	.	Parent=Transcript:T07F10.5.1
+ch.2_64	RNASeq_splice	intron	379	459	57185.0	+	.	
+ch.2_64	RNASeq_splice	intron	379	463	117.0	+	.	
+ch.2_64	RNASeq_reads	transcript_region	406	459	1.0	.	.	
+ch.2_64	RNASeq_stranded	transcript_region	460	523	4.0	+	.	
+ch.2_64	RNASeq_reads	transcript_region	460	620	11.0	.	.	
+ch.2_64	WormBase	CDS	460	631	.	+	.	ID=CDS:T07F10.5;Parent=Transcript:T07F10.5.1
+ch.2_64	WormBase	exon	460	631	.	+	.	Parent=Transcript:T07F10.5.1
+ch.2_64	RNASeq	transcription_end_site	467	467	.	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	524	534	7.0	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	535	559	11.0	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	560	577	18.0	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	578	669	28.0	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	618	708	1.0	-	.	
+ch.2_64	RNASeq_reads	transcript_region	621	649	7.0	.	.	
+ch.2_64	RNASeq_reads	transcript_region	650	685	4.0	.	.	
+ch.2_64	RNASeq_stranded	transcript_region	670	677	18.0	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	678	685	11.0	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	686	693	7.0	+	.	
+ch.2_64	RNASeq_reads	transcript_region	686	704	2.0	.	.	
+ch.2_64	RNASeq_stranded	transcript_region	694	702	4.0	+	.	
+ch.2_64	RNASeq_stranded	transcript_region	703	707	2.0	+	.	
+ch.2_64	RNASeq_reads	transcript_region	705	708	1.0	.	.	
+ch.2_64	RNASeq_stranded	transcript_region	708	708	1.0	+	.	

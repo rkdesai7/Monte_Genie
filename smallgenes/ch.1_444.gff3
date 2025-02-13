@@ -1,0 +1,70 @@
+ch.1_444	WormBase	five_prime_UTR	101	115	.	+	.	Parent=Transcript:F31C3.5.1
+ch.1_444	WormBase	exon	101	529	.	+	.	Parent=Transcript:F31C3.5.1
+ch.1_444	WormBase	gene	101	763	.	+	.	ID=Gene:WBGene00009287
+ch.1_444	WormBase	mRNA	101	763	.	+	.	ID=Transcript:F31C3.5.1;Parent=Gene:WBGene00009287
+ch.1_444	RNASeq_F_asymmetry	transcript_region	102	105	39546.0	.	.	
+ch.1_444	RNASeq_reads	transcript_region	102	105	8.0	.	.	
+ch.1_444	RNASeq_stranded	transcript_region	102	105	1.0	+	.	
+ch.1_444	RNASeq_F_asymmetry	transcript_region	106	109	66071.0	.	.	
+ch.1_444	RNASeq_reads	transcript_region	106	109	13.0	.	.	
+ch.1_444	RNASeq_stranded	transcript_region	106	109	3.0	+	.	
+ch.1_444	RNASeq_stranded	transcript_region	110	121	5.0	+	.	
+ch.1_444	RNASeq_reads	transcript_region	110	124	27.0	.	.	
+ch.1_444	RNASeq_F_asymmetry	transcript_region	110	128	135567.0	.	.	
+ch.1_444	WormBase	CDS	116	529	.	+	.	ID=CDS:F31C3.5;Parent=Transcript:F31C3.5.1
+ch.1_444	RNASeq_stranded	transcript_region	122	216	8.0	+	.	
+ch.1_444	RNASeq_reads	transcript_region	125	188	41.0	.	.	
+ch.1_444	RNASeq_F_asymmetry	transcript_region	129	179	209252.0	.	.	
+ch.1_444	RNASeq_splice	intron	155	199	3.0	-	.	
+ch.1_444	RNASeq_splice	intron	168	303	3.0	+	.	
+ch.1_444	RNASeq_reads	transcript_region	189	529	62.0	.	.	
+ch.1_444	RNASeq_stranded	transcript_region	217	304	14.0	+	.	
+ch.1_444	RNASeq_stranded	transcript_region	305	523	22.0	+	.	
+ch.1_444	RNASeq_splice	intron	329	380	777.0	-	.	
+ch.1_444	RNASeq_splice	intron	422	469	33.0	+	.	
+ch.1_444	RNASeq_splice	intron	426	469	213.0	+	.	
+ch.1_444	RNASeq_splice	intron	450	497	3.0	-	.	
+ch.1_444	RNASeq_splice	intron	450	588	11.0	-	.	
+ch.1_444	RNASeq_stranded	transcript_region	524	529	14.0	+	.	
+ch.1_444	RNASeq_reads	transcript_region	530	530	1.0	.	.	
+ch.1_444	WormBase	intron	530	580	.	+	.	Parent=Transcript:F31C3.5.1
+ch.1_444	RNASeq_splice	intron	530	580	285847.0	+	.	
+ch.1_444	RNASeq_reads	transcript_region	578	580	7.0	.	.	
+ch.1_444	RNASeq_stranded	transcript_region	578	580	2.0	+	.	
+ch.1_444	RNASeq_stranded	transcript_region	581	594	13.0	+	.	
+ch.1_444	RNASeq_reads	transcript_region	581	695	55.0	.	.	
+ch.1_444	WormBase	CDS	581	709	.	+	.	ID=CDS:F31C3.5;Parent=Transcript:F31C3.5.1
+ch.1_444	WormBase	exon	581	763	.	+	.	Parent=Transcript:F31C3.5.1
+ch.1_444	RNASeq_stranded	transcript_region	595	603	21.0	+	.	
+ch.1_444	RNASeq_stranded	transcript_region	604	629	32.0	+	.	
+ch.1_444	RNASeq_stranded	transcript_region	630	715	49.0	+	.	
+ch.1_444	RNASeq	transcription_end_site	642	642	.	+	.	
+ch.1_444	RNASeq_R_asymmetry	transcript_region	666	692	219870.0	.	.	
+ch.1_444	RNASeq_R_asymmetry	transcript_region	694	694	153551.0	.	.	
+ch.1_444	RNASeq_reads	transcript_region	696	709	36.0	.	.	
+ch.1_444	RNASeq	transcription_end_site	701	701	.	+	.	
+ch.1_444	RNASeq	transcription_end_site	702	702	.	+	.	
+ch.1_444	RNASeq	transcription_end_site	709	709	.	+	.	
+ch.1_444	RNASeq_reads	transcript_region	710	731	22.0	.	.	
+ch.1_444	WormBase	three_prime_UTR	710	763	.	+	.	Parent=Transcript:F31C3.5.1
+ch.1_444	RNASeq_stranded	transcript_region	716	734	32.0	+	.	
+ch.1_444	RNASeq_splice	intron	720	791	179.0	-	.	
+ch.1_444	RNASeq_stranded	transcript_region	730	748	1.0	-	.	
+ch.1_444	RNASeq_reads	transcript_region	732	750	14.0	.	.	
+ch.1_444	RNASeq_stranded	transcript_region	735	745	21.0	+	.	
+ch.1_444	RNASeq	transcription_end_site	743	743	.	+	.	
+ch.1_444	RNASeq	transcription_end_site	745	745	.	+	.	
+ch.1_444	RNASeq	transcription_end_site	745	745	.	+	.	
+ch.1_444	RNASeq_stranded	transcript_region	746	753	13.0	+	.	
+ch.1_444	RNASeq	transcription_end_site	747	747	.	+	.	
+ch.1_444	RNASeq_stranded	transcript_region	749	763	2.0	-	.	
+ch.1_444	RNASeq_reads	transcript_region	751	764	9.0	.	.	
+ch.1_444	RNASeq_stranded	transcript_region	754	759	8.0	+	.	
+ch.1_444	RNASeq_stranded	transcript_region	760	764	5.0	+	.	
+ch.1_444	RNASeq_stranded	transcript_region	764	774	4.0	-	.	
+ch.1_444	RNASeq_reads	transcript_region	765	770	3.0	.	.	
+ch.1_444	RNASeq_stranded	transcript_region	765	800	1.0	+	.	
+ch.1_444	RNASeq_reads	transcript_region	771	790	5.0	.	.	
+ch.1_444	RNASeq_stranded	transcript_region	775	789	7.0	-	.	
+ch.1_444	RNASeq_stranded	transcript_region	790	809	11.0	-	.	
+ch.1_444	RNASeq_reads	transcript_region	791	833	8.0	.	.	

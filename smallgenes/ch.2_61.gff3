@@ -1,0 +1,67 @@
+ch.2_61	RNASeq_R_asymmetry	transcript_region	854	861	204.0	.	.	
+ch.2_61	RNASeq	transcription_end_site	808	808	.	-	.	
+ch.2_61	RNASeq	transcription_end_site	808	808	.	-	.	
+ch.2_61	WormBase	three_prime_UTR	628	807	.	+	.	Parent=Transcript:Y53C12A.6a.1
+ch.2_61	WormBase	exon	568	807	.	+	.	Parent=Transcript:Y53C12A.6a.1
+ch.2_61	WormBase	gene	101	807	.	+	.	ID=Gene:WBGene00013141
+ch.2_61	WormBase	mRNA	101	807	.	+	.	ID=Transcript:Y53C12A.6a.1;Parent=Gene:WBGene00013141
+ch.2_61	RNASeq_F_asymmetry	transcript_region	798	803	1604.0	.	.	
+ch.2_61	RNASeq_reads	transcript_region	755	801	1.0	.	.	
+ch.2_61	RNASeq_stranded	transcript_region	776	798	1.0	+	.	
+ch.2_61	RNASeq_stranded	transcript_region	649	775	2.0	+	.	
+ch.2_61	RNASeq_reads	transcript_region	745	754	2.0	.	.	
+ch.2_61	RNASeq	transcription_end_site	753	753	.	-	.	
+ch.2_61	RNASeq	transcription_end_site	753	753	.	-	.	
+ch.2_61	RNASeq_F_asymmetry	transcript_region	749	752	8262.0	.	.	
+ch.2_61	RNASeq_F_asymmetry	transcript_region	731	748	13579.0	.	.	
+ch.2_61	RNASeq_reads	transcript_region	688	744	4.0	.	.	
+ch.2_61	RNASeq	transcription_end_site	734	734	.	-	.	
+ch.2_61	RNASeq_F_asymmetry	transcript_region	685	730	20744.0	.	.	
+ch.2_61	RNASeq_reads	transcript_region	605	687	7.0	.	.	
+ch.2_61	RNASeq_F_asymmetry	transcript_region	638	684	31238.0	.	.	
+ch.2_61	RNASeq_stranded	transcript_region	610	648	1.0	+	.	
+ch.2_61	WormBase	CDS	568	627	.	+	.	ID=CDS:Y53C12A.6a;Parent=Transcript:Y53C12A.6a.1
+ch.2_61	WormBase	CDS	568	627	.	+	.	ID=CDS:Y53C12A.6b;Parent=Transcript:Y53C12A.6b.1
+ch.2_61	WormBase	exon	568	627	.	+	.	Parent=Transcript:Y53C12A.6b.1
+ch.2_61	WormBase	mRNA	390	627	.	+	.	ID=Transcript:Y53C12A.6b.1;Parent=Gene:WBGene00013141
+ch.2_61	RNASeq_stranded	transcript_region	568	609	2.0	+	.	
+ch.2_61	RNASeq_reads	transcript_region	568	604	11.0	.	.	
+ch.2_61	RNASeq_splice	intron	507	572	4.0	+	.	
+ch.2_61	RNASeq_stranded	transcript_region	540	567	1.0	+	.	
+ch.2_61	WormBase	intron	507	567	.	+	.	Parent=Transcript:Y53C12A.6a.1
+ch.2_61	WormBase	intron	507	567	.	+	.	Parent=Transcript:Y53C12A.6b.1
+ch.2_61	RNASeq_reads	transcript_region	507	567	7.0	.	.	
+ch.2_61	RNASeq_splice	intron	507	567	43595.0	+	.	
+ch.2_61	RNASeq_splice	intron	494	541	26.0	+	.	
+ch.2_61	RNASeq_stranded	transcript_region	496	506	1.0	+	.	
+ch.2_61	WormBase	CDS	390	506	.	+	.	ID=CDS:Y53C12A.6b;Parent=Transcript:Y53C12A.6b.1
+ch.2_61	WormBase	exon	390	506	.	+	.	Parent=Transcript:Y53C12A.6b.1
+ch.2_61	WormBase	CDS	389	506	.	+	.	ID=CDS:Y53C12A.6a;Parent=Transcript:Y53C12A.6a.1
+ch.2_61	WormBase	exon	389	506	.	+	.	Parent=Transcript:Y53C12A.6a.1
+ch.2_61	RNASeq_reads	transcript_region	389	506	14.0	.	.	
+ch.2_61	RNASeq_stranded	transcript_region	389	495	2.0	+	.	
+ch.2_61	WormBase	three_prime_UTR	390	436	.	+	.	Parent=Transcript:Y53C12A.11.1
+ch.2_61	WormBase	exon	390	436	.	+	.	Parent=Transcript:Y53C12A.11.1
+ch.2_61	WormBase	intron	341	389	.	+	.	Parent=Transcript:Y53C12A.11.1
+ch.2_61	WormBase	intron	341	388	.	+	.	Parent=Transcript:Y53C12A.6a.1
+ch.2_61	RNASeq_splice	intron	341	388	74427.0	+	.	
+ch.2_61	RNASeq_splice	intron	290	388	4.0	+	.	
+ch.2_61	WormBase	CDS	330	340	.	+	.	ID=CDS:Y53C12A.6a;Parent=Transcript:Y53C12A.6a.1
+ch.2_61	WormBase	three_prime_UTR	242	340	.	+	.	Parent=Transcript:Y53C12A.11.1
+ch.2_61	RNASeq_stranded	transcript_region	236	340	2.0	+	.	
+ch.2_61	RNASeq_reads	transcript_region	119	340	14.0	.	.	
+ch.2_61	WormBase	exon	106	340	.	+	.	Parent=Transcript:Y53C12A.11.1
+ch.2_61	WormBase	exon	101	340	.	+	.	Parent=Transcript:Y53C12A.6a.1
+ch.2_61	WormBase	five_prime_UTR	101	329	.	+	.	Parent=Transcript:Y53C12A.6a.1
+ch.2_61	WormBase	CDS	106	241	.	+	.	ID=CDS:Y53C12A.11;Parent=Transcript:Y53C12A.11.1
+ch.2_61	RNASeq_stranded	transcript_region	191	235	4.0	+	.	
+ch.2_61	RNASeq_stranded	transcript_region	166	190	2.0	+	.	
+ch.2_61	RNASeq_stranded	transcript_region	106	165	1.0	+	.	
+ch.2_61	RNASeq_reads	transcript_region	106	118	9.0	.	.	
+ch.2_61	RNASeq_reads	transcript_region	105	105	1.0	.	.	
+ch.2_61	WormBase	intron	60	105	.	+	.	Parent=Transcript:Y53C12A.11.1
+ch.2_61	RNASeq_splice	intron	60	105	40908.0	+	.	
+ch.2_61	RNASeq	transcription_end_site	63	63	.	-	.	
+ch.2_61	RNASeq_reads	transcript_region	60	60	1.0	.	.	
+ch.2_61	RNASeq_stranded	transcript_region	59	59	1.0	-	.	
+ch.2_61	RNASeq_reads	transcript_region	13	59	8.0	.	.	

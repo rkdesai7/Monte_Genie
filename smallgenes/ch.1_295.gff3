@@ -1,0 +1,21 @@
+ch.1_295	WormBase	five_prime_UTR	101	133	.	+	.	Parent=Transcript:C39B10.3.1
+ch.1_295	WormBase	exon	101	350	.	+	.	Parent=Transcript:C39B10.3.1
+ch.1_295	WormBase	gene	101	639	.	+	.	ID=Gene:WBGene00008023
+ch.1_295	WormBase	mRNA	101	639	.	+	.	ID=Transcript:C39B10.3.1;Parent=Gene:WBGene00008023
+ch.1_295	RNASeq_F_asymmetry	transcript_region	106	108	2866.0	.	.	
+ch.1_295	RNASeq_reads	transcript_region	106	112	1.0	.	.	
+ch.1_295	RNASeq_stranded	transcript_region	107	124	1.0	+	.	
+ch.1_295	RNASeq_F_asymmetry	transcript_region	109	112	4740.0	.	.	
+ch.1_295	RNASeq_F_asymmetry	transcript_region	113	176	7115.0	.	.	
+ch.1_295	RNASeq_reads	transcript_region	113	350	2.0	.	.	
+ch.1_295	RNASeq_stranded	transcript_region	125	207	2.0	+	.	
+ch.1_295	WormBase	CDS	134	350	.	+	.	ID=CDS:C39B10.3;Parent=Transcript:C39B10.3.1
+ch.1_295	RNASeq_stranded	transcript_region	208	314	1.0	+	.	
+ch.1_295	WormBase	intron	351	394	.	+	.	Parent=Transcript:C39B10.3.1
+ch.1_295	RNASeq_splice	intron	351	394	14492.0	+	.	
+ch.1_295	RNASeq_reads	transcript_region	395	638	2.0	.	.	
+ch.1_295	WormBase	CDS	395	639	.	+	.	ID=CDS:C39B10.3;Parent=Transcript:C39B10.3.1
+ch.1_295	WormBase	exon	395	639	.	+	.	Parent=Transcript:C39B10.3.1
+ch.1_295	RNASeq_stranded	transcript_region	400	582	1.0	+	.	
+ch.1_295	RNASeq_stranded	transcript_region	583	614	2.0	+	.	
+ch.1_295	RNASeq_stranded	transcript_region	615	638	4.0	+	.	

@@ -1,0 +1,69 @@
+ch.1_230	RNASeq	transcription_end_site	753	753	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	753	753	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	717	717	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	717	717	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	713	713	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	712	712	.	-	.	
+ch.1_230	RNASeq_reads	transcript_region	711	712	3.0	.	.	
+ch.1_230	RNASeq_stranded	transcript_region	710	712	8.0	+	.	
+ch.1_230	RNASeq_reads	transcript_region	704	710	5.0	.	.	
+ch.1_230	RNASeq_stranded	transcript_region	704	709	13.0	+	.	
+ch.1_230	WormBase	three_prime_UTR	625	708	.	+	.	Parent=Transcript:Y55B1AL.2.1
+ch.1_230	WormBase	exon	517	708	.	+	.	Parent=Transcript:Y55B1AL.2.1
+ch.1_230	WormBase	gene	101	708	.	+	.	ID=Gene:WBGene00021904
+ch.1_230	WormBase	mRNA	101	708	.	+	.	ID=Transcript:Y55B1AL.2.1;Parent=Gene:WBGene00021904
+ch.1_230	RNASeq_stranded	transcript_region	694	703	21.0	+	.	
+ch.1_230	RNASeq_reads	transcript_region	691	703	8.0	.	.	
+ch.1_230	RNASeq	transcription_end_site	700	700	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	700	700	.	-	.	
+ch.1_230	RNASeq_stranded	transcript_region	683	693	32.0	+	.	
+ch.1_230	RNASeq_reads	transcript_region	683	690	14.0	.	.	
+ch.1_230	RNASeq	transcription_end_site	686	686	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	686	686	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	685	685	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	685	685	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	684	684	.	-	.	
+ch.1_230	RNASeq	transcription_end_site	684	684	.	-	.	
+ch.1_230	RNASeq_stranded	transcript_region	635	684	1.0	-	.	
+ch.1_230	RNASeq_reads	transcript_region	679	682	30.0	.	.	
+ch.1_230	RNASeq_stranded	transcript_region	659	682	49.0	+	.	
+ch.1_230	RNASeq_F_asymmetry	transcript_region	679	681	130864.0	.	.	
+ch.1_230	RNASeq_reads	transcript_region	639	678	48.0	.	.	
+ch.1_230	RNASeq_F_asymmetry	transcript_region	636	678	205123.0	.	.	
+ch.1_230	RNASeq_stranded	transcript_region	552	658	74.0	+	.	
+ch.1_230	RNASeq_reads	transcript_region	610	638	73.0	.	.	
+ch.1_230	RNASeq_F_asymmetry	transcript_region	630	630	330133.0	.	.	
+ch.1_230	RNASeq_F_asymmetry	transcript_region	620	627	336794.0	.	.	
+ch.1_230	WormBase	CDS	517	624	.	+	.	ID=CDS:Y55B1AL.2;Parent=Transcript:Y55B1AL.2.1
+ch.1_230	RNASeq_F_asymmetry	transcript_region	618	618	376846.0	.	.	
+ch.1_230	RNASeq_F_asymmetry	transcript_region	585	609	438146.0	.	.	
+ch.1_230	RNASeq_reads	transcript_region	517	609	110.0	.	.	
+ch.1_230	RNASeq_stranded	transcript_region	520	551	47.0	+	.	
+ch.1_230	RNASeq_stranded	transcript_region	519	550	1.0	-	.	
+ch.1_230	RNASeq_stranded	transcript_region	517	519	31.0	+	.	
+ch.1_230	RNASeq_F_asymmetry	transcript_region	516	516	72782.0	.	.	
+ch.1_230	RNASeq_reads	transcript_region	516	516	18.0	.	.	
+ch.1_230	RNASeq_stranded	transcript_region	516	516	6.0	-	.	
+ch.1_230	RNASeq_splice	intron	229	516	53.0	+	.	
+ch.1_230	WormBase	intron	215	516	.	+	.	Parent=Transcript:Y55B1AL.2.1
+ch.1_230	RNASeq_splice	intron	215	516	621032.0	+	.	
+ch.1_230	RNASeq_splice	intron	209	516	28.0	+	.	
+ch.1_230	RNASeq_reads	transcript_region	215	215	20.0	.	.	
+ch.1_230	RNASeq_stranded	transcript_region	215	215	4.0	-	.	
+ch.1_230	RNASeq_stranded	transcript_region	159	214	27.0	+	.	
+ch.1_230	RNASeq_reads	transcript_region	110	214	131.0	.	.	
+ch.1_230	WormBase	CDS	107	214	.	+	.	ID=CDS:Y55B1AL.2;Parent=Transcript:Y55B1AL.2.1
+ch.1_230	WormBase	exon	101	214	.	+	.	Parent=Transcript:Y55B1AL.2.1
+ch.1_230	RNASeq_splice	intron	130	190	3.0	+	.	
+ch.1_230	RNASeq_R_asymmetry	transcript_region	105	167	543253.0	.	.	
+ch.1_230	RNASeq_stranded	transcript_region	152	158	43.0	+	.	
+ch.1_230	RNASeq_stranded	transcript_region	102	151	67.0	+	.	
+ch.1_230	RNASeq_reads	transcript_region	101	109	80.0	.	.	
+ch.1_230	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:Y55B1AL.2.1
+ch.1_230	RNASeq_R_asymmetry	transcript_region	100	104	340430.0	.	.	
+ch.1_230	RNASeq_stranded	transcript_region	99	101	41.0	+	.	
+ch.1_230	RNASeq_reads	transcript_region	99	100	50.0	.	.	
+ch.1_230	RNASeq_R_asymmetry	transcript_region	99	99	209989.0	.	.	
+ch.1_230	RNASeq_reads	transcript_region	51	98	1.0	.	.	
+ch.1_230	RNASeq_R_asymmetry	transcript_region	59	59	2085.0	.	.	
+ch.1_230	RNASeq_R_asymmetry	transcript_region	51	53	2029.0	.	.	

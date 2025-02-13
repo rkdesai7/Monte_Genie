@@ -1,0 +1,65 @@
+ch.3_53	RNASeq_R_asymmetry	transcript_region	854	871	2083.0	.	.	
+ch.3_53	RNASeq_R_asymmetry	transcript_region	826	853	1272.0	.	.	
+ch.3_53	RNASeq_R_asymmetry	transcript_region	825	825	791.0	.	.	
+ch.3_53	RNASeq_F_asymmetry	transcript_region	774	813	335.0	.	.	
+ch.3_53	RNASeq_stranded	transcript_region	769	773	1.0	+	.	
+ch.3_53	RNASeq_reads	transcript_region	766	772	1.0	.	.	
+ch.3_53	WormBase	three_prime_UTR	727	771	.	+	.	Parent=Transcript:Y110A2AL.9.1
+ch.3_53	WormBase	exon	584	771	.	+	.	Parent=Transcript:Y110A2AL.9.1
+ch.3_53	WormBase	gene	101	771	.	+	.	ID=Gene:WBGene00022445
+ch.3_53	WormBase	mRNA	101	771	.	+	.	ID=Transcript:Y110A2AL.9.1;Parent=Gene:WBGene00022445
+ch.3_53	RNASeq_stranded	transcript_region	758	768	2.0	+	.	
+ch.3_53	RNASeq_reads	transcript_region	734	765	2.0	.	.	
+ch.3_53	RNASeq_stranded	transcript_region	747	757	4.0	+	.	
+ch.3_53	RNASeq_stranded	transcript_region	725	746	7.0	+	.	
+ch.3_53	RNASeq	transcription_end_site	740	740	.	-	.	
+ch.3_53	RNASeq_reads	transcript_region	694	733	4.0	.	.	
+ch.3_53	WormBase	CDS	584	726	.	+	.	ID=CDS:Y110A2AL.9;Parent=Transcript:Y110A2AL.9.1
+ch.3_53	RNASeq_stranded	transcript_region	716	724	11.0	+	.	
+ch.3_53	RNASeq_stranded	transcript_region	616	715	17.0	+	.	
+ch.3_53	RNASeq_reads	transcript_region	668	693	7.0	.	.	
+ch.3_53	RNASeq_reads	transcript_region	584	667	11.0	.	.	
+ch.3_53	RNASeq	transcription_end_site	644	644	.	-	.	
+ch.3_53	RNASeq	transcription_end_site	629	629	.	-	.	
+ch.3_53	RNASeq	transcription_end_site	629	629	.	-	.	
+ch.3_53	RNASeq_stranded	transcript_region	605	615	8.0	+	.	
+ch.3_53	RNASeq_stranded	transcript_region	593	604	5.0	+	.	
+ch.3_53	RNASeq_stranded	transcript_region	584	592	3.0	+	.	
+ch.3_53	RNASeq_reads	transcript_region	583	583	1.0	.	.	
+ch.3_53	RNASeq_stranded	transcript_region	583	583	1.0	-	.	
+ch.3_53	WormBase	intron	536	583	.	+	.	Parent=Transcript:Y110A2AL.9.1
+ch.3_53	RNASeq_splice	intron	536	583	52183.0	+	.	
+ch.3_53	WormBase	CDS	422	535	.	+	.	ID=CDS:Y110A2AL.9;Parent=Transcript:Y110A2AL.9.1
+ch.3_53	WormBase	exon	422	535	.	+	.	Parent=Transcript:Y110A2AL.9.1
+ch.3_53	RNASeq_reads	transcript_region	422	535	12.0	.	.	
+ch.3_53	RNASeq_stranded	transcript_region	422	535	2.0	+	.	
+ch.3_53	RNASeq	transcription_end_site	468	468	.	-	.	
+ch.3_53	RNASeq	transcription_end_site	468	468	.	-	.	
+ch.3_53	RNASeq_reads	transcript_region	421	421	1.0	.	.	
+ch.3_53	WormBase	intron	372	421	.	+	.	Parent=Transcript:Y110A2AL.9.1
+ch.3_53	RNASeq_splice	intron	372	421	56743.0	+	.	
+ch.3_53	WormBase	CDS	258	371	.	+	.	ID=CDS:Y110A2AL.9;Parent=Transcript:Y110A2AL.9.1
+ch.3_53	WormBase	exon	258	371	.	+	.	Parent=Transcript:Y110A2AL.9.1
+ch.3_53	RNASeq_reads	transcript_region	258	371	11.0	.	.	
+ch.3_53	RNASeq_stranded	transcript_region	258	371	2.0	+	.	
+ch.3_53	RNASeq	transcription_end_site	370	370	.	-	.	
+ch.3_53	RNASeq	transcription_end_site	370	370	.	-	.	
+ch.3_53	RNASeq	transcription_end_site	322	322	.	-	.	
+ch.3_53	WormBase	intron	163	257	.	+	.	Parent=Transcript:Y110A2AL.9.1
+ch.3_53	RNASeq_splice	intron	163	257	47876.0	+	.	
+ch.3_53	RNASeq_splice	intron	153	257	29.0	+	.	
+ch.3_53	RNASeq_stranded	transcript_region	116	162	2.0	+	.	
+ch.3_53	WormBase	CDS	111	162	.	+	.	ID=CDS:Y110A2AL.9;Parent=Transcript:Y110A2AL.9.1
+ch.3_53	RNASeq_R_asymmetry	transcript_region	109	162	38464.0	.	.	
+ch.3_53	RNASeq_reads	transcript_region	109	162	10.0	.	.	
+ch.3_53	WormBase	exon	101	162	.	+	.	Parent=Transcript:Y110A2AL.9.1
+ch.3_53	RNASeq_stranded	transcript_region	98	115	1.0	+	.	
+ch.3_53	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:Y110A2AL.9.1
+ch.3_53	RNASeq_R_asymmetry	transcript_region	105	108	25327.0	.	.	
+ch.3_53	RNASeq_reads	transcript_region	101	108	6.0	.	.	
+ch.3_53	RNASeq_R_asymmetry	transcript_region	96	104	16635.0	.	.	
+ch.3_53	RNASeq_reads	transcript_region	89	100	3.0	.	.	
+ch.3_53	RNASeq_R_asymmetry	transcript_region	89	95	10774.0	.	.	
+ch.3_53	RNASeq_R_asymmetry	transcript_region	87	88	5926.0	.	.	
+ch.3_53	RNASeq_reads	transcript_region	87	88	1.0	.	.	
+ch.3_53	RNASeq_R_asymmetry	transcript_region	85	86	631.0	.	.	

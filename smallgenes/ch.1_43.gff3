@@ -1,0 +1,49 @@
+ch.1_43	RNASeq_splice	intron	11	177	5.0	+	.	
+ch.1_43	RNASeq_splice	intron	11	183	4.0	-	.	
+ch.1_43	RNASeq_splice	intron	11	195	3.0	+	.	
+ch.1_43	RNASeq_splice	intron	11	231	46.0	+	.	
+ch.1_43	RNASeq_splice	intron	11	360	3.0	+	.	
+ch.1_43	RNASeq_splice	intron	65	115	10.0	+	.	
+ch.1_43	RNASeq_F_asymmetry	transcript_region	88	94	1315.0	.	.	
+ch.1_43	RNASeq_F_asymmetry	transcript_region	95	96	1989.0	.	.	
+ch.1_43	RNASeq_reads	transcript_region	96	101	1.0	.	.	
+ch.1_43	RNASeq_F_asymmetry	transcript_region	97	98	3774.0	.	.	
+ch.1_43	RNASeq_F_asymmetry	transcript_region	99	103	6361.0	.	.	
+ch.1_43	RNASeq_stranded	transcript_region	99	148	2.0	+	.	
+ch.1_43	WormBase	five_prime_UTR	101	116	.	+	.	Parent=Transcript:F38A5.10.1
+ch.1_43	WormBase	exon	101	311	.	+	.	Parent=Transcript:F38A5.10.1
+ch.1_43	WormBase	gene	101	475	.	+	.	ID=Gene:WBGene00018167
+ch.1_43	WormBase	mRNA	101	475	.	+	.	ID=Transcript:F38A5.10.1;Parent=Gene:WBGene00018167
+ch.1_43	RNASeq_reads	transcript_region	102	111	2.0	.	.	
+ch.1_43	RNASeq_F_asymmetry	transcript_region	104	154	15017.0	.	.	
+ch.1_43	RNASeq_reads	transcript_region	112	171	4.0	.	.	
+ch.1_43	WormBase	CDS	117	311	.	+	.	ID=CDS:F38A5.10;Parent=Transcript:F38A5.10.1
+ch.1_43	RNASeq_stranded	transcript_region	149	149	1.0	+	.	
+ch.1_43	RNASeq_stranded	transcript_region	160	163	1.0	+	.	
+ch.1_43	RNASeq_stranded	transcript_region	162	174	1.0	-	.	
+ch.1_43	RNASeq_stranded	transcript_region	165	203	1.0	+	.	
+ch.1_43	RNASeq_reads	transcript_region	172	311	7.0	.	.	
+ch.1_43	RNASeq_stranded	transcript_region	179	199	1.0	-	.	
+ch.1_43	RNASeq_stranded	transcript_region	274	291	1.0	+	.	
+ch.1_43	RNASeq_stranded	transcript_region	292	311	2.0	+	.	
+ch.1_43	RNASeq_reads	transcript_region	312	312	1.0	.	.	
+ch.1_43	WormBase	intron	312	360	.	+	.	Parent=Transcript:F38A5.10.1
+ch.1_43	RNASeq_splice	intron	312	360	31983.0	+	.	
+ch.1_43	RNASeq_reads	transcript_region	359	360	2.0	.	.	
+ch.1_43	RNASeq_stranded	transcript_region	359	405	5.0	+	.	
+ch.1_43	WormBase	CDS	361	414	.	+	.	ID=CDS:F38A5.10;Parent=Transcript:F38A5.10.1
+ch.1_43	RNASeq_reads	transcript_region	361	446	7.0	.	.	
+ch.1_43	WormBase	exon	361	475	.	+	.	Parent=Transcript:F38A5.10.1
+ch.1_43	RNASeq_stranded	transcript_region	367	386	1.0	-	.	
+ch.1_43	RNASeq_stranded	transcript_region	405	406	1.0	-	.	
+ch.1_43	RNASeq_stranded	transcript_region	406	435	1.0	+	.	
+ch.1_43	RNASeq_stranded	transcript_region	407	456	2.0	-	.	
+ch.1_43	RNASeq_R_asymmetry	transcript_region	408	452	23251.0	.	.	
+ch.1_43	WormBase	three_prime_UTR	415	475	.	+	.	Parent=Transcript:F38A5.10.1
+ch.1_43	RNASeq_reads	transcript_region	447	455	4.0	.	.	
+ch.1_43	RNASeq_R_asymmetry	transcript_region	453	453	14643.0	.	.	
+ch.1_43	RNASeq_stranded	transcript_region	453	455	1.0	+	.	
+ch.1_43	RNASeq_R_asymmetry	transcript_region	455	455	10198.0	.	.	
+ch.1_43	RNASeq_reads	transcript_region	456	457	2.0	.	.	
+ch.1_43	RNASeq_stranded	transcript_region	457	457	1.0	+	.	
+ch.1_43	RNASeq_reads	transcript_region	458	475	1.0	.	.	

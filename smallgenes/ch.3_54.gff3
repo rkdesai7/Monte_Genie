@@ -1,0 +1,61 @@
+ch.3_54	RNASeq_F_asymmetry	transcript_region	69	71	186.0	.	.	
+ch.3_54	RNASeq_F_asymmetry	transcript_region	72	76	299.0	.	.	
+ch.3_54	RNASeq_F_asymmetry	transcript_region	77	84	480.0	.	.	
+ch.3_54	RNASeq_F_asymmetry	transcript_region	85	89	776.0	.	.	
+ch.3_54	RNASeq_F_asymmetry	transcript_region	90	98	2882.0	.	.	
+ch.3_54	RNASeq_reads	transcript_region	90	98	1.0	.	.	
+ch.3_54	RNASeq_F_asymmetry	transcript_region	99	104	131512.0	.	.	
+ch.3_54	RNASeq_reads	transcript_region	99	104	25.0	.	.	
+ch.3_54	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:F49E11.6.1
+ch.3_54	WormBase	exon	101	278	.	+	.	Parent=Transcript:F49E11.6.1
+ch.3_54	WormBase	gene	101	947	.	+	.	ID=Gene:WBGene00009892
+ch.3_54	WormBase	mRNA	101	947	.	+	.	ID=Transcript:F49E11.6.1;Parent=Gene:WBGene00009892
+ch.3_54	RNASeq_reads	transcript_region	105	160	40.0	.	.	
+ch.3_54	RNASeq_F_asymmetry	transcript_region	105	197	207699.0	.	.	
+ch.3_54	WormBase	CDS	105	278	.	+	.	ID=CDS:F49E11.6;Parent=Transcript:F49E11.6.1
+ch.3_54	RNASeq_stranded	transcript_region	106	204	1.0	+	.	
+ch.3_54	RNASeq_reads	transcript_region	161	203	61.0	.	.	
+ch.3_54	RNASeq_reads	transcript_region	204	278	38.0	.	.	
+ch.3_54	WormBase	intron	279	338	.	+	.	Parent=Transcript:F49E11.6.1
+ch.3_54	RNASeq_splice	intron	279	338	165934.0	+	.	
+ch.3_54	RNASeq_splice	intron	279	354	6.0	+	.	
+ch.3_54	WormBase	CDS	339	476	.	+	.	ID=CDS:F49E11.6;Parent=Transcript:F49E11.6.1
+ch.3_54	WormBase	exon	339	476	.	+	.	Parent=Transcript:F49E11.6.1
+ch.3_54	RNASeq_reads	transcript_region	339	476	36.0	.	.	
+ch.3_54	RNASeq	transcription_end_site	429	429	.	+	.	
+ch.3_54	RNASeq_reads	transcript_region	477	477	6.0	.	.	
+ch.3_54	WormBase	intron	477	520	.	+	.	Parent=Transcript:F49E11.6.1
+ch.3_54	RNASeq_splice	intron	477	520	151607.0	+	.	
+ch.3_54	RNASeq_reads	transcript_region	478	519	1.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	517	519	5193.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	520	520	9555.0	.	.	
+ch.3_54	RNASeq_reads	transcript_region	520	520	2.0	.	.	
+ch.3_54	WormBase	CDS	521	735	.	+	.	ID=CDS:F49E11.6;Parent=Transcript:F49E11.6.1
+ch.3_54	WormBase	exon	521	735	.	+	.	Parent=Transcript:F49E11.6.1
+ch.3_54	RNASeq_reads	transcript_region	521	735	36.0	.	.	
+ch.3_54	WormBase	intron	736	780	.	+	.	Parent=Transcript:F49E11.6.1
+ch.3_54	RNASeq_splice	intron	736	780	140438.0	+	.	
+ch.3_54	RNASeq_stranded	transcript_region	781	820	1.0	+	.	
+ch.3_54	RNASeq_reads	transcript_region	781	866	30.0	.	.	
+ch.3_54	WormBase	CDS	781	877	.	+	.	ID=CDS:F49E11.6;Parent=Transcript:F49E11.6.1
+ch.3_54	WormBase	exon	781	947	.	+	.	Parent=Transcript:F49E11.6.1
+ch.3_54	RNASeq_stranded	transcript_region	821	889	2.0	+	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	827	914	102853.0	.	.	
+ch.3_54	RNASeq_reads	transcript_region	867	915	19.0	.	.	
+ch.3_54	WormBase	three_prime_UTR	878	947	.	+	.	Parent=Transcript:F49E11.6.1
+ch.3_54	RNASeq_stranded	transcript_region	890	920	1.0	+	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	915	917	67516.0	.	.	
+ch.3_54	RNASeq_reads	transcript_region	916	917	11.0	.	.	
+ch.3_54	RNASeq_reads	transcript_region	918	925	4.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	918	928	18508.0	.	.	
+ch.3_54	RNASeq_reads	transcript_region	926	940	2.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	929	939	12055.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	940	945	7710.0	.	.	
+ch.3_54	RNASeq_reads	transcript_region	941	946	1.0	.	.	
+ch.3_54	RNASeq	transcription_end_site	945	945	.	+	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	946	946	4624.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	947	947	1340.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	948	948	882.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	949	950	123.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	951	954	59.0	.	.	
+ch.3_54	RNASeq_R_asymmetry	transcript_region	966	967	44.0	.	.	

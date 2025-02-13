@@ -1,0 +1,35 @@
+ch.1_526	RNASeq	transcription_end_site	7	7	.	+	.	
+ch.1_526	RNASeq_stranded	transcript_region	16	47	1.0	+	.	
+ch.1_526	RNASeq_splice	intron	39	79	5.0	+	.	
+ch.1_526	RNASeq_reads	transcript_region	54	94	1.0	.	.	
+ch.1_526	RNASeq_splice	intron	54	94	9290.0	+	.	
+ch.1_526	RNASeq_splice	intron	54	98	35.0	+	.	
+ch.1_526	RNASeq_splice	intron	54	117	316.0	+	.	
+ch.1_526	RNASeq_splice	intron	54	355	92.0	+	.	
+ch.1_526	RNASeq_splice	intron	54	482	9.0	+	.	
+ch.1_526	RNASeq_reads	transcript_region	95	310	3.0	.	.	
+ch.1_526	WormBase	exon	101	310	.	+	.	Parent=Transcript:Y61A9LA.12.1
+ch.1_526	WormBase	CDS	101	310	.	+	.	ID=CDS:Y61A9LA.12;Parent=Transcript:Y61A9LA.12.1
+ch.1_526	WormBase	gene	101	727	.	+	.	ID=Gene:WBGene00044586
+ch.1_526	WormBase	mRNA	101	727	.	+	.	ID=Transcript:Y61A9LA.12.1;Parent=Gene:WBGene00044586
+ch.1_526	RNASeq_stranded	transcript_region	107	112	1.0	+	.	
+ch.1_526	RNASeq_stranded	transcript_region	120	157	1.0	+	.	
+ch.1_526	RNASeq	transcription_end_site	155	155	.	+	.	
+ch.1_526	RNASeq_stranded	transcript_region	268	310	1.0	+	.	
+ch.1_526	RNASeq_splice	intron	304	355	4.0	+	.	
+ch.1_526	WormBase	intron	311	355	.	+	.	Parent=Transcript:Y61A9LA.12.1
+ch.1_526	RNASeq_splice	intron	311	355	11289.0	+	.	
+ch.1_526	RNASeq_stranded	transcript_region	356	368	1.0	+	.	
+ch.1_526	RNASeq_reads	transcript_region	356	449	2.0	.	.	
+ch.1_526	WormBase	CDS	356	727	.	+	.	ID=CDS:Y61A9LA.12;Parent=Transcript:Y61A9LA.12.1
+ch.1_526	WormBase	exon	356	727	.	+	.	Parent=Transcript:Y61A9LA.12.1
+ch.1_526	RNASeq_splice	intron	450	500	3.0	-	.	
+ch.1_526	RNASeq_reads	transcript_region	450	653	4.0	.	.	
+ch.1_526	RNASeq_splice	intron	459	509	6.0	+	.	
+ch.1_526	RNASeq_stranded	transcript_region	503	552	1.0	+	.	
+ch.1_526	RNASeq_stranded	transcript_region	592	646	1.0	+	.	
+ch.1_526	RNASeq_reads	transcript_region	654	675	1.0	.	.	
+ch.1_526	RNASeq_splice	intron	654	695	457.0	+	.	
+ch.1_526	RNASeq_R_asymmetry	transcript_region	684	730	1947.0	.	.	
+ch.1_526	RNASeq_reads	transcript_region	696	696	1.0	.	.	
+ch.1_526	RNASeq_R_asymmetry	transcript_region	731	734	1268.0	.	.	

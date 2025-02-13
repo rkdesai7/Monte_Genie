@@ -1,0 +1,42 @@
+ch.1_386	RNASeq_F_asymmetry	transcript_region	69	74	604.0	.	.	
+ch.1_386	RNASeq_F_asymmetry	transcript_region	75	88	1029.0	.	.	
+ch.1_386	RNASeq_F_asymmetry	transcript_region	89	100	1554.0	.	.	
+ch.1_386	RNASeq_stranded	transcript_region	91	120	1.0	+	.	
+ch.1_386	RNASeq_reads	transcript_region	101	104	1.0	.	.	
+ch.1_386	RNASeq_F_asymmetry	transcript_region	101	105	5073.0	.	.	
+ch.1_386	WormBase	five_prime_UTR	101	130	.	+	.	Parent=Transcript:ZK75.1.1
+ch.1_386	WormBase	exon	101	365	.	+	.	Parent=Transcript:ZK75.1.1
+ch.1_386	WormBase	gene	101	743	.	+	.	ID=Gene:WBGene00002087
+ch.1_386	WormBase	mRNA	101	743	.	+	.	ID=Transcript:ZK75.1.1;Parent=Gene:WBGene00002087
+ch.1_386	RNASeq_reads	transcript_region	105	108	2.0	.	.	
+ch.1_386	RNASeq_F_asymmetry	transcript_region	106	108	8380.0	.	.	
+ch.1_386	RNASeq_F_asymmetry	transcript_region	109	134	17367.0	.	.	
+ch.1_386	RNASeq_reads	transcript_region	109	151	4.0	.	.	
+ch.1_386	RNASeq_stranded	transcript_region	121	170	2.0	+	.	
+ch.1_386	WormBase	CDS	131	365	.	+	.	ID=CDS:ZK75.1;Parent=Transcript:ZK75.1.1
+ch.1_386	RNASeq_F_asymmetry	transcript_region	135	161	26342.0	.	.	
+ch.1_386	RNASeq_reads	transcript_region	152	365	7.0	.	.	
+ch.1_386	RNASeq_stranded	transcript_region	171	216	1.0	+	.	
+ch.1_386	RNASeq_stranded	transcript_region	217	297	2.0	+	.	
+ch.1_386	RNASeq_stranded	transcript_region	298	304	1.0	+	.	
+ch.1_386	RNASeq_splice	intron	299	423	28.0	+	.	
+ch.1_386	RNASeq_stranded	transcript_region	305	310	2.0	+	.	
+ch.1_386	RNASeq_stranded	transcript_region	311	365	1.0	+	.	
+ch.1_386	WormBase	intron	366	423	.	+	.	Parent=Transcript:ZK75.1.1
+ch.1_386	RNASeq_splice	intron	366	423	32147.0	+	.	
+ch.1_386	RNASeq_splice	intron	370	426	4.0	+	.	
+ch.1_386	RNASeq_splice	intron	370	428	3.0	+	.	
+ch.1_386	WormBase	CDS	424	509	.	+	.	ID=CDS:ZK75.1;Parent=Transcript:ZK75.1.1
+ch.1_386	RNASeq_reads	transcript_region	424	674	6.0	.	.	
+ch.1_386	RNASeq_stranded	transcript_region	424	730	1.0	+	.	
+ch.1_386	WormBase	exon	424	743	.	+	.	Parent=Transcript:ZK75.1.1
+ch.1_386	WormBase	three_prime_UTR	510	743	.	+	.	Parent=Transcript:ZK75.1.1
+ch.1_386	RNASeq	transcription_end_site	635	635	.	+	.	
+ch.1_386	RNASeq_R_asymmetry	transcript_region	656	677	18235.0	.	.	
+ch.1_386	RNASeq_reads	transcript_region	675	711	3.0	.	.	
+ch.1_386	RNASeq_R_asymmetry	transcript_region	679	704	11689.0	.	.	
+ch.1_386	RNASeq	transcription_end_site	700	700	.	+	.	
+ch.1_386	RNASeq_R_asymmetry	transcript_region	705	716	7511.0	.	.	
+ch.1_386	RNASeq_reads	transcript_region	712	729	1.0	.	.	
+ch.1_386	RNASeq_R_asymmetry	transcript_region	717	718	4919.0	.	.	
+ch.1_386	RNASeq	transcription_end_site	754	754	.	+	.	

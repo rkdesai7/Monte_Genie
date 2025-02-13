@@ -1,0 +1,15 @@
+ch.1_554	RNASeq_reads	transcript_region	42	318	2.0	.	.	
+ch.1_554	WormBase	CDS	101	318	.	+	.	ID=CDS:Y49E10.30;Parent=Transcript:Y49E10.30.1
+ch.1_554	WormBase	exon	101	318	.	+	.	Parent=Transcript:Y49E10.30.1
+ch.1_554	WormBase	gene	101	925	.	+	.	ID=Gene:WBGene00194981
+ch.1_554	WormBase	mRNA	101	925	.	+	.	ID=Transcript:Y49E10.30.1;Parent=Gene:WBGene00194981
+ch.1_554	RNASeq_splice	intron	187	272	15.0	+	.	
+ch.1_554	RNASeq_stranded	transcript_region	286	318	1.0	+	.	
+ch.1_554	WormBase	intron	319	849	.	+	.	Parent=Transcript:Y49E10.30.1
+ch.1_554	RNASeq_splice	intron	319	849	16331.0	+	.	
+ch.1_554	RNASeq_splice	intron	319	854	86.0	+	.	
+ch.1_554	RNASeq_R_asymmetry	transcript_region	476	484	125.0	.	.	
+ch.1_554	RNASeq_F_asymmetry	transcript_region	606	607	286.0	.	.	
+ch.1_554	RNASeq_F_asymmetry	transcript_region	848	849	446.0	.	.	
+ch.1_554	WormBase	CDS	850	925	.	+	.	ID=CDS:Y49E10.30;Parent=Transcript:Y49E10.30.1
+ch.1_554	WormBase	exon	850	925	.	+	.	Parent=Transcript:Y49E10.30.1

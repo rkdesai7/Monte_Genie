@@ -1,0 +1,36 @@
+ch.1_199	WormBase	three_prime_UTR	550	644	.	+	.	Parent=Transcript:F28H6.8.1
+ch.1_199	WormBase	exon	259	644	.	+	.	Parent=Transcript:F28H6.8.1
+ch.1_199	WormBase	gene	101	644	.	+	.	ID=Gene:WBGene00044137
+ch.1_199	WormBase	mRNA	101	644	.	+	.	ID=Transcript:F28H6.8.1;Parent=Gene:WBGene00044137
+ch.1_199	RNASeq_stranded	transcript_region	599	627	1.0	+	.	
+ch.1_199	RNASeq_stranded	transcript_region	564	598	2.0	+	.	
+ch.1_199	RNASeq_reads	transcript_region	568	597	1.0	.	.	
+ch.1_199	RNASeq_reads	transcript_region	566	567	2.0	.	.	
+ch.1_199	RNASeq_reads	transcript_region	565	565	1.0	.	.	
+ch.1_199	RNASeq_reads	transcript_region	346	564	2.0	.	.	
+ch.1_199	RNASeq_stranded	transcript_region	494	563	4.0	+	.	
+ch.1_199	WormBase	CDS	259	549	.	+	.	ID=CDS:F28H6.8;Parent=Transcript:F28H6.8.1
+ch.1_199	RNASeq_stranded	transcript_region	481	493	2.0	+	.	
+ch.1_199	RNASeq_stranded	transcript_region	479	480	1.0	+	.	
+ch.1_199	RNASeq_stranded	transcript_region	464	478	2.0	+	.	
+ch.1_199	RNASeq_stranded	transcript_region	259	463	1.0	+	.	
+ch.1_199	RNASeq_reads	transcript_region	259	345	4.0	.	.	
+ch.1_199	RNASeq_splice	intron	204	263	4.0	+	.	
+ch.1_199	RNASeq	transcription_end_site	260	260	.	-	.	
+ch.1_199	WormBase	intron	204	258	.	+	.	Parent=Transcript:F28H6.8.1
+ch.1_199	RNASeq_splice	intron	204	258	12766.0	+	.	
+ch.1_199	RNASeq_R_asymmetry	transcript_region	204	213	974.0	.	.	
+ch.1_199	WormBase	CDS	156	203	.	+	.	ID=CDS:F28H6.8;Parent=Transcript:F28H6.8.1
+ch.1_199	RNASeq_reads	transcript_region	115	203	3.0	.	.	
+ch.1_199	RNASeq_stranded	transcript_region	106	203	1.0	+	.	
+ch.1_199	WormBase	exon	101	203	.	+	.	Parent=Transcript:F28H6.8.1
+ch.1_199	RNASeq_R_asymmetry	transcript_region	118	201	11698.0	.	.	
+ch.1_199	WormBase	five_prime_UTR	101	155	.	+	.	Parent=Transcript:F28H6.8.1
+ch.1_199	RNASeq_R_asymmetry	transcript_region	109	117	7554.0	.	.	
+ch.1_199	RNASeq_reads	transcript_region	101	114	1.0	.	.	
+ch.1_199	RNASeq_R_asymmetry	transcript_region	104	108	4977.0	.	.	
+ch.1_199	RNASeq_R_asymmetry	transcript_region	101	103	3161.0	.	.	
+ch.1_199	RNASeq_splice	intron	3	102	35.0	+	.	
+ch.1_199	RNASeq_R_asymmetry	transcript_region	100	100	1912.0	.	.	
+ch.1_199	RNASeq_splice	intron	3	71	45.0	+	.	
+ch.1_199	RNASeq_splice	intron	3	52	3.0	+	.	

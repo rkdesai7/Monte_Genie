@@ -1,0 +1,36 @@
+ch.1_45	RNASeq_reads	transcript_region	437	439	1.0	.	.	
+ch.1_45	RNASeq_reads	transcript_region	430	436	2.0	.	.	
+ch.1_45	RNASeq_stranded	transcript_region	424	436	1.0	+	.	
+ch.1_45	WormBase	three_prime_UTR	335	434	.	+	.	Parent=Transcript:R09E10.13.1
+ch.1_45	WormBase	exon	246	434	.	+	.	Parent=Transcript:R09E10.13.1
+ch.1_45	WormBase	gene	101	434	.	+	.	ID=Gene:WBGene00194658
+ch.1_45	WormBase	mRNA	101	434	.	+	.	ID=Transcript:R09E10.13.1;Parent=Gene:WBGene00194658
+ch.1_45	RNASeq_reads	transcript_region	423	429	4.0	.	.	
+ch.1_45	RNASeq_stranded	transcript_region	375	423	2.0	+	.	
+ch.1_45	RNASeq_reads	transcript_region	415	422	7.0	.	.	
+ch.1_45	RNASeq_reads	transcript_region	396	414	11.0	.	.	
+ch.1_45	RNASeq_reads	transcript_region	381	395	18.0	.	.	
+ch.1_45	RNASeq_reads	transcript_region	345	380	31.0	.	.	
+ch.1_45	RNASeq_stranded	transcript_region	246	374	4.0	+	.	
+ch.1_45	RNASeq_reads	transcript_region	328	344	47.0	.	.	
+ch.1_45	WormBase	CDS	246	334	.	+	.	ID=CDS:R09E10.13;Parent=Transcript:R09E10.13.1
+ch.1_45	RNASeq_stranded	transcript_region	283	327	1.0	-	.	
+ch.1_45	RNASeq_reads	transcript_region	246	327	71.0	.	.	
+ch.1_45	RNASeq_splice	intron	199	245	24.0	+	.	
+ch.1_45	WormBase	intron	195	245	.	+	.	Parent=Transcript:R09E10.13.1
+ch.1_45	RNASeq_reads	transcript_region	195	245	6.0	.	.	
+ch.1_45	RNASeq_splice	intron	195	245	431647.0	+	.	
+ch.1_45	RNASeq_stranded	transcript_region	171	194	3.0	+	.	
+ch.1_45	RNASeq_reads	transcript_region	138	194	89.0	.	.	
+ch.1_45	WormBase	CDS	119	194	.	+	.	ID=CDS:R09E10.13;Parent=Transcript:R09E10.13.1
+ch.1_45	WormBase	exon	101	194	.	+	.	Parent=Transcript:R09E10.13.1
+ch.1_45	RNASeq_stranded	transcript_region	119	170	5.0	+	.	
+ch.1_45	RNASeq_reads	transcript_region	110	137	54.0	.	.	
+ch.1_45	WormBase	five_prime_UTR	101	118	.	+	.	Parent=Transcript:R09E10.13.1
+ch.1_45	RNASeq_stranded	transcript_region	97	118	3.0	+	.	
+ch.1_45	RNASeq_reads	transcript_region	94	109	35.0	.	.	
+ch.1_45	RNASeq_stranded	transcript_region	94	96	1.0	+	.	
+ch.1_45	RNASeq_reads	transcript_region	84	93	22.0	.	.	
+ch.1_45	RNASeq_reads	transcript_region	83	83	14.0	.	.	
+ch.1_45	RNASeq_reads	transcript_region	80	82	3.0	.	.	
+ch.1_45	RNASeq_reads	transcript_region	62	79	1.0	.	.	

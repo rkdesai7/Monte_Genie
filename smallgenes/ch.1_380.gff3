@@ -1,0 +1,90 @@
+ch.1_380	RNASeq	transcription_end_site	662	662	.	-	.	
+ch.1_380	RNASeq	transcription_end_site	662	662	.	-	.	
+ch.1_380	RNASeq	transcription_end_site	661	661	.	-	.	
+ch.1_380	RNASeq	transcription_end_site	661	661	.	-	.	
+ch.1_380	RNASeq_reads	transcript_region	653	659	1.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	654	658	1.0	+	.	
+ch.1_380	RNASeq	transcription_end_site	657	657	.	-	.	
+ch.1_380	RNASeq	transcription_end_site	657	657	.	-	.	
+ch.1_380	RNASeq	transcription_end_site	654	654	.	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	653	653	2.0	-	.	
+ch.1_380	RNASeq_reads	transcript_region	651	652	3.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	646	652	1.0	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	646	652	9.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	646	650	5.0	.	.	
+ch.1_380	RNASeq	transcription_end_site	648	648	.	-	.	
+ch.1_380	RNASeq_reads	transcript_region	642	645	8.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	642	645	14.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	642	645	2.0	-	.	
+ch.1_380	WormBase	three_prime_UTR	578	642	.	+	.	Parent=Transcript:F10G7.11.1
+ch.1_380	WormBase	exon	434	642	.	+	.	Parent=Transcript:F10G7.11.1
+ch.1_380	WormBase	gene	101	642	.	+	.	ID=Gene:WBGene00017374
+ch.1_380	WormBase	mRNA	101	642	.	+	.	ID=Transcript:F10G7.11.1;Parent=Gene:WBGene00017374
+ch.1_380	RNASeq	transcription_end_site	641	641	.	-	.	
+ch.1_380	RNASeq	transcription_end_site	641	641	.	-	.	
+ch.1_380	RNASeq_reads	transcript_region	638	641	14.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	637	641	26.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	549	641	7.0	-	.	
+ch.1_380	RNASeq_reads	transcript_region	629	637	24.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	626	636	40.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	606	628	38.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	621	625	62.0	+	.	
+ch.1_380	RNASeq	transcription_end_site	621	621	.	-	.	
+ch.1_380	RNASeq	transcription_end_site	621	621	.	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	614	620	94.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	597	613	144.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	580	605	58.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	576	596	218.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	559	579	88.0	.	.	
+ch.1_380	WormBase	CDS	434	577	.	+	.	ID=CDS:F10G7.11;Parent=Transcript:F10G7.11.1
+ch.1_380	RNASeq_stranded	transcript_region	496	575	337.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	537	558	137.0	.	.	
+ch.1_380	RNASeq_splice	intron	467	549	3.0	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	547	548	4.0	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	546	546	2.0	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	526	545	1.0	-	.	
+ch.1_380	RNASeq_reads	transcript_region	490	536	207.0	.	.	
+ch.1_380	RNASeq_splice	intron	499	534	5.0	-	.	
+ch.1_380	RNASeq_splice	intron	479	517	37.0	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	480	495	220.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	434	489	313.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	462	486	1.0	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	471	479	145.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	436	470	88.0	+	.	
+ch.1_380	RNASeq_splice	intron	387	448	3.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	434	435	58.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	432	433	1.0	.	.	
+ch.1_380	WormBase	intron	387	433	.	+	.	Parent=Transcript:F10G7.11.1
+ch.1_380	RNASeq_splice	intron	387	433	1409250.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	387	387	1.0	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	324	386	59.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	125	386	252.0	.	.	
+ch.1_380	WormBase	CDS	108	386	.	+	.	ID=CDS:F10G7.11;Parent=Transcript:F10G7.11.1
+ch.1_380	WormBase	exon	101	386	.	+	.	Parent=Transcript:F10G7.11.1
+ch.1_380	RNASeq_stranded	transcript_region	292	323	90.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	252	298	1.0	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	247	291	136.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	242	251	2.0	-	.	
+ch.1_380	RNASeq_splice	intron	196	249	38.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	222	246	89.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	202	241	1.0	-	.	
+ch.1_380	RNASeq_stranded	transcript_region	200	221	55.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	188	199	83.0	+	.	
+ch.1_380	RNASeq_stranded	transcript_region	134	187	134.0	+	.	
+ch.1_380	RNASeq_R_asymmetry	transcript_region	113	177	1023220.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	108	133	80.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	107	124	164.0	.	.	
+ch.1_380	RNASeq_R_asymmetry	transcript_region	103	112	621684.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	102	107	52.0	+	.	
+ch.1_380	WormBase	five_prime_UTR	101	107	.	+	.	Parent=Transcript:F10G7.11.1
+ch.1_380	RNASeq_reads	transcript_region	103	106	107.0	.	.	
+ch.1_380	RNASeq_R_asymmetry	transcript_region	99	102	307857.0	.	.	
+ch.1_380	RNASeq_reads	transcript_region	99	102	61.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	99	101	31.0	+	.	
+ch.1_380	RNASeq_R_asymmetry	transcript_region	95	98	183520.0	.	.	
+ch.1_380	RNASeq_reads	transcript_region	95	98	36.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	95	98	8.0	+	.	
+ch.1_380	RNASeq_R_asymmetry	transcript_region	91	94	4706.0	.	.	
+ch.1_380	RNASeq_stranded	transcript_region	91	94	1.0	+	.	
+ch.1_380	RNASeq_reads	transcript_region	90	94	1.0	.	.	
+ch.1_380	RNASeq_R_asymmetry	transcript_region	90	90	2903.0	.	.	

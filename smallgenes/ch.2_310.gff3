@@ -1,0 +1,47 @@
+ch.2_310	WormBase	three_prime_UTR	783	961	.	+	.	Parent=Transcript:F40D4.17.1
+ch.2_310	WormBase	exon	774	961	.	+	.	Parent=Transcript:F40D4.17.1
+ch.2_310	WormBase	gene	101	961	.	+	.	ID=Gene:WBGene00194682
+ch.2_310	WormBase	mRNA	101	961	.	+	.	ID=Transcript:F40D4.17.1;Parent=Gene:WBGene00194682
+ch.2_310	RNASeq_stranded	transcript_region	932	955	1.0	+	.	
+ch.2_310	RNASeq_stranded	transcript_region	896	931	2.0	+	.	
+ch.2_310	RNASeq_reads	transcript_region	878	927	1.0	.	.	
+ch.2_310	RNASeq_stranded	transcript_region	786	895	4.0	+	.	
+ch.2_310	RNASeq_reads	transcript_region	875	877	2.0	.	.	
+ch.2_310	RNASeq_F_asymmetry	transcript_region	868	874	17296.0	.	.	
+ch.2_310	RNASeq_reads	transcript_region	864	874	4.0	.	.	
+ch.2_310	RNASeq_F_asymmetry	transcript_region	824	867	26459.0	.	.	
+ch.2_310	RNASeq_reads	transcript_region	774	863	7.0	.	.	
+ch.2_310	RNASeq_stranded	transcript_region	774	785	2.0	+	.	
+ch.2_310	WormBase	CDS	774	782	.	+	.	ID=CDS:F40D4.17;Parent=Transcript:F40D4.17.1
+ch.2_310	RNASeq_F_asymmetry	transcript_region	772	773	5759.0	.	.	
+ch.2_310	RNASeq_reads	transcript_region	772	773	1.0	.	.	
+ch.2_310	WormBase	intron	576	773	.	+	.	Parent=Transcript:F40D4.17.1
+ch.2_310	RNASeq_splice	intron	576	773	39492.0	+	.	
+ch.2_310	RNASeq_F_asymmetry	transcript_region	766	771	1501.0	.	.	
+ch.2_310	RNASeq_stranded	transcript_region	533	575	2.0	+	.	
+ch.2_310	WormBase	CDS	405	575	.	+	.	ID=CDS:F40D4.17;Parent=Transcript:F40D4.17.1
+ch.2_310	WormBase	exon	332	575	.	+	.	Parent=Transcript:F40D4.17.1
+ch.2_310	RNASeq_reads	transcript_region	332	575	8.0	.	.	
+ch.2_310	RNASeq_stranded	transcript_region	478	532	4.0	+	.	
+ch.2_310	RNASeq_stranded	transcript_region	332	477	2.0	+	.	
+ch.2_310	WormBase	five_prime_UTR	332	404	.	+	.	Parent=Transcript:F40D4.17.1
+ch.2_310	RNASeq_splice	intron	187	353	4.0	+	.	
+ch.2_310	RNASeq_splice	intron	187	341	46.0	+	.	
+ch.2_310	WormBase	intron	187	331	.	+	.	Parent=Transcript:F40D4.17.1
+ch.2_310	RNASeq_splice	intron	187	331	38470.0	+	.	
+ch.2_310	RNASeq_splice	intron	187	299	7.0	+	.	
+ch.2_310	RNASeq_R_asymmetry	transcript_region	192	195	312.0	.	.	
+ch.2_310	RNASeq_stranded	transcript_region	132	186	4.0	+	.	
+ch.2_310	RNASeq_reads	transcript_region	131	186	8.0	.	.	
+ch.2_310	WormBase	exon	101	186	.	+	.	Parent=Transcript:F40D4.17.1
+ch.2_310	WormBase	five_prime_UTR	101	186	.	+	.	Parent=Transcript:F40D4.17.1
+ch.2_310	RNASeq_R_asymmetry	transcript_region	123	177	35343.0	.	.	
+ch.2_310	RNASeq_stranded	transcript_region	116	131	2.0	+	.	
+ch.2_310	RNASeq_reads	transcript_region	115	130	5.0	.	.	
+ch.2_310	RNASeq_R_asymmetry	transcript_region	111	122	22366.0	.	.	
+ch.2_310	RNASeq_stranded	transcript_region	105	115	1.0	+	.	
+ch.2_310	RNASeq_reads	transcript_region	105	114	3.0	.	.	
+ch.2_310	RNASeq_R_asymmetry	transcript_region	108	110	14744.0	.	.	
+ch.2_310	RNASeq_R_asymmetry	transcript_region	105	107	9247.0	.	.	
+ch.2_310	RNASeq_R_asymmetry	transcript_region	101	104	5481.0	.	.	
+ch.2_310	RNASeq_reads	transcript_region	101	104	1.0	.	.	

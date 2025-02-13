@@ -1,0 +1,55 @@
+ch.1_171	WormBase	CDS	101	202	.	+	.	ID=CDS:T12B5.14;Parent=Transcript:T12B5.14.1
+ch.1_171	WormBase	exon	101	202	.	+	.	Parent=Transcript:T12B5.14.1
+ch.1_171	WormBase	gene	101	523	.	+	.	ID=Gene:WBGene00050913
+ch.1_171	WormBase	mRNA	101	523	.	+	.	ID=Transcript:T12B5.14.1;Parent=Gene:WBGene00050913
+ch.1_171	RNASeq_F_asymmetry	transcript_region	160	162	1117.0	.	.	
+ch.1_171	RNASeq_F_asymmetry	transcript_region	163	170	2050.0	.	.	
+ch.1_171	RNASeq_reads	transcript_region	166	171	1.0	.	.	
+ch.1_171	RNASeq_F_asymmetry	transcript_region	171	171	3235.0	.	.	
+ch.1_171	RNASeq_F_asymmetry	transcript_region	172	174	13689.0	.	.	
+ch.1_171	RNASeq_reads	transcript_region	172	175	3.0	.	.	
+ch.1_171	RNASeq_stranded	transcript_region	172	182	5.0	+	.	
+ch.1_171	RNASeq_F_asymmetry	transcript_region	175	180	21313.0	.	.	
+ch.1_171	RNASeq_reads	transcript_region	176	184	5.0	.	.	
+ch.1_171	RNASeq_F_asymmetry	transcript_region	181	202	33277.0	.	.	
+ch.1_171	RNASeq_stranded	transcript_region	183	202	8.0	+	.	
+ch.1_171	RNASeq_reads	transcript_region	185	202	8.0	.	.	
+ch.1_171	RNASeq_F_asymmetry	transcript_region	203	206	2630.0	.	.	
+ch.1_171	RNASeq_reads	transcript_region	203	206	1.0	.	.	
+ch.1_171	WormBase	intron	203	250	.	+	.	Parent=Transcript:T12B5.14.1
+ch.1_171	RNASeq_splice	intron	203	250	55628.0	+	.	
+ch.1_171	RNASeq_splice	intron	207	250	6.0	+	.	
+ch.1_171	RNASeq_stranded	transcript_region	251	269	8.0	+	.	
+ch.1_171	RNASeq_F_asymmetry	transcript_region	251	285	48335.0	.	.	
+ch.1_171	RNASeq_reads	transcript_region	251	319	10.0	.	.	
+ch.1_171	WormBase	CDS	251	481	.	+	.	ID=CDS:T12B5.14;Parent=Transcript:T12B5.14.1
+ch.1_171	WormBase	exon	251	523	.	+	.	Parent=Transcript:T12B5.14.1
+ch.1_171	RNASeq_stranded	transcript_region	270	276	5.0	+	.	
+ch.1_171	RNASeq_stranded	transcript_region	277	347	3.0	+	.	
+ch.1_171	RNASeq_stranded	transcript_region	311	373	1.0	-	.	
+ch.1_171	RNASeq_reads	transcript_region	320	461	16.0	.	.	
+ch.1_171	RNASeq_stranded	transcript_region	348	375	5.0	+	.	
+ch.1_171	RNASeq_stranded	transcript_region	376	465	8.0	+	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	395	400	67205.0	.	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	403	403	61698.0	.	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	409	465	59793.0	.	.	
+ch.1_171	RNASeq_stranded	transcript_region	418	469	1.0	-	.	
+ch.1_171	RNASeq_reads	transcript_region	462	468	10.0	.	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	466	468	37502.0	.	.	
+ch.1_171	RNASeq_stranded	transcript_region	466	487	5.0	+	.	
+ch.1_171	RNASeq_reads	transcript_region	469	478	5.0	.	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	469	481	19399.0	.	.	
+ch.1_171	RNASeq	transcription_end_site	471	471	.	+	.	
+ch.1_171	RNASeq_reads	transcript_region	479	515	3.0	.	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	482	503	12762.0	.	.	
+ch.1_171	WormBase	three_prime_UTR	482	523	.	+	.	Parent=Transcript:T12B5.14.1
+ch.1_171	RNASeq_stranded	transcript_region	488	513	3.0	+	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	504	519	8305.0	.	.	
+ch.1_171	RNASeq_stranded	transcript_region	514	521	1.0	+	.	
+ch.1_171	RNASeq_reads	transcript_region	516	523	1.0	.	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	520	522	5173.0	.	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	523	523	2534.0	.	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	526	526	617.0	.	.	
+ch.1_171	RNASeq_R_asymmetry	transcript_region	527	527	329.0	.	.	
+ch.1_171	RNASeq	transcription_end_site	532	532	.	+	.	
+ch.1_171	RNASeq	transcription_end_site	535	535	.	+	.	

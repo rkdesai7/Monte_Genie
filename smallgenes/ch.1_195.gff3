@@ -1,0 +1,68 @@
+ch.1_195	RNASeq_stranded	transcript_region	46	95	1.0	+	.	
+ch.1_195	RNASeq_splice	intron	52	100	5.0	+	.	
+ch.1_195	RNASeq_reads	transcript_region	56	95	4.0	.	.	
+ch.1_195	RNASeq_F_asymmetry	transcript_region	67	84	15995.0	.	.	
+ch.1_195	RNASeq_F_asymmetry	transcript_region	86	88	20543.0	.	.	
+ch.1_195	RNASeq_F_asymmetry	transcript_region	96	98	40444.0	.	.	
+ch.1_195	RNASeq_reads	transcript_region	96	98	10.0	.	.	
+ch.1_195	RNASeq_stranded	transcript_region	96	98	2.0	+	.	
+ch.1_195	RNASeq_reads	transcript_region	99	103	105.0	.	.	
+ch.1_195	RNASeq_F_asymmetry	transcript_region	99	104	520148.0	.	.	
+ch.1_195	RNASeq_stranded	transcript_region	99	114	35.0	+	.	
+ch.1_195	WormBase	five_prime_UTR	101	192	.	+	.	Parent=Transcript:Y37E3.4.1
+ch.1_195	WormBase	exon	101	294	.	+	.	Parent=Transcript:Y37E3.4.1
+ch.1_195	WormBase	gene	101	606	.	+	.	ID=Gene:WBGene00021348
+ch.1_195	WormBase	mRNA	101	606	.	+	.	ID=Transcript:Y37E3.4.1;Parent=Gene:WBGene00021348
+ch.1_195	RNASeq_reads	transcript_region	104	120	159.0	.	.	
+ch.1_195	RNASeq_F_asymmetry	transcript_region	105	129	787241.0	.	.	
+ch.1_195	RNASeq_stranded	transcript_region	115	183	54.0	+	.	
+ch.1_195	RNASeq_reads	transcript_region	121	167	239.0	.	.	
+ch.1_195	RNASeq_F_asymmetry	transcript_region	130	168	1210300.0	.	.	
+ch.1_195	RNASeq_stranded	transcript_region	152	294	1.0	-	.	
+ch.1_195	RNASeq_reads	transcript_region	168	294	359.0	.	.	
+ch.1_195	RNASeq_stranded	transcript_region	184	294	84.0	+	.	
+ch.1_195	WormBase	CDS	193	294	.	+	.	ID=CDS:Y37E3.4;Parent=Transcript:Y37E3.4.1
+ch.1_195	RNASeq_splice	intron	293	697	4.0	-	.	
+ch.1_195	RNASeq_reads	transcript_region	295	295	46.0	.	.	
+ch.1_195	RNASeq_stranded	transcript_region	295	295	12.0	+	.	
+ch.1_195	RNASeq_splice	intron	295	338	136.0	+	.	
+ch.1_195	WormBase	intron	295	357	.	+	.	Parent=Transcript:Y37E3.4.1
+ch.1_195	RNASeq_splice	intron	295	357	1819810.0	+	.	
+ch.1_195	RNASeq_reads	transcript_region	296	357	1.0	.	.	
+ch.1_195	RNASeq_splice	intron	299	357	7.0	+	.	
+ch.1_195	RNASeq_stranded	transcript_region	358	441	1.0	-	.	
+ch.1_195	RNASeq_stranded	transcript_region	358	452	69.0	+	.	
+ch.1_195	RNASeq_reads	transcript_region	358	478	340.0	.	.	
+ch.1_195	WormBase	CDS	358	504	.	+	.	ID=CDS:Y37E3.4;Parent=Transcript:Y37E3.4.1
+ch.1_195	WormBase	exon	358	606	.	+	.	Parent=Transcript:Y37E3.4.1
+ch.1_195	RNASeq_stranded	transcript_region	453	476	106.0	+	.	
+ch.1_195	RNASeq_stranded	transcript_region	477	578	165.0	+	.	
+ch.1_195	RNASeq_reads	transcript_region	479	489	224.0	.	.	
+ch.1_195	RNASeq_reads	transcript_region	490	567	147.0	.	.	
+ch.1_195	WormBase	three_prime_UTR	505	606	.	+	.	Parent=Transcript:Y37E3.4.1
+ch.1_195	RNASeq_stranded	transcript_region	516	525	1.0	-	.	
+ch.1_195	RNASeq_stranded	transcript_region	526	601	2.0	-	.	
+ch.1_195	RNASeq	transcription_end_site	544	544	.	+	.	
+ch.1_195	RNASeq	transcription_end_site	546	546	.	+	.	
+ch.1_195	RNASeq_R_asymmetry	transcript_region	556	590	405553.0	.	.	
+ch.1_195	RNASeq_reads	transcript_region	568	590	97.0	.	.	
+ch.1_195	RNASeq	transcription_end_site	577	577	.	+	.	
+ch.1_195	RNASeq_stranded	transcript_region	579	591	108.0	+	.	
+ch.1_195	RNASeq_R_asymmetry	transcript_region	591	598	260555.0	.	.	
+ch.1_195	RNASeq_reads	transcript_region	591	598	63.0	.	.	
+ch.1_195	RNASeq_stranded	transcript_region	592	599	66.0	+	.	
+ch.1_195	RNASeq_R_asymmetry	transcript_region	599	600	143672.0	.	.	
+ch.1_195	RNASeq_reads	transcript_region	599	605	36.0	.	.	
+ch.1_195	RNASeq	transcription_end_site	600	600	.	+	.	
+ch.1_195	RNASeq_stranded	transcript_region	600	605	43.0	+	.	
+ch.1_195	RNASeq_stranded	transcript_region	602	606	1.0	-	.	
+ch.1_195	RNASeq_reads	transcript_region	606	606	16.0	.	.	
+ch.1_195	RNASeq_stranded	transcript_region	606	606	21.0	+	.	
+ch.1_195	RNASeq	transcription_end_site	606	606	.	+	.	
+ch.1_195	RNASeq_reads	transcript_region	607	607	4.0	.	.	
+ch.1_195	RNASeq_stranded	transcript_region	607	607	6.0	+	.	
+ch.1_195	RNASeq	transcription_end_site	607	607	.	+	.	
+ch.1_195	RNASeq_stranded	transcript_region	608	612	1.0	+	.	
+ch.1_195	RNASeq_reads	transcript_region	608	617	2.0	.	.	
+ch.1_195	RNASeq_splice	intron	611	697	26.0	-	.	
+ch.1_195	RNASeq_reads	transcript_region	618	637	1.0	.	.	

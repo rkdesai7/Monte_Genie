@@ -1,0 +1,53 @@
+ch.1_99	RNASeq_stranded	transcript_region	626	626	1.0	-	.	
+ch.1_99	RNASeq_reads	transcript_region	623	626	1.0	.	.	
+ch.1_99	RNASeq_stranded	transcript_region	620	625	2.0	+	.	
+ch.1_99	RNASeq_reads	transcript_region	609	622	2.0	.	.	
+ch.1_99	RNASeq_stranded	transcript_region	616	619	4.0	+	.	
+ch.1_99	RNASeq_stranded	transcript_region	605	615	7.0	+	.	
+ch.1_99	RNASeq_reads	transcript_region	566	608	4.0	.	.	
+ch.1_99	RNASeq_stranded	transcript_region	586	604	11.0	+	.	
+ch.1_99	RNASeq_stranded	transcript_region	514	585	18.0	+	.	
+ch.1_99	WormBase	exon	514	570	.	+	.	Parent=Transcript:VH15N14R.1.1
+ch.1_99	WormBase	CDS	514	570	.	+	.	ID=CDS:VH15N14R.1;Parent=Transcript:VH15N14R.1.1
+ch.1_99	WormBase	gene	101	570	.	+	.	ID=Gene:WBGene00012151
+ch.1_99	WormBase	mRNA	101	570	.	+	.	ID=Transcript:VH15N14R.1.1;Parent=Gene:WBGene00012151
+ch.1_99	RNASeq_reads	transcript_region	543	565	7.0	.	.	
+ch.1_99	RNASeq_reads	transcript_region	514	542	11.0	.	.	
+ch.1_99	RNASeq_reads	transcript_region	513	513	3.0	.	.	
+ch.1_99	RNASeq_stranded	transcript_region	513	513	9.0	-	.	
+ch.1_99	WormBase	intron	467	513	.	+	.	Parent=Transcript:VH15N14R.1.1
+ch.1_99	RNASeq_splice	intron	467	513	43685.0	+	.	
+ch.1_99	RNASeq_stranded	transcript_region	503	512	1.0	+	.	
+ch.1_99	RNASeq_reads	transcript_region	488	512	1.0	.	.	
+ch.1_99	RNASeq_reads	transcript_region	477	478	1.0	.	.	
+ch.1_99	RNASeq_stranded	transcript_region	424	466	11.0	+	.	
+ch.1_99	RNASeq_reads	transcript_region	413	466	8.0	.	.	
+ch.1_99	WormBase	CDS	101	466	.	+	.	ID=CDS:VH15N14R.1;Parent=Transcript:VH15N14R.1.1
+ch.1_99	WormBase	exon	101	466	.	+	.	Parent=Transcript:VH15N14R.1.1
+ch.1_99	RNASeq_splice	intron	320	430	40.0	-	.	
+ch.1_99	RNASeq_splice	intron	235	430	3.0	-	.	
+ch.1_99	RNASeq_stranded	transcript_region	418	423	7.0	+	.	
+ch.1_99	RNASeq_stranded	transcript_region	413	417	4.0	+	.	
+ch.1_99	RNASeq_stranded	transcript_region	406	412	2.0	+	.	
+ch.1_99	RNASeq_reads	transcript_region	399	412	5.0	.	.	
+ch.1_99	RNASeq_splice	intron	348	410	24.0	-	.	
+ch.1_99	RNASeq_splice	intron	219	409	5.0	-	.	
+ch.1_99	RNASeq_stranded	transcript_region	385	405	1.0	+	.	
+ch.1_99	RNASeq_splice	intron	360	402	6.0	-	.	
+ch.1_99	RNASeq_reads	transcript_region	398	398	3.0	.	.	
+ch.1_99	RNASeq_reads	transcript_region	389	397	5.0	.	.	
+ch.1_99	RNASeq_splice	intron	315	394	6.0	-	.	
+ch.1_99	RNASeq	possible_base_call_error	392	393	.	-	.	
+ch.1_99	RNASeq_reads	transcript_region	357	388	8.0	.	.	
+ch.1_99	RNASeq_stranded	transcript_region	339	384	2.0	+	.	
+ch.1_99	RNASeq_splice	intron	329	358	1131.0	+	.	
+ch.1_99	RNASeq_reads	transcript_region	154	356	13.0	.	.	
+ch.1_99	RNASeq_stranded	transcript_region	312	338	4.0	+	.	
+ch.1_99	RNASeq_stranded	transcript_region	215	311	2.0	+	.	
+ch.1_99	RNASeq_stranded	transcript_region	185	214	4.0	+	.	
+ch.1_99	RNASeq_stranded	transcript_region	164	184	2.0	+	.	
+ch.1_99	RNASeq_stranded	transcript_region	111	163	1.0	+	.	
+ch.1_99	RNASeq_reads	transcript_region	93	153	8.0	.	.	
+ch.1_99	RNASeq_stranded	transcript_region	93	108	1.0	+	.	
+ch.1_99	RNASeq_reads	transcript_region	91	92	1.0	.	.	
+ch.1_99	RNASeq_splice	intron	33	92	31.0	+	.	

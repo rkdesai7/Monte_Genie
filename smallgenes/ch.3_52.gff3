@@ -1,0 +1,51 @@
+ch.3_52	RNASeq_splice	intron	610	824	4.0	+	.	
+ch.3_52	RNASeq_stranded	transcript_region	744	747	1.0	+	.	
+ch.3_52	RNASeq_reads	transcript_region	731	743	1.0	.	.	
+ch.3_52	RNASeq_stranded	transcript_region	730	743	2.0	+	.	
+ch.3_52	WormBase	three_prime_UTR	703	743	.	+	.	Parent=Transcript:D2096.5.1
+ch.3_52	WormBase	exon	660	743	.	+	.	Parent=Transcript:D2096.5.1
+ch.3_52	WormBase	gene	101	743	.	+	.	ID=Gene:WBGene00017072
+ch.3_52	WormBase	mRNA	101	743	.	+	.	ID=Transcript:D2096.5.1;Parent=Gene:WBGene00017072
+ch.3_52	RNASeq_reads	transcript_region	700	730	2.0	.	.	
+ch.3_52	RNASeq_stranded	transcript_region	711	729	4.0	+	.	
+ch.3_52	RNASeq_stranded	transcript_region	685	710	7.0	+	.	
+ch.3_52	WormBase	CDS	660	702	.	+	.	ID=CDS:D2096.5;Parent=Transcript:D2096.5.1
+ch.3_52	RNASeq_reads	transcript_region	660	699	4.0	.	.	
+ch.3_52	RNASeq_stranded	transcript_region	660	684	11.0	+	.	
+ch.3_52	RNASeq_stranded	transcript_region	659	659	1.0	-	.	
+ch.3_52	WormBase	intron	610	659	.	+	.	Parent=Transcript:D2096.5.1
+ch.3_52	RNASeq_splice	intron	610	659	21654.0	+	.	
+ch.3_52	RNASeq_splice	intron	610	650	63.0	+	.	
+ch.3_52	RNASeq_stranded	transcript_region	548	609	12.0	+	.	
+ch.3_52	WormBase	CDS	506	609	.	+	.	ID=CDS:D2096.5;Parent=Transcript:D2096.5.1
+ch.3_52	WormBase	exon	506	609	.	+	.	Parent=Transcript:D2096.5.1
+ch.3_52	RNASeq_reads	transcript_region	506	609	5.0	.	.	
+ch.3_52	RNASeq_stranded	transcript_region	513	547	7.0	+	.	
+ch.3_52	RNASeq_stranded	transcript_region	506	512	4.0	+	.	
+ch.3_52	RNASeq_stranded	transcript_region	504	505	1.0	+	.	
+ch.3_52	RNASeq_reads	transcript_region	503	505	1.0	.	.	
+ch.3_52	WormBase	intron	461	505	.	+	.	Parent=Transcript:D2096.5.1
+ch.3_52	RNASeq_splice	intron	461	505	18030.0	+	.	
+ch.3_52	RNASeq_splice	intron	431	505	36.0	+	.	
+ch.3_52	RNASeq_stranded	transcript_region	400	460	3.0	+	.	
+ch.3_52	WormBase	CDS	361	460	.	+	.	ID=CDS:D2096.5;Parent=Transcript:D2096.5.1
+ch.3_52	WormBase	exon	361	460	.	+	.	Parent=Transcript:D2096.5.1
+ch.3_52	RNASeq_reads	transcript_region	361	460	4.0	.	.	
+ch.3_52	RNASeq_stranded	transcript_region	361	399	5.0	+	.	
+ch.3_52	RNASeq	transcription_end_site	362	362	.	-	.	
+ch.3_52	RNASeq	transcription_end_site	362	362	.	-	.	
+ch.3_52	WormBase	intron	318	360	.	+	.	Parent=Transcript:D2096.5.1
+ch.3_52	RNASeq_reads	transcript_region	318	360	1.0	.	.	
+ch.3_52	RNASeq_splice	intron	318	360	19848.0	+	.	
+ch.3_52	RNASeq_splice	intron	298	360	3.0	+	.	
+ch.3_52	RNASeq_reads	transcript_region	247	317	5.0	.	.	
+ch.3_52	RNASeq_stranded	transcript_region	166	317	3.0	+	.	
+ch.3_52	WormBase	CDS	151	317	.	+	.	ID=CDS:D2096.5;Parent=Transcript:D2096.5.1
+ch.3_52	WormBase	exon	101	317	.	+	.	Parent=Transcript:D2096.5.1
+ch.3_52	RNASeq_reads	transcript_region	157	246	3.0	.	.	
+ch.3_52	RNASeq_R_asymmetry	transcript_region	229	232	12077.0	.	.	
+ch.3_52	RNASeq_R_asymmetry	transcript_region	158	198	9457.0	.	.	
+ch.3_52	RNASeq_stranded	transcript_region	98	165	1.0	+	.	
+ch.3_52	RNASeq_reads	transcript_region	156	156	1.0	.	.	
+ch.3_52	RNASeq_reads	transcript_region	155	155	2.0	.	.	
+ch.3_52	WormBase	five_prime_UTR	101	150	.	+	.	Parent=Transcript:D2096.5.1

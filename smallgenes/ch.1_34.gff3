@@ -1,0 +1,75 @@
+ch.1_34	RNASeq_F_asymmetry	transcript_region	88	88	4378.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	88	88	1.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	89	95	1.0	+	.	
+ch.1_34	RNASeq_F_asymmetry	transcript_region	89	96	8632.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	89	98	2.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	96	98	2.0	+	.	
+ch.1_34	RNASeq_F_asymmetry	transcript_region	97	98	13152.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	99	101	48.0	+	.	
+ch.1_34	RNASeq_F_asymmetry	transcript_region	99	103	342543.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	99	103	67.0	.	.	
+ch.1_34	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:Y38E10A.24.1
+ch.1_34	WormBase	exon	101	239	.	+	.	Parent=Transcript:Y38E10A.24.1
+ch.1_34	WormBase	gene	101	479	.	+	.	ID=Gene:WBGene00012602
+ch.1_34	WormBase	mRNA	101	479	.	+	.	ID=Transcript:Y38E10A.24.1;Parent=Gene:WBGene00012602
+ch.1_34	RNASeq_stranded	transcript_region	102	104	79.0	+	.	
+ch.1_34	WormBase	CDS	102	239	.	+	.	ID=CDS:Y38E10A.24;Parent=Transcript:Y38E10A.24.1
+ch.1_34	RNASeq_F_asymmetry	transcript_region	104	110	569202.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	104	110	111.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	105	217	128.0	+	.	
+ch.1_34	RNASeq_reads	transcript_region	111	157	172.0	.	.	
+ch.1_34	RNASeq_F_asymmetry	transcript_region	111	175	873286.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	158	239	260.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	177	190	1.0	-	.	
+ch.1_34	RNASeq_splice	intron	187	218	3.0	+	.	
+ch.1_34	RNASeq_stranded	transcript_region	191	193	3.0	-	.	
+ch.1_34	RNASeq_stranded	transcript_region	194	239	9.0	-	.	
+ch.1_34	RNASeq_stranded	transcript_region	218	239	83.0	+	.	
+ch.1_34	RNASeq_reads	transcript_region	240	240	22.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	240	240	10.0	+	.	
+ch.1_34	WormBase	intron	240	325	.	+	.	Parent=Transcript:Y38E10A.24.1
+ch.1_34	RNASeq_splice	intron	240	325	1479470.0	+	.	
+ch.1_34	RNASeq_splice	intron	246	325	183.0	+	.	
+ch.1_34	RNASeq_splice	intron	260	306	54.0	-	.	
+ch.1_34	RNASeq_reads	transcript_region	319	323	1.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	324	325	25.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	324	325	6.0	+	.	
+ch.1_34	RNASeq_stranded	transcript_region	326	370	59.0	+	.	
+ch.1_34	RNASeq_stranded	transcript_region	326	379	9.0	-	.	
+ch.1_34	WormBase	CDS	326	394	.	+	.	ID=CDS:Y38E10A.24;Parent=Transcript:Y38E10A.24.1
+ch.1_34	RNASeq_reads	transcript_region	326	403	256.0	.	.	
+ch.1_34	WormBase	exon	326	479	.	+	.	Parent=Transcript:Y38E10A.24.1
+ch.1_34	RNASeq_R_asymmetry	transcript_region	340	403	1147660.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	371	433	89.0	+	.	
+ch.1_34	RNASeq_stranded	transcript_region	380	382	1.0	-	.	
+ch.1_34	RNASeq_splice	intron	382	474	6.0	-	.	
+ch.1_34	RNASeq_stranded	transcript_region	384	408	1.0	-	.	
+ch.1_34	WormBase	three_prime_UTR	395	479	.	+	.	Parent=Transcript:Y38E10A.24.1
+ch.1_34	RNASeq_R_asymmetry	transcript_region	404	424	680843.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	404	424	160.0	.	.	
+ch.1_34	RNASeq_R_asymmetry	transcript_region	425	433	429083.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	425	433	101.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	434	441	46.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	434	444	58.0	+	.	
+ch.1_34	RNASeq_reads	transcript_region	442	453	30.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	445	451	37.0	+	.	
+ch.1_34	RNASeq_stranded	transcript_region	452	457	24.0	+	.	
+ch.1_34	RNASeq_reads	transcript_region	454	464	19.0	.	.	
+ch.1_34	RNASeq_R_asymmetry	transcript_region	457	461	70309.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	458	467	15.0	+	.	
+ch.1_34	WormBase	three_prime_UTR	459	480	.	-	.	Parent=Transcript:Y38E10A.33.1
+ch.1_34	WormBase	exon	459	543	.	-	.	Parent=Transcript:Y38E10A.33.1
+ch.1_34	RNASeq_reads	transcript_region	465	473	12.0	.	.	
+ch.1_34	RNASeq_R_asymmetry	transcript_region	467	470	45796.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	468	473	9.0	+	.	
+ch.1_34	RNASeq_reads	transcript_region	474	475	5.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	474	475	5.0	+	.	
+ch.1_34	RNASeq_reads	transcript_region	476	480	3.0	.	.	
+ch.1_34	RNASeq_stranded	transcript_region	476	480	1.0	+	.	
+ch.1_34	RNASeq	transcription_end_site	478	478	.	+	.	
+ch.1_34	RNASeq	transcription_end_site	480	480	.	+	.	
+ch.1_34	RNASeq_reads	transcript_region	481	532	1.0	.	.	
+ch.1_34	WormBase	CDS	481	543	.	-	.	ID=CDS:Y38E10A.33;Parent=Transcript:Y38E10A.33.1
+ch.1_34	RNASeq	transcription_end_site	501	501	.	+	.	
+ch.1_34	RNASeq_reads	transcript_region	533	539	2.0	.	.	
+ch.1_34	RNASeq_reads	transcript_region	540	543	1.0	.	.	

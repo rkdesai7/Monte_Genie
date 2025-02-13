@@ -1,0 +1,60 @@
+ch.3_26	RNASeq_reads	transcript_region	50	80	1.0	.	.	
+ch.3_26	RNASeq_F_asymmetry	transcript_region	58	68	3221.0	.	.	
+ch.3_26	RNASeq_F_asymmetry	transcript_region	69	81	4844.0	.	.	
+ch.3_26	RNASeq_reads	transcript_region	81	89	2.0	.	.	
+ch.3_26	RNASeq_F_asymmetry	transcript_region	82	85	7275.0	.	.	
+ch.3_26	RNASeq_stranded	transcript_region	86	88	1.0	+	.	
+ch.3_26	RNASeq_F_asymmetry	transcript_region	86	93	13788.0	.	.	
+ch.3_26	RNASeq_stranded	transcript_region	89	108	2.0	+	.	
+ch.3_26	RNASeq_reads	transcript_region	90	102	4.0	.	.	
+ch.3_26	RNASeq_F_asymmetry	transcript_region	94	102	20883.0	.	.	
+ch.3_26	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:F35A5.2.1
+ch.3_26	WormBase	exon	101	162	.	+	.	Parent=Transcript:F35A5.2.1
+ch.3_26	WormBase	gene	101	713	.	+	.	ID=Gene:WBGene00018025
+ch.3_26	WormBase	mRNA	101	713	.	+	.	ID=Transcript:F35A5.2.1;Parent=Gene:WBGene00018025
+ch.3_26	RNASeq_F_asymmetry	transcript_region	103	113	32719.0	.	.	
+ch.3_26	RNASeq_reads	transcript_region	103	113	7.0	.	.	
+ch.3_26	RNASeq_stranded	transcript_region	109	139	4.0	+	.	
+ch.3_26	WormBase	CDS	109	162	.	+	.	ID=CDS:F35A5.2;Parent=Transcript:F35A5.2.1
+ch.3_26	RNASeq_F_asymmetry	transcript_region	114	161	50389.0	.	.	
+ch.3_26	RNASeq_reads	transcript_region	114	162	11.0	.	.	
+ch.3_26	RNASeq_stranded	transcript_region	140	162	2.0	+	.	
+ch.3_26	RNASeq_F_asymmetry	transcript_region	163	163	10067.0	.	.	
+ch.3_26	RNASeq_reads	transcript_region	163	163	2.0	.	.	
+ch.3_26	WormBase	intron	163	209	.	+	.	Parent=Transcript:F35A5.2.1
+ch.3_26	RNASeq_splice	intron	163	209	64952.0	+	.	
+ch.3_26	RNASeq_reads	transcript_region	208	209	3.0	.	.	
+ch.3_26	RNASeq_stranded	transcript_region	210	239	2.0	+	.	
+ch.3_26	WormBase	CDS	210	294	.	+	.	ID=CDS:F35A5.2;Parent=Transcript:F35A5.2.1
+ch.3_26	WormBase	exon	210	294	.	+	.	Parent=Transcript:F35A5.2.1
+ch.3_26	RNASeq_reads	transcript_region	210	294	17.0	.	.	
+ch.3_26	RNASeq_stranded	transcript_region	240	294	4.0	+	.	
+ch.3_26	WormBase	intron	295	340	.	+	.	Parent=Transcript:F35A5.2.1
+ch.3_26	RNASeq_splice	intron	295	340	89548.0	+	.	
+ch.3_26	RNASeq_reads	transcript_region	340	340	3.0	.	.	
+ch.3_26	WormBase	CDS	341	405	.	+	.	ID=CDS:F35A5.2;Parent=Transcript:F35A5.2.1
+ch.3_26	WormBase	exon	341	405	.	+	.	Parent=Transcript:F35A5.2.1
+ch.3_26	RNASeq_reads	transcript_region	341	405	19.0	.	.	
+ch.3_26	RNASeq_stranded	transcript_region	341	405	3.0	+	.	
+ch.3_26	RNASeq_reads	transcript_region	406	406	2.0	.	.	
+ch.3_26	WormBase	intron	406	451	.	+	.	Parent=Transcript:F35A5.2.1
+ch.3_26	RNASeq_splice	intron	406	451	93071.0	+	.	
+ch.3_26	RNASeq_stranded	transcript_region	452	576	2.0	+	.	
+ch.3_26	WormBase	CDS	452	583	.	+	.	ID=CDS:F35A5.2;Parent=Transcript:F35A5.2.1
+ch.3_26	RNASeq_reads	transcript_region	452	630	18.0	.	.	
+ch.3_26	WormBase	exon	452	713	.	+	.	Parent=Transcript:F35A5.2.1
+ch.3_26	RNASeq_stranded	transcript_region	577	637	4.0	+	.	
+ch.3_26	WormBase	three_prime_UTR	584	713	.	+	.	Parent=Transcript:F35A5.2.1
+ch.3_26	RNASeq_reads	transcript_region	631	675	11.0	.	.	
+ch.3_26	RNASeq_stranded	transcript_region	638	665	2.0	+	.	
+ch.3_26	RNASeq_R_asymmetry	transcript_region	650	681	44663.0	.	.	
+ch.3_26	RNASeq	transcription_end_site	653	653	.	+	.	
+ch.3_26	RNASeq_stranded	transcript_region	666	706	1.0	+	.	
+ch.3_26	RNASeq_reads	transcript_region	676	688	7.0	.	.	
+ch.3_26	RNASeq_R_asymmetry	transcript_region	682	691	27455.0	.	.	
+ch.3_26	RNASeq_reads	transcript_region	689	697	4.0	.	.	
+ch.3_26	RNASeq_R_asymmetry	transcript_region	692	695	17906.0	.	.	
+ch.3_26	RNASeq_R_asymmetry	transcript_region	696	702	10537.0	.	.	
+ch.3_26	RNASeq_reads	transcript_region	698	705	2.0	.	.	
+ch.3_26	RNASeq_R_asymmetry	transcript_region	704	705	6519.0	.	.	
+ch.3_26	RNASeq_reads	transcript_region	706	713	1.0	.	.	

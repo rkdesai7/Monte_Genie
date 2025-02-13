@@ -1,0 +1,62 @@
+ch.1_121	RNASeq	transcription_end_site	577	577	.	-	.	
+ch.1_121	RNASeq	transcription_end_site	577	577	.	-	.	
+ch.1_121	RNASeq	transcription_end_site	570	570	.	-	.	
+ch.1_121	RNASeq	transcription_end_site	570	570	.	-	.	
+ch.1_121	RNASeq_reads	transcript_region	567	569	1.0	.	.	
+ch.1_121	RNASeq_stranded	transcript_region	567	569	1.0	+	.	
+ch.1_121	WormBase	three_prime_UTR	359	569	.	+	.	Parent=Transcript:T24F1.5.1
+ch.1_121	WormBase	exon	261	569	.	+	.	Parent=Transcript:T24F1.5.1
+ch.1_121	WormBase	gene	101	569	.	+	.	ID=Gene:WBGene00011997
+ch.1_121	WormBase	mRNA	101	569	.	+	.	ID=Transcript:T24F1.5.1;Parent=Gene:WBGene00011997
+ch.1_121	RNASeq_reads	transcript_region	549	566	2.0	.	.	
+ch.1_121	RNASeq_stranded	transcript_region	549	566	2.0	+	.	
+ch.1_121	RNASeq_stranded	transcript_region	531	548	4.0	+	.	
+ch.1_121	RNASeq_reads	transcript_region	521	548	4.0	.	.	
+ch.1_121	RNASeq_stranded	transcript_region	498	530	7.0	+	.	
+ch.1_121	RNASeq_reads	transcript_region	494	520	9.0	.	.	
+ch.1_121	RNASeq_stranded	transcript_region	373	497	11.0	+	.	
+ch.1_121	RNASeq_reads	transcript_region	472	493	14.0	.	.	
+ch.1_121	RNASeq_F_asymmetry	transcript_region	454	491	71314.0	.	.	
+ch.1_121	RNASeq_reads	transcript_region	403	471	22.0	.	.	
+ch.1_121	RNASeq	transcription_end_site	443	443	.	-	.	
+ch.1_121	RNASeq	transcription_end_site	435	435	.	-	.	
+ch.1_121	RNASeq	transcription_end_site	435	435	.	-	.	
+ch.1_121	RNASeq	transcription_end_site	434	434	.	-	.	
+ch.1_121	RNASeq	transcription_end_site	434	434	.	-	.	
+ch.1_121	RNASeq	transcription_end_site	418	418	.	-	.	
+ch.1_121	RNASeq	transcription_end_site	418	418	.	-	.	
+ch.1_121	RNASeq_reads	transcript_region	261	402	36.0	.	.	
+ch.1_121	RNASeq_stranded	transcript_region	344	394	1.0	-	.	
+ch.1_121	RNASeq_stranded	transcript_region	318	372	5.0	+	.	
+ch.1_121	WormBase	CDS	261	358	.	+	.	ID=CDS:T24F1.5;Parent=Transcript:T24F1.5.1
+ch.1_121	RNASeq_stranded	transcript_region	278	317	8.0	+	.	
+ch.1_121	RNASeq_stranded	transcript_region	261	314	1.0	-	.	
+ch.1_121	RNASeq_stranded	transcript_region	261	277	13.0	+	.	
+ch.1_121	RNASeq_splice	intron	216	263	14.0	+	.	
+ch.1_121	RNASeq_splice	intron	212	263	11.0	+	.	
+ch.1_121	WormBase	intron	212	260	.	+	.	Parent=Transcript:T24F1.5.1
+ch.1_121	RNASeq_splice	intron	212	260	215725.0	+	.	
+ch.1_121	RNASeq_splice	intron	203	260	12.0	+	.	
+ch.1_121	RNASeq_splice	intron	212	255	1152.0	+	.	
+ch.1_121	RNASeq_stranded	transcript_region	206	211	10.0	+	.	
+ch.1_121	RNASeq_reads	transcript_region	129	211	44.0	.	.	
+ch.1_121	WormBase	CDS	115	211	.	+	.	ID=CDS:T24F1.5;Parent=Transcript:T24F1.5.1
+ch.1_121	WormBase	exon	101	211	.	+	.	Parent=Transcript:T24F1.5.1
+ch.1_121	RNASeq_stranded	transcript_region	189	205	16.0	+	.	
+ch.1_121	RNASeq_stranded	transcript_region	138	188	29.0	+	.	
+ch.1_121	RNASeq_R_asymmetry	transcript_region	124	173	181483.0	.	.	
+ch.1_121	RNASeq_stranded	transcript_region	136	137	17.0	+	.	
+ch.1_121	RNASeq_stranded	transcript_region	131	135	11.0	+	.	
+ch.1_121	RNASeq_stranded	transcript_region	125	130	5.0	+	.	
+ch.1_121	RNASeq_reads	transcript_region	110	128	28.0	.	.	
+ch.1_121	RNASeq_stranded	transcript_region	115	124	3.0	+	.	
+ch.1_121	RNASeq_R_asymmetry	transcript_region	106	123	116373.0	.	.	
+ch.1_121	WormBase	five_prime_UTR	101	114	.	+	.	Parent=Transcript:T24F1.5.1
+ch.1_121	RNASeq_stranded	transcript_region	101	114	1.0	+	.	
+ch.1_121	RNASeq_reads	transcript_region	103	109	18.0	.	.	
+ch.1_121	RNASeq_R_asymmetry	transcript_region	103	105	74889.0	.	.	
+ch.1_121	RNASeq_R_asymmetry	transcript_region	101	102	46978.0	.	.	
+ch.1_121	RNASeq_reads	transcript_region	101	102	10.0	.	.	
+ch.1_121	RNASeq_R_asymmetry	transcript_region	98	100	29468.0	.	.	
+ch.1_121	RNASeq_reads	transcript_region	98	100	6.0	.	.	
+ch.1_121	RNASeq_R_asymmetry	transcript_region	82	84	727.0	.	.	

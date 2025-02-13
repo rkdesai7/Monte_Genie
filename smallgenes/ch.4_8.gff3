@@ -1,0 +1,67 @@
+ch.4_8	WormBase	five_prime_UTR	101	161	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	WormBase	exon	101	191	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	WormBase	gene	101	779	.	+	.	ID=Gene:WBGene00007382
+ch.4_8	WormBase	mRNA	101	779	.	+	.	ID=Transcript:C06C6.8.1;Parent=Gene:WBGene00007382
+ch.4_8	RNASeq_F_asymmetry	transcript_region	116	123	344.0	.	.	
+ch.4_8	RNASeq_F_asymmetry	transcript_region	124	127	517.0	.	.	
+ch.4_8	RNASeq_F_asymmetry	transcript_region	128	131	801.0	.	.	
+ch.4_8	RNASeq_F_asymmetry	transcript_region	132	138	1367.0	.	.	
+ch.4_8	RNASeq_F_asymmetry	transcript_region	139	149	2145.0	.	.	
+ch.4_8	RNASeq_reads	transcript_region	142	157	1.0	.	.	
+ch.4_8	RNASeq_F_asymmetry	transcript_region	150	156	3597.0	.	.	
+ch.4_8	RNASeq_F_asymmetry	transcript_region	157	174	6990.0	.	.	
+ch.4_8	RNASeq_reads	transcript_region	158	191	2.0	.	.	
+ch.4_8	WormBase	CDS	162	191	.	+	.	ID=CDS:C06C6.8;Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_F_asymmetry	transcript_region	175	191	10550.0	.	.	
+ch.4_8	WormBase	intron	192	258	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_splice	intron	192	258	14456.0	+	.	
+ch.4_8	RNASeq_F_asymmetry	transcript_region	259	272	10993.0	.	.	
+ch.4_8	WormBase	CDS	259	345	.	+	.	ID=CDS:C06C6.8;Parent=Transcript:C06C6.8.1
+ch.4_8	WormBase	exon	259	345	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_reads	transcript_region	259	345	3.0	.	.	
+ch.4_8	RNASeq_stranded	transcript_region	269	335	1.0	+	.	
+ch.4_8	RNASeq_stranded	transcript_region	336	336	2.0	+	.	
+ch.4_8	RNASeq_stranded	transcript_region	337	337	1.0	+	.	
+ch.4_8	RNASeq_stranded	transcript_region	338	338	2.0	+	.	
+ch.4_8	RNASeq_stranded	transcript_region	339	345	1.0	+	.	
+ch.4_8	RNASeq_reads	transcript_region	346	346	1.0	.	.	
+ch.4_8	WormBase	intron	346	392	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_splice	intron	346	392	21488.0	+	.	
+ch.4_8	RNASeq_stranded	transcript_region	393	400	1.0	+	.	
+ch.4_8	WormBase	CDS	393	472	.	+	.	ID=CDS:C06C6.8;Parent=Transcript:C06C6.8.1
+ch.4_8	WormBase	exon	393	472	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_reads	transcript_region	393	472	4.0	.	.	
+ch.4_8	RNASeq_stranded	transcript_region	401	454	2.0	+	.	
+ch.4_8	RNASeq_stranded	transcript_region	455	472	1.0	+	.	
+ch.4_8	RNASeq_reads	transcript_region	473	473	1.0	.	.	
+ch.4_8	WormBase	intron	473	516	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_splice	intron	473	516	24920.0	+	.	
+ch.4_8	RNASeq_stranded	transcript_region	517	547	2.0	+	.	
+ch.4_8	WormBase	CDS	517	576	.	+	.	ID=CDS:C06C6.8;Parent=Transcript:C06C6.8.1
+ch.4_8	WormBase	exon	517	576	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_reads	transcript_region	517	576	5.0	.	.	
+ch.4_8	RNASeq_stranded	transcript_region	548	576	4.0	+	.	
+ch.4_8	WormBase	intron	577	623	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_splice	intron	577	623	20071.0	+	.	
+ch.4_8	RNASeq_F_asymmetry	transcript_region	578	581	663.0	.	.	
+ch.4_8	RNASeq_splice	intron	581	623	5.0	+	.	
+ch.4_8	RNASeq_reads	transcript_region	624	689	4.0	.	.	
+ch.4_8	RNASeq_stranded	transcript_region	624	690	3.0	+	.	
+ch.4_8	WormBase	CDS	624	693	.	+	.	ID=CDS:C06C6.8;Parent=Transcript:C06C6.8.1
+ch.4_8	WormBase	exon	624	779	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_R_asymmetry	transcript_region	687	699	10675.0	.	.	
+ch.4_8	RNASeq_reads	transcript_region	690	722	2.0	.	.	
+ch.4_8	RNASeq_stranded	transcript_region	691	716	1.0	+	.	
+ch.4_8	WormBase	three_prime_UTR	691	796	.	-	.	Parent=Transcript:C06C6.5a.1
+ch.4_8	WormBase	three_prime_UTR	694	779	.	+	.	Parent=Transcript:C06C6.8.1
+ch.4_8	RNASeq_reads	transcript_region	723	740	1.0	.	.	
+ch.4_8	WormBase	three_prime_UTR	726	796	.	-	.	Parent=Transcript:C06C6.5a.2
+ch.4_8	RNASeq_stranded	transcript_region	735	736	1.0	-	.	
+ch.4_8	WormBase	three_prime_UTR	735	796	.	-	.	Parent=Transcript:C06C6.5a.3
+ch.4_8	RNASeq_stranded	transcript_region	737	748	2.0	-	.	
+ch.4_8	RNASeq_reads	transcript_region	741	770	2.0	.	.	
+ch.4_8	RNASeq_stranded	transcript_region	749	768	4.0	-	.	
+ch.4_8	RNASeq_stranded	transcript_region	769	791	7.0	-	.	
+ch.4_8	RNASeq_reads	transcript_region	771	793	4.0	.	.	
+ch.4_8	RNASeq_reads	transcript_region	794	816	7.0	.	.	
+ch.4_8	RNASeq_reads	transcript_region	817	858	11.0	.	.	

@@ -1,0 +1,38 @@
+ch.1_479	RNASeq_F_asymmetry	transcript_region	90	93	412.0	.	.	
+ch.1_479	RNASeq_F_asymmetry	transcript_region	94	97	630.0	.	.	
+ch.1_479	RNASeq_F_asymmetry	transcript_region	98	101	1089.0	.	.	
+ch.1_479	WormBase	five_prime_UTR	101	136	.	+	.	Parent=Transcript:F55B12.10.1
+ch.1_479	WormBase	exon	101	284	.	+	.	Parent=Transcript:F55B12.10.1
+ch.1_479	WormBase	gene	101	859	.	+	.	ID=Gene:WBGene00077439
+ch.1_479	WormBase	mRNA	101	859	.	+	.	ID=Transcript:F55B12.10.1;Parent=Gene:WBGene00077439
+ch.1_479	RNASeq_F_asymmetry	transcript_region	102	107	8594.0	.	.	
+ch.1_479	RNASeq_reads	transcript_region	102	110	2.0	.	.	
+ch.1_479	RNASeq_F_asymmetry	transcript_region	108	113	14448.0	.	.	
+ch.1_479	RNASeq_reads	transcript_region	111	139	4.0	.	.	
+ch.1_479	RNASeq_F_asymmetry	transcript_region	114	141	22155.0	.	.	
+ch.1_479	RNASeq_stranded	transcript_region	130	200	1.0	+	.	
+ch.1_479	WormBase	CDS	137	284	.	+	.	ID=CDS:F55B12.10;Parent=Transcript:F55B12.10.1
+ch.1_479	RNASeq_reads	transcript_region	140	284	7.0	.	.	
+ch.1_479	RNASeq_F_asymmetry	transcript_region	142	203	33430.0	.	.	
+ch.1_479	WormBase	intron	285	545	.	+	.	Parent=Transcript:F55B12.10.1
+ch.1_479	RNASeq_splice	intron	285	545	30540.0	+	.	
+ch.1_479	RNASeq_reads	transcript_region	544	545	1.0	.	.	
+ch.1_479	WormBase	CDS	546	649	.	+	.	ID=CDS:F55B12.10;Parent=Transcript:F55B12.10.1
+ch.1_479	RNASeq_reads	transcript_region	546	663	7.0	.	.	
+ch.1_479	WormBase	exon	546	859	.	+	.	Parent=Transcript:F55B12.10.1
+ch.1_479	RNASeq_stranded	transcript_region	632	638	1.0	+	.	
+ch.1_479	RNASeq	transcription_end_site	645	645	.	+	.	
+ch.1_479	WormBase	three_prime_UTR	650	859	.	+	.	Parent=Transcript:F55B12.10.1
+ch.1_479	RNASeq_reads	transcript_region	664	795	4.0	.	.	
+ch.1_479	RNASeq	transcription_end_site	692	692	.	+	.	
+ch.1_479	RNASeq_R_asymmetry	transcript_region	701	780	19180.0	.	.	
+ch.1_479	RNASeq_stranded	transcript_region	717	799	1.0	+	.	
+ch.1_479	RNASeq_R_asymmetry	transcript_region	781	799	12638.0	.	.	
+ch.1_479	RNASeq_reads	transcript_region	796	799	2.0	.	.	
+ch.1_479	RNASeq_stranded	transcript_region	800	814	2.0	+	.	
+ch.1_479	RNASeq_reads	transcript_region	800	850	1.0	.	.	
+ch.1_479	RNASeq_stranded	transcript_region	815	836	1.0	+	.	
+ch.1_479	RNASeq_R_asymmetry	transcript_region	845	846	2513.0	.	.	
+ch.1_479	RNASeq_R_asymmetry	transcript_region	849	849	2104.0	.	.	
+ch.1_479	RNASeq_R_asymmetry	transcript_region	851	851	1889.0	.	.	
+ch.1_479	RNASeq_R_asymmetry	transcript_region	859	859	1095.0	.	.	

@@ -1,0 +1,30 @@
+ch.1_457	WormBase	three_prime_UTR	586	658	.	+	.	Parent=Transcript:K03D3.2.1
+ch.1_457	WormBase	exon	406	658	.	+	.	Parent=Transcript:K03D3.2.1
+ch.1_457	WormBase	gene	101	658	.	+	.	ID=Gene:WBGene00010528
+ch.1_457	WormBase	mRNA	101	658	.	+	.	ID=Transcript:K03D3.2.1;Parent=Gene:WBGene00010528
+ch.1_457	RNASeq_reads	transcript_region	589	634	1.0	.	.	
+ch.1_457	RNASeq	transcription_end_site	609	609	.	-	.	
+ch.1_457	RNASeq_stranded	transcript_region	496	592	1.0	+	.	
+ch.1_457	RNASeq_reads	transcript_region	490	588	2.0	.	.	
+ch.1_457	WormBase	CDS	406	585	.	+	.	ID=CDS:K03D3.2;Parent=Transcript:K03D3.2.1
+ch.1_457	RNASeq_reads	transcript_region	406	489	4.0	.	.	
+ch.1_457	RNASeq_splice	intron	365	408	13.0	+	.	
+ch.1_457	RNASeq_splice	intron	365	405	4.0	+	.	
+ch.1_457	WormBase	intron	361	405	.	+	.	Parent=Transcript:K03D3.2.1
+ch.1_457	RNASeq_splice	intron	361	405	26396.0	+	.	
+ch.1_457	RNASeq_reads	transcript_region	175	360	5.0	.	.	
+ch.1_457	WormBase	CDS	106	360	.	+	.	ID=CDS:K03D3.2;Parent=Transcript:K03D3.2.1
+ch.1_457	WormBase	exon	101	360	.	+	.	Parent=Transcript:K03D3.2.1
+ch.1_457	RNASeq_stranded	transcript_region	265	313	1.0	+	.	
+ch.1_457	RNASeq_stranded	transcript_region	169	236	1.0	+	.	
+ch.1_457	RNASeq_splice	intron	75	190	3.0	+	.	
+ch.1_457	RNASeq_R_asymmetry	transcript_region	132	178	14129.0	.	.	
+ch.1_457	RNASeq_reads	transcript_region	115	174	3.0	.	.	
+ch.1_457	RNASeq_R_asymmetry	transcript_region	114	131	9308.0	.	.	
+ch.1_457	RNASeq_splice	intron	75	130	296.0	+	.	
+ch.1_457	RNASeq_reads	transcript_region	107	114	1.0	.	.	
+ch.1_457	RNASeq_R_asymmetry	transcript_region	108	113	5664.0	.	.	
+ch.1_457	RNASeq_R_asymmetry	transcript_region	101	107	2200.0	.	.	
+ch.1_457	WormBase	five_prime_UTR	101	105	.	+	.	Parent=Transcript:K03D3.2.1
+ch.1_457	RNASeq_R_asymmetry	transcript_region	95	100	1426.0	.	.	
+ch.1_457	RNASeq_R_asymmetry	transcript_region	90	94	903.0	.	.	

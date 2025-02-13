@@ -1,0 +1,76 @@
+ch.1_501	RNASeq	transcription_end_site	881	881	.	-	.	
+ch.1_501	RNASeq	transcription_end_site	881	881	.	-	.	
+ch.1_501	RNASeq	transcription_end_site	880	880	.	-	.	
+ch.1_501	RNASeq	transcription_end_site	878	878	.	-	.	
+ch.1_501	RNASeq_stranded	transcript_region	843	878	1.0	+	.	
+ch.1_501	RNASeq	transcription_end_site	873	873	.	-	.	
+ch.1_501	RNASeq	transcription_end_site	860	860	.	-	.	
+ch.1_501	RNASeq_stranded	transcript_region	815	842	2.0	+	.	
+ch.1_501	RNASeq	transcription_end_site	838	838	.	-	.	
+ch.1_501	RNASeq_reads	transcript_region	798	816	38.0	.	.	
+ch.1_501	RNASeq_stranded	transcript_region	813	814	1.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	801	814	77.0	-	.	
+ch.1_501	RNASeq_stranded	transcript_region	808	812	2.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	786	807	1.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	790	800	44.0	-	.	
+ch.1_501	RNASeq_reads	transcript_region	773	797	25.0	.	.	
+ch.1_501	RNASeq_R_asymmetry	transcript_region	786	791	87685.0	.	.	
+ch.1_501	RNASeq_stranded	transcript_region	782	789	29.0	-	.	
+ch.1_501	RNASeq_stranded	transcript_region	783	785	3.0	+	.	
+ch.1_501	WormBase	three_prime_UTR	661	784	.	+	.	Parent=Transcript:T27F2.4.1
+ch.1_501	WormBase	exon	352	784	.	+	.	Parent=Transcript:T27F2.4.1
+ch.1_501	WormBase	gene	101	784	.	+	.	ID=Gene:WBGene00012101
+ch.1_501	WormBase	mRNA	101	784	.	+	.	ID=Transcript:T27F2.4.1;Parent=Gene:WBGene00012101
+ch.1_501	RNASeq_stranded	transcript_region	775	782	5.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	776	781	19.0	-	.	
+ch.1_501	RNASeq_stranded	transcript_region	771	775	12.0	-	.	
+ch.1_501	RNASeq_stranded	transcript_region	767	774	8.0	+	.	
+ch.1_501	RNASeq_reads	transcript_region	741	772	16.0	.	.	
+ch.1_501	RNASeq_stranded	transcript_region	759	770	2.0	-	.	
+ch.1_501	RNASeq_stranded	transcript_region	753	766	15.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	738	758	1.0	-	.	
+ch.1_501	RNASeq_stranded	transcript_region	721	752	24.0	+	.	
+ch.1_501	RNASeq	transcription_end_site	742	742	.	-	.	
+ch.1_501	RNASeq_reads	transcript_region	700	740	25.0	.	.	
+ch.1_501	RNASeq_stranded	transcript_region	653	720	37.0	+	.	
+ch.1_501	RNASeq_reads	transcript_region	665	699	38.0	.	.	
+ch.1_501	RNASeq_reads	transcript_region	352	664	59.0	.	.	
+ch.1_501	WormBase	CDS	352	660	.	+	.	ID=CDS:T27F2.4;Parent=Transcript:T27F2.4.1
+ch.1_501	RNASeq_stranded	transcript_region	639	652	23.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	600	638	15.0	+	.	
+ch.1_501	RNASeq_splice	intron	577	623	10.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	492	599	9.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	388	491	5.0	+	.	
+ch.1_501	RNASeq_splice	intron	386	433	4.0	+	.	
+ch.1_501	RNASeq_splice	intron	386	424	66.0	+	.	
+ch.1_501	RNASeq_splice	intron	371	424	5.0	+	.	
+ch.1_501	RNASeq_splice	intron	301	424	15.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	354	387	8.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	352	353	5.0	+	.	
+ch.1_501	RNASeq_splice	intron	301	353	33.0	+	.	
+ch.1_501	RNASeq_reads	transcript_region	351	351	7.0	.	.	
+ch.1_501	RNASeq_stranded	transcript_region	351	351	1.0	-	.	
+ch.1_501	RNASeq	transcription_end_site	351	351	.	-	.	
+ch.1_501	RNASeq_splice	intron	305	351	5.0	+	.	
+ch.1_501	WormBase	intron	301	351	.	+	.	Parent=Transcript:T27F2.4.1
+ch.1_501	RNASeq_splice	intron	301	351	303944.0	+	.	
+ch.1_501	RNASeq	transcription_end_site	350	350	.	-	.	
+ch.1_501	RNASeq_reads	transcript_region	301	350	2.0	.	.	
+ch.1_501	RNASeq_stranded	transcript_region	240	300	4.0	+	.	
+ch.1_501	RNASeq_reads	transcript_region	166	300	63.0	.	.	
+ch.1_501	WormBase	CDS	112	300	.	+	.	ID=CDS:T27F2.4;Parent=Transcript:T27F2.4.1
+ch.1_501	WormBase	exon	101	300	.	+	.	Parent=Transcript:T27F2.4.1
+ch.1_501	RNASeq_stranded	transcript_region	217	239	2.0	+	.	
+ch.1_501	RNASeq_stranded	transcript_region	118	216	4.0	+	.	
+ch.1_501	RNASeq_reads	transcript_region	131	165	40.0	.	.	
+ch.1_501	RNASeq_splice	intron	36	148	7.0	+	.	
+ch.1_501	RNASeq_reads	transcript_region	116	130	26.0	.	.	
+ch.1_501	RNASeq_stranded	transcript_region	106	117	2.0	+	.	
+ch.1_501	RNASeq_reads	transcript_region	105	115	17.0	.	.	
+ch.1_501	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:T27F2.4.1
+ch.1_501	RNASeq_stranded	transcript_region	90	105	1.0	+	.	
+ch.1_501	RNASeq_reads	transcript_region	92	104	11.0	.	.	
+ch.1_501	RNASeq_reads	transcript_region	89	91	7.0	.	.	
+ch.1_501	RNASeq_splice	intron	36	90	9.0	+	.	
+ch.1_501	RNASeq_reads	transcript_region	61	88	1.0	.	.	
+ch.1_501	RNASeq_R_asymmetry	transcript_region	46	49	1182.0	.	.	

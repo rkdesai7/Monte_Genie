@@ -1,0 +1,37 @@
+ch.1_470	RNASeq_F_asymmetry	transcript_region	89	96	1200.0	.	.	
+ch.1_470	RNASeq_F_asymmetry	transcript_region	97	108	2014.0	.	.	
+ch.1_470	RNASeq_reads	transcript_region	98	125	1.0	.	.	
+ch.1_470	WormBase	five_prime_UTR	101	219	.	+	.	Parent=Transcript:F53F4.1.1
+ch.1_470	WormBase	exon	101	467	.	+	.	Parent=Transcript:F53F4.1.1
+ch.1_470	WormBase	gene	101	794	.	+	.	ID=Gene:WBGene00009985
+ch.1_470	WormBase	mRNA	101	794	.	+	.	ID=Transcript:F53F4.1.1;Parent=Gene:WBGene00009985
+ch.1_470	RNASeq_F_asymmetry	transcript_region	109	118	3948.0	.	.	
+ch.1_470	RNASeq_F_asymmetry	transcript_region	119	140	5976.0	.	.	
+ch.1_470	RNASeq_reads	transcript_region	126	179	2.0	.	.	
+ch.1_470	RNASeq_F_asymmetry	transcript_region	141	180	9706.0	.	.	
+ch.1_470	RNASeq_reads	transcript_region	180	215	4.0	.	.	
+ch.1_470	RNASeq_F_asymmetry	transcript_region	181	204	15512.0	.	.	
+ch.1_470	RNASeq_F_asymmetry	transcript_region	205	207	23286.0	.	.	
+ch.1_470	RNASeq_reads	transcript_region	216	467	7.0	.	.	
+ch.1_470	WormBase	CDS	220	467	.	+	.	ID=CDS:F53F4.1;Parent=Transcript:F53F4.1.1
+ch.1_470	RNASeq_splice	intron	289	406	17.0	+	.	
+ch.1_470	RNASeq_stranded	transcript_region	299	343	1.0	+	.	
+ch.1_470	RNASeq_stranded	transcript_region	346	353	1.0	+	.	
+ch.1_470	RNASeq_splice	intron	377	406	7.0	+	.	
+ch.1_470	RNASeq_stranded	transcript_region	382	407	1.0	+	.	
+ch.1_470	RNASeq_splice	intron	388	414	3.0	+	.	
+ch.1_470	RNASeq_stranded	transcript_region	411	411	1.0	+	.	
+ch.1_470	RNASeq_splice	intron	468	549	4.0	+	.	
+ch.1_470	WormBase	intron	468	649	.	+	.	Parent=Transcript:F53F4.1.1
+ch.1_470	RNASeq_splice	intron	468	649	24076.0	+	.	
+ch.1_470	RNASeq_splice	intron	609	649	5.0	+	.	
+ch.1_470	RNASeq	transcription_end_site	650	650	.	+	.	
+ch.1_470	WormBase	CDS	650	686	.	+	.	ID=CDS:F53F4.1;Parent=Transcript:F53F4.1.1
+ch.1_470	RNASeq_reads	transcript_region	650	704	5.0	.	.	
+ch.1_470	WormBase	exon	650	794	.	+	.	Parent=Transcript:F53F4.1.1
+ch.1_470	WormBase	three_prime_UTR	687	794	.	+	.	Parent=Transcript:F53F4.1.1
+ch.1_470	RNASeq_reads	transcript_region	705	766	3.0	.	.	
+ch.1_470	RNASeq_stranded	transcript_region	751	753	1.0	+	.	
+ch.1_470	RNASeq_stranded	transcript_region	763	783	1.0	+	.	
+ch.1_470	RNASeq_reads	transcript_region	767	788	1.0	.	.	
+ch.1_470	RNASeq_splice	intron	835	881	6.0	+	.	

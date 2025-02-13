@@ -1,0 +1,63 @@
+ch.2_180	RNASeq_F_asymmetry	transcript_region	92	92	656.0	.	.	
+ch.2_180	RNASeq_F_asymmetry	transcript_region	93	99	1045.0	.	.	
+ch.2_180	RNASeq_F_asymmetry	transcript_region	100	108	1920.0	.	.	
+ch.2_180	WormBase	five_prime_UTR	101	131	.	+	.	Parent=Transcript:K02D10.8.1
+ch.2_180	WormBase	exon	101	203	.	+	.	Parent=Transcript:K02D10.8.1
+ch.2_180	WormBase	gene	101	829	.	+	.	ID=Gene:WBGene00219329
+ch.2_180	WormBase	mRNA	101	829	.	+	.	ID=Transcript:K02D10.8.1;Parent=Gene:WBGene00219329
+ch.2_180	RNASeq_reads	transcript_region	104	119	1.0	.	.	
+ch.2_180	RNASeq_F_asymmetry	transcript_region	109	110	2940.0	.	.	
+ch.2_180	RNASeq_F_asymmetry	transcript_region	111	118	4655.0	.	.	
+ch.2_180	RNASeq_F_asymmetry	transcript_region	119	127	7161.0	.	.	
+ch.2_180	RNASeq_stranded	transcript_region	119	136	1.0	+	.	
+ch.2_180	RNASeq_reads	transcript_region	120	136	2.0	.	.	
+ch.2_180	RNASeq_F_asymmetry	transcript_region	128	136	12241.0	.	.	
+ch.2_180	WormBase	CDS	132	203	.	+	.	ID=CDS:K02D10.8;Parent=Transcript:K02D10.8.1
+ch.2_180	RNASeq_stranded	transcript_region	137	153	2.0	+	.	
+ch.2_180	RNASeq_F_asymmetry	transcript_region	137	173	18878.0	.	.	
+ch.2_180	RNASeq_reads	transcript_region	137	179	4.0	.	.	
+ch.2_180	RNASeq_stranded	transcript_region	154	158	1.0	+	.	
+ch.2_180	RNASeq_stranded	transcript_region	159	170	2.0	+	.	
+ch.2_180	RNASeq_stranded	transcript_region	171	184	1.0	+	.	
+ch.2_180	RNASeq_reads	transcript_region	180	203	7.0	.	.	
+ch.2_180	RNASeq_stranded	transcript_region	185	203	2.0	+	.	
+ch.2_180	RNASeq_splice	intron	202	602	16.0	+	.	
+ch.2_180	WormBase	intron	204	602	.	+	.	Parent=Transcript:K02D10.8.1
+ch.2_180	RNASeq_splice	intron	204	602	37071.0	+	.	
+ch.2_180	RNASeq_splice	intron	204	640	9.0	+	.	
+ch.2_180	RNASeq_reads	transcript_region	602	602	1.0	.	.	
+ch.2_180	RNASeq_stranded	transcript_region	603	629	4.0	+	.	
+ch.2_180	WormBase	CDS	603	675	.	+	.	ID=CDS:K02D10.8;Parent=Transcript:K02D10.8.1
+ch.2_180	WormBase	exon	603	675	.	+	.	Parent=Transcript:K02D10.8.1
+ch.2_180	RNASeq_reads	transcript_region	603	675	9.0	.	.	
+ch.2_180	RNASeq_stranded	transcript_region	630	675	7.0	+	.	
+ch.2_180	WormBase	intron	676	722	.	+	.	Parent=Transcript:K02D10.8.1
+ch.2_180	RNASeq_splice	intron	676	722	47620.0	+	.	
+ch.2_180	RNASeq_splice	intron	680	722	28.0	+	.	
+ch.2_180	RNASeq_stranded	transcript_region	723	768	9.0	+	.	
+ch.2_180	RNASeq_reads	transcript_region	723	772	10.0	.	.	
+ch.2_180	WormBase	CDS	723	817	.	+	.	ID=CDS:K02D10.8;Parent=Transcript:K02D10.8.1
+ch.2_180	WormBase	exon	723	829	.	+	.	Parent=Transcript:K02D10.8.1
+ch.2_180	RNASeq_stranded	transcript_region	769	792	5.0	+	.	
+ch.2_180	RNASeq_reads	transcript_region	773	809	6.0	.	.	
+ch.2_180	RNASeq_R_asymmetry	transcript_region	779	805	24983.0	.	.	
+ch.2_180	RNASeq_stranded	transcript_region	793	818	3.0	+	.	
+ch.2_180	RNASeq_R_asymmetry	transcript_region	806	809	16220.0	.	.	
+ch.2_180	RNASeq_reads	transcript_region	810	862	3.0	.	.	
+ch.2_180	RNASeq	transcription_end_site	813	813	.	+	.	
+ch.2_180	RNASeq	transcription_end_site	813	813	.	+	.	
+ch.2_180	RNASeq_stranded	transcript_region	814	821	1.0	-	.	
+ch.2_180	WormBase	three_prime_UTR	818	829	.	+	.	Parent=Transcript:K02D10.8.1
+ch.2_180	RNASeq_stranded	transcript_region	819	834	1.0	+	.	
+ch.2_180	RNASeq_stranded	transcript_region	822	845	2.0	-	.	
+ch.2_180	RNASeq_stranded	transcript_region	846	866	4.0	-	.	
+ch.2_180	RNASeq	transcription_end_site	861	861	.	+	.	
+ch.2_180	RNASeq	transcription_end_site	863	863	.	+	.	
+ch.2_180	RNASeq_reads	transcript_region	863	870	5.0	.	.	
+ch.2_180	RNASeq_F_asymmetry	transcript_region	865	886	25507.0	.	.	
+ch.2_180	RNASeq	transcription_end_site	867	867	.	+	.	
+ch.2_180	RNASeq	transcription_end_site	867	867	.	+	.	
+ch.2_180	RNASeq_stranded	transcript_region	867	886	7.0	-	.	
+ch.2_180	RNASeq_reads	transcript_region	871	892	8.0	.	.	
+ch.2_180	RNASeq	transcription_end_site	885	885	.	+	.	
+ch.2_180	RNASeq_F_asymmetry	transcript_region	887	894	40425.0	.	.	

@@ -1,0 +1,27 @@
+ch.1_397	WormBase	five_prime_UTR	101	165	.	+	.	Parent=Transcript:M02D8.2.1
+ch.1_397	WormBase	exon	101	395	.	+	.	Parent=Transcript:M02D8.2.1
+ch.1_397	WormBase	gene	101	599	.	+	.	ID=Gene:WBGene00019728
+ch.1_397	WormBase	mRNA	101	599	.	+	.	ID=Transcript:M02D8.2.1;Parent=Gene:WBGene00019728
+ch.1_397	RNASeq_reads	transcript_region	103	157	2.0	.	.	
+ch.1_397	RNASeq_stranded	transcript_region	103	162	1.0	+	.	
+ch.1_397	RNASeq_reads	transcript_region	158	170	4.0	.	.	
+ch.1_397	RNASeq_stranded	transcript_region	163	260	2.0	+	.	
+ch.1_397	WormBase	CDS	166	395	.	+	.	ID=CDS:M02D8.2;Parent=Transcript:M02D8.2.1
+ch.1_397	RNASeq_reads	transcript_region	171	356	7.0	.	.	
+ch.1_397	RNASeq_stranded	transcript_region	261	325	4.0	+	.	
+ch.1_397	RNASeq_stranded	transcript_region	326	395	2.0	+	.	
+ch.1_397	RNASeq_reads	transcript_region	357	395	11.0	.	.	
+ch.1_397	RNASeq_reads	transcript_region	396	396	1.0	.	.	
+ch.1_397	RNASeq_stranded	transcript_region	396	396	1.0	+	.	
+ch.1_397	WormBase	intron	396	445	.	+	.	Parent=Transcript:M02D8.2.1
+ch.1_397	RNASeq_splice	intron	396	445	48999.0	+	.	
+ch.1_397	RNASeq_splice	intron	400	445	59.0	+	.	
+ch.1_397	RNASeq_stranded	transcript_region	446	494	2.0	+	.	
+ch.1_397	RNASeq_reads	transcript_region	446	581	10.0	.	.	
+ch.1_397	WormBase	CDS	446	599	.	+	.	ID=CDS:M02D8.2;Parent=Transcript:M02D8.2.1
+ch.1_397	WormBase	exon	446	599	.	+	.	Parent=Transcript:M02D8.2.1
+ch.1_397	RNASeq_stranded	transcript_region	495	497	1.0	+	.	
+ch.1_397	RNASeq_stranded	transcript_region	498	512	2.0	+	.	
+ch.1_397	RNASeq_stranded	transcript_region	513	554	1.0	+	.	
+ch.1_397	RNASeq_stranded	transcript_region	555	558	2.0	+	.	
+ch.1_397	RNASeq_stranded	transcript_region	559	581	1.0	+	.	

@@ -1,0 +1,56 @@
+ch.3_56	RNASeq_splice	intron	57	106	96.0	+	.	
+ch.3_56	WormBase	five_prime_UTR	101	112	.	+	.	Parent=Transcript:T04F8.3.1
+ch.3_56	WormBase	exon	101	208	.	+	.	Parent=Transcript:T04F8.3.1
+ch.3_56	WormBase	gene	101	903	.	+	.	ID=Gene:WBGene00011442
+ch.3_56	WormBase	mRNA	101	903	.	+	.	ID=Transcript:T04F8.3.1;Parent=Gene:WBGene00011442
+ch.3_56	RNASeq_reads	transcript_region	102	109	2.0	.	.	
+ch.3_56	RNASeq_F_asymmetry	transcript_region	105	107	6982.0	.	.	
+ch.3_56	RNASeq_F_asymmetry	transcript_region	108	122	12700.0	.	.	
+ch.3_56	RNASeq_reads	transcript_region	110	167	4.0	.	.	
+ch.3_56	RNASeq_stranded	transcript_region	113	131	1.0	+	.	
+ch.3_56	WormBase	CDS	113	208	.	+	.	ID=CDS:T04F8.3;Parent=Transcript:T04F8.3.1
+ch.3_56	RNASeq_F_asymmetry	transcript_region	123	171	19205.0	.	.	
+ch.3_56	RNASeq_stranded	transcript_region	132	187	2.0	+	.	
+ch.3_56	RNASeq_splice	intron	135	254	79.0	+	.	
+ch.3_56	RNASeq_reads	transcript_region	168	208	7.0	.	.	
+ch.3_56	RNASeq_stranded	transcript_region	188	208	1.0	+	.	
+ch.3_56	WormBase	intron	209	254	.	+	.	Parent=Transcript:T04F8.3.1
+ch.3_56	RNASeq_splice	intron	209	254	30706.0	+	.	
+ch.3_56	RNASeq_reads	transcript_region	254	254	1.0	.	.	
+ch.3_56	RNASeq_stranded	transcript_region	255	348	1.0	+	.	
+ch.3_56	WormBase	CDS	255	358	.	+	.	ID=CDS:T04F8.3;Parent=Transcript:T04F8.3.1
+ch.3_56	WormBase	exon	255	358	.	+	.	Parent=Transcript:T04F8.3.1
+ch.3_56	RNASeq_reads	transcript_region	255	358	6.0	.	.	
+ch.3_56	RNASeq_splice	intron	320	632	4.0	+	.	
+ch.3_56	RNASeq_stranded	transcript_region	349	352	2.0	+	.	
+ch.3_56	RNASeq_stranded	transcript_region	353	358	1.0	+	.	
+ch.3_56	WormBase	intron	359	632	.	+	.	Parent=Transcript:T04F8.3.1
+ch.3_56	RNASeq_splice	intron	359	632	32816.0	+	.	
+ch.3_56	RNASeq_splice	intron	359	677	7.0	+	.	
+ch.3_56	RNASeq_stranded	transcript_region	633	635	1.0	+	.	
+ch.3_56	WormBase	CDS	633	711	.	+	.	ID=CDS:T04F8.3;Parent=Transcript:T04F8.3.1
+ch.3_56	WormBase	exon	633	711	.	+	.	Parent=Transcript:T04F8.3.1
+ch.3_56	RNASeq_reads	transcript_region	633	711	6.0	.	.	
+ch.3_56	RNASeq_stranded	transcript_region	636	666	2.0	+	.	
+ch.3_56	RNASeq_stranded	transcript_region	667	711	1.0	+	.	
+ch.3_56	WormBase	intron	712	762	.	+	.	Parent=Transcript:T04F8.3.1
+ch.3_56	RNASeq_splice	intron	712	762	25506.0	+	.	
+ch.3_56	RNASeq	transcription_end_site	713	713	.	+	.	
+ch.3_56	RNASeq_reads	transcript_region	762	762	1.0	.	.	
+ch.3_56	RNASeq_reads	transcript_region	763	816	5.0	.	.	
+ch.3_56	RNASeq_R_asymmetry	transcript_region	763	818	20274.0	.	.	
+ch.3_56	WormBase	CDS	763	819	.	+	.	ID=CDS:T04F8.3;Parent=Transcript:T04F8.3.1
+ch.3_56	RNASeq_stranded	transcript_region	763	846	1.0	+	.	
+ch.3_56	WormBase	exon	763	903	.	+	.	Parent=Transcript:T04F8.3.1
+ch.3_56	RNASeq	transcription_end_site	784	784	.	+	.	
+ch.3_56	RNASeq	transcription_end_site	799	799	.	+	.	
+ch.3_56	RNASeq	transcription_end_site	804	804	.	+	.	
+ch.3_56	RNASeq_reads	transcript_region	817	851	3.0	.	.	
+ch.3_56	RNASeq_R_asymmetry	transcript_region	819	839	12441.0	.	.	
+ch.3_56	WormBase	three_prime_UTR	820	903	.	+	.	Parent=Transcript:T04F8.3.1
+ch.3_56	RNASeq	transcription_end_site	826	826	.	+	.	
+ch.3_56	RNASeq	transcription_end_site	831	831	.	+	.	
+ch.3_56	RNASeq_R_asymmetry	transcript_region	840	841	7246.0	.	.	
+ch.3_56	RNASeq_R_asymmetry	transcript_region	843	856	6355.0	.	.	
+ch.3_56	RNASeq_reads	transcript_region	852	882	1.0	.	.	
+ch.3_56	RNASeq_stranded	transcript_region	854	860	1.0	+	.	

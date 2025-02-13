@@ -1,0 +1,67 @@
+ch.2_23	RNASeq	transcription_end_site	2	2	.	+	.	
+ch.2_23	RNASeq_stranded	transcript_region	2	6	5.0	+	.	
+ch.2_23	RNASeq_stranded	transcript_region	7	14	3.0	+	.	
+ch.2_23	RNASeq_reads	transcript_region	15	16	1.0	.	.	
+ch.2_23	RNASeq_stranded	transcript_region	15	16	1.0	+	.	
+ch.2_23	RNASeq	transcription_end_site	17	17	.	+	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	79	81	500.0	.	.	
+ch.2_23	WormBase	five_prime_UTR	101	123	.	+	.	Parent=Transcript:ZC404.2.1
+ch.2_23	WormBase	exon	101	132	.	+	.	Parent=Transcript:ZC404.2.1
+ch.2_23	WormBase	gene	101	609	.	+	.	ID=Gene:WBGene00043952
+ch.2_23	WormBase	mRNA	101	609	.	+	.	ID=Transcript:ZC404.2.1;Parent=Gene:WBGene00043952
+ch.2_23	RNASeq_F_asymmetry	transcript_region	110	112	1242.0	.	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	114	114	1569.0	.	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	116	122	1676.0	.	.	
+ch.2_23	RNASeq_reads	transcript_region	121	132	1.0	.	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	123	132	3337.0	.	.	
+ch.2_23	WormBase	CDS	124	132	.	+	.	ID=CDS:ZC404.2;Parent=Transcript:ZC404.2.1
+ch.2_23	WormBase	intron	133	311	.	+	.	Parent=Transcript:ZC404.2.1
+ch.2_23	RNASeq_splice	intron	133	311	3519.0	+	.	
+ch.2_23	RNASeq_splice	intron	233	311	108.0	+	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	310	311	9700.0	.	.	
+ch.2_23	RNASeq_reads	transcript_region	310	313	2.0	.	.	
+ch.2_23	RNASeq_stranded	transcript_region	311	371	1.0	+	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	312	321	14850.0	.	.	
+ch.2_23	WormBase	CDS	312	406	.	+	.	ID=CDS:ZC404.2;Parent=Transcript:ZC404.2.1
+ch.2_23	WormBase	exon	312	406	.	+	.	Parent=Transcript:ZC404.2.1
+ch.2_23	RNASeq_reads	transcript_region	314	336	4.0	.	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	322	356	22337.0	.	.	
+ch.2_23	RNASeq_reads	transcript_region	337	391	7.0	.	.	
+ch.2_23	RNASeq_stranded	transcript_region	372	406	2.0	+	.	
+ch.2_23	RNASeq_reads	transcript_region	392	406	11.0	.	.	
+ch.2_23	RNASeq_splice	intron	399	453	18.0	+	.	
+ch.2_23	WormBase	intron	407	453	.	+	.	Parent=Transcript:ZC404.2.1
+ch.2_23	RNASeq_splice	intron	407	453	42167.0	+	.	
+ch.2_23	RNASeq_reads	transcript_region	447	451	1.0	.	.	
+ch.2_23	RNASeq_reads	transcript_region	452	453	2.0	.	.	
+ch.2_23	WormBase	CDS	454	559	.	+	.	ID=CDS:ZC404.2;Parent=Transcript:ZC404.2.1
+ch.2_23	RNASeq_reads	transcript_region	454	559	10.0	.	.	
+ch.2_23	RNASeq_stranded	transcript_region	454	559	2.0	+	.	
+ch.2_23	WormBase	exon	454	609	.	+	.	Parent=Transcript:ZC404.2.1
+ch.2_23	RNASeq	transcription_end_site	476	476	.	+	.	
+ch.2_23	RNASeq_R_asymmetry	transcript_region	513	559	41202.0	.	.	
+ch.2_23	RNASeq_stranded	transcript_region	558	596	1.0	-	.	
+ch.2_23	RNASeq_R_asymmetry	transcript_region	560	585	26773.0	.	.	
+ch.2_23	WormBase	three_prime_UTR	560	609	.	+	.	Parent=Transcript:ZC404.2.1
+ch.2_23	RNASeq_reads	transcript_region	560	622	6.0	.	.	
+ch.2_23	RNASeq_R_asymmetry	transcript_region	586	586	17278.0	.	.	
+ch.2_23	RNASeq_stranded	transcript_region	597	600	2.0	-	.	
+ch.2_23	RNASeq	transcription_end_site	598	598	.	+	.	
+ch.2_23	RNASeq	transcription_end_site	598	598	.	+	.	
+ch.2_23	RNASeq_stranded	transcript_region	601	614	4.0	-	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	609	616	29816.0	.	.	
+ch.2_23	RNASeq	transcription_end_site	615	615	.	+	.	
+ch.2_23	RNASeq	transcription_end_site	615	615	.	+	.	
+ch.2_23	RNASeq_stranded	transcript_region	615	624	7.0	-	.	
+ch.2_23	RNASeq	transcription_end_site	616	616	.	+	.	
+ch.2_23	RNASeq	transcription_end_site	621	621	.	+	.	
+ch.2_23	RNASeq	transcription_end_site	621	621	.	+	.	
+ch.2_23	RNASeq	transcription_end_site	622	622	.	+	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	623	633	46526.0	.	.	
+ch.2_23	RNASeq_reads	transcript_region	623	633	11.0	.	.	
+ch.2_23	RNASeq_stranded	transcript_region	625	640	11.0	-	.	
+ch.2_23	RNASeq_reads	transcript_region	634	663	17.0	.	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	634	671	72210.0	.	.	
+ch.2_23	RNASeq	transcription_end_site	651	651	.	+	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	672	688	116068.0	.	.	
+ch.2_23	RNASeq_F_asymmetry	transcript_region	693	697	122344.0	.	.	

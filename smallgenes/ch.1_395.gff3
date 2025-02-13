@@ -1,0 +1,85 @@
+ch.1_395	RNASeq_stranded	transcript_region	707	731	4.0	-	.	
+ch.1_395	RNASeq_stranded	transcript_region	699	706	2.0	-	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	699	703	4473.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	682	699	1.0	+	.	
+ch.1_395	RNASeq_stranded	transcript_region	671	698	1.0	-	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	696	697	5239.0	.	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	691	693	6170.0	.	.	
+ch.1_395	RNASeq_reads	transcript_region	649	693	2.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	658	681	2.0	+	.	
+ch.1_395	RNASeq	transcription_end_site	670	670	.	-	.	
+ch.1_395	RNASeq_stranded	transcript_region	646	670	2.0	-	.	
+ch.1_395	RNASeq_stranded	transcript_region	643	657	4.0	+	.	
+ch.1_395	RNASeq	transcription_end_site	655	655	.	-	.	
+ch.1_395	RNASeq	transcription_end_site	653	653	.	-	.	
+ch.1_395	RNASeq	transcription_end_site	653	653	.	-	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	643	648	17971.0	.	.	
+ch.1_395	RNASeq_reads	transcript_region	643	648	4.0	.	.	
+ch.1_395	RNASeq	transcription_end_site	646	646	.	-	.	
+ch.1_395	RNASeq	transcription_end_site	646	646	.	-	.	
+ch.1_395	RNASeq_stranded	transcript_region	559	645	1.0	-	.	
+ch.1_395	WormBase	three_prime_UTR	541	645	.	+	.	Parent=Transcript:C06G3.11.1
+ch.1_395	WormBase	exon	466	645	.	+	.	Parent=Transcript:C06G3.11.1
+ch.1_395	WormBase	gene	101	645	.	+	.	ID=Gene:WBGene00006572
+ch.1_395	WormBase	mRNA	101	645	.	+	.	ID=Transcript:C06G3.11.1;Parent=Gene:WBGene00006572
+ch.1_395	RNASeq	transcription_end_site	642	642	.	-	.	
+ch.1_395	RNASeq	transcription_end_site	642	642	.	-	.	
+ch.1_395	RNASeq_stranded	transcript_region	639	642	9.0	+	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	637	642	33392.0	.	.	
+ch.1_395	RNASeq_reads	transcript_region	636	642	8.0	.	.	
+ch.1_395	RNASeq	transcription_end_site	641	641	.	-	.	
+ch.1_395	RNASeq_stranded	transcript_region	632	638	14.0	+	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	631	636	50118.0	.	.	
+ch.1_395	RNASeq_reads	transcript_region	625	635	13.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	625	631	22.0	+	.	
+ch.1_395	RNASeq	transcription_end_site	630	630	.	-	.	
+ch.1_395	RNASeq	transcription_end_site	630	630	.	-	.	
+ch.1_395	RNASeq_stranded	transcript_region	603	624	34.0	+	.	
+ch.1_395	RNASeq_reads	transcript_region	602	624	28.0	.	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	600	624	121518.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	595	602	53.0	+	.	
+ch.1_395	RNASeq_reads	transcript_region	562	601	43.0	.	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	595	599	183427.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	564	594	82.0	+	.	
+ch.1_395	RNASeq_stranded	transcript_region	514	563	125.0	+	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	539	561	356969.0	.	.	
+ch.1_395	RNASeq_reads	transcript_region	532	561	90.0	.	.	
+ch.1_395	RNASeq_splice	intron	505	553	3.0	-	.	
+ch.1_395	WormBase	CDS	466	540	.	+	.	ID=CDS:C06G3.11;Parent=Transcript:C06G3.11.1
+ch.1_395	RNASeq_F_asymmetry	transcript_region	482	534	497969.0	.	.	
+ch.1_395	RNASeq_reads	transcript_region	466	531	136.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	498	513	82.0	+	.	
+ch.1_395	RNASeq_stranded	transcript_region	477	497	54.0	+	.	
+ch.1_395	RNASeq_splice	intron	263	495	1130.0	+	.	
+ch.1_395	RNASeq_stranded	transcript_region	492	492	1.0	-	.	
+ch.1_395	RNASeq_stranded	transcript_region	466	476	35.0	+	.	
+ch.1_395	RNASeq_splice	intron	270	472	6.0	-	.	
+ch.1_395	RNASeq_F_asymmetry	transcript_region	464	465	114533.0	.	.	
+ch.1_395	RNASeq_reads	transcript_region	464	465	26.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	464	465	7.0	+	.	
+ch.1_395	WormBase	intron	263	465	.	+	.	Parent=Transcript:C06G3.11.1
+ch.1_395	RNASeq_splice	intron	263	465	864138.0	+	.	
+ch.1_395	RNASeq_splice	intron	209	465	33.0	+	.	
+ch.1_395	RNASeq_splice	intron	263	433	12.0	+	.	
+ch.1_395	RNASeq_stranded	transcript_region	237	262	20.0	+	.	
+ch.1_395	RNASeq_reads	transcript_region	111	262	152.0	.	.	
+ch.1_395	WormBase	CDS	101	262	.	+	.	ID=CDS:C06G3.11;Parent=Transcript:C06G3.11.1
+ch.1_395	WormBase	exon	101	262	.	+	.	Parent=Transcript:C06G3.11.1
+ch.1_395	RNASeq_stranded	transcript_region	154	236	31.0	+	.	
+ch.1_395	RNASeq_stranded	transcript_region	183	232	1.0	-	.	
+ch.1_395	RNASeq_splice	intron	171	210	5.0	-	.	
+ch.1_395	RNASeq_splice	intron	133	204	6.0	-	.	
+ch.1_395	RNASeq_R_asymmetry	transcript_region	108	169	640899.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	103	153	49.0	+	.	
+ch.1_395	RNASeq_reads	transcript_region	106	110	99.0	.	.	
+ch.1_395	RNASeq_R_asymmetry	transcript_region	103	107	421541.0	.	.	
+ch.1_395	RNASeq_reads	transcript_region	101	105	60.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	101	102	25.0	+	.	
+ch.1_395	RNASeq_R_asymmetry	transcript_region	99	102	246386.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	99	100	11.0	+	.	
+ch.1_395	RNASeq_reads	transcript_region	98	100	38.0	.	.	
+ch.1_395	RNASeq_R_asymmetry	transcript_region	95	98	130820.0	.	.	
+ch.1_395	RNASeq_stranded	transcript_region	95	98	3.0	+	.	
+ch.1_395	RNASeq_reads	transcript_region	95	97	25.0	.	.	
+ch.1_395	RNASeq_R_asymmetry	transcript_region	91	94	32612.0	.	.	
+ch.1_395	RNASeq_reads	transcript_region	91	94	7.0	.	.	

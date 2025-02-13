@@ -1,0 +1,43 @@
+ch.1_562	WormBase	five_prime_UTR	101	119	.	+	.	Parent=Transcript:F14H8.8.1
+ch.1_562	WormBase	exon	101	161	.	+	.	Parent=Transcript:F14H8.8.1
+ch.1_562	WormBase	gene	101	815	.	+	.	ID=Gene:WBGene00077582
+ch.1_562	WormBase	mRNA	101	815	.	+	.	ID=Transcript:F14H8.8.1;Parent=Gene:WBGene00077582
+ch.1_562	RNASeq_reads	transcript_region	115	126	1.0	.	.	
+ch.1_562	RNASeq_F_asymmetry	transcript_region	116	123	3293.0	.	.	
+ch.1_562	WormBase	CDS	120	161	.	+	.	ID=CDS:F14H8.8;Parent=Transcript:F14H8.8.1
+ch.1_562	RNASeq_F_asymmetry	transcript_region	124	127	5431.0	.	.	
+ch.1_562	RNASeq_reads	transcript_region	127	143	2.0	.	.	
+ch.1_562	RNASeq_F_asymmetry	transcript_region	128	141	9319.0	.	.	
+ch.1_562	RNASeq_stranded	transcript_region	141	161	1.0	+	.	
+ch.1_562	RNASeq_F_asymmetry	transcript_region	142	161	14025.0	.	.	
+ch.1_562	RNASeq_reads	transcript_region	144	161	4.0	.	.	
+ch.1_562	RNASeq_splice	intron	162	200	87.0	+	.	
+ch.1_562	RNASeq_reads	transcript_region	162	534	1.0	.	.	
+ch.1_562	WormBase	intron	162	535	.	+	.	Parent=Transcript:F14H8.8.1
+ch.1_562	RNASeq_splice	intron	162	535	16270.0	+	.	
+ch.1_562	RNASeq_stranded	transcript_region	192	238	1.0	-	.	
+ch.1_562	RNASeq_stranded	transcript_region	239	267	2.0	-	.	
+ch.1_562	RNASeq_splice	intron	240	535	57.0	+	.	
+ch.1_562	RNASeq_stranded	transcript_region	268	269	1.0	-	.	
+ch.1_562	RNASeq_stranded	transcript_region	270	274	2.0	-	.	
+ch.1_562	RNASeq_stranded	transcript_region	275	311	1.0	-	.	
+ch.1_562	RNASeq_splice	intron	287	535	1021.0	+	.	
+ch.1_562	WormBase	exon	375	425	.	-	.	Parent=Transcript:F14H8.6c
+ch.1_562	RNASeq_splice	intron	444	503	172.0	-	.	
+ch.1_562	WormBase	exon	504	830	.	-	.	Parent=Transcript:F14H8.6b.1
+ch.1_562	WormBase	five_prime_UTR	504	830	.	-	.	Parent=Transcript:F14H8.6b.1
+ch.1_562	RNASeq_reads	transcript_region	535	535	2.0	.	.	
+ch.1_562	RNASeq_stranded	transcript_region	536	612	1.0	+	.	
+ch.1_562	RNASeq_reads	transcript_region	536	675	5.0	.	.	
+ch.1_562	WormBase	CDS	536	760	.	+	.	ID=CDS:F14H8.8;Parent=Transcript:F14H8.8.1
+ch.1_562	WormBase	exon	536	815	.	+	.	Parent=Transcript:F14H8.8.1
+ch.1_562	RNASeq_stranded	transcript_region	613	675	2.0	+	.	
+ch.1_562	RNASeq_stranded	transcript_region	676	689	1.0	+	.	
+ch.1_562	RNASeq_reads	transcript_region	676	778	3.0	.	.	
+ch.1_562	RNASeq_stranded	transcript_region	690	748	2.0	+	.	
+ch.1_562	RNASeq_R_asymmetry	transcript_region	746	761	11863.0	.	.	
+ch.1_562	RNASeq_stranded	transcript_region	749	782	1.0	+	.	
+ch.1_562	WormBase	three_prime_UTR	761	815	.	+	.	Parent=Transcript:F14H8.8.1
+ch.1_562	RNASeq_R_asymmetry	transcript_region	762	762	7776.0	.	.	
+ch.1_562	RNASeq_stranded	transcript_region	795	823	1.0	-	.	
+ch.1_562	RNASeq_stranded	transcript_region	824	858	2.0	-	.	

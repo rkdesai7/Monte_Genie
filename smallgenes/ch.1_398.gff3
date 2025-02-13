@@ -1,0 +1,80 @@
+ch.1_398	RNASeq_stranded	transcript_region	680	688	20.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	677	682	20.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	675	679	31.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	670	676	34.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	662	674	48.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	658	669	53.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	596	661	76.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	651	657	81.0	.	.	
+ch.1_398	RNASeq_reads	transcript_region	643	650	140.0	.	.	
+ch.1_398	RNASeq_reads	transcript_region	629	642	231.0	.	.	
+ch.1_398	RNASeq_splice	intron	583	633	3.0	-	.	
+ch.1_398	RNASeq_reads	transcript_region	600	628	369.0	.	.	
+ch.1_398	RNASeq_splice	intron	406	618	103.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	566	599	561.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	552	595	118.0	+	.	
+ch.1_398	WormBase	CDS	279	590	.	+	.	ID=CDS:T27E4.8;Parent=Transcript:T27E4.8.1
+ch.1_398	WormBase	exon	279	590	.	+	.	Parent=Transcript:T27E4.8.1
+ch.1_398	WormBase	gene	101	590	.	+	.	ID=Gene:WBGene00002015
+ch.1_398	WormBase	mRNA	101	590	.	+	.	ID=Transcript:T27E4.8.1;Parent=Gene:WBGene00002015
+ch.1_398	RNASeq_reads	transcript_region	531	565	873.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	543	559	1.0	-	.	
+ch.1_398	RNASeq_stranded	transcript_region	519	551	77.0	+	.	
+ch.1_398	RNASeq_stranded	transcript_region	516	541	1.0	-	.	
+ch.1_398	RNASeq_splice	intron	384	539	56.0	-	.	
+ch.1_398	RNASeq_reads	transcript_region	279	530	1313.0	.	.	
+ch.1_398	RNASeq_splice	intron	384	526	3.0	-	.	
+ch.1_398	RNASeq_stranded	transcript_region	302	518	50.0	+	.	
+ch.1_398	RNASeq_splice	intron	466	513	8.0	+	.	
+ch.1_398	RNASeq_splice	intron	462	513	208.0	+	.	
+ch.1_398	RNASeq_stranded	transcript_region	419	469	1.0	-	.	
+ch.1_398	RNASeq_splice	intron	400	447	20.0	-	.	
+ch.1_398	RNASeq_splice	intron	213	447	48.0	-	.	
+ch.1_398	RNASeq_splice	intron	227	419	4.0	+	.	
+ch.1_398	RNASeq_stranded	transcript_region	383	407	1.0	-	.	
+ch.1_398	RNASeq_splice	intron	213	387	3.0	-	.	
+ch.1_398	RNASeq_stranded	transcript_region	332	382	4.0	-	.	
+ch.1_398	RNASeq_splice	intron	227	381	10.0	+	.	
+ch.1_398	RNASeq_splice	intron	213	367	9.0	-	.	
+ch.1_398	RNASeq_splice	intron	194	339	10.0	+	.	
+ch.1_398	RNASeq_stranded	transcript_region	291	331	2.0	-	.	
+ch.1_398	RNASeq_splice	intron	227	326	127.0	+	.	
+ch.1_398	RNASeq_stranded	transcript_region	279	301	32.0	+	.	
+ch.1_398	RNASeq_splice	intron	227	299	803.0	+	.	
+ch.1_398	RNASeq_stranded	transcript_region	280	290	1.0	-	.	
+ch.1_398	RNASeq_reads	transcript_region	277	278	196.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	277	278	3.0	+	.	
+ch.1_398	RNASeq_splice	intron	231	278	3607.0	+	.	
+ch.1_398	WormBase	intron	227	278	.	+	.	Parent=Transcript:T27E4.8.1
+ch.1_398	RNASeq_splice	intron	227	278	6760920.0	+	.	
+ch.1_398	RNASeq_stranded	transcript_region	228	276	1.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	227	276	92.0	.	.	
+ch.1_398	RNASeq_splice	intron	231	267	58.0	+	.	
+ch.1_398	RNASeq_splice	intron	227	267	6768.0	+	.	
+ch.1_398	RNASeq_stranded	transcript_region	227	227	2.0	-	.	
+ch.1_398	RNASeq_reads	transcript_region	118	226	1329.0	.	.	
+ch.1_398	WormBase	CDS	101	226	.	+	.	ID=CDS:T27E4.8;Parent=Transcript:T27E4.8.1
+ch.1_398	WormBase	exon	101	226	.	+	.	Parent=Transcript:T27E4.8.1
+ch.1_398	RNASeq_stranded	transcript_region	95	226	47.0	+	.	
+ch.1_398	RNASeq_splice	intron	147	201	85.0	+	.	
+ch.1_398	RNASeq_stranded	transcript_region	149	199	1.0	-	.	
+ch.1_398	RNASeq_splice	intron	147	194	132.0	+	.	
+ch.1_398	RNASeq_splice	intron	128	183	4.0	-	.	
+ch.1_398	RNASeq_splice	intron	126	182	13.0	-	.	
+ch.1_398	RNASeq_splice	intron	123	159	3.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	93	117	876.0	.	.	
+ch.1_398	RNASeq_splice	intron	12	112	23.0	-	.	
+ch.1_398	RNASeq_R_asymmetry	transcript_region	97	97	2725760.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	89	94	30.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	85	92	564.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	83	88	18.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	76	84	371.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	74	82	11.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	66	75	242.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	63	73	7.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	63	65	102.0	.	.	
+ch.1_398	RNASeq_reads	transcript_region	61	62	34.0	.	.	
+ch.1_398	RNASeq_stranded	transcript_region	37	62	1.0	+	.	
+ch.1_398	RNASeq_reads	transcript_region	32	60	18.0	.	.	
+ch.1_398	RNASeq_splice	intron	12	57	57.0	-	.	
+ch.1_398	RNASeq_reads	transcript_region	9	31	11.0	.	.	

@@ -1,0 +1,40 @@
+ch.1_511	RNASeq_reads	transcript_region	101	107	2.0	.	.	
+ch.1_511	WormBase	five_prime_UTR	101	122	.	+	.	Parent=Transcript:F55H2.8.1
+ch.1_511	WormBase	exon	101	140	.	+	.	Parent=Transcript:F55H2.8.1
+ch.1_511	WormBase	gene	101	820	.	+	.	ID=Gene:WBGene00219298
+ch.1_511	WormBase	mRNA	101	820	.	+	.	ID=Transcript:F55H2.8.1;Parent=Gene:WBGene00219298
+ch.1_511	RNASeq_F_asymmetry	transcript_region	107	109	13416.0	.	.	
+ch.1_511	RNASeq_reads	transcript_region	108	128	4.0	.	.	
+ch.1_511	RNASeq_F_asymmetry	transcript_region	110	140	20949.0	.	.	
+ch.1_511	WormBase	CDS	123	140	.	+	.	ID=CDS:F55H2.8;Parent=Transcript:F55H2.8.1
+ch.1_511	RNASeq_stranded	transcript_region	127	127	1.0	+	.	
+ch.1_511	RNASeq_stranded	transcript_region	129	132	1.0	+	.	
+ch.1_511	RNASeq_reads	transcript_region	129	140	7.0	.	.	
+ch.1_511	RNASeq_splice	intron	141	224	3.0	+	.	
+ch.1_511	WormBase	intron	141	631	.	+	.	Parent=Transcript:F55H2.8.1
+ch.1_511	RNASeq_reads	transcript_region	141	631	1.0	.	.	
+ch.1_511	RNASeq_splice	intron	141	631	27549.0	+	.	
+ch.1_511	RNASeq_F_asymmetry	transcript_region	172	172	4909.0	.	.	
+ch.1_511	RNASeq_F_asymmetry	transcript_region	178	189	5068.0	.	.	
+ch.1_511	RNASeq_splice	intron	277	631	22.0	+	.	
+ch.1_511	RNASeq_R_asymmetry	transcript_region	291	302	3801.0	.	.	
+ch.1_511	RNASeq_R_asymmetry	transcript_region	305	306	3797.0	.	.	
+ch.1_511	RNASeq_R_asymmetry	transcript_region	308	308	3763.0	.	.	
+ch.1_511	RNASeq_F_asymmetry	transcript_region	632	674	27778.0	.	.	
+ch.1_511	RNASeq_stranded	transcript_region	632	688	1.0	+	.	
+ch.1_511	RNASeq_reads	transcript_region	632	740	6.0	.	.	
+ch.1_511	WormBase	CDS	632	781	.	+	.	ID=CDS:F55H2.8;Parent=Transcript:F55H2.8.1
+ch.1_511	WormBase	exon	632	820	.	+	.	Parent=Transcript:F55H2.8.1
+ch.1_511	RNASeq_stranded	transcript_region	689	775	2.0	+	.	
+ch.1_511	RNASeq	transcription_end_site	690	690	.	+	.	
+ch.1_511	RNASeq_R_asymmetry	transcript_region	725	735	26340.0	.	.	
+ch.1_511	RNASeq_R_asymmetry	transcript_region	736	807	39547.0	.	.	
+ch.1_511	RNASeq_reads	transcript_region	741	793	10.0	.	.	
+ch.1_511	RNASeq_splice	intron	774	825	52.0	-	.	
+ch.1_511	RNASeq_stranded	transcript_region	776	812	1.0	+	.	
+ch.1_511	WormBase	three_prime_UTR	782	820	.	+	.	Parent=Transcript:F55H2.8.1
+ch.1_511	RNASeq_reads	transcript_region	794	825	6.0	.	.	
+ch.1_511	RNASeq_R_asymmetry	transcript_region	808	825	26055.0	.	.	
+ch.1_511	RNASeq	transcription_end_site	821	821	.	+	.	
+ch.1_511	RNASeq_stranded	transcript_region	826	859	5.0	-	.	
+ch.1_511	RNASeq_stranded	transcript_region	860	900	8.0	-	.	

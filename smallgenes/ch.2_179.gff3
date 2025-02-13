@@ -1,0 +1,75 @@
+ch.2_179	RNASeq_reads	transcript_region	77	99	1.0	.	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	79	88	2481.0	.	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	89	95	4042.0	.	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	96	102	6117.0	.	.	
+ch.2_179	RNASeq_reads	transcript_region	100	109	2.0	.	.	
+ch.2_179	WormBase	five_prime_UTR	101	155	.	+	.	Parent=Transcript:Y62E10A.23.1
+ch.2_179	WormBase	exon	101	235	.	+	.	Parent=Transcript:Y62E10A.23.1
+ch.2_179	WormBase	gene	101	622	.	+	.	ID=Gene:WBGene00302964
+ch.2_179	WormBase	mRNA	101	622	.	+	.	ID=Transcript:Y62E10A.23.1;Parent=Gene:WBGene00302964
+ch.2_179	RNASeq_F_asymmetry	transcript_region	103	108	9345.0	.	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	109	111	15351.0	.	.	
+ch.2_179	RNASeq_stranded	transcript_region	109	123	1.0	+	.	
+ch.2_179	RNASeq_reads	transcript_region	110	114	4.0	.	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	112	120	27546.0	.	.	
+ch.2_179	RNASeq_reads	transcript_region	115	125	7.0	.	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	121	130	44243.0	.	.	
+ch.2_179	RNASeq_stranded	transcript_region	124	127	2.0	+	.	
+ch.2_179	RNASeq_reads	transcript_region	126	132	11.0	.	.	
+ch.2_179	RNASeq_stranded	transcript_region	128	144	4.0	+	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	131	136	74288.0	.	.	
+ch.2_179	RNASeq_reads	transcript_region	133	138	17.0	.	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	137	144	114592.0	.	.	
+ch.2_179	RNASeq_reads	transcript_region	139	147	26.0	.	.	
+ch.2_179	RNASeq_stranded	transcript_region	145	160	10.0	+	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	145	162	179835.0	.	.	
+ch.2_179	RNASeq_reads	transcript_region	148	173	44.0	.	.	
+ch.2_179	WormBase	CDS	156	235	.	+	.	ID=CDS:Y62E10A.23;Parent=Transcript:Y62E10A.23.1
+ch.2_179	WormBase	five_prime_UTR	157	235	.	+	.	Parent=Transcript:Y62E10A.11.2
+ch.2_179	WormBase	exon	157	235	.	+	.	Parent=Transcript:Y62E10A.11.2
+ch.2_179	WormBase	five_prime_UTR	157	235	.	+	.	Parent=Transcript:Y62E10A.11.1
+ch.2_179	WormBase	exon	157	235	.	+	.	Parent=Transcript:Y62E10A.11.1
+ch.2_179	RNASeq_stranded	transcript_region	161	173	16.0	+	.	
+ch.2_179	RNASeq_F_asymmetry	transcript_region	163	223	271637.0	.	.	
+ch.2_179	RNASeq_stranded	transcript_region	174	224	25.0	+	.	
+ch.2_179	RNASeq_reads	transcript_region	174	235	67.0	.	.	
+ch.2_179	RNASeq_stranded	transcript_region	225	235	14.0	+	.	
+ch.2_179	RNASeq_splice	intron	236	272	139.0	+	.	
+ch.2_179	WormBase	intron	236	286	.	+	.	Parent=Transcript:Y62E10A.11.1
+ch.2_179	WormBase	intron	236	286	.	+	.	Parent=Transcript:Y62E10A.11.2
+ch.2_179	WormBase	intron	236	286	.	+	.	Parent=Transcript:Y62E10A.23.1
+ch.2_179	RNASeq_splice	intron	236	286	385712.0	+	.	
+ch.2_179	RNASeq_splice	intron	236	293	215.0	+	.	
+ch.2_179	RNASeq_splice	intron	236	297	18.0	+	.	
+ch.2_179	RNASeq_splice	intron	240	286	48.0	+	.	
+ch.2_179	RNASeq_splice	intron	240	474	33.0	+	.	
+ch.2_179	RNASeq_stranded	transcript_region	287	330	31.0	+	.	
+ch.2_179	WormBase	five_prime_UTR	287	450	.	+	.	Parent=Transcript:Y62E10A.11.1
+ch.2_179	WormBase	five_prime_UTR	287	450	.	+	.	Parent=Transcript:Y62E10A.11.2
+ch.2_179	WormBase	CDS	287	489	.	+	.	ID=CDS:Y62E10A.23;Parent=Transcript:Y62E10A.23.1
+ch.2_179	WormBase	exon	287	489	.	+	.	Parent=Transcript:Y62E10A.11.1
+ch.2_179	WormBase	exon	287	489	.	+	.	Parent=Transcript:Y62E10A.11.2
+ch.2_179	WormBase	exon	287	489	.	+	.	Parent=Transcript:Y62E10A.23.1
+ch.2_179	RNASeq_reads	transcript_region	287	489	77.0	.	.	
+ch.2_179	RNASeq_stranded	transcript_region	331	335	19.0	+	.	
+ch.2_179	RNASeq_stranded	transcript_region	336	344	12.0	+	.	
+ch.2_179	RNASeq_stranded	transcript_region	345	367	7.0	+	.	
+ch.2_179	RNASeq_stranded	transcript_region	368	429	11.0	+	.	
+ch.2_179	RNASeq_stranded	transcript_region	430	480	19.0	+	.	
+ch.2_179	WormBase	CDS	451	489	.	+	.	ID=CDS:Y62E10A.11;Parent=Transcript:Y62E10A.11.1,Transcript:Y62E10A.11.2
+ch.2_179	RNASeq_splice	intron	476	599	3.0	-	.	
+ch.2_179	RNASeq_stranded	transcript_region	481	489	11.0	+	.	
+ch.2_179	RNASeq_stranded	transcript_region	490	492	1.0	+	.	
+ch.2_179	RNASeq_reads	transcript_region	490	562	1.0	.	.	
+ch.2_179	WormBase	intron	490	563	.	+	.	Parent=Transcript:Y62E10A.11.1
+ch.2_179	WormBase	intron	490	563	.	+	.	Parent=Transcript:Y62E10A.11.2
+ch.2_179	WormBase	intron	490	563	.	+	.	Parent=Transcript:Y62E10A.23.1
+ch.2_179	RNASeq_splice	intron	490	563	524483.0	+	.	
+ch.2_179	RNASeq_splice	intron	490	566	14053.0	+	.	
+ch.2_179	RNASeq_splice	intron	519	563	15.0	+	.	
+ch.2_179	RNASeq_reads	transcript_region	563	563	7.0	.	.	
+ch.2_179	RNASeq_stranded	transcript_region	563	563	2.0	+	.	
+ch.2_179	RNASeq_stranded	transcript_region	564	574	8.0	+	.	
+ch.2_179	WormBase	CDS	564	622	.	+	.	ID=CDS:Y62E10A.23;Parent=Transcript:Y62E10A.23.1
+ch.2_179	WormBase	exon	564	622	.	+	.	Parent=Transcript:Y62E10A.23.1
+ch.2_179	RNASeq_stranded	transcript_region	575	689	13.0	+	.	

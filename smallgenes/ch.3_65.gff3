@@ -1,0 +1,51 @@
+ch.3_65	WormBase	three_prime_UTR	774	838	.	-	.	Parent=Transcript:F17E9.1.1
+ch.3_65	RNASeq	transcription_end_site	812	812	.	-	.	
+ch.3_65	WormBase	three_prime_UTR	708	755	.	+	.	Parent=Transcript:D2096.13.1
+ch.3_65	WormBase	exon	632	755	.	+	.	Parent=Transcript:D2096.13.1
+ch.3_65	WormBase	gene	101	755	.	+	.	ID=Gene:WBGene00044953
+ch.3_65	WormBase	mRNA	101	755	.	+	.	ID=Transcript:D2096.13.1;Parent=Gene:WBGene00044953
+ch.3_65	RNASeq_stranded	transcript_region	731	743	1.0	+	.	
+ch.3_65	RNASeq_reads	transcript_region	689	730	1.0	.	.	
+ch.3_65	RNASeq_stranded	transcript_region	632	730	2.0	+	.	
+ch.3_65	WormBase	CDS	632	707	.	+	.	ID=CDS:D2096.13;Parent=Transcript:D2096.13.1
+ch.3_65	RNASeq_F_asymmetry	transcript_region	688	692	5504.0	.	.	
+ch.3_65	RNASeq_reads	transcript_region	632	688	2.0	.	.	
+ch.3_65	RNASeq_splice	intron	586	649	77.0	+	.	
+ch.3_65	RNASeq_splice	intron	554	649	22.0	+	.	
+ch.3_65	RNASeq_splice	intron	586	633	3.0	+	.	
+ch.3_65	RNASeq_F_asymmetry	transcript_region	631	631	1429.0	.	.	
+ch.3_65	WormBase	intron	586	631	.	+	.	Parent=Transcript:D2096.13.1
+ch.3_65	RNASeq_splice	intron	586	631	7688.0	+	.	
+ch.3_65	RNASeq_splice	intron	554	631	127.0	+	.	
+ch.3_65	RNASeq_stranded	transcript_region	535	585	2.0	+	.	
+ch.3_65	WormBase	CDS	485	585	.	+	.	ID=CDS:D2096.13;Parent=Transcript:D2096.13.1
+ch.3_65	WormBase	exon	485	585	.	+	.	Parent=Transcript:D2096.13.1
+ch.3_65	RNASeq_reads	transcript_region	485	585	2.0	.	.	
+ch.3_65	RNASeq_stranded	transcript_region	485	534	1.0	+	.	
+ch.3_65	WormBase	intron	438	484	.	+	.	Parent=Transcript:D2096.13.1
+ch.3_65	RNASeq_splice	intron	438	484	12504.0	+	.	
+ch.3_65	RNASeq_stranded	transcript_region	411	437	2.0	+	.	
+ch.3_65	WormBase	CDS	338	437	.	+	.	ID=CDS:D2096.13;Parent=Transcript:D2096.13.1
+ch.3_65	WormBase	exon	338	437	.	+	.	Parent=Transcript:D2096.13.1
+ch.3_65	RNASeq_reads	transcript_region	338	437	3.0	.	.	
+ch.3_65	RNASeq_stranded	transcript_region	338	410	1.0	+	.	
+ch.3_65	RNASeq_splice	intron	293	354	3.0	+	.	
+ch.3_65	RNASeq_splice	intron	258	354	5.0	+	.	
+ch.3_65	RNASeq_splice	intron	293	342	43.0	+	.	
+ch.3_65	WormBase	intron	293	337	.	+	.	Parent=Transcript:D2096.13.1
+ch.3_65	RNASeq_splice	intron	293	337	17127.0	+	.	
+ch.3_65	RNASeq_reads	transcript_region	186	292	4.0	.	.	
+ch.3_65	RNASeq_stranded	transcript_region	149	292	1.0	+	.	
+ch.3_65	WormBase	CDS	117	292	.	+	.	ID=CDS:D2096.13;Parent=Transcript:D2096.13.1
+ch.3_65	WormBase	exon	101	292	.	+	.	Parent=Transcript:D2096.13.1
+ch.3_65	RNASeq_R_asymmetry	transcript_region	153	215	12320.0	.	.	
+ch.3_65	RNASeq_reads	transcript_region	150	185	2.0	.	.	
+ch.3_65	RNASeq_R_asymmetry	transcript_region	135	152	7984.0	.	.	
+ch.3_65	RNASeq_reads	transcript_region	120	149	1.0	.	.	
+ch.3_65	RNASeq_R_asymmetry	transcript_region	125	134	5256.0	.	.	
+ch.3_65	RNASeq_R_asymmetry	transcript_region	119	124	3434.0	.	.	
+ch.3_65	RNASeq_R_asymmetry	transcript_region	114	118	1887.0	.	.	
+ch.3_65	WormBase	five_prime_UTR	101	116	.	+	.	Parent=Transcript:D2096.13.1
+ch.3_65	RNASeq_R_asymmetry	transcript_region	106	113	1066.0	.	.	
+ch.3_65	RNASeq_R_asymmetry	transcript_region	99	105	424.0	.	.	
+ch.3_65	RNASeq_R_asymmetry	transcript_region	95	98	268.0	.	.	

@@ -1,0 +1,38 @@
+ch.1_49	RNASeq_F_asymmetry	transcript_region	101	104	7177.0	.	.	
+ch.1_49	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:F53F4.17.1
+ch.1_49	RNASeq_reads	transcript_region	101	108	2.0	.	.	
+ch.1_49	WormBase	exon	101	184	.	+	.	Parent=Transcript:F53F4.17.1
+ch.1_49	WormBase	gene	101	405	.	+	.	ID=Gene:WBGene00045195
+ch.1_49	WormBase	mRNA	101	405	.	+	.	ID=Transcript:F53F4.17.1;Parent=Gene:WBGene00045195
+ch.1_49	RNASeq_F_asymmetry	transcript_region	105	108	10823.0	.	.	
+ch.1_49	RNASeq_stranded	transcript_region	106	115	1.0	+	.	
+ch.1_49	WormBase	CDS	107	184	.	+	.	ID=CDS:F53F4.17;Parent=Transcript:F53F4.17.1
+ch.1_49	RNASeq_reads	transcript_region	109	141	5.0	.	.	
+ch.1_49	RNASeq_F_asymmetry	transcript_region	109	152	21861.0	.	.	
+ch.1_49	RNASeq_stranded	transcript_region	116	184	2.0	+	.	
+ch.1_49	RNASeq_reads	transcript_region	142	184	8.0	.	.	
+ch.1_49	RNASeq_F_asymmetry	transcript_region	153	158	32914.0	.	.	
+ch.1_49	RNASeq_F_asymmetry	transcript_region	185	185	4344.0	.	.	
+ch.1_49	RNASeq_reads	transcript_region	185	185	1.0	.	.	
+ch.1_49	WormBase	intron	185	238	.	+	.	Parent=Transcript:F53F4.17.1
+ch.1_49	RNASeq_splice	intron	185	238	40781.0	+	.	
+ch.1_49	RNASeq_splice	intron	191	238	8.0	+	.	
+ch.1_49	RNASeq_reads	transcript_region	232	237	1.0	.	.	
+ch.1_49	RNASeq_reads	transcript_region	238	238	2.0	.	.	
+ch.1_49	RNASeq_stranded	transcript_region	238	238	1.0	+	.	
+ch.1_49	RNASeq_stranded	transcript_region	239	297	4.0	+	.	
+ch.1_49	RNASeq_reads	transcript_region	239	349	10.0	.	.	
+ch.1_49	WormBase	CDS	239	358	.	+	.	ID=CDS:F53F4.17;Parent=Transcript:F53F4.17.1
+ch.1_49	WormBase	exon	239	405	.	+	.	Parent=Transcript:F53F4.17.1
+ch.1_49	RNASeq_stranded	transcript_region	298	366	7.0	+	.	
+ch.1_49	RNASeq_R_asymmetry	transcript_region	345	359	29582.0	.	.	
+ch.1_49	RNASeq_reads	transcript_region	350	361	6.0	.	.	
+ch.1_49	WormBase	three_prime_UTR	359	405	.	+	.	Parent=Transcript:F53F4.17.1
+ch.1_49	RNASeq_reads	transcript_region	362	391	3.0	.	.	
+ch.1_49	RNASeq_stranded	transcript_region	367	376	4.0	+	.	
+ch.1_49	RNASeq_stranded	transcript_region	377	394	2.0	+	.	
+ch.1_49	RNASeq_reads	transcript_region	392	405	1.0	.	.	
+ch.1_49	RNASeq_stranded	transcript_region	395	402	1.0	+	.	
+ch.1_49	RNASeq	transcription_end_site	403	403	.	+	.	
+ch.1_49	RNASeq	transcription_end_site	405	405	.	+	.	
+ch.1_49	RNASeq	transcription_end_site	406	406	.	+	.	

@@ -1,0 +1,33 @@
+ch.2_51	RNASeq_reads	transcript_region	87	92	1.0	.	.	
+ch.2_51	RNASeq_reads	transcript_region	93	181	2.0	.	.	
+ch.2_51	WormBase	CDS	101	181	.	+	.	ID=CDS:C16C8.25;Parent=Transcript:C16C8.25.1
+ch.2_51	WormBase	exon	101	181	.	+	.	Parent=Transcript:C16C8.25.1
+ch.2_51	WormBase	gene	101	737	.	+	.	ID=Gene:WBGene00305092
+ch.2_51	WormBase	mRNA	101	737	.	+	.	ID=Transcript:C16C8.25.1;Parent=Gene:WBGene00305092
+ch.2_51	RNASeq_F_asymmetry	transcript_region	108	138	8838.0	.	.	
+ch.2_51	RNASeq_stranded	transcript_region	111	129	1.0	+	.	
+ch.2_51	RNASeq_splice	intron	182	217	125.0	+	.	
+ch.2_51	WormBase	intron	182	228	.	+	.	Parent=Transcript:C16C8.25.1
+ch.2_51	RNASeq_splice	intron	182	228	12515.0	+	.	
+ch.2_51	RNASeq_reads	transcript_region	227	228	1.0	.	.	
+ch.2_51	WormBase	CDS	229	576	.	+	.	ID=CDS:C16C8.25;Parent=Transcript:C16C8.25.1
+ch.2_51	WormBase	exon	229	576	.	+	.	Parent=Transcript:C16C8.25.1
+ch.2_51	RNASeq_reads	transcript_region	229	576	3.0	.	.	
+ch.2_51	RNASeq_stranded	transcript_region	255	261	1.0	+	.	
+ch.2_51	RNASeq_stranded	transcript_region	372	576	1.0	+	.	
+ch.2_51	RNASeq_splice	intron	467	511	4.0	+	.	
+ch.2_51	RNASeq_splice	intron	536	668	20.0	+	.	
+ch.2_51	RNASeq_reads	transcript_region	577	603	1.0	.	.	
+ch.2_51	RNASeq_splice	intron	577	662	7.0	+	.	
+ch.2_51	WormBase	intron	577	668	.	+	.	Parent=Transcript:C16C8.25.1
+ch.2_51	RNASeq_splice	intron	577	668	10470.0	+	.	
+ch.2_51	RNASeq_reads	transcript_region	637	668	1.0	.	.	
+ch.2_51	RNASeq_stranded	transcript_region	669	686	1.0	+	.	
+ch.2_51	RNASeq_reads	transcript_region	669	733	3.0	.	.	
+ch.2_51	WormBase	CDS	669	737	.	+	.	ID=CDS:C16C8.25;Parent=Transcript:C16C8.25.1
+ch.2_51	WormBase	exon	669	737	.	+	.	Parent=Transcript:C16C8.25.1
+ch.2_51	RNASeq	transcription_end_site	682	682	.	+	.	
+ch.2_51	WormBase	exon	685	733	.	+	.	Parent=Transcript:C16C8.14.2
+ch.2_51	WormBase	five_prime_UTR	685	733	.	+	.	Parent=Transcript:C16C8.14.2
+ch.2_51	RNASeq_stranded	transcript_region	687	728	2.0	+	.	
+ch.2_51	RNASeq_stranded	transcript_region	729	733	1.0	+	.	

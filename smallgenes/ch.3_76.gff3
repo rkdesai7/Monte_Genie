@@ -1,0 +1,48 @@
+ch.3_76	WormBase	three_prime_UTR	921	994	.	-	.	Parent=Transcript:F28H7.11.1
+ch.3_76	RNASeq_F_asymmetry	transcript_region	966	983	861.0	.	.	
+ch.3_76	WormBase	three_prime_UTR	917	968	.	+	.	Parent=Transcript:F28H7.4.1
+ch.3_76	WormBase	exon	620	968	.	+	.	Parent=Transcript:F28H7.4.1
+ch.3_76	WormBase	gene	101	968	.	+	.	ID=Gene:WBGene00009238
+ch.3_76	WormBase	mRNA	101	968	.	+	.	ID=Transcript:F28H7.4.1;Parent=Gene:WBGene00009238
+ch.3_76	RNASeq_F_asymmetry	transcript_region	953	965	1348.0	.	.	
+ch.3_76	RNASeq_F_asymmetry	transcript_region	926	952	2227.0	.	.	
+ch.3_76	RNASeq_reads	transcript_region	881	952	1.0	.	.	
+ch.3_76	RNASeq_F_asymmetry	transcript_region	881	925	3940.0	.	.	
+ch.3_76	WormBase	CDS	620	916	.	+	.	ID=CDS:F28H7.4;Parent=Transcript:F28H7.4.1
+ch.3_76	RNASeq_F_asymmetry	transcript_region	854	880	6596.0	.	.	
+ch.3_76	RNASeq_reads	transcript_region	818	880	2.0	.	.	
+ch.3_76	RNASeq_F_asymmetry	transcript_region	803	853	10455.0	.	.	
+ch.3_76	RNASeq_reads	transcript_region	620	817	4.0	.	.	
+ch.3_76	RNASeq_stranded	transcript_region	749	762	1.0	+	.	
+ch.3_76	RNASeq_stranded	transcript_region	620	679	1.0	+	.	
+ch.3_76	RNASeq_reads	transcript_region	617	619	1.0	.	.	
+ch.3_76	RNASeq_splice	intron	578	619	16.0	+	.	
+ch.3_76	WormBase	intron	573	619	.	+	.	Parent=Transcript:F28H7.4.1
+ch.3_76	RNASeq_splice	intron	573	619	15585.0	+	.	
+ch.3_76	RNASeq_R_asymmetry	transcript_region	589	590	50.0	.	.	
+ch.3_76	WormBase	CDS	449	572	.	+	.	ID=CDS:F28H7.4;Parent=Transcript:F28H7.4.1
+ch.3_76	WormBase	exon	449	572	.	+	.	Parent=Transcript:F28H7.4.1
+ch.3_76	RNASeq_reads	transcript_region	449	572	3.0	.	.	
+ch.3_76	RNASeq_stranded	transcript_region	511	564	1.0	+	.	
+ch.3_76	WormBase	intron	401	448	.	+	.	Parent=Transcript:F28H7.4.1
+ch.3_76	RNASeq_splice	intron	401	448	14244.0	+	.	
+ch.3_76	RNASeq_reads	transcript_region	257	400	3.0	.	.	
+ch.3_76	WormBase	CDS	238	400	.	+	.	ID=CDS:F28H7.4;Parent=Transcript:F28H7.4.1
+ch.3_76	WormBase	exon	238	400	.	+	.	Parent=Transcript:F28H7.4.1
+ch.3_76	RNASeq_stranded	transcript_region	249	297	1.0	+	.	
+ch.3_76	RNASeq_reads	transcript_region	254	256	1.0	.	.	
+ch.3_76	RNASeq_reads	transcript_region	247	253	2.0	.	.	
+ch.3_76	RNASeq_reads	transcript_region	238	246	1.0	.	.	
+ch.3_76	RNASeq_splice	intron	194	240	80.0	+	.	
+ch.3_76	WormBase	intron	194	237	.	+	.	Parent=Transcript:F28H7.4.1
+ch.3_76	RNASeq_splice	intron	194	237	5934.0	+	.	
+ch.3_76	RNASeq_splice	intron	194	228	11.0	+	.	
+ch.3_76	WormBase	CDS	127	193	.	+	.	ID=CDS:F28H7.4;Parent=Transcript:F28H7.4.1
+ch.3_76	RNASeq_reads	transcript_region	112	193	1.0	.	.	
+ch.3_76	WormBase	exon	101	193	.	+	.	Parent=Transcript:F28H7.4.1
+ch.3_76	RNASeq_stranded	transcript_region	139	185	1.0	+	.	
+ch.3_76	RNASeq_R_asymmetry	transcript_region	125	174	5076.0	.	.	
+ch.3_76	WormBase	five_prime_UTR	101	126	.	+	.	Parent=Transcript:F28H7.4.1
+ch.3_76	RNASeq_R_asymmetry	transcript_region	112	124	3301.0	.	.	
+ch.3_76	RNASeq_R_asymmetry	transcript_region	109	111	2147.0	.	.	
+ch.3_76	RNASeq_R_asymmetry	transcript_region	103	108	1234.0	.	.	

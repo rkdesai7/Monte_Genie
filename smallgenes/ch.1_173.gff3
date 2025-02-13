@@ -1,0 +1,27 @@
+ch.1_173	WormBase	CDS	101	269	.	+	.	ID=CDS:T10B10.9;Parent=Transcript:T10B10.9.1
+ch.1_173	WormBase	exon	101	269	.	+	.	Parent=Transcript:T10B10.9.1
+ch.1_173	WormBase	gene	101	548	.	+	.	ID=Gene:WBGene00011685
+ch.1_173	WormBase	mRNA	101	548	.	+	.	ID=Transcript:T10B10.9.1;Parent=Gene:WBGene00011685
+ch.1_173	RNASeq_F_asymmetry	transcript_region	198	201	1350.0	.	.	
+ch.1_173	RNASeq_F_asymmetry	transcript_region	202	203	2170.0	.	.	
+ch.1_173	RNASeq_reads	transcript_region	202	211	1.0	.	.	
+ch.1_173	RNASeq_F_asymmetry	transcript_region	204	204	3347.0	.	.	
+ch.1_173	RNASeq_F_asymmetry	transcript_region	205	214	5475.0	.	.	
+ch.1_173	RNASeq_reads	transcript_region	212	269	2.0	.	.	
+ch.1_173	RNASeq_F_asymmetry	transcript_region	215	252	8516.0	.	.	
+ch.1_173	WormBase	intron	270	329	.	+	.	Parent=Transcript:T10B10.9.1
+ch.1_173	RNASeq_splice	intron	270	329	11108.0	+	.	
+ch.1_173	RNASeq_reads	transcript_region	330	335	2.0	.	.	
+ch.1_173	WormBase	CDS	330	481	.	+	.	ID=CDS:T10B10.9;Parent=Transcript:T10B10.9.1
+ch.1_173	WormBase	exon	330	548	.	+	.	Parent=Transcript:T10B10.9.1
+ch.1_173	RNASeq_F_asymmetry	transcript_region	334	340	13897.0	.	.	
+ch.1_173	RNASeq_reads	transcript_region	336	474	4.0	.	.	
+ch.1_173	RNASeq	transcription_end_site	421	421	.	+	.	
+ch.1_173	RNASeq_R_asymmetry	transcript_region	465	471	16417.0	.	.	
+ch.1_173	RNASeq_reads	transcript_region	475	498	2.0	.	.	
+ch.1_173	RNASeq_R_asymmetry	transcript_region	475	502	9639.0	.	.	
+ch.1_173	WormBase	three_prime_UTR	482	548	.	+	.	Parent=Transcript:T10B10.9.1
+ch.1_173	RNASeq_reads	transcript_region	499	528	1.0	.	.	
+ch.1_173	RNASeq_R_asymmetry	transcript_region	503	514	5787.0	.	.	
+ch.1_173	RNASeq_R_asymmetry	transcript_region	515	525	3473.0	.	.	
+ch.1_173	RNASeq_R_asymmetry	transcript_region	526	535	2265.0	.	.	

@@ -1,0 +1,54 @@
+ch.3_49	RNASeq_splice	intron	40	428	4.0	+	.	
+ch.3_49	WormBase	exon	101	243	.	+	.	Parent=Transcript:F40G9.15.1
+ch.3_49	WormBase	CDS	101	243	.	+	.	ID=CDS:F40G9.15;Parent=Transcript:F40G9.15.1
+ch.3_49	WormBase	gene	101	736	.	+	.	ID=Gene:WBGene00077531
+ch.3_49	WormBase	mRNA	101	736	.	+	.	ID=Transcript:F40G9.15.1;Parent=Gene:WBGene00077531
+ch.3_49	RNASeq_stranded	transcript_region	132	133	1.0	+	.	
+ch.3_49	RNASeq_stranded	transcript_region	135	147	1.0	+	.	
+ch.3_49	RNASeq_stranded	transcript_region	149	149	1.0	+	.	
+ch.3_49	RNASeq_stranded	transcript_region	151	156	1.0	+	.	
+ch.3_49	RNASeq_reads	transcript_region	162	289	5.0	.	.	
+ch.3_49	RNASeq_stranded	transcript_region	212	223	1.0	+	.	
+ch.3_49	RNASeq_splice	intron	226	269	5.0	+	.	
+ch.3_49	RNASeq_splice	intron	244	283	13.0	+	.	
+ch.3_49	WormBase	intron	244	289	.	+	.	Parent=Transcript:F40G9.15.1
+ch.3_49	RNASeq_splice	intron	244	289	7332.0	+	.	
+ch.3_49	RNASeq_splice	intron	254	396	5.0	-	.	
+ch.3_49	RNASeq_reads	transcript_region	290	375	8.0	.	.	
+ch.3_49	WormBase	CDS	290	383	.	+	.	ID=CDS:F40G9.15;Parent=Transcript:F40G9.15.1
+ch.3_49	WormBase	exon	290	383	.	+	.	Parent=Transcript:F40G9.15.1
+ch.3_49	RNASeq_stranded	transcript_region	305	305	1.0	+	.	
+ch.3_49	RNASeq_stranded	transcript_region	320	323	1.0	+	.	
+ch.3_49	RNASeq_stranded	transcript_region	329	383	1.0	+	.	
+ch.3_49	RNASeq_splice	intron	349	396	10.0	-	.	
+ch.3_49	RNASeq_reads	transcript_region	376	383	5.0	.	.	
+ch.3_49	WormBase	intron	384	428	.	+	.	Parent=Transcript:F40G9.15.1
+ch.3_49	RNASeq_reads	transcript_region	384	428	2.0	.	.	
+ch.3_49	RNASeq_splice	intron	384	428	13361.0	+	.	
+ch.3_49	RNASeq_splice	intron	384	432	4.0	+	.	
+ch.3_49	RNASeq_reads	transcript_region	429	506	9.0	.	.	
+ch.3_49	RNASeq_stranded	transcript_region	429	516	2.0	+	.	
+ch.3_49	WormBase	CDS	429	529	.	+	.	ID=CDS:F40G9.15;Parent=Transcript:F40G9.15.1
+ch.3_49	WormBase	exon	429	529	.	+	.	Parent=Transcript:F40G9.15.1
+ch.3_49	RNASeq_reads	transcript_region	507	529	14.0	.	.	
+ch.3_49	RNASeq_stranded	transcript_region	517	529	4.0	+	.	
+ch.3_49	WormBase	intron	530	575	.	+	.	Parent=Transcript:F40G9.15.1
+ch.3_49	RNASeq_reads	transcript_region	530	575	2.0	.	.	
+ch.3_49	RNASeq_splice	intron	530	575	53646.0	+	.	
+ch.3_49	RNASeq_splice	intron	534	577	3.0	+	.	
+ch.3_49	RNASeq_splice	intron	538	607	4.0	-	.	
+ch.3_49	RNASeq_stranded	transcript_region	575	575	3.0	+	.	
+ch.3_49	RNASeq_stranded	transcript_region	576	590	6.0	+	.	
+ch.3_49	RNASeq_reads	transcript_region	576	685	13.0	.	.	
+ch.3_49	WormBase	CDS	576	702	.	+	.	ID=CDS:F40G9.15;Parent=Transcript:F40G9.15.1
+ch.3_49	WormBase	exon	576	736	.	+	.	Parent=Transcript:F40G9.15.1
+ch.3_49	RNASeq_stranded	transcript_region	591	622	10.0	+	.	
+ch.3_49	RNASeq_stranded	transcript_region	623	678	16.0	+	.	
+ch.3_49	RNASeq_stranded	transcript_region	679	712	10.0	+	.	
+ch.3_49	RNASeq_splice	intron	681	724	10.0	-	.	
+ch.3_49	RNASeq_reads	transcript_region	686	718	8.0	.	.	
+ch.3_49	WormBase	three_prime_UTR	703	736	.	+	.	Parent=Transcript:F40G9.15.1
+ch.3_49	RNASeq_stranded	transcript_region	713	722	6.0	+	.	
+ch.3_49	RNASeq_reads	transcript_region	719	732	5.0	.	.	
+ch.3_49	RNASeq_stranded	transcript_region	723	734	3.0	+	.	
+ch.3_49	RNASeq_stranded	transcript_region	735	736	1.0	+	.	

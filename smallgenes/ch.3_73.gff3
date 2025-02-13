@@ -1,0 +1,69 @@
+ch.3_73	RNASeq_stranded	transcript_region	54	62	1.0	-	.	
+ch.3_73	RNASeq_reads	transcript_region	54	63	1.0	.	.	
+ch.3_73	RNASeq_reads	transcript_region	75	83	1.0	.	.	
+ch.3_73	RNASeq_splice	intron	80	137	14.0	+	.	
+ch.3_73	RNASeq_reads	transcript_region	84	100	2.0	.	.	
+ch.3_73	RNASeq_stranded	transcript_region	88	99	1.0	+	.	
+ch.3_73	RNASeq_stranded	transcript_region	100	150	2.0	+	.	
+ch.3_73	RNASeq_reads	transcript_region	101	185	4.0	.	.	
+ch.3_73	WormBase	exon	101	291	.	+	.	Parent=Transcript:ZK1025.6.1
+ch.3_73	WormBase	CDS	101	291	.	+	.	ID=CDS:ZK1025.6;Parent=Transcript:ZK1025.6.1
+ch.3_73	WormBase	gene	101	860	.	+	.	ID=Gene:WBGene00014186
+ch.3_73	WormBase	mRNA	101	860	.	+	.	ID=Transcript:ZK1025.6.1;Parent=Gene:WBGene00014186
+ch.3_73	RNASeq_stranded	transcript_region	151	191	1.0	+	.	
+ch.3_73	RNASeq_splice	intron	170	222	30.0	-	.	
+ch.3_73	RNASeq_reads	transcript_region	186	190	2.0	.	.	
+ch.3_73	RNASeq_reads	transcript_region	191	202	1.0	.	.	
+ch.3_73	RNASeq_reads	transcript_region	203	221	2.0	.	.	
+ch.3_73	RNASeq_stranded	transcript_region	221	291	1.0	+	.	
+ch.3_73	RNASeq_reads	transcript_region	222	250	4.0	.	.	
+ch.3_73	RNASeq_splice	intron	223	324	7.0	-	.	
+ch.3_73	RNASeq_reads	transcript_region	251	291	7.0	.	.	
+ch.3_73	RNASeq_reads	transcript_region	292	292	2.0	.	.	
+ch.3_73	RNASeq_splice	intron	292	337	4.0	-	.	
+ch.3_73	WormBase	intron	292	339	.	+	.	Parent=Transcript:ZK1025.6.1
+ch.3_73	RNASeq_splice	intron	292	339	40294.0	+	.	
+ch.3_73	RNASeq_splice	intron	292	387	11.0	+	.	
+ch.3_73	RNASeq_splice	intron	296	339	11.0	+	.	
+ch.3_73	RNASeq_stranded	transcript_region	340	387	2.0	+	.	
+ch.3_73	WormBase	CDS	340	541	.	+	.	ID=CDS:ZK1025.6;Parent=Transcript:ZK1025.6.1
+ch.3_73	WormBase	exon	340	541	.	+	.	Parent=Transcript:ZK1025.6.1
+ch.3_73	RNASeq_reads	transcript_region	340	541	8.0	.	.	
+ch.3_73	RNASeq_stranded	transcript_region	388	390	1.0	+	.	
+ch.3_73	RNASeq_stranded	transcript_region	391	396	2.0	+	.	
+ch.3_73	RNASeq_stranded	transcript_region	397	399	1.0	+	.	
+ch.3_73	RNASeq_stranded	transcript_region	400	541	2.0	+	.	
+ch.3_73	WormBase	intron	542	592	.	+	.	Parent=Transcript:ZK1025.6.1
+ch.3_73	RNASeq_splice	intron	542	592	46211.0	+	.	
+ch.3_73	RNASeq_reads	transcript_region	592	592	2.0	.	.	
+ch.3_73	RNASeq_stranded	transcript_region	592	592	1.0	+	.	
+ch.3_73	RNASeq_stranded	transcript_region	593	608	3.0	+	.	
+ch.3_73	WormBase	CDS	593	667	.	+	.	ID=CDS:ZK1025.6;Parent=Transcript:ZK1025.6.1
+ch.3_73	WormBase	exon	593	667	.	+	.	Parent=Transcript:ZK1025.6.1
+ch.3_73	RNASeq_reads	transcript_region	593	667	10.0	.	.	
+ch.3_73	RNASeq_stranded	transcript_region	609	663	5.0	+	.	
+ch.3_73	RNASeq_R_asymmetry	transcript_region	659	667	41075.0	.	.	
+ch.3_73	RNASeq_stranded	transcript_region	664	667	3.0	+	.	
+ch.3_73	WormBase	intron	668	717	.	+	.	Parent=Transcript:ZK1025.6.1
+ch.3_73	RNASeq_splice	intron	668	717	55889.0	+	.	
+ch.3_73	RNASeq_R_asymmetry	transcript_region	717	717	3141.0	.	.	
+ch.3_73	RNASeq_reads	transcript_region	717	717	1.0	.	.	
+ch.3_73	RNASeq_stranded	transcript_region	717	717	1.0	+	.	
+ch.3_73	RNASeq_stranded	transcript_region	718	724	3.0	+	.	
+ch.3_73	RNASeq_R_asymmetry	transcript_region	718	742	38769.0	.	.	
+ch.3_73	RNASeq_reads	transcript_region	718	760	9.0	.	.	
+ch.3_73	WormBase	CDS	718	771	.	+	.	ID=CDS:ZK1025.6;Parent=Transcript:ZK1025.6.1
+ch.3_73	WormBase	exon	718	860	.	+	.	Parent=Transcript:ZK1025.6.1
+ch.3_73	RNASeq_stranded	transcript_region	725	784	5.0	+	.	
+ch.3_73	RNASeq_R_asymmetry	transcript_region	746	760	25469.0	.	.	
+ch.3_73	RNASeq_reads	transcript_region	761	794	5.0	.	.	
+ch.3_73	RNASeq_R_asymmetry	transcript_region	763	797	19715.0	.	.	
+ch.3_73	WormBase	three_prime_UTR	772	860	.	+	.	Parent=Transcript:ZK1025.6.1
+ch.3_73	RNASeq_stranded	transcript_region	785	831	3.0	+	.	
+ch.3_73	RNASeq_reads	transcript_region	795	801	3.0	.	.	
+ch.3_73	RNASeq_R_asymmetry	transcript_region	798	800	11895.0	.	.	
+ch.3_73	RNASeq_reads	transcript_region	802	852	1.0	.	.	
+ch.3_73	RNASeq_splice	intron	809	849	6.0	-	.	
+ch.3_73	RNASeq_stranded	transcript_region	832	849	1.0	+	.	
+ch.3_73	RNASeq_R_asymmetry	transcript_region	849	849	2402.0	.	.	
+ch.3_73	RNASeq_R_asymmetry	transcript_region	851	861	2048.0	.	.	

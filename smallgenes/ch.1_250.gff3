@@ -1,0 +1,31 @@
+ch.1_250	RNASeq_reads	transcript_region	74	99	1.0	.	.	
+ch.1_250	RNASeq_F_asymmetry	transcript_region	75	80	2137.0	.	.	
+ch.1_250	RNASeq_F_asymmetry	transcript_region	81	101	4631.0	.	.	
+ch.1_250	RNASeq_reads	transcript_region	100	131	2.0	.	.	
+ch.1_250	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:F26G1.10.1
+ch.1_250	WormBase	exon	101	250	.	+	.	Parent=Transcript:F26G1.10.1
+ch.1_250	WormBase	gene	101	602	.	+	.	ID=Gene:WBGene00044663
+ch.1_250	WormBase	mRNA	101	602	.	+	.	ID=Transcript:F26G1.10.1;Parent=Gene:WBGene00044663
+ch.1_250	RNASeq_F_asymmetry	transcript_region	102	110	7213.0	.	.	
+ch.1_250	WormBase	CDS	103	250	.	+	.	ID=CDS:F26G1.10;Parent=Transcript:F26G1.10.1
+ch.1_250	RNASeq_F_asymmetry	transcript_region	111	164	11451.0	.	.	
+ch.1_250	RNASeq_reads	transcript_region	132	250	4.0	.	.	
+ch.1_250	RNASeq_stranded	transcript_region	154	204	1.0	+	.	
+ch.1_250	RNASeq_splice	intron	162	218	43.0	-	.	
+ch.1_250	RNASeq_stranded	transcript_region	210	250	1.0	+	.	
+ch.1_250	RNASeq_splice	intron	238	291	94.0	+	.	
+ch.1_250	WormBase	intron	251	291	.	+	.	Parent=Transcript:F26G1.10.1
+ch.1_250	RNASeq_splice	intron	251	291	25228.0	+	.	
+ch.1_250	RNASeq_stranded	transcript_region	292	360	1.0	+	.	
+ch.1_250	RNASeq_reads	transcript_region	292	598	5.0	.	.	
+ch.1_250	WormBase	CDS	292	602	.	+	.	ID=CDS:F26G1.10;Parent=Transcript:F26G1.10.1
+ch.1_250	WormBase	exon	292	602	.	+	.	Parent=Transcript:F26G1.10.1
+ch.1_250	RNASeq_stranded	transcript_region	361	415	2.0	+	.	
+ch.1_250	RNASeq_stranded	transcript_region	416	443	1.0	+	.	
+ch.1_250	RNASeq_stranded	transcript_region	444	449	2.0	+	.	
+ch.1_250	RNASeq_stranded	transcript_region	450	496	1.0	+	.	
+ch.1_250	RNASeq_stranded	transcript_region	502	511	1.0	+	.	
+ch.1_250	RNASeq_stranded	transcript_region	517	598	1.0	+	.	
+ch.1_250	RNASeq_splice	intron	530	574	5.0	+	.	
+ch.1_250	RNASeq_splice	intron	599	642	19603.0	+	.	
+ch.1_250	RNASeq_splice	intron	599	664	4.0	+	.	

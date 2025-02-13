@@ -1,0 +1,27 @@
+ch.1_592	RNASeq_stranded	transcript_region	886	887	2.0	-	.	
+ch.1_592	RNASeq_stranded	transcript_region	882	885	1.0	-	.	
+ch.1_592	RNASeq_stranded	transcript_region	854	881	2.0	-	.	
+ch.1_592	RNASeq	transcription_end_site	861	861	.	-	.	
+ch.1_592	RNASeq_reads	transcript_region	853	853	2.0	.	.	
+ch.1_592	RNASeq_splice	intron	610	853	33.0	-	.	
+ch.1_592	RNASeq_splice	intron	584	853	3.0	-	.	
+ch.1_592	RNASeq_reads	transcript_region	775	811	1.0	.	.	
+ch.1_592	WormBase	three_prime_UTR	619	811	.	+	.	Parent=Transcript:T01B6.4.1
+ch.1_592	WormBase	exon	558	811	.	+	.	Parent=Transcript:T01B6.4.1
+ch.1_592	WormBase	gene	101	811	.	+	.	ID=Gene:WBGene00020136
+ch.1_592	WormBase	mRNA	101	811	.	+	.	ID=Transcript:T01B6.4.1;Parent=Gene:WBGene00020136
+ch.1_592	RNASeq_reads	transcript_region	683	774	2.0	.	.	
+ch.1_592	RNASeq_F_asymmetry	transcript_region	756	772	6632.0	.	.	
+ch.1_592	RNASeq_reads	transcript_region	558	682	4.0	.	.	
+ch.1_592	WormBase	CDS	558	618	.	+	.	ID=CDS:T01B6.4;Parent=Transcript:T01B6.4.1
+ch.1_592	WormBase	intron	505	557	.	+	.	Parent=Transcript:T01B6.4.1
+ch.1_592	RNASeq_splice	intron	505	557	16564.0	+	.	
+ch.1_592	WormBase	CDS	149	504	.	+	.	ID=CDS:T01B6.4;Parent=Transcript:T01B6.4.1
+ch.1_592	RNASeq_reads	transcript_region	127	504	4.0	.	.	
+ch.1_592	WormBase	exon	101	504	.	+	.	Parent=Transcript:T01B6.4.1
+ch.1_592	RNASeq_splice	intron	316	363	169.0	+	.	
+ch.1_592	RNASeq_R_asymmetry	transcript_region	124	173	15122.0	.	.	
+ch.1_592	WormBase	five_prime_UTR	101	148	.	+	.	Parent=Transcript:T01B6.4.1
+ch.1_592	RNASeq_reads	transcript_region	106	126	2.0	.	.	
+ch.1_592	RNASeq_R_asymmetry	transcript_region	109	123	9932.0	.	.	
+ch.1_592	RNASeq_R_asymmetry	transcript_region	107	108	6205.0	.	.	

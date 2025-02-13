@@ -1,0 +1,47 @@
+ch.1_44	RNASeq	transcription_end_site	443	443	.	-	.	
+ch.1_44	RNASeq	transcription_end_site	443	443	.	-	.	
+ch.1_44	WormBase	three_prime_UTR	387	436	.	+	.	Parent=Transcript:W06G6.20.1
+ch.1_44	WormBase	exon	245	436	.	+	.	Parent=Transcript:W06G6.20.1
+ch.1_44	WormBase	gene	101	436	.	+	.	ID=Gene:WBGene00219308
+ch.1_44	WormBase	mRNA	101	436	.	+	.	ID=Transcript:W06G6.20.1;Parent=Gene:WBGene00219308
+ch.1_44	RNASeq_stranded	transcript_region	412	434	1.0	+	.	
+ch.1_44	RNASeq_reads	transcript_region	404	430	1.0	.	.	
+ch.1_44	RNASeq_F_asymmetry	transcript_region	419	424	3185.0	.	.	
+ch.1_44	RNASeq_F_asymmetry	transcript_region	396	418	4800.0	.	.	
+ch.1_44	RNASeq_stranded	transcript_region	277	411	2.0	+	.	
+ch.1_44	RNASeq_reads	transcript_region	366	403	2.0	.	.	
+ch.1_44	RNASeq	transcription_end_site	395	395	.	-	.	
+ch.1_44	RNASeq	transcription_end_site	395	395	.	-	.	
+ch.1_44	RNASeq_F_asymmetry	transcript_region	383	395	7349.0	.	.	
+ch.1_44	WormBase	CDS	245	386	.	+	.	ID=CDS:W06G6.20;Parent=Transcript:W06G6.20.1
+ch.1_44	RNASeq_F_asymmetry	transcript_region	352	382	11078.0	.	.	
+ch.1_44	RNASeq_reads	transcript_region	330	365	4.0	.	.	
+ch.1_44	RNASeq_F_asymmetry	transcript_region	343	351	17822.0	.	.	
+ch.1_44	RNASeq_F_asymmetry	transcript_region	330	339	18530.0	.	.	
+ch.1_44	RNASeq_F_asymmetry	transcript_region	296	329	28176.0	.	.	
+ch.1_44	RNASeq_reads	transcript_region	245	329	7.0	.	.	
+ch.1_44	RNASeq_stranded	transcript_region	275	276	1.0	+	.	
+ch.1_44	RNASeq_stranded	transcript_region	274	274	2.0	-	.	
+ch.1_44	RNASeq_stranded	transcript_region	245	273	1.0	+	.	
+ch.1_44	WormBase	intron	195	244	.	+	.	Parent=Transcript:W06G6.20.1
+ch.1_44	RNASeq_splice	intron	195	244	31803.0	+	.	
+ch.1_44	RNASeq_R_asymmetry	transcript_region	195	195	3101.0	.	.	
+ch.1_44	RNASeq_reads	transcript_region	195	195	1.0	.	.	
+ch.1_44	RNASeq_stranded	transcript_region	168	194	1.0	+	.	
+ch.1_44	RNASeq_reads	transcript_region	118	194	8.0	.	.	
+ch.1_44	WormBase	CDS	103	194	.	+	.	ID=CDS:W06G6.20;Parent=Transcript:W06G6.20.1
+ch.1_44	WormBase	exon	101	194	.	+	.	Parent=Transcript:W06G6.20.1
+ch.1_44	RNASeq_stranded	transcript_region	124	167	2.0	+	.	
+ch.1_44	RNASeq_R_asymmetry	transcript_region	108	159	29443.0	.	.	
+ch.1_44	RNASeq_stranded	transcript_region	95	123	1.0	+	.	
+ch.1_44	RNASeq_reads	transcript_region	102	117	5.0	.	.	
+ch.1_44	RNASeq_R_asymmetry	transcript_region	92	107	18257.0	.	.	
+ch.1_44	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:W06G6.20.1
+ch.1_44	RNASeq_reads	transcript_region	82	101	3.0	.	.	
+ch.1_44	RNASeq_R_asymmetry	transcript_region	82	91	10903.0	.	.	
+ch.1_44	RNASeq_R_asymmetry	transcript_region	74	81	6698.0	.	.	
+ch.1_44	RNASeq_reads	transcript_region	65	81	1.0	.	.	
+ch.1_44	RNASeq_R_asymmetry	transcript_region	71	73	3490.0	.	.	
+ch.1_44	RNASeq_R_asymmetry	transcript_region	39	70	2231.0	.	.	
+ch.1_44	RNASeq_R_asymmetry	transcript_region	29	38	1385.0	.	.	
+ch.1_44	RNASeq_R_asymmetry	transcript_region	11	28	898.0	.	.	

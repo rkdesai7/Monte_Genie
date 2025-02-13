@@ -1,0 +1,74 @@
+ch.1_309	RNASeq_R_asymmetry	transcript_region	702	708	487.0	.	.	
+ch.1_309	RNASeq	transcription_end_site	664	664	.	-	.	
+ch.1_309	RNASeq	transcription_end_site	664	664	.	-	.	
+ch.1_309	RNASeq_stranded	transcript_region	661	662	1.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	658	662	1.0	.	.	
+ch.1_309	RNASeq_stranded	transcript_region	653	660	2.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	652	657	2.0	.	.	
+ch.1_309	WormBase	three_prime_UTR	550	654	.	+	.	Parent=Transcript:Y62F5A.12.1
+ch.1_309	WormBase	exon	350	654	.	+	.	Parent=Transcript:Y62F5A.12.1
+ch.1_309	WormBase	gene	101	654	.	+	.	ID=Gene:WBGene00077453
+ch.1_309	WormBase	mRNA	101	654	.	+	.	ID=Transcript:Y62F5A.12.1;Parent=Gene:WBGene00077453
+ch.1_309	RNASeq	transcription_end_site	652	652	.	-	.	
+ch.1_309	RNASeq	transcription_end_site	652	652	.	-	.	
+ch.1_309	RNASeq_stranded	transcript_region	648	652	4.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	641	651	4.0	.	.	
+ch.1_309	RNASeq_stranded	transcript_region	642	647	7.0	+	.	
+ch.1_309	RNASeq_stranded	transcript_region	631	641	11.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	630	640	7.0	.	.	
+ch.1_309	RNASeq	transcription_end_site	631	631	.	-	.	
+ch.1_309	RNASeq_stranded	transcript_region	585	630	18.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	622	629	13.0	.	.	
+ch.1_309	RNASeq_F_asymmetry	transcript_region	608	628	60105.0	.	.	
+ch.1_309	RNASeq_reads	transcript_region	585	621	20.0	.	.	
+ch.1_309	RNASeq_F_asymmetry	transcript_region	581	607	93071.0	.	.	
+ch.1_309	RNASeq_stranded	transcript_region	556	584	28.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	548	584	31.0	.	.	
+ch.1_309	RNASeq	transcription_end_site	573	573	.	-	.	
+ch.1_309	RNASeq	transcription_end_site	560	560	.	-	.	
+ch.1_309	RNASeq	transcription_end_site	560	560	.	-	.	
+ch.1_309	RNASeq_stranded	transcript_region	546	555	46.0	+	.	
+ch.1_309	WormBase	CDS	350	549	.	+	.	ID=CDS:Y62F5A.12;Parent=Transcript:Y62F5A.12.1
+ch.1_309	RNASeq_reads	transcript_region	350	547	48.0	.	.	
+ch.1_309	RNASeq_stranded	transcript_region	495	545	70.0	+	.	
+ch.1_309	RNASeq_stranded	transcript_region	478	494	46.0	+	.	
+ch.1_309	RNASeq_stranded	transcript_region	443	477	24.0	+	.	
+ch.1_309	RNASeq	transcription_end_site	471	471	.	-	.	
+ch.1_309	RNASeq	transcription_end_site	471	471	.	-	.	
+ch.1_309	RNASeq	transcription_end_site	470	470	.	-	.	
+ch.1_309	RNASeq_stranded	transcript_region	414	442	15.0	+	.	
+ch.1_309	RNASeq_stranded	transcript_region	377	413	9.0	+	.	
+ch.1_309	RNASeq_stranded	transcript_region	350	376	14.0	+	.	
+ch.1_309	RNASeq_splice	intron	290	359	6.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	340	349	5.0	.	.	
+ch.1_309	RNASeq_stranded	transcript_region	340	349	1.0	+	.	
+ch.1_309	RNASeq_splice	intron	294	349	34.0	+	.	
+ch.1_309	WormBase	intron	290	349	.	+	.	Parent=Transcript:Y62F5A.12.1
+ch.1_309	RNASeq_splice	intron	290	349	273817.0	+	.	
+ch.1_309	RNASeq_splice	intron	284	349	6.0	+	.	
+ch.1_309	RNASeq_splice	intron	294	339	84.0	+	.	
+ch.1_309	RNASeq_splice	intron	290	339	19420.0	+	.	
+ch.1_309	RNASeq_splice	intron	284	339	5.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	290	290	4.0	.	.	
+ch.1_309	RNASeq_stranded	transcript_region	290	290	1.0	-	.	
+ch.1_309	RNASeq_stranded	transcript_region	226	289	13.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	112	289	54.0	.	.	
+ch.1_309	WormBase	CDS	103	289	.	+	.	ID=CDS:Y62F5A.12;Parent=Transcript:Y62F5A.12.1
+ch.1_309	WormBase	exon	101	289	.	+	.	Parent=Transcript:Y62F5A.12.1
+ch.1_309	RNASeq_stranded	transcript_region	161	225	8.0	+	.	
+ch.1_309	RNASeq_R_asymmetry	transcript_region	111	163	234104.0	.	.	
+ch.1_309	RNASeq_stranded	transcript_region	111	160	16.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	103	111	33.0	.	.	
+ch.1_309	RNASeq_R_asymmetry	transcript_region	103	110	150456.0	.	.	
+ch.1_309	RNASeq_stranded	transcript_region	99	110	7.0	+	.	
+ch.1_309	RNASeq_R_asymmetry	transcript_region	102	102	95317.0	.	.	
+ch.1_309	RNASeq_reads	transcript_region	102	102	19.0	.	.	
+ch.1_309	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:Y62F5A.12.1
+ch.1_309	RNASeq_R_asymmetry	transcript_region	99	101	61619.0	.	.	
+ch.1_309	RNASeq_reads	transcript_region	96	101	12.0	.	.	
+ch.1_309	RNASeq_R_asymmetry	transcript_region	95	98	38762.0	.	.	
+ch.1_309	RNASeq_stranded	transcript_region	95	98	1.0	+	.	
+ch.1_309	RNASeq_reads	transcript_region	95	95	7.0	.	.	
+ch.1_309	RNASeq_R_asymmetry	transcript_region	44	44	1123.0	.	.	
+ch.1_309	RNASeq_R_asymmetry	transcript_region	24	24	1047.0	.	.	
+ch.1_309	RNASeq_R_asymmetry	transcript_region	8	22	1033.0	.	.	

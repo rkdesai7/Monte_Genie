@@ -1,0 +1,36 @@
+ch.1_410	RNASeq_F_asymmetry	transcript_region	649	668	461.0	.	.	
+ch.1_410	RNASeq_F_asymmetry	transcript_region	627	648	711.0	.	.	
+ch.1_410	WormBase	three_prime_UTR	591	630	.	+	.	Parent=Transcript:F14D7.5a.1
+ch.1_410	WormBase	exon	355	630	.	+	.	Parent=Transcript:F14D7.5a.1
+ch.1_410	WormBase	gene	101	630	.	+	.	ID=Gene:WBGene00008792
+ch.1_410	WormBase	mRNA	101	630	.	+	.	ID=Transcript:F14D7.5a.1;Parent=Gene:WBGene00008792
+ch.1_410	RNASeq_F_asymmetry	transcript_region	616	626	1163.0	.	.	
+ch.1_410	RNASeq_F_asymmetry	transcript_region	583	615	1792.0	.	.	
+ch.1_410	RNASeq_reads	transcript_region	544	597	1.0	.	.	
+ch.1_410	WormBase	mRNA	390	590	.	+	.	ID=Transcript:F14D7.5b.1;Parent=Gene:WBGene00008792
+ch.1_410	WormBase	exon	390	590	.	+	.	Parent=Transcript:F14D7.5b.1
+ch.1_410	WormBase	CDS	390	590	.	+	.	ID=CDS:F14D7.5b;Parent=Transcript:F14D7.5b.1
+ch.1_410	WormBase	CDS	355	590	.	+	.	ID=CDS:F14D7.5a;Parent=Transcript:F14D7.5a.1
+ch.1_410	RNASeq_F_asymmetry	transcript_region	574	582	3215.0	.	.	
+ch.1_410	RNASeq_stranded	transcript_region	461	579	1.0	+	.	
+ch.1_410	RNASeq_F_asymmetry	transcript_region	541	573	4883.0	.	.	
+ch.1_410	RNASeq_reads	transcript_region	499	543	2.0	.	.	
+ch.1_410	RNASeq_F_asymmetry	transcript_region	514	540	7391.0	.	.	
+ch.1_410	RNASeq_F_asymmetry	transcript_region	462	513	11261.0	.	.	
+ch.1_410	RNASeq_reads	transcript_region	355	498	4.0	.	.	
+ch.1_410	RNASeq_F_asymmetry	transcript_region	432	461	16934.0	.	.	
+ch.1_410	RNASeq_stranded	transcript_region	355	403	1.0	+	.	
+ch.1_410	RNASeq_R_asymmetry	transcript_region	355	362	12251.0	.	.	
+ch.1_410	WormBase	intron	201	354	.	+	.	Parent=Transcript:F14D7.5a.1
+ch.1_410	RNASeq_splice	intron	201	354	13187.0	+	.	
+ch.1_410	RNASeq_R_asymmetry	transcript_region	201	205	956.0	.	.	
+ch.1_410	WormBase	CDS	128	200	.	+	.	ID=CDS:F14D7.5a;Parent=Transcript:F14D7.5a.1
+ch.1_410	RNASeq_R_asymmetry	transcript_region	113	200	14888.0	.	.	
+ch.1_410	RNASeq_reads	transcript_region	109	200	3.0	.	.	
+ch.1_410	WormBase	exon	101	200	.	+	.	Parent=Transcript:F14D7.5a.1
+ch.1_410	WormBase	five_prime_UTR	101	127	.	+	.	Parent=Transcript:F14D7.5a.1
+ch.1_410	RNASeq_R_asymmetry	transcript_region	109	112	9577.0	.	.	
+ch.1_410	RNASeq_R_asymmetry	transcript_region	102	108	6216.0	.	.	
+ch.1_410	RNASeq_reads	transcript_region	100	108	1.0	.	.	
+ch.1_410	RNASeq_R_asymmetry	transcript_region	100	101	2891.0	.	.	
+ch.1_410	RNASeq_R_asymmetry	transcript_region	99	99	1760.0	.	.	

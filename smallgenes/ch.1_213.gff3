@@ -1,0 +1,37 @@
+ch.1_213	WormBase	three_prime_UTR	480	534	.	+	.	Parent=Transcript:F30H5.2.1
+ch.1_213	WormBase	exon	302	534	.	+	.	Parent=Transcript:F30H5.2.1
+ch.1_213	WormBase	gene	101	534	.	+	.	ID=Gene:WBGene00003770
+ch.1_213	WormBase	mRNA	101	534	.	+	.	ID=Transcript:F30H5.2.1;Parent=Gene:WBGene00003770
+ch.1_213	RNASeq_reads	transcript_region	466	531	1.0	.	.	
+ch.1_213	RNASeq_stranded	transcript_region	426	524	1.0	+	.	
+ch.1_213	WormBase	CDS	302	479	.	+	.	ID=CDS:F30H5.2;Parent=Transcript:F30H5.2.1
+ch.1_213	RNASeq_reads	transcript_region	350	465	2.0	.	.	
+ch.1_213	RNASeq_splice	intron	340	456	13.0	+	.	
+ch.1_213	RNASeq_splice	intron	379	453	4.0	+	.	
+ch.1_213	RNASeq_splice	intron	385	432	5.0	+	.	
+ch.1_213	RNASeq_splice	intron	379	432	37.0	+	.	
+ch.1_213	RNASeq_splice	intron	346	432	7.0	+	.	
+ch.1_213	RNASeq_splice	intron	328	432	7.0	+	.	
+ch.1_213	RNASeq_stranded	transcript_region	392	421	1.0	+	.	
+ch.1_213	RNASeq_splice	intron	370	411	3.0	+	.	
+ch.1_213	RNASeq_splice	intron	346	411	9.0	+	.	
+ch.1_213	RNASeq_splice	intron	343	411	5.0	+	.	
+ch.1_213	RNASeq_splice	intron	328	411	14.0	+	.	
+ch.1_213	RNASeq_splice	intron	340	402	18.0	+	.	
+ch.1_213	RNASeq	transcription_end_site	384	384	.	-	.	
+ch.1_213	RNASeq_F_asymmetry	transcript_region	344	375	10880.0	.	.	
+ch.1_213	RNASeq_reads	transcript_region	302	349	4.0	.	.	
+ch.1_213	RNASeq_F_asymmetry	transcript_region	312	343	16346.0	.	.	
+ch.1_213	RNASeq_F_asymmetry	transcript_region	302	311	25058.0	.	.	
+ch.1_213	WormBase	intron	255	301	.	+	.	Parent=Transcript:F30H5.2.1
+ch.1_213	RNASeq_splice	intron	255	301	26444.0	+	.	
+ch.1_213	RNASeq_reads	transcript_region	126	254	6.0	.	.	
+ch.1_213	WormBase	CDS	115	254	.	+	.	ID=CDS:F30H5.2;Parent=Transcript:F30H5.2.1
+ch.1_213	WormBase	exon	101	254	.	+	.	Parent=Transcript:F30H5.2.1
+ch.1_213	RNASeq_R_asymmetry	transcript_region	126	177	27252.0	.	.	
+ch.1_213	RNASeq_R_asymmetry	transcript_region	123	125	14745.0	.	.	
+ch.1_213	RNASeq_reads	transcript_region	119	125	3.0	.	.	
+ch.1_213	RNASeq_R_asymmetry	transcript_region	119	122	8341.0	.	.	
+ch.1_213	RNASeq_R_asymmetry	transcript_region	118	118	5183.0	.	.	
+ch.1_213	RNASeq_reads	transcript_region	118	118	1.0	.	.	
+ch.1_213	WormBase	five_prime_UTR	101	114	.	+	.	Parent=Transcript:F30H5.2.1

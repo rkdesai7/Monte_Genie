@@ -1,0 +1,33 @@
+ch.1_393	WormBase	three_prime_UTR	760	769	.	+	.	Parent=Transcript:Y37E11AL.12.1
+ch.1_393	WormBase	exon	556	769	.	+	.	Parent=Transcript:Y37E11AL.12.1
+ch.1_393	WormBase	gene	101	769	.	+	.	ID=Gene:WBGene00195010
+ch.1_393	WormBase	mRNA	101	769	.	+	.	ID=Transcript:Y37E11AL.12.1;Parent=Gene:WBGene00195010
+ch.1_393	RNASeq_reads	transcript_region	732	768	1.0	.	.	
+ch.1_393	RNASeq_F_asymmetry	transcript_region	763	767	2042.0	.	.	
+ch.1_393	WormBase	CDS	556	759	.	+	.	ID=CDS:Y37E11AL.12;Parent=Transcript:Y37E11AL.12.1
+ch.1_393	RNASeq_F_asymmetry	transcript_region	737	750	2930.0	.	.	
+ch.1_393	RNASeq_stranded	transcript_region	680	737	1.0	+	.	
+ch.1_393	RNASeq_F_asymmetry	transcript_region	724	731	6230.0	.	.	
+ch.1_393	RNASeq_reads	transcript_region	690	731	2.0	.	.	
+ch.1_393	RNASeq_F_asymmetry	transcript_region	704	723	9719.0	.	.	
+ch.1_393	RNASeq_F_asymmetry	transcript_region	651	703	15033.0	.	.	
+ch.1_393	RNASeq_reads	transcript_region	556	689	4.0	.	.	
+ch.1_393	RNASeq_splice	intron	182	638	3.0	+	.	
+ch.1_393	RNASeq_stranded	transcript_region	553	599	1.0	+	.	
+ch.1_393	RNASeq_reads	transcript_region	555	555	1.0	.	.	
+ch.1_393	WormBase	intron	182	555	.	+	.	Parent=Transcript:Y37E11AL.12.1
+ch.1_393	RNASeq_splice	intron	182	555	14628.0	+	.	
+ch.1_393	RNASeq_R_asymmetry	transcript_region	182	182	1808.0	.	.	
+ch.1_393	WormBase	CDS	173	181	.	+	.	ID=CDS:Y37E11AL.12;Parent=Transcript:Y37E11AL.12.1
+ch.1_393	RNASeq_stranded	transcript_region	169	181	1.0	+	.	
+ch.1_393	RNASeq_reads	transcript_region	114	181	3.0	.	.	
+ch.1_393	WormBase	exon	101	181	.	+	.	Parent=Transcript:Y37E11AL.12.1
+ch.1_393	WormBase	five_prime_UTR	101	172	.	+	.	Parent=Transcript:Y37E11AL.12.1
+ch.1_393	RNASeq_R_asymmetry	transcript_region	114	164	11887.0	.	.	
+ch.1_393	RNASeq_stranded	transcript_region	115	162	1.0	+	.	
+ch.1_393	RNASeq_R_asymmetry	transcript_region	108	113	6861.0	.	.	
+ch.1_393	RNASeq_reads	transcript_region	105	113	1.0	.	.	
+ch.1_393	RNASeq_R_asymmetry	transcript_region	105	107	4363.0	.	.	
+ch.1_393	RNASeq_R_asymmetry	transcript_region	103	104	1396.0	.	.	
+ch.1_393	RNASeq_R_asymmetry	transcript_region	93	94	366.0	.	.	
+ch.1_393	RNASeq_F_asymmetry	transcript_region	80	86	61.0	.	.	

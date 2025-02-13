@@ -1,0 +1,56 @@
+ch.1_452	WormBase	five_prime_UTR	101	190	.	+	.	Parent=Transcript:C04F12.16.1
+ch.1_452	WormBase	exon	101	245	.	+	.	Parent=Transcript:C04F12.16.1
+ch.1_452	WormBase	gene	101	748	.	+	.	ID=Gene:WBGene00219286
+ch.1_452	WormBase	mRNA	101	748	.	+	.	ID=Transcript:C04F12.16.1;Parent=Gene:WBGene00219286
+ch.1_452	RNASeq_reads	transcript_region	137	140	1.0	.	.	
+ch.1_452	RNASeq_reads	transcript_region	146	178	1.0	.	.	
+ch.1_452	RNASeq_stranded	transcript_region	170	190	1.0	+	.	
+ch.1_452	RNASeq_F_asymmetry	transcript_region	177	178	4858.0	.	.	
+ch.1_452	RNASeq_F_asymmetry	transcript_region	179	180	8881.0	.	.	
+ch.1_452	RNASeq_reads	transcript_region	179	181	2.0	.	.	
+ch.1_452	RNASeq_F_asymmetry	transcript_region	181	185	15595.0	.	.	
+ch.1_452	RNASeq_reads	transcript_region	182	192	4.0	.	.	
+ch.1_452	RNASeq_F_asymmetry	transcript_region	186	193	26128.0	.	.	
+ch.1_452	RNASeq_stranded	transcript_region	191	210	2.0	+	.	
+ch.1_452	WormBase	CDS	191	245	.	+	.	ID=CDS:C04F12.16;Parent=Transcript:C04F12.16.1
+ch.1_452	RNASeq_reads	transcript_region	193	199	7.0	.	.	
+ch.1_452	RNASeq_F_asymmetry	transcript_region	194	209	39280.0	.	.	
+ch.1_452	RNASeq_reads	transcript_region	200	218	11.0	.	.	
+ch.1_452	RNASeq_F_asymmetry	transcript_region	210	245	60245.0	.	.	
+ch.1_452	RNASeq_stranded	transcript_region	211	218	4.0	+	.	
+ch.1_452	RNASeq_reads	transcript_region	219	245	18.0	.	.	
+ch.1_452	RNASeq_stranded	transcript_region	219	245	18.0	+	.	
+ch.1_452	WormBase	intron	246	349	.	+	.	Parent=Transcript:C04F12.16.1
+ch.1_452	RNASeq_splice	intron	246	349	90311.0	+	.	
+ch.1_452	RNASeq_splice	intron	246	351	4.0	+	.	
+ch.1_452	RNASeq_splice	intron	246	366	4.0	+	.	
+ch.1_452	RNASeq_reads	transcript_region	344	346	1.0	.	.	
+ch.1_452	RNASeq_reads	transcript_region	347	349	2.0	.	.	
+ch.1_452	RNASeq_stranded	transcript_region	350	372	17.0	+	.	
+ch.1_452	WormBase	CDS	350	492	.	+	.	ID=CDS:C04F12.16;Parent=Transcript:C04F12.16.1
+ch.1_452	RNASeq_reads	transcript_region	350	519	20.0	.	.	
+ch.1_452	WormBase	exon	350	748	.	+	.	Parent=Transcript:C04F12.16.1
+ch.1_452	RNASeq_stranded	transcript_region	373	373	9.0	+	.	
+ch.1_452	RNASeq_stranded	transcript_region	374	403	3.0	+	.	
+ch.1_452	RNASeq_stranded	transcript_region	404	416	5.0	+	.	
+ch.1_452	RNASeq_stranded	transcript_region	417	447	8.0	+	.	
+ch.1_452	RNASeq_stranded	transcript_region	448	474	13.0	+	.	
+ch.1_452	RNASeq_stranded	transcript_region	475	488	8.0	+	.	
+ch.1_452	RNASeq_stranded	transcript_region	489	496	5.0	+	.	
+ch.1_452	RNASeq_R_asymmetry	transcript_region	490	523	74490.0	.	.	
+ch.1_452	WormBase	three_prime_UTR	493	748	.	+	.	Parent=Transcript:C04F12.16.1
+ch.1_452	RNASeq_stranded	transcript_region	497	550	3.0	+	.	
+ch.1_452	RNASeq_reads	transcript_region	520	539	13.0	.	.	
+ch.1_452	RNASeq_R_asymmetry	transcript_region	524	537	47737.0	.	.	
+ch.1_452	RNASeq_reads	transcript_region	540	580	8.0	.	.	
+ch.1_452	RNASeq_R_asymmetry	transcript_region	551	580	31585.0	.	.	
+ch.1_452	RNASeq_stranded	transcript_region	551	585	1.0	+	.	
+ch.1_452	RNASeq_reads	transcript_region	581	594	5.0	.	.	
+ch.1_452	RNASeq_splice	intron	584	636	4.0	+	.	
+ch.1_452	RNASeq_stranded	transcript_region	586	681	2.0	+	.	
+ch.1_452	RNASeq_reads	transcript_region	595	722	3.0	.	.	
+ch.1_452	RNASeq_stranded	transcript_region	682	713	1.0	+	.	
+ch.1_452	RNASeq	transcription_end_site	717	717	.	+	.	
+ch.1_452	RNASeq_reads	transcript_region	723	723	1.0	.	.	
+ch.1_452	RNASeq_reads	transcript_region	724	727	2.0	.	.	
+ch.1_452	RNASeq_reads	transcript_region	728	844	1.0	.	.	

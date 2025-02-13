@@ -1,0 +1,29 @@
+ch.1_76	RNASeq_splice	intron	61	104	3.0	+	.	
+ch.1_76	RNASeq_F_asymmetry	transcript_region	99	103	2671.0	.	.	
+ch.1_76	RNASeq_reads	transcript_region	99	105	1.0	.	.	
+ch.1_76	WormBase	five_prime_UTR	101	117	.	+	.	Parent=Transcript:W04H10.2.1
+ch.1_76	WormBase	exon	101	253	.	+	.	Parent=Transcript:W04H10.2.1
+ch.1_76	WormBase	gene	101	521	.	+	.	ID=Gene:WBGene00021031
+ch.1_76	WormBase	mRNA	101	521	.	+	.	ID=Transcript:W04H10.2.1;Parent=Gene:WBGene00021031
+ch.1_76	RNASeq_F_asymmetry	transcript_region	104	110	5908.0	.	.	
+ch.1_76	RNASeq_reads	transcript_region	106	253	2.0	.	.	
+ch.1_76	RNASeq_F_asymmetry	transcript_region	111	163	8993.0	.	.	
+ch.1_76	RNASeq_stranded	transcript_region	111	237	1.0	+	.	
+ch.1_76	WormBase	CDS	118	253	.	+	.	ID=CDS:W04H10.2;Parent=Transcript:W04H10.2.1
+ch.1_76	RNASeq_F_asymmetry	transcript_region	165	165	12673.0	.	.	
+ch.1_76	RNASeq_splice	intron	250	299	7.0	+	.	
+ch.1_76	WormBase	intron	254	299	.	+	.	Parent=Transcript:W04H10.2.1
+ch.1_76	RNASeq_splice	intron	254	299	11836.0	+	.	
+ch.1_76	WormBase	CDS	300	340	.	+	.	ID=CDS:W04H10.2;Parent=Transcript:W04H10.2.1
+ch.1_76	RNASeq_reads	transcript_region	300	506	2.0	.	.	
+ch.1_76	WormBase	exon	300	521	.	+	.	Parent=Transcript:W04H10.2.1
+ch.1_76	RNASeq_stranded	transcript_region	315	438	1.0	+	.	
+ch.1_76	WormBase	three_prime_UTR	341	521	.	+	.	Parent=Transcript:W04H10.2.1
+ch.1_76	RNASeq_splice	intron	347	390	82.0	-	.	
+ch.1_76	RNASeq_stranded	transcript_region	439	474	2.0	+	.	
+ch.1_76	RNASeq_stranded	transcript_region	475	522	1.0	+	.	
+ch.1_76	RNASeq_reads	transcript_region	507	507	1.0	.	.	
+ch.1_76	RNASeq_reads	transcript_region	508	510	2.0	.	.	
+ch.1_76	RNASeq_reads	transcript_region	511	578	1.0	.	.	
+ch.1_76	RNASeq_stranded	transcript_region	524	524	1.0	+	.	
+ch.1_76	RNASeq_stranded	transcript_region	527	527	1.0	+	.	

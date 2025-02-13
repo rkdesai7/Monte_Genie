@@ -1,0 +1,60 @@
+ch.1_552	RNASeq_F_asymmetry	transcript_region	97	100	26535.0	.	.	
+ch.1_552	RNASeq_reads	transcript_region	97	100	6.0	.	.	
+ch.1_552	RNASeq_F_asymmetry	transcript_region	101	101	44294.0	.	.	
+ch.1_552	RNASeq_reads	transcript_region	101	101	10.0	.	.	
+ch.1_552	WormBase	five_prime_UTR	101	117	.	+	.	Parent=Transcript:W02D9.10.1
+ch.1_552	WormBase	exon	101	527	.	+	.	Parent=Transcript:W02D9.10.1
+ch.1_552	WormBase	gene	101	939	.	+	.	ID=Gene:WBGene00012216
+ch.1_552	WormBase	mRNA	101	939	.	+	.	ID=Transcript:W02D9.10.1;Parent=Gene:WBGene00012216
+ch.1_552	RNASeq_F_asymmetry	transcript_region	102	112	80333.0	.	.	
+ch.1_552	RNASeq_reads	transcript_region	102	112	17.0	.	.	
+ch.1_552	RNASeq_stranded	transcript_region	105	132	2.0	+	.	
+ch.1_552	RNASeq_reads	transcript_region	113	147	27.0	.	.	
+ch.1_552	RNASeq_F_asymmetry	transcript_region	113	171	131462.0	.	.	
+ch.1_552	WormBase	CDS	118	527	.	+	.	ID=CDS:W02D9.10;Parent=Transcript:W02D9.10.1
+ch.1_552	RNASeq_stranded	transcript_region	133	187	4.0	+	.	
+ch.1_552	RNASeq_reads	transcript_region	148	527	41.0	.	.	
+ch.1_552	RNASeq_stranded	transcript_region	188	317	7.0	+	.	
+ch.1_552	RNASeq_splice	intron	211	387	5.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	318	527	4.0	+	.	
+ch.1_552	RNASeq_reads	transcript_region	528	571	1.0	.	.	
+ch.1_552	WormBase	intron	528	577	.	+	.	Parent=Transcript:W02D9.10.1
+ch.1_552	RNASeq_splice	intron	528	577	256480.0	+	.	
+ch.1_552	RNASeq_reads	transcript_region	572	575	2.0	.	.	
+ch.1_552	RNASeq_reads	transcript_region	576	577	7.0	.	.	
+ch.1_552	RNASeq_stranded	transcript_region	576	577	1.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	578	588	3.0	+	.	
+ch.1_552	WormBase	CDS	578	716	.	+	.	ID=CDS:W02D9.10;Parent=Transcript:W02D9.10.1
+ch.1_552	RNASeq_reads	transcript_region	578	854	51.0	.	.	
+ch.1_552	WormBase	exon	578	939	.	+	.	Parent=Transcript:W02D9.10.1
+ch.1_552	RNASeq_stranded	transcript_region	589	642	5.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	643	722	8.0	+	.	
+ch.1_552	WormBase	three_prime_UTR	717	939	.	+	.	Parent=Transcript:W02D9.10.1
+ch.1_552	RNASeq_stranded	transcript_region	723	753	5.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	754	760	3.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	761	769	5.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	770	776	8.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	777	798	13.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	799	818	20.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	819	853	79.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	854	877	38.0	+	.	
+ch.1_552	RNASeq_reads	transcript_region	855	902	33.0	.	.	
+ch.1_552	RNASeq_stranded	transcript_region	878	912	25.0	+	.	
+ch.1_552	RNASeq_R_asymmetry	transcript_region	881	907	101085.0	.	.	
+ch.1_552	RNASeq_reads	transcript_region	903	917	18.0	.	.	
+ch.1_552	RNASeq_R_asymmetry	transcript_region	908	911	63129.0	.	.	
+ch.1_552	RNASeq_stranded	transcript_region	913	929	16.0	+	.	
+ch.1_552	RNASeq_reads	transcript_region	918	924	11.0	.	.	
+ch.1_552	RNASeq_reads	transcript_region	925	934	6.0	.	.	
+ch.1_552	RNASeq	transcription_end_site	926	926	.	+	.	
+ch.1_552	RNASeq	transcription_end_site	927	927	.	+	.	
+ch.1_552	RNASeq	transcription_end_site	928	928	.	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	930	936	10.0	+	.	
+ch.1_552	RNASeq_reads	transcript_region	935	941	3.0	.	.	
+ch.1_552	RNASeq	transcription_end_site	937	937	.	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	937	944	6.0	+	.	
+ch.1_552	RNASeq	transcription_end_site	941	941	.	+	.	
+ch.1_552	RNASeq_reads	transcript_region	942	948	1.0	.	.	
+ch.1_552	RNASeq_stranded	transcript_region	945	949	3.0	+	.	
+ch.1_552	RNASeq_stranded	transcript_region	950	974	1.0	+	.	
+ch.1_552	RNASeq	transcription_end_site	959	959	.	+	.	

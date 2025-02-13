@@ -1,0 +1,58 @@
+ch.2_108	RNASeq_F_asymmetry	transcript_region	93	93	1070.0	.	.	
+ch.2_108	RNASeq_F_asymmetry	transcript_region	98	98	1472.0	.	.	
+ch.2_108	RNASeq_F_asymmetry	transcript_region	99	102	53381.0	.	.	
+ch.2_108	RNASeq_reads	transcript_region	99	102	11.0	.	.	
+ch.2_108	RNASeq_stranded	transcript_region	99	113	2.0	+	.	
+ch.2_108	WormBase	exon	101	205	.	+	.	Parent=Transcript:F48B9.4.1
+ch.2_108	WormBase	CDS	101	205	.	+	.	ID=CDS:F48B9.4;Parent=Transcript:F48B9.4.1
+ch.2_108	WormBase	gene	101	786	.	+	.	ID=Gene:WBGene00018590
+ch.2_108	WormBase	mRNA	101	786	.	+	.	ID=Transcript:F48B9.4.1;Parent=Gene:WBGene00018590
+ch.2_108	RNASeq_F_asymmetry	transcript_region	103	107	92878.0	.	.	
+ch.2_108	RNASeq_reads	transcript_region	103	107	19.0	.	.	
+ch.2_108	RNASeq_F_asymmetry	transcript_region	108	155	141402.0	.	.	
+ch.2_108	RNASeq_reads	transcript_region	108	182	29.0	.	.	
+ch.2_108	RNASeq_stranded	transcript_region	114	122	4.0	+	.	
+ch.2_108	RNASeq_stranded	transcript_region	123	205	7.0	+	.	
+ch.2_108	RNASeq_reads	transcript_region	183	205	44.0	.	.	
+ch.2_108	WormBase	intron	206	269	.	+	.	Parent=Transcript:F48B9.4.1
+ch.2_108	RNASeq_splice	intron	206	269	179937.0	+	.	
+ch.2_108	RNASeq_splice	intron	206	294	24.0	+	.	
+ch.2_108	RNASeq_splice	intron	206	363	5.0	+	.	
+ch.2_108	RNASeq_splice	intron	206	388	203.0	+	.	
+ch.2_108	RNASeq_reads	transcript_region	269	269	5.0	.	.	
+ch.2_108	RNASeq_stranded	transcript_region	269	269	1.0	+	.	
+ch.2_108	RNASeq_stranded	transcript_region	270	307	7.0	+	.	
+ch.2_108	WormBase	CDS	270	338	.	+	.	ID=CDS:F48B9.4;Parent=Transcript:F48B9.4.1
+ch.2_108	WormBase	exon	270	338	.	+	.	Parent=Transcript:F48B9.4.1
+ch.2_108	RNASeq_reads	transcript_region	270	338	41.0	.	.	
+ch.2_108	RNASeq_stranded	transcript_region	308	338	4.0	+	.	
+ch.2_108	WormBase	intron	339	388	.	+	.	Parent=Transcript:F48B9.4.1
+ch.2_108	RNASeq_splice	intron	339	388	184379.0	+	.	
+ch.2_108	RNASeq_reads	transcript_region	385	388	5.0	.	.	
+ch.2_108	RNASeq_stranded	transcript_region	385	388	1.0	+	.	
+ch.2_108	WormBase	CDS	389	484	.	+	.	ID=CDS:F48B9.4;Parent=Transcript:F48B9.4.1
+ch.2_108	RNASeq_stranded	transcript_region	389	488	3.0	+	.	
+ch.2_108	RNASeq_reads	transcript_region	389	655	39.0	.	.	
+ch.2_108	WormBase	exon	389	786	.	+	.	Parent=Transcript:F48B9.4.1
+ch.2_108	RNASeq	transcription_end_site	429	429	.	+	.	
+ch.2_108	RNASeq_splice	intron	477	524	19.0	+	.	
+ch.2_108	WormBase	three_prime_UTR	485	786	.	+	.	Parent=Transcript:F48B9.4.1
+ch.2_108	RNASeq_stranded	transcript_region	489	548	5.0	+	.	
+ch.2_108	RNASeq_stranded	transcript_region	549	602	3.0	+	.	
+ch.2_108	RNASeq_stranded	transcript_region	603	608	5.0	+	.	
+ch.2_108	RNASeq_stranded	transcript_region	609	725	8.0	+	.	
+ch.2_108	RNASeq_reads	transcript_region	656	730	25.0	.	.	
+ch.2_108	RNASeq	transcription_end_site	666	666	.	+	.	
+ch.2_108	RNASeq_R_asymmetry	transcript_region	708	708	79441.0	.	.	
+ch.2_108	RNASeq_R_asymmetry	transcript_region	717	746	68740.0	.	.	
+ch.2_108	RNASeq_stranded	transcript_region	726	750	5.0	+	.	
+ch.2_108	RNASeq_reads	transcript_region	731	751	16.0	.	.	
+ch.2_108	RNASeq_R_asymmetry	transcript_region	747	761	45074.0	.	.	
+ch.2_108	RNASeq_stranded	transcript_region	751	768	3.0	+	.	
+ch.2_108	RNASeq_reads	transcript_region	752	767	10.0	.	.	
+ch.2_108	RNASeq_reads	transcript_region	768	775	6.0	.	.	
+ch.2_108	RNASeq_stranded	transcript_region	769	784	1.0	+	.	
+ch.2_108	RNASeq_R_asymmetry	transcript_region	774	774	18472.0	.	.	
+ch.2_108	RNASeq_reads	transcript_region	776	784	3.0	.	.	
+ch.2_108	RNASeq_reads	transcript_region	785	788	1.0	.	.	
+ch.2_108	RNASeq	transcription_end_site	800	800	.	+	.	

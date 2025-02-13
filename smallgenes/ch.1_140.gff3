@@ -1,0 +1,102 @@
+ch.1_140	RNASeq_F_asymmetry	transcript_region	38	61	1149.0	.	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	89	89	5890.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	89	89	1.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	89	97	1.0	+	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	90	99	9728.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	90	100	2.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	98	100	2.0	+	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	100	100	14918.0	.	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	101	103	320634.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	101	103	63.0	.	.	
+ch.1_140	WormBase	five_prime_UTR	101	105	.	+	.	Parent=Transcript:Y39A3CR.4.1
+ch.1_140	RNASeq_stranded	transcript_region	101	106	25.0	+	.	
+ch.1_140	WormBase	exon	101	279	.	+	.	Parent=Transcript:Y39A3CR.4.1
+ch.1_140	WormBase	gene	101	594	.	+	.	ID=Gene:WBGene00000941
+ch.1_140	WormBase	mRNA	101	594	.	+	.	ID=Transcript:Y39A3CR.4.1;Parent=Gene:WBGene00000941
+ch.1_140	RNASeq_F_asymmetry	transcript_region	104	109	515969.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	104	109	102.0	.	.	
+ch.1_140	WormBase	CDS	106	279	.	+	.	ID=CDS:Y39A3CR.4;Parent=Transcript:Y39A3CR.4.1
+ch.1_140	RNASeq_stranded	transcript_region	107	116	38.0	+	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	110	121	805832.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	110	121	160.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	117	122	58.0	+	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	122	181	1270090.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	122	209	254.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	123	200	116.0	+	.	
+ch.1_140	RNASeq_splice	intron	137	236	20.0	+	.	
+ch.1_140	RNASeq_splice	intron	193	229	10.0	+	.	
+ch.1_140	RNASeq_stranded	transcript_region	201	206	68.0	+	.	
+ch.1_140	RNASeq_stranded	transcript_region	207	257	136.0	+	.	
+ch.1_140	RNASeq_reads	transcript_region	210	279	383.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	212	279	1.0	-	.	
+ch.1_140	RNASeq_stranded	transcript_region	258	260	80.0	+	.	
+ch.1_140	RNASeq_stranded	transcript_region	261	279	51.0	+	.	
+ch.1_140	RNASeq_splice	intron	272	369	3.0	+	.	
+ch.1_140	RNASeq_splice	intron	280	333	23.0	+	.	
+ch.1_140	WormBase	intron	280	369	.	+	.	Parent=Transcript:Y39A3CR.4.1
+ch.1_140	RNASeq_splice	intron	280	369	1831880.0	+	.	
+ch.1_140	RNASeq_reads	transcript_region	359	364	1.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	365	368	8.0	+	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	365	369	216782.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	365	369	52.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	369	369	13.0	+	.	
+ch.1_140	RNASeq_stranded	transcript_region	370	373	1.0	-	.	
+ch.1_140	RNASeq_reads	transcript_region	370	437	329.0	.	.	
+ch.1_140	WormBase	CDS	370	447	.	+	.	ID=CDS:Y39A3CR.4;Parent=Transcript:Y39A3CR.4.1
+ch.1_140	RNASeq_stranded	transcript_region	370	511	49.0	+	.	
+ch.1_140	WormBase	exon	370	594	.	+	.	Parent=Transcript:Y39A3CR.4.1
+ch.1_140	RNASeq_stranded	transcript_region	374	396	2.0	-	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	381	398	1347220.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	397	430	1.0	-	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	401	464	1103240.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	438	465	213.0	.	.	
+ch.1_140	WormBase	three_prime_UTR	448	594	.	+	.	Parent=Transcript:Y39A3CR.4.1
+ch.1_140	RNASeq_stranded	transcript_region	464	464	1.0	+	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	465	511	661132.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	466	512	138.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	489	519	1.0	-	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	512	516	435759.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	512	530	32.0	+	.	
+ch.1_140	RNASeq_reads	transcript_region	513	517	91.0	.	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	517	525	287406.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	518	535	54.0	.	.	
+ch.1_140	RNASeq	transcription_end_site	525	525	.	+	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	526	536	189508.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	531	538	21.0	+	.	
+ch.1_140	RNASeq_reads	transcript_region	536	537	31.0	.	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	537	542	89437.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	538	542	19.0	.	.	
+ch.1_140	RNASeq	transcription_end_site	539	539	.	+	.	
+ch.1_140	RNASeq_stranded	transcript_region	539	542	13.0	+	.	
+ch.1_140	RNASeq	transcription_end_site	543	543	.	+	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	543	556	37846.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	543	558	9.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	543	565	6.0	+	.	
+ch.1_140	RNASeq	transcription_end_site	554	554	.	+	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	557	562	24428.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	559	562	5.0	.	.	
+ch.1_140	RNASeq	transcription_end_site	561	561	.	+	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	563	564	13787.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	563	581	3.0	.	.	
+ch.1_140	RNASeq	transcription_end_site	564	564	.	+	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	566	578	12082.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	566	578	3.0	+	.	
+ch.1_140	RNASeq	transcription_end_site	575	575	.	+	.	
+ch.1_140	RNASeq_R_asymmetry	transcript_region	579	581	7690.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	579	588	1.0	+	.	
+ch.1_140	RNASeq_reads	transcript_region	582	586	1.0	.	.	
+ch.1_140	RNASeq	transcription_end_site	587	587	.	+	.	
+ch.1_140	RNASeq	transcription_end_site	589	589	.	+	.	
+ch.1_140	RNASeq_splice	intron	590	633	31.0	+	.	
+ch.1_140	RNASeq_splice	intron	590	641	27.0	+	.	
+ch.1_140	RNASeq	transcription_end_site	594	594	.	+	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	597	612	786.0	.	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	613	631	1278.0	.	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	632	639	3298.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	632	639	1.0	.	.	
+ch.1_140	RNASeq_F_asymmetry	transcript_region	640	642	18536.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	640	642	4.0	.	.	
+ch.1_140	RNASeq_stranded	transcript_region	640	645	1.0	+	.	
+ch.1_140	WormBase	five_prime_UTR	642	650	.	+	.	Parent=Transcript:Y39A3CR.3a.1
+ch.1_140	RNASeq_F_asymmetry	transcript_region	643	655	34320.0	.	.	
+ch.1_140	RNASeq_reads	transcript_region	643	658	7.0	.	.	

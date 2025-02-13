@@ -1,0 +1,103 @@
+ch.1_180	RNASeq_R_asymmetry	transcript_region	687	688	120521.0	.	.	
+ch.1_180	RNASeq	transcription_end_site	677	677	.	-	.	
+ch.1_180	RNASeq_reads	transcript_region	663	675	21.0	.	.	
+ch.1_180	RNASeq_reads	transcript_region	654	662	13.0	.	.	
+ch.1_180	RNASeq	transcription_end_site	658	658	.	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	623	655	5.0	-	.	
+ch.1_180	RNASeq_reads	transcript_region	613	653	8.0	.	.	
+ch.1_180	RNASeq	transcription_end_site	652	652	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	651	651	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	648	648	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	648	648	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	643	643	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	628	628	.	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	595	622	3.0	-	.	
+ch.1_180	RNASeq_reads	transcript_region	596	612	5.0	.	.	
+ch.1_180	RNASeq	transcription_end_site	609	609	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	606	606	.	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	604	604	1.0	-	.	
+ch.1_180	WormBase	three_prime_UTR	482	604	.	+	.	Parent=Transcript:F15D4.3.1
+ch.1_180	WormBase	exon	296	604	.	+	.	Parent=Transcript:F15D4.3.1
+ch.1_180	WormBase	gene	101	604	.	+	.	ID=Gene:WBGene00008860
+ch.1_180	WormBase	mRNA	101	604	.	+	.	ID=Transcript:F15D4.3.1;Parent=Gene:WBGene00008860
+ch.1_180	RNASeq_stranded	transcript_region	597	603	2.0	+	.	
+ch.1_180	RNASeq	transcription_end_site	600	600	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	600	600	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	599	599	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	599	599	.	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	592	596	4.0	+	.	
+ch.1_180	RNASeq	transcription_end_site	595	595	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	595	595	.	-	.	
+ch.1_180	RNASeq_reads	transcript_region	583	595	8.0	.	.	
+ch.1_180	RNASeq_stranded	transcript_region	573	594	1.0	-	.	
+ch.1_180	RNASeq	transcription_end_site	593	593	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	593	593	.	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	583	591	7.0	+	.	
+ch.1_180	RNASeq_F_asymmetry	transcript_region	582	590	35561.0	.	.	
+ch.1_180	RNASeq	transcription_end_site	582	582	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	582	582	.	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	581	582	12.0	+	.	
+ch.1_180	RNASeq_reads	transcript_region	575	582	13.0	.	.	
+ch.1_180	RNASeq	transcription_end_site	580	580	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	580	580	.	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	573	580	19.0	+	.	
+ch.1_180	RNASeq	transcription_end_site	577	577	.	-	.	
+ch.1_180	RNASeq	transcription_end_site	577	577	.	-	.	
+ch.1_180	RNASeq_F_asymmetry	transcript_region	562	574	107961.0	.	.	
+ch.1_180	RNASeq_reads	transcript_region	560	574	26.0	.	.	
+ch.1_180	RNASeq_stranded	transcript_region	559	572	31.0	+	.	
+ch.1_180	RNASeq_reads	transcript_region	553	559	41.0	.	.	
+ch.1_180	RNASeq_F_asymmetry	transcript_region	554	558	161420.0	.	.	
+ch.1_180	RNASeq_stranded	transcript_region	447	558	47.0	+	.	
+ch.1_180	RNASeq_stranded	transcript_region	555	555	1.0	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	549	554	3.0	-	.	
+ch.1_180	RNASeq_F_asymmetry	transcript_region	551	553	245508.0	.	.	
+ch.1_180	RNASeq_reads	transcript_region	547	552	73.0	.	.	
+ch.1_180	RNASeq_F_asymmetry	transcript_region	541	550	385743.0	.	.	
+ch.1_180	RNASeq_splice	intron	411	549	11.0	+	.	
+ch.1_180	RNASeq_stranded	transcript_region	505	548	5.0	-	.	
+ch.1_180	RNASeq_reads	transcript_region	529	546	110.0	.	.	
+ch.1_180	RNASeq_F_asymmetry	transcript_region	507	540	580458.0	.	.	
+ch.1_180	RNASeq_reads	transcript_region	413	528	169.0	.	.	
+ch.1_180	RNASeq_splice	intron	475	512	39.0	-	.	
+ch.1_180	RNASeq_F_asymmetry	transcript_region	485	506	874760.0	.	.	
+ch.1_180	RNASeq_stranded	transcript_region	488	504	3.0	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	457	487	1.0	-	.	
+ch.1_180	WormBase	CDS	296	481	.	+	.	ID=CDS:F15D4.3;Parent=Transcript:F15D4.3.1
+ch.1_180	RNASeq_stranded	transcript_region	452	455	1.0	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	424	446	71.0	+	.	
+ch.1_180	RNASeq_stranded	transcript_region	377	423	108.0	+	.	
+ch.1_180	RNASeq_reads	transcript_region	296	412	255.0	.	.	
+ch.1_180	RNASeq_splice	intron	353	400	6.0	-	.	
+ch.1_180	RNASeq_stranded	transcript_region	306	388	1.0	-	.	
+ch.1_180	RNASeq_splice	intron	342	386	24.0	+	.	
+ch.1_180	RNASeq_stranded	transcript_region	333	376	59.0	+	.	
+ch.1_180	RNASeq_stranded	transcript_region	296	332	38.0	+	.	
+ch.1_180	RNASeq_stranded	transcript_region	268	302	1.0	-	.	
+ch.1_180	RNASeq_reads	transcript_region	294	295	24.0	.	.	
+ch.1_180	RNASeq_stranded	transcript_region	294	295	5.0	+	.	
+ch.1_180	RNASeq_splice	intron	250	295	9.0	+	.	
+ch.1_180	WormBase	intron	165	295	.	+	.	Parent=Transcript:F15D4.3.1
+ch.1_180	RNASeq_splice	intron	165	295	1086010.0	+	.	
+ch.1_180	RNASeq_reads	transcript_region	268	293	1.0	.	.	
+ch.1_180	RNASeq_splice	intron	165	267	8.0	+	.	
+ch.1_180	RNASeq_R_asymmetry	transcript_region	165	178	1427.0	.	.	
+ch.1_180	RNASeq_reads	transcript_region	112	164	197.0	.	.	
+ch.1_180	RNASeq_R_asymmetry	transcript_region	108	164	841112.0	.	.	
+ch.1_180	RNASeq_stranded	transcript_region	104	164	42.0	+	.	
+ch.1_180	WormBase	CDS	102	164	.	+	.	ID=CDS:F15D4.3;Parent=Transcript:F15D4.3.1
+ch.1_180	WormBase	exon	101	164	.	+	.	Parent=Transcript:F15D4.3.1
+ch.1_180	RNASeq_reads	transcript_region	104	111	124.0	.	.	
+ch.1_180	RNASeq_R_asymmetry	transcript_region	104	107	543855.0	.	.	
+ch.1_180	RNASeq_stranded	transcript_region	100	103	26.0	+	.	
+ch.1_180	RNASeq_R_asymmetry	transcript_region	99	103	331512.0	.	.	
+ch.1_180	RNASeq_reads	transcript_region	99	103	67.0	.	.	
+ch.1_180	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:F15D4.3.1
+ch.1_180	RNASeq_stranded	transcript_region	99	99	17.0	-	.	
+ch.1_180	RNASeq_R_asymmetry	transcript_region	92	98	43078.0	.	.	
+ch.1_180	RNASeq_reads	transcript_region	92	98	8.0	.	.	
+ch.1_180	RNASeq_R_asymmetry	transcript_region	89	91	3605.0	.	.	
+ch.1_180	RNASeq_reads	transcript_region	85	91	1.0	.	.	
+ch.1_180	RNASeq_R_asymmetry	transcript_region	66	88	2196.0	.	.	
+ch.1_180	RNASeq_R_asymmetry	transcript_region	54	65	1243.0	.	.	
+ch.1_180	RNASeq_R_asymmetry	transcript_region	47	53	785.0	.	.	

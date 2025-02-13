@@ -1,0 +1,92 @@
+ch.1_365	RNASeq_stranded	transcript_region	714	721	4.0	+	.	
+ch.1_365	RNASeq_reads	transcript_region	715	718	13.0	.	.	
+ch.1_365	RNASeq_R_asymmetry	transcript_region	713	716	48503.0	.	.	
+ch.1_365	RNASeq_reads	transcript_region	713	714	8.0	.	.	
+ch.1_365	WormBase	intron	471	714	.	+	.	Parent=Transcript:Y54G11A.10b.1
+ch.1_365	RNASeq_stranded	transcript_region	713	713	2.0	-	.	
+ch.1_365	RNASeq_R_asymmetry	transcript_region	710	712	7618.0	.	.	
+ch.1_365	RNASeq_reads	transcript_region	710	712	2.0	.	.	
+ch.1_365	RNASeq_reads	transcript_region	680	709	1.0	.	.	
+ch.1_365	RNASeq_R_asymmetry	transcript_region	674	709	2767.0	.	.	
+ch.1_365	RNASeq_R_asymmetry	transcript_region	673	673	1826.0	.	.	
+ch.1_365	RNASeq_splice	intron	504	668	5.0	-	.	
+ch.1_365	RNASeq	transcription_end_site	621	621	.	-	.	
+ch.1_365	RNASeq	transcription_end_site	621	621	.	-	.	
+ch.1_365	RNASeq_stranded	transcript_region	619	621	2.0	+	.	
+ch.1_365	RNASeq_reads	transcript_region	618	621	2.0	.	.	
+ch.1_365	WormBase	three_prime_UTR	522	621	.	+	.	Parent=Transcript:Y54G11A.17.1
+ch.1_365	WormBase	exon	312	621	.	+	.	Parent=Transcript:Y54G11A.17.1
+ch.1_365	WormBase	gene	101	621	.	+	.	ID=Gene:WBGene00185067
+ch.1_365	WormBase	mRNA	101	621	.	+	.	ID=Transcript:Y54G11A.17.1;Parent=Gene:WBGene00185067
+ch.1_365	RNASeq	transcription_end_site	620	620	.	-	.	
+ch.1_365	RNASeq	transcription_end_site	619	619	.	-	.	
+ch.1_365	RNASeq_stranded	transcript_region	617	618	4.0	+	.	
+ch.1_365	RNASeq_F_asymmetry	transcript_region	616	617	23933.0	.	.	
+ch.1_365	RNASeq_reads	transcript_region	616	617	6.0	.	.	
+ch.1_365	RNASeq_stranded	transcript_region	583	617	1.0	-	.	
+ch.1_365	RNASeq	transcription_end_site	616	616	.	-	.	
+ch.1_365	RNASeq	transcription_end_site	616	616	.	-	.	
+ch.1_365	RNASeq_stranded	transcript_region	615	616	7.0	+	.	
+ch.1_365	RNASeq	transcription_end_site	615	615	.	-	.	
+ch.1_365	RNASeq	transcription_end_site	615	615	.	-	.	
+ch.1_365	RNASeq_F_asymmetry	transcript_region	611	615	45986.0	.	.	
+ch.1_365	RNASeq_reads	transcript_region	610	615	11.0	.	.	
+ch.1_365	RNASeq_stranded	transcript_region	613	614	11.0	+	.	
+ch.1_365	RNASeq_stranded	transcript_region	611	612	17.0	+	.	
+ch.1_365	RNASeq_stranded	transcript_region	600	610	28.0	+	.	
+ch.1_365	RNASeq	transcription_end_site	609	609	.	-	.	
+ch.1_365	RNASeq	transcription_end_site	609	609	.	-	.	
+ch.1_365	RNASeq_reads	transcript_region	590	609	17.0	.	.	
+ch.1_365	RNASeq_stranded	transcript_region	570	599	46.0	+	.	
+ch.1_365	RNASeq_reads	transcript_region	581	589	26.0	.	.	
+ch.1_365	RNASeq	transcription_end_site	584	584	.	-	.	
+ch.1_365	RNASeq_stranded	transcript_region	539	582	2.0	-	.	
+ch.1_365	RNASeq_F_asymmetry	transcript_region	550	580	175231.0	.	.	
+ch.1_365	RNASeq_reads	transcript_region	546	580	43.0	.	.	
+ch.1_365	RNASeq	transcription_end_site	577	577	.	-	.	
+ch.1_365	RNASeq	transcription_end_site	577	577	.	-	.	
+ch.1_365	RNASeq_stranded	transcript_region	536	569	73.0	+	.	
+ch.1_365	RNASeq_reads	transcript_region	481	545	65.0	.	.	
+ch.1_365	RNASeq	transcription_end_site	541	541	.	-	.	
+ch.1_365	RNASeq_stranded	transcript_region	528	538	1.0	-	.	
+ch.1_365	RNASeq_stranded	transcript_region	484	535	110.0	+	.	
+ch.1_365	RNASeq	transcription_end_site	534	534	.	-	.	
+ch.1_365	RNASeq	transcription_end_site	534	534	.	-	.	
+ch.1_365	WormBase	CDS	312	521	.	+	.	ID=CDS:Y54G11A.17;Parent=Transcript:Y54G11A.17.1
+ch.1_365	RNASeq_stranded	transcript_region	364	483	1.0	-	.	
+ch.1_365	RNASeq_stranded	transcript_region	350	483	72.0	+	.	
+ch.1_365	RNASeq_reads	transcript_region	400	480	99.0	.	.	
+ch.1_365	WormBase	exon	312	470	.	+	.	Parent=Transcript:Y54G11A.10b.1
+ch.1_365	WormBase	five_prime_UTR	312	470	.	+	.	Parent=Transcript:Y54G11A.10b.1
+ch.1_365	RNASeq_splice	intron	371	411	3.0	-	.	
+ch.1_365	RNASeq_reads	transcript_region	312	399	155.0	.	.	
+ch.1_365	RNASeq_stranded	transcript_region	321	349	47.0	+	.	
+ch.1_365	RNASeq_stranded	transcript_region	312	320	31.0	+	.	
+ch.1_365	WormBase	intron	266	311	.	+	.	Parent=Transcript:Y54G11A.10b.1
+ch.1_365	WormBase	intron	266	311	.	+	.	Parent=Transcript:Y54G11A.17.1
+ch.1_365	RNASeq_splice	intron	266	311	630349.0	+	.	
+ch.1_365	RNASeq_splice	intron	227	311	12.0	+	.	
+ch.1_365	RNASeq_splice	intron	266	303	77.0	+	.	
+ch.1_365	RNASeq_reads	transcript_region	266	267	9.0	.	.	
+ch.1_365	RNASeq_stranded	transcript_region	266	267	4.0	+	.	
+ch.1_365	RNASeq_stranded	transcript_region	201	265	24.0	+	.	
+ch.1_365	RNASeq_reads	transcript_region	115	265	114.0	.	.	
+ch.1_365	WormBase	CDS	101	265	.	+	.	ID=CDS:Y54G11A.17;Parent=Transcript:Y54G11A.17.1
+ch.1_365	WormBase	exon	101	265	.	+	.	Parent=Transcript:Y54G11A.10b.1
+ch.1_365	WormBase	exon	101	265	.	+	.	Parent=Transcript:Y54G11A.17.1
+ch.1_365	WormBase	five_prime_UTR	101	265	.	+	.	Parent=Transcript:Y54G11A.10b.1
+ch.1_365	RNASeq_splice	intron	168	233	19.0	-	.	
+ch.1_365	RNASeq_stranded	transcript_region	151	200	40.0	+	.	
+ch.1_365	RNASeq_R_asymmetry	transcript_region	112	187	556245.0	.	.	
+ch.1_365	RNASeq_stranded	transcript_region	102	150	23.0	+	.	
+ch.1_365	RNASeq_reads	transcript_region	105	114	74.0	.	.	
+ch.1_365	RNASeq_R_asymmetry	transcript_region	104	111	352742.0	.	.	
+ch.1_365	RNASeq_reads	transcript_region	102	104	47.0	.	.	
+ch.1_365	RNASeq_R_asymmetry	transcript_region	102	103	228518.0	.	.	
+ch.1_365	RNASeq_R_asymmetry	transcript_region	99	101	149827.0	.	.	
+ch.1_365	RNASeq_reads	transcript_region	99	101	29.0	.	.	
+ch.1_365	RNASeq_stranded	transcript_region	99	101	14.0	+	.	
+ch.1_365	RNASeq_R_asymmetry	transcript_region	96	98	90200.0	.	.	
+ch.1_365	RNASeq_reads	transcript_region	96	98	18.0	.	.	
+ch.1_365	RNASeq_stranded	transcript_region	96	98	2.0	+	.	
+ch.1_365	RNASeq_reads	transcript_region	9	95	1.0	.	.	

@@ -1,0 +1,64 @@
+ch.1_207	RNASeq_F_asymmetry	transcript_region	88	93	765.0	.	.	
+ch.1_207	RNASeq_F_asymmetry	transcript_region	94	97	1178.0	.	.	
+ch.1_207	RNASeq_F_asymmetry	transcript_region	98	100	1913.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	101	103	1.0	+	.	
+ch.1_207	RNASeq_F_asymmetry	transcript_region	101	109	9031.0	.	.	
+ch.1_207	RNASeq_reads	transcript_region	101	110	2.0	.	.	
+ch.1_207	WormBase	five_prime_UTR	101	115	.	+	.	Parent=Transcript:F15E6.4.1
+ch.1_207	WormBase	exon	101	227	.	+	.	Parent=Transcript:F15E6.4.1
+ch.1_207	WormBase	gene	101	502	.	+	.	ID=Gene:WBGene00017485
+ch.1_207	WormBase	mRNA	101	502	.	+	.	ID=Transcript:F15E6.4.1;Parent=Gene:WBGene00017485
+ch.1_207	RNASeq_stranded	transcript_region	104	111	2.0	+	.	
+ch.1_207	RNASeq_F_asymmetry	transcript_region	110	111	14807.0	.	.	
+ch.1_207	RNASeq_reads	transcript_region	111	111	4.0	.	.	
+ch.1_207	RNASeq_F_asymmetry	transcript_region	112	112	46898.0	.	.	
+ch.1_207	RNASeq_reads	transcript_region	112	112	9.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	112	113	4.0	+	.	
+ch.1_207	RNASeq_F_asymmetry	transcript_region	113	116	78664.0	.	.	
+ch.1_207	RNASeq_reads	transcript_region	113	116	16.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	114	119	7.0	+	.	
+ch.1_207	WormBase	CDS	116	227	.	+	.	ID=CDS:F15E6.4;Parent=Transcript:F15E6.4.1
+ch.1_207	RNASeq_F_asymmetry	transcript_region	117	124	128049.0	.	.	
+ch.1_207	RNASeq_reads	transcript_region	117	124	26.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	120	136	11.0	+	.	
+ch.1_207	RNASeq_F_asymmetry	transcript_region	125	139	195565.0	.	.	
+ch.1_207	RNASeq_reads	transcript_region	125	139	40.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	137	174	17.0	+	.	
+ch.1_207	RNASeq_F_asymmetry	transcript_region	140	169	300489.0	.	.	
+ch.1_207	RNASeq_reads	transcript_region	140	227	64.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	175	201	26.0	+	.	
+ch.1_207	RNASeq_stranded	transcript_region	202	227	1.0	-	.	
+ch.1_207	RNASeq_stranded	transcript_region	202	227	40.0	+	.	
+ch.1_207	RNASeq_stranded	transcript_region	228	240	1.0	+	.	
+ch.1_207	RNASeq_reads	transcript_region	228	332	1.0	.	.	
+ch.1_207	WormBase	intron	228	335	.	+	.	Parent=Transcript:F15E6.4.1
+ch.1_207	RNASeq_splice	intron	228	335	452526.0	+	.	
+ch.1_207	RNASeq_stranded	transcript_region	312	332	1.0	+	.	
+ch.1_207	RNASeq_reads	transcript_region	333	335	7.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	333	335	4.0	+	.	
+ch.1_207	RNASeq_stranded	transcript_region	336	354	43.0	+	.	
+ch.1_207	RNASeq_stranded	transcript_region	336	371	1.0	-	.	
+ch.1_207	RNASeq_reads	transcript_region	336	410	89.0	.	.	
+ch.1_207	WormBase	CDS	336	442	.	+	.	ID=CDS:F15E6.4;Parent=Transcript:F15E6.4.1
+ch.1_207	WormBase	exon	336	502	.	+	.	Parent=Transcript:F15E6.4.1
+ch.1_207	RNASeq_stranded	transcript_region	355	391	65.0	+	.	
+ch.1_207	RNASeq_stranded	transcript_region	376	470	1.0	-	.	
+ch.1_207	RNASeq_stranded	transcript_region	392	449	98.0	+	.	
+ch.1_207	RNASeq_reads	transcript_region	411	429	58.0	.	.	
+ch.1_207	RNASeq_reads	transcript_region	430	445	37.0	.	.	
+ch.1_207	WormBase	three_prime_UTR	443	502	.	+	.	Parent=Transcript:F15E6.4.1
+ch.1_207	RNASeq_reads	transcript_region	446	466	24.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	450	466	64.0	+	.	
+ch.1_207	RNASeq_reads	transcript_region	467	475	14.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	467	476	42.0	+	.	
+ch.1_207	RNASeq_reads	transcript_region	476	491	9.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	477	490	27.0	+	.	
+ch.1_207	RNASeq_stranded	transcript_region	491	493	17.0	+	.	
+ch.1_207	RNASeq_reads	transcript_region	492	497	5.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	494	499	11.0	+	.	
+ch.1_207	RNASeq_reads	transcript_region	498	500	3.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	500	502	7.0	+	.	
+ch.1_207	RNASeq_reads	transcript_region	501	505	1.0	.	.	
+ch.1_207	RNASeq_stranded	transcript_region	503	505	3.0	+	.	
+ch.1_207	RNASeq	transcription_end_site	505	505	.	+	.	
+ch.1_207	RNASeq	transcription_end_site	507	507	.	+	.	

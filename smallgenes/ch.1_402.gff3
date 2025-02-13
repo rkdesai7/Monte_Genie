@@ -1,0 +1,33 @@
+ch.1_402	WormBase	three_prime_UTR	727	802	.	+	.	Parent=Transcript:K02A6.2.1
+ch.1_402	WormBase	exon	510	802	.	+	.	Parent=Transcript:K02A6.2.1
+ch.1_402	WormBase	gene	101	802	.	+	.	ID=Gene:WBGene00019293
+ch.1_402	WormBase	mRNA	101	802	.	+	.	ID=Transcript:K02A6.2.1;Parent=Gene:WBGene00019293
+ch.1_402	RNASeq	transcription_end_site	799	799	.	-	.	
+ch.1_402	RNASeq	transcription_end_site	799	799	.	-	.	
+ch.1_402	RNASeq_reads	transcript_region	774	797	1.0	.	.	
+ch.1_402	RNASeq_stranded	transcript_region	741	789	1.0	+	.	
+ch.1_402	RNASeq_reads	transcript_region	689	773	2.0	.	.	
+ch.1_402	RNASeq_stranded	transcript_region	687	740	2.0	+	.	
+ch.1_402	WormBase	CDS	510	726	.	+	.	ID=CDS:K02A6.2;Parent=Transcript:K02A6.2.1
+ch.1_402	RNASeq_reads	transcript_region	510	688	4.0	.	.	
+ch.1_402	RNASeq_stranded	transcript_region	685	686	1.0	+	.	
+ch.1_402	RNASeq_stranded	transcript_region	683	684	2.0	+	.	
+ch.1_402	RNASeq_stranded	transcript_region	608	682	1.0	+	.	
+ch.1_402	RNASeq_stranded	transcript_region	533	583	1.0	+	.	
+ch.1_402	RNASeq_stranded	transcript_region	517	530	1.0	+	.	
+ch.1_402	WormBase	intron	436	509	.	+	.	Parent=Transcript:K02A6.2.1
+ch.1_402	RNASeq_splice	intron	436	509	17626.0	+	.	
+ch.1_402	WormBase	CDS	215	435	.	+	.	ID=CDS:K02A6.2;Parent=Transcript:K02A6.2.1
+ch.1_402	RNASeq_reads	transcript_region	185	435	4.0	.	.	
+ch.1_402	WormBase	exon	101	435	.	+	.	Parent=Transcript:K02A6.2.1
+ch.1_402	RNASeq_stranded	transcript_region	425	425	1.0	-	.	
+ch.1_402	RNASeq_stranded	transcript_region	422	423	1.0	+	.	
+ch.1_402	WormBase	five_prime_UTR	101	214	.	+	.	Parent=Transcript:K02A6.2.1
+ch.1_402	RNASeq_reads	transcript_region	126	184	2.0	.	.	
+ch.1_402	RNASeq_R_asymmetry	transcript_region	116	168	8578.0	.	.	
+ch.1_402	RNASeq_reads	transcript_region	105	125	1.0	.	.	
+ch.1_402	RNASeq_R_asymmetry	transcript_region	110	115	5617.0	.	.	
+ch.1_402	RNASeq_R_asymmetry	transcript_region	106	109	3514.0	.	.	
+ch.1_402	RNASeq_R_asymmetry	transcript_region	102	105	2317.0	.	.	
+ch.1_402	RNASeq_R_asymmetry	transcript_region	91	101	1362.0	.	.	
+ch.1_402	RNASeq_R_asymmetry	transcript_region	90	90	875.0	.	.	

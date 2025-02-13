@@ -1,0 +1,66 @@
+ch.1_139	RNASeq_stranded	transcript_region	545	594	41.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	559	593	2.0	+	.	
+ch.1_139	RNASeq_reads	transcript_region	537	568	30.0	.	.	
+ch.1_139	RNASeq_stranded	transcript_region	535	558	1.0	+	.	
+ch.1_139	RNASeq_R_asymmetry	transcript_region	547	547	98256.0	.	.	
+ch.1_139	RNASeq_R_asymmetry	transcript_region	541	544	90507.0	.	.	
+ch.1_139	RNASeq_stranded	transcript_region	529	544	26.0	-	.	
+ch.1_139	RNASeq_R_asymmetry	transcript_region	537	539	81947.0	.	.	
+ch.1_139	RNASeq_reads	transcript_region	530	536	18.0	.	.	
+ch.1_139	RNASeq	transcription_end_site	529	529	.	-	.	
+ch.1_139	RNASeq_reads	transcript_region	512	529	11.0	.	.	
+ch.1_139	RNASeq_stranded	transcript_region	515	528	17.0	-	.	
+ch.1_139	RNASeq	transcription_end_site	526	526	.	-	.	
+ch.1_139	RNASeq	transcription_end_site	522	522	.	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	505	514	11.0	-	.	
+ch.1_139	RNASeq_reads	transcript_region	501	511	7.0	.	.	
+ch.1_139	WormBase	three_prime_UTR	374	510	.	+	.	Parent=Transcript:F45E12.6.1
+ch.1_139	WormBase	exon	310	510	.	+	.	Parent=Transcript:F45E12.6.1
+ch.1_139	WormBase	gene	101	510	.	+	.	ID=Gene:WBGene00018476
+ch.1_139	WormBase	mRNA	101	510	.	+	.	ID=Transcript:F45E12.6.1;Parent=Gene:WBGene00018476
+ch.1_139	RNASeq_stranded	transcript_region	429	509	1.0	+	.	
+ch.1_139	RNASeq_stranded	transcript_region	493	504	6.0	-	.	
+ch.1_139	RNASeq	transcription_end_site	500	500	.	-	.	
+ch.1_139	RNASeq_reads	transcript_region	489	500	4.0	.	.	
+ch.1_139	RNASeq	transcription_end_site	497	497	.	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	419	492	3.0	-	.	
+ch.1_139	RNASeq	transcription_end_site	488	488	.	-	.	
+ch.1_139	RNASeq_reads	transcript_region	447	488	2.0	.	.	
+ch.1_139	RNASeq	transcription_end_site	454	454	.	-	.	
+ch.1_139	RNASeq	transcription_end_site	450	450	.	-	.	
+ch.1_139	RNASeq_reads	transcript_region	310	446	4.0	.	.	
+ch.1_139	RNASeq	transcription_end_site	440	440	.	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	399	428	2.0	+	.	
+ch.1_139	RNASeq_stranded	transcript_region	395	418	1.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	398	398	1.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	397	397	2.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	387	396	1.0	+	.	
+ch.1_139	RNASeq_stranded	transcript_region	310	386	2.0	+	.	
+ch.1_139	RNASeq	transcription_end_site	385	385	.	-	.	
+ch.1_139	RNASeq	transcription_end_site	385	385	.	-	.	
+ch.1_139	RNASeq	transcription_end_site	383	383	.	-	.	
+ch.1_139	RNASeq	transcription_end_site	383	383	.	-	.	
+ch.1_139	WormBase	CDS	310	373	.	+	.	ID=CDS:F45E12.6;Parent=Transcript:F45E12.6.1
+ch.1_139	RNASeq_stranded	transcript_region	324	353	1.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	319	322	1.0	-	.	
+ch.1_139	WormBase	intron	257	309	.	+	.	Parent=Transcript:F45E12.6.1
+ch.1_139	RNASeq_splice	intron	257	309	22318.0	+	.	
+ch.1_139	RNASeq_splice	intron	257	296	121.0	+	.	
+ch.1_139	RNASeq_stranded	transcript_region	215	256	2.0	+	.	
+ch.1_139	WormBase	CDS	117	256	.	+	.	ID=CDS:F45E12.6;Parent=Transcript:F45E12.6.1
+ch.1_139	RNASeq_reads	transcript_region	116	256	5.0	.	.	
+ch.1_139	WormBase	exon	101	256	.	+	.	Parent=Transcript:F45E12.6.1
+ch.1_139	RNASeq_stranded	transcript_region	229	249	1.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	227	228	2.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	226	226	1.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	84	225	2.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	212	214	1.0	+	.	
+ch.1_139	RNASeq_stranded	transcript_region	211	211	2.0	-	.	
+ch.1_139	RNASeq_stranded	transcript_region	112	210	1.0	+	.	
+ch.1_139	RNASeq_R_asymmetry	transcript_region	140	140	19120.0	.	.	
+ch.1_139	RNASeq_R_asymmetry	transcript_region	112	138	18727.0	.	.	
+ch.1_139	WormBase	five_prime_UTR	101	116	.	+	.	Parent=Transcript:F45E12.6.1
+ch.1_139	RNASeq_reads	transcript_region	103	115	3.0	.	.	
+ch.1_139	RNASeq_R_asymmetry	transcript_region	104	111	10489.0	.	.	
+ch.1_139	RNASeq_reads	transcript_region	69	102	1.0	.	.	
+ch.1_139	RNASeq_stranded	transcript_region	60	83	1.0	-	.	

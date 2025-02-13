@@ -1,0 +1,65 @@
+ch.2_289	RNASeq_reads	transcript_region	67	67	1.0	.	.	
+ch.2_289	RNASeq_reads	transcript_region	69	89	1.0	.	.	
+ch.2_289	RNASeq_reads	transcript_region	90	106	2.0	.	.	
+ch.2_289	RNASeq_stranded	transcript_region	94	113	1.0	+	.	
+ch.2_289	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:R09E12.9.1
+ch.2_289	WormBase	exon	101	128	.	+	.	Parent=Transcript:R09E12.9.1
+ch.2_289	WormBase	gene	101	746	.	+	.	ID=Gene:WBGene00044514
+ch.2_289	WormBase	mRNA	101	746	.	+	.	ID=Transcript:R09E12.9.1;Parent=Gene:WBGene00044514
+ch.2_289	RNASeq_reads	transcript_region	107	111	4.0	.	.	
+ch.2_289	WormBase	CDS	107	128	.	+	.	ID=CDS:R09E12.9;Parent=Transcript:R09E12.9.1
+ch.2_289	RNASeq_F_asymmetry	transcript_region	108	111	18351.0	.	.	
+ch.2_289	RNASeq_reads	transcript_region	112	128	10.0	.	.	
+ch.2_289	RNASeq_F_asymmetry	transcript_region	114	128	44348.0	.	.	
+ch.2_289	RNASeq_stranded	transcript_region	114	128	2.0	+	.	
+ch.2_289	RNASeq_splice	intron	129	169	348.0	+	.	
+ch.2_289	WormBase	intron	129	177	.	+	.	Parent=Transcript:R09E12.9.1
+ch.2_289	RNASeq_splice	intron	129	177	72631.0	+	.	
+ch.2_289	RNASeq_splice	intron	129	180	4.0	+	.	
+ch.2_289	RNASeq_splice	intron	129	455	8.0	+	.	
+ch.2_289	RNASeq_splice	intron	133	180	62.0	+	.	
+ch.2_289	RNASeq_reads	transcript_region	170	172	1.0	.	.	
+ch.2_289	RNASeq_reads	transcript_region	173	177	2.0	.	.	
+ch.2_289	RNASeq_stranded	transcript_region	178	201	2.0	+	.	
+ch.2_289	RNASeq_F_asymmetry	transcript_region	178	213	68641.0	.	.	
+ch.2_289	RNASeq_reads	transcript_region	178	247	16.0	.	.	
+ch.2_289	WormBase	CDS	178	318	.	+	.	ID=CDS:R09E12.9;Parent=Transcript:R09E12.9.1
+ch.2_289	WormBase	exon	178	318	.	+	.	Parent=Transcript:R09E12.9.1
+ch.2_289	RNASeq_stranded	transcript_region	202	277	4.0	+	.	
+ch.2_289	RNASeq_stranded	transcript_region	224	227	1.0	-	.	
+ch.2_289	RNASeq_stranded	transcript_region	233	237	1.0	-	.	
+ch.2_289	RNASeq_reads	transcript_region	248	318	25.0	.	.	
+ch.2_289	RNASeq_splice	intron	249	296	3.0	+	.	
+ch.2_289	RNASeq	transcription_end_site	266	266	.	+	.	
+ch.2_289	RNASeq_stranded	transcript_region	278	316	2.0	+	.	
+ch.2_289	RNASeq_splice	intron	313	402	8.0	+	.	
+ch.2_289	RNASeq_stranded	transcript_region	317	318	1.0	+	.	
+ch.2_289	RNASeq_reads	transcript_region	319	453	1.0	.	.	
+ch.2_289	WormBase	intron	319	455	.	+	.	Parent=Transcript:R09E12.9.1
+ch.2_289	RNASeq_splice	intron	319	455	126997.0	+	.	
+ch.2_289	RNASeq_splice	intron	355	455	6.0	+	.	
+ch.2_289	RNASeq_splice	intron	355	813	3.0	+	.	
+ch.2_289	RNASeq_splice	intron	355	839	6.0	+	.	
+ch.2_289	RNASeq_splice	intron	419	813	4.0	+	.	
+ch.2_289	RNASeq_splice	intron	419	839	10.0	+	.	
+ch.2_289	RNASeq_reads	transcript_region	454	455	3.0	.	.	
+ch.2_289	RNASeq_stranded	transcript_region	456	456	1.0	+	.	
+ch.2_289	RNASeq_reads	transcript_region	456	635	27.0	.	.	
+ch.2_289	WormBase	CDS	456	679	.	+	.	ID=CDS:R09E12.9;Parent=Transcript:R09E12.9.1
+ch.2_289	WormBase	exon	456	746	.	+	.	Parent=Transcript:R09E12.9.1
+ch.2_289	RNASeq_stranded	transcript_region	457	480	2.0	+	.	
+ch.2_289	RNASeq_stranded	transcript_region	481	579	4.0	+	.	
+ch.2_289	RNASeq_splice	intron	508	555	18.0	+	.	
+ch.2_289	RNASeq_splice	intron	526	616	3.0	+	.	
+ch.2_289	RNASeq_stranded	transcript_region	580	693	7.0	+	.	
+ch.2_289	RNASeq_reads	transcript_region	636	668	17.0	.	.	
+ch.2_289	RNASeq_reads	transcript_region	669	687	11.0	.	.	
+ch.2_289	WormBase	three_prime_UTR	680	746	.	+	.	Parent=Transcript:R09E12.9.1
+ch.2_289	RNASeq_reads	transcript_region	688	704	7.0	.	.	
+ch.2_289	RNASeq_stranded	transcript_region	694	704	4.0	+	.	
+ch.2_289	RNASeq_reads	transcript_region	705	715	4.0	.	.	
+ch.2_289	RNASeq_stranded	transcript_region	705	718	2.0	+	.	
+ch.2_289	RNASeq_reads	transcript_region	716	723	2.0	.	.	
+ch.2_289	RNASeq_stranded	transcript_region	719	732	1.0	+	.	
+ch.2_289	RNASeq_reads	transcript_region	724	736	1.0	.	.	
+ch.2_289	RNASeq_splice	intron	814	839	3.0	+	.	

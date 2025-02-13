@@ -1,0 +1,65 @@
+ch.2_145	RNASeq_F_asymmetry	transcript_region	94	100	9422.0	.	.	
+ch.2_145	RNASeq_reads	transcript_region	94	100	2.0	.	.	
+ch.2_145	RNASeq_stranded	transcript_region	101	101	1.0	+	.	
+ch.2_145	RNASeq_F_asymmetry	transcript_region	101	106	47256.0	.	.	
+ch.2_145	RNASeq_reads	transcript_region	101	106	9.0	.	.	
+ch.2_145	WormBase	five_prime_UTR	101	112	.	+	.	Parent=Transcript:C06E1.1.1
+ch.2_145	WormBase	exon	101	238	.	+	.	Parent=Transcript:C06E1.1.1
+ch.2_145	WormBase	gene	101	891	.	+	.	ID=Gene:WBGene00015518
+ch.2_145	WormBase	mRNA	101	891	.	+	.	ID=Transcript:C06E1.1.1;Parent=Gene:WBGene00015518
+ch.2_145	RNASeq_stranded	transcript_region	102	110	2.0	+	.	
+ch.2_145	RNASeq_reads	transcript_region	107	111	14.0	.	.	
+ch.2_145	RNASeq_F_asymmetry	transcript_region	107	112	74332.0	.	.	
+ch.2_145	RNASeq_stranded	transcript_region	111	206	4.0	+	.	
+ch.2_145	RNASeq_reads	transcript_region	112	171	22.0	.	.	
+ch.2_145	RNASeq_F_asymmetry	transcript_region	113	190	112100.0	.	.	
+ch.2_145	WormBase	CDS	113	238	.	+	.	ID=CDS:C06E1.1;Parent=Transcript:C06E1.1.1
+ch.2_145	RNASeq_reads	transcript_region	172	238	34.0	.	.	
+ch.2_145	RNASeq_F_asymmetry	transcript_region	191	205	168964.0	.	.	
+ch.2_145	RNASeq_stranded	transcript_region	207	238	2.0	+	.	
+ch.2_145	WormBase	intron	239	282	.	+	.	Parent=Transcript:C06E1.1.1
+ch.2_145	RNASeq_splice	intron	239	282	164503.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	283	312	2.0	+	.	
+ch.2_145	WormBase	CDS	283	393	.	+	.	ID=CDS:C06E1.1;Parent=Transcript:C06E1.1.1
+ch.2_145	WormBase	exon	283	393	.	+	.	Parent=Transcript:C06E1.1.1
+ch.2_145	RNASeq_reads	transcript_region	283	393	34.0	.	.	
+ch.2_145	RNASeq_stranded	transcript_region	313	393	4.0	+	.	
+ch.2_145	WormBase	intron	394	446	.	+	.	Parent=Transcript:C06E1.1.1
+ch.2_145	RNASeq_splice	intron	394	446	226538.0	+	.	
+ch.2_145	RNASeq_splice	intron	394	461	82.0	+	.	
+ch.2_145	RNASeq	transcription_end_site	434	434	.	+	.	
+ch.2_145	RNASeq	transcription_end_site	434	434	.	+	.	
+ch.2_145	RNASeq	transcription_end_site	442	442	.	+	.	
+ch.2_145	RNASeq	transcription_end_site	444	444	.	+	.	
+ch.2_145	RNASeq_reads	transcript_region	446	446	5.0	.	.	
+ch.2_145	RNASeq_stranded	transcript_region	446	446	1.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	447	486	4.0	+	.	
+ch.2_145	WormBase	CDS	447	695	.	+	.	ID=CDS:C06E1.1;Parent=Transcript:C06E1.1.1
+ch.2_145	RNASeq_reads	transcript_region	447	746	41.0	.	.	
+ch.2_145	WormBase	exon	447	891	.	+	.	Parent=Transcript:C06E1.1.1
+ch.2_145	RNASeq_stranded	transcript_region	487	588	7.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	589	624	11.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	625	673	17.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	674	720	26.0	+	.	
+ch.2_145	RNASeq	transcription_end_site	677	677	.	+	.	
+ch.2_145	WormBase	three_prime_UTR	696	891	.	+	.	Parent=Transcript:C06E1.1.1
+ch.2_145	RNASeq_stranded	transcript_region	721	798	40.0	+	.	
+ch.2_145	RNASeq	transcription_end_site	725	725	.	+	.	
+ch.2_145	WormBase	three_prime_UTR	744	867	.	-	.	Parent=Transcript:C06E1.9.1
+ch.2_145	RNASeq_reads	transcript_region	747	809	27.0	.	.	
+ch.2_145	RNASeq_stranded	transcript_region	764	768	1.0	-	.	
+ch.2_145	RNASeq_stranded	transcript_region	769	778	2.0	-	.	
+ch.2_145	RNASeq_stranded	transcript_region	779	783	4.0	-	.	
+ch.2_145	RNASeq_stranded	transcript_region	784	791	7.0	-	.	
+ch.2_145	RNASeq_stranded	transcript_region	792	804	11.0	-	.	
+ch.2_145	RNASeq_stranded	transcript_region	799	839	61.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	805	884	17.0	-	.	
+ch.2_145	RNASeq_stranded	transcript_region	840	878	40.0	+	.	
+ch.2_145	RNASeq_splice	intron	851	896	16.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	879	884	26.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	885	889	15.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	885	961	26.0	-	.	
+ch.2_145	RNASeq_stranded	transcript_region	890	890	9.0	+	.	
+ch.2_145	RNASeq_stranded	transcript_region	891	892	4.0	+	.	
+ch.2_145	RNASeq	transcription_end_site	900	900	.	+	.	
+ch.2_145	RNASeq	transcription_end_site	900	900	.	+	.	

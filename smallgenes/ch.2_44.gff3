@@ -1,0 +1,108 @@
+ch.2_44	RNASeq_R_asymmetry	transcript_region	4	7	26586.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	4	7	6.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	6	9	6.0	+	.	
+ch.2_44	RNASeq	transcription_end_site	7	7	.	+	.	
+ch.2_44	RNASeq_reads	transcript_region	8	9	3.0	.	.	
+ch.2_44	RNASeq	transcription_end_site	9	9	.	+	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	38	42	2943.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	38	76	1.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	38	88	2.0	+	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	43	66	4666.0	.	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	67	98	7017.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	77	87	2.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	88	93	1.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	89	90	1.0	+	.	
+ch.2_44	RNASeq_reads	transcript_region	94	98	2.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	96	98	1.0	+	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	99	101	142228.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	99	102	28.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	99	112	8.0	+	.	
+ch.2_44	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:E02H1.8.1
+ch.2_44	WormBase	exon	101	196	.	+	.	Parent=Transcript:E02H1.8.1
+ch.2_44	WormBase	gene	101	680	.	+	.	ID=Gene:WBGene00008459
+ch.2_44	WormBase	mRNA	101	680	.	+	.	ID=Transcript:E02H1.8.1;Parent=Gene:WBGene00008459
+ch.2_44	RNASeq_F_asymmetry	transcript_region	102	126	215143.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	103	126	44.0	.	.	
+ch.2_44	WormBase	CDS	104	196	.	+	.	ID=CDS:E02H1.8;Parent=Transcript:E02H1.8.1
+ch.2_44	RNASeq_stranded	transcript_region	113	126	13.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	127	151	25.0	+	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	127	179	335110.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	127	196	69.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	152	169	38.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	170	196	58.0	+	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	182	182	398016.0	.	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	197	198	97511.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	197	199	19.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	197	199	9.0	+	.	
+ch.2_44	WormBase	intron	197	243	.	+	.	Parent=Transcript:E02H1.8.1
+ch.2_44	RNASeq_splice	intron	197	243	416830.0	+	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	199	199	63018.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	242	243	12.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	242	243	2.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	244	260	32.0	+	.	
+ch.2_44	WormBase	CDS	244	412	.	+	.	ID=CDS:E02H1.8;Parent=Transcript:E02H1.8.1
+ch.2_44	WormBase	exon	244	412	.	+	.	Parent=Transcript:E02H1.8.1
+ch.2_44	RNASeq_reads	transcript_region	244	412	88.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	261	324	17.0	+	.	
+ch.2_44	RNASeq_splice	intron	320	356	3.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	325	366	26.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	367	381	41.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	382	412	22.0	+	.	
+ch.2_44	RNASeq_splice	intron	400	459	6.0	+	.	
+ch.2_44	WormBase	intron	413	459	.	+	.	Parent=Transcript:E02H1.8.1
+ch.2_44	RNASeq_splice	intron	413	459	379604.0	+	.	
+ch.2_44	RNASeq_splice	intron	417	459	8.0	+	.	
+ch.2_44	RNASeq_reads	transcript_region	459	459	10.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	459	459	5.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	460	497	21.0	+	.	
+ch.2_44	RNASeq_reads	transcript_region	460	572	74.0	.	.	
+ch.2_44	WormBase	CDS	460	587	.	+	.	ID=CDS:E02H1.8;Parent=Transcript:E02H1.8.1
+ch.2_44	WormBase	exon	460	680	.	+	.	Parent=Transcript:E02H1.8.1
+ch.2_44	RNASeq_splice	intron	492	518	3.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	498	500	32.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	501	526	50.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	527	590	76.0	+	.	
+ch.2_44	RNASeq_reads	transcript_region	573	589	47.0	.	.	
+ch.2_44	RNASeq	transcription_end_site	576	576	.	+	.	
+ch.2_44	RNASeq	transcription_end_site	585	585	.	+	.	
+ch.2_44	WormBase	three_prime_UTR	588	680	.	+	.	Parent=Transcript:E02H1.8.1
+ch.2_44	RNASeq_reads	transcript_region	590	643	31.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	591	606	49.0	+	.	
+ch.2_44	RNASeq	transcription_end_site	593	593	.	+	.	
+ch.2_44	RNASeq	transcription_end_site	601	601	.	+	.	
+ch.2_44	RNASeq	transcription_end_site	603	603	.	+	.	
+ch.2_44	RNASeq	transcription_end_site	606	606	.	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	607	622	32.0	+	.	
+ch.2_44	RNASeq_R_asymmetry	transcript_region	614	647	120235.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	623	653	21.0	+	.	
+ch.2_44	RNASeq_reads	transcript_region	644	650	20.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	647	650	1.0	-	.	
+ch.2_44	RNASeq_R_asymmetry	transcript_region	648	651	68976.0	.	.	
+ch.2_44	RNASeq_reads	transcript_region	651	659	13.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	652	658	1.0	-	.	
+ch.2_44	RNASeq_stranded	transcript_region	654	669	13.0	+	.	
+ch.2_44	RNASeq	transcription_end_site	659	659	.	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	659	667	2.0	-	.	
+ch.2_44	RNASeq_reads	transcript_region	660	679	8.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	668	684	4.0	-	.	
+ch.2_44	RNASeq_stranded	transcript_region	670	674	8.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	675	678	5.0	+	.	
+ch.2_44	RNASeq	transcription_end_site	676	676	.	+	.	
+ch.2_44	RNASeq	transcription_end_site	679	679	.	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	679	681	3.0	+	.	
+ch.2_44	RNASeq	transcription_end_site	680	680	.	+	.	
+ch.2_44	RNASeq_reads	transcript_region	680	715	5.0	.	.	
+ch.2_44	RNASeq	transcription_end_site	681	681	.	+	.	
+ch.2_44	RNASeq	transcription_end_site	681	681	.	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	682	685	1.0	+	.	
+ch.2_44	RNASeq_stranded	transcript_region	685	706	7.0	-	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	689	691	20854.0	.	.	
+ch.2_44	RNASeq_stranded	transcript_region	707	773	11.0	-	.	
+ch.2_44	RNASeq	transcription_end_site	712	712	.	+	.	
+ch.2_44	RNASeq	transcription_end_site	712	712	.	+	.	
+ch.2_44	RNASeq_reads	transcript_region	716	738	8.0	.	.	
+ch.2_44	RNASeq	transcription_end_site	724	724	.	+	.	
+ch.2_44	RNASeq	transcription_end_site	725	725	.	+	.	
+ch.2_44	RNASeq	transcription_end_site	725	725	.	+	.	
+ch.2_44	RNASeq_reads	transcript_region	739	773	13.0	.	.	
+ch.2_44	RNASeq_F_asymmetry	transcript_region	772	773	73381.0	.	.	

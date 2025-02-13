@@ -1,0 +1,30 @@
+ch.2_320	RNASeq_R_asymmetry	transcript_region	889	897	474.0	.	.	
+ch.2_320	WormBase	three_prime_UTR	554	826	.	+	.	Parent=Transcript:Y38H6C.3.1
+ch.2_320	WormBase	exon	401	826	.	+	.	Parent=Transcript:Y38H6C.3.1
+ch.2_320	WormBase	gene	101	826	.	+	.	ID=Gene:WBGene00012616
+ch.2_320	WormBase	mRNA	101	826	.	+	.	ID=Transcript:Y38H6C.3.1;Parent=Gene:WBGene00012616
+ch.2_320	RNASeq_reads	transcript_region	786	821	1.0	.	.	
+ch.2_320	RNASeq_stranded	transcript_region	772	806	1.0	+	.	
+ch.2_320	RNASeq_reads	transcript_region	401	785	2.0	.	.	
+ch.2_320	RNASeq_splice	intron	567	640	51.0	+	.	
+ch.2_320	RNASeq_splice	intron	550	640	262.0	+	.	
+ch.2_320	RNASeq_splice	intron	539	640	14.0	+	.	
+ch.2_320	WormBase	CDS	401	553	.	+	.	ID=CDS:Y38H6C.3;Parent=Transcript:Y38H6C.3.1
+ch.2_320	RNASeq_splice	intron	348	404	4.0	+	.	
+ch.2_320	WormBase	intron	348	400	.	+	.	Parent=Transcript:Y38H6C.3.1
+ch.2_320	RNASeq_splice	intron	348	400	10667.0	+	.	
+ch.2_320	WormBase	CDS	231	347	.	+	.	ID=CDS:Y38H6C.3;Parent=Transcript:Y38H6C.3.1
+ch.2_320	WormBase	exon	231	347	.	+	.	Parent=Transcript:Y38H6C.3.1
+ch.2_320	RNASeq_reads	transcript_region	231	347	2.0	.	.	
+ch.2_320	WormBase	intron	178	230	.	+	.	Parent=Transcript:Y38H6C.3.1
+ch.2_320	RNASeq_splice	intron	178	230	8079.0	+	.	
+ch.2_320	RNASeq_R_asymmetry	transcript_region	178	178	680.0	.	.	
+ch.2_320	RNASeq_reads	transcript_region	151	177	2.0	.	.	
+ch.2_320	WormBase	CDS	112	177	.	+	.	ID=CDS:Y38H6C.3;Parent=Transcript:Y38H6C.3.1
+ch.2_320	WormBase	exon	101	177	.	+	.	Parent=Transcript:Y38H6C.3.1
+ch.2_320	RNASeq_R_asymmetry	transcript_region	151	152	6115.0	.	.	
+ch.2_320	RNASeq_reads	transcript_region	103	150	1.0	.	.	
+ch.2_320	RNASeq_R_asymmetry	transcript_region	138	145	5594.0	.	.	
+ch.2_320	RNASeq_R_asymmetry	transcript_region	135	135	5132.0	.	.	
+ch.2_320	RNASeq_R_asymmetry	transcript_region	118	133	5048.0	.	.	
+ch.2_320	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:Y38H6C.3.1

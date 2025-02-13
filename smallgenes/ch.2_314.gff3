@@ -1,0 +1,99 @@
+ch.2_314	RNASeq_reads	transcript_region	26	32	1.0	.	.	
+ch.2_314	RNASeq_splice	intron	33	79	15.0	+	.	
+ch.2_314	RNASeq_reads	transcript_region	38	100	1.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	97	102	1.0	+	.	
+ch.2_314	RNASeq_F_asymmetry	transcript_region	101	104	17872.0	.	.	
+ch.2_314	RNASeq_reads	transcript_region	101	104	4.0	.	.	
+ch.2_314	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:F26D10.12a.1
+ch.2_314	WormBase	exon	101	192	.	+	.	Parent=Transcript:F26D10.12a.1
+ch.2_314	WormBase	gene	101	893	.	+	.	ID=Gene:WBGene00009156
+ch.2_314	WormBase	mRNA	101	893	.	+	.	ID=Transcript:F26D10.12a.1;Parent=Gene:WBGene00009156
+ch.2_314	RNASeq_stranded	transcript_region	103	111	2.0	+	.	
+ch.2_314	RNASeq_F_asymmetry	transcript_region	105	112	32320.0	.	.	
+ch.2_314	RNASeq_reads	transcript_region	105	112	7.0	.	.	
+ch.2_314	WormBase	CDS	111	192	.	+	.	ID=CDS:F26D10.12a;Parent=Transcript:F26D10.12a.1
+ch.2_314	RNASeq_stranded	transcript_region	112	112	5.0	+	.	
+ch.2_314	RNASeq_F_asymmetry	transcript_region	113	116	80296.0	.	.	
+ch.2_314	RNASeq_reads	transcript_region	113	117	17.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	113	121	10.0	+	.	
+ch.2_314	RNASeq_F_asymmetry	transcript_region	117	124	124396.0	.	.	
+ch.2_314	RNASeq_reads	transcript_region	118	124	26.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	122	176	16.0	+	.	
+ch.2_314	RNASeq_F_asymmetry	transcript_region	125	137	199681.0	.	.	
+ch.2_314	RNASeq_reads	transcript_region	125	139	40.0	.	.	
+ch.2_314	RNASeq_F_asymmetry	transcript_region	138	192	299887.0	.	.	
+ch.2_314	RNASeq_reads	transcript_region	140	192	61.0	.	.	
+ch.2_314	RNASeq_splice	intron	164	205	12.0	-	.	
+ch.2_314	RNASeq_stranded	transcript_region	177	192	10.0	+	.	
+ch.2_314	WormBase	intron	193	247	.	+	.	Parent=Transcript:F26D10.12a.1
+ch.2_314	RNASeq_reads	transcript_region	193	247	1.0	.	.	
+ch.2_314	RNASeq_splice	intron	193	247	370289.0	+	.	
+ch.2_314	RNASeq_splice	intron	193	259	3.0	+	.	
+ch.2_314	RNASeq_splice	intron	193	270	6.0	+	.	
+ch.2_314	RNASeq_splice	intron	193	311	6.0	+	.	
+ch.2_314	RNASeq_splice	intron	193	650	37.0	+	.	
+ch.2_314	RNASeq_F_asymmetry	transcript_region	248	280	338593.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	248	310	8.0	+	.	
+ch.2_314	WormBase	CDS	248	452	.	+	.	ID=CDS:F26D10.12a;Parent=Transcript:F26D10.12a.1
+ch.2_314	WormBase	exon	248	452	.	+	.	Parent=Transcript:F26D10.12a.1
+ch.2_314	RNASeq_reads	transcript_region	248	452	78.0	.	.	
+ch.2_314	RNASeq_splice	intron	260	311	18.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	311	345	15.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	346	362	9.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	363	386	16.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	387	449	26.0	+	.	
+ch.2_314	WormBase	exon	427	452	.	+	.	Parent=Transcript:F26D10.12c.1
+ch.2_314	WormBase	CDS	427	452	.	+	.	ID=CDS:F26D10.12c;Parent=Transcript:F26D10.12c.1
+ch.2_314	WormBase	mRNA	427	825	.	+	.	ID=Transcript:F26D10.12c.1;Parent=Gene:WBGene00009156
+ch.2_314	RNASeq_stranded	transcript_region	450	452	17.0	+	.	
+ch.2_314	RNASeq_splice	intron	453	619	14.0	+	.	
+ch.2_314	RNASeq_reads	transcript_region	453	649	1.0	.	.	
+ch.2_314	WormBase	intron	453	650	.	+	.	Parent=Transcript:F26D10.12a.1
+ch.2_314	WormBase	intron	453	650	.	+	.	Parent=Transcript:F26D10.12c.1
+ch.2_314	RNASeq_splice	intron	453	650	388794.0	+	.	
+ch.2_314	RNASeq_splice	intron	453	652	33.0	+	.	
+ch.2_314	RNASeq_splice	intron	453	698	9.0	+	.	
+ch.2_314	RNASeq_splice	intron	457	652	12.0	+	.	
+ch.2_314	RNASeq_splice	intron	509	650	188.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	649	650	1.0	+	.	
+ch.2_314	RNASeq_reads	transcript_region	650	650	2.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	651	657	17.0	+	.	
+ch.2_314	WormBase	CDS	651	825	.	+	.	ID=CDS:F26D10.12a;Parent=Transcript:F26D10.12a.1
+ch.2_314	WormBase	CDS	651	825	.	+	.	ID=CDS:F26D10.12c;Parent=Transcript:F26D10.12c.1
+ch.2_314	WormBase	exon	651	825	.	+	.	Parent=Transcript:F26D10.12c.1
+ch.2_314	RNASeq_reads	transcript_region	651	854	73.0	.	.	
+ch.2_314	WormBase	exon	651	893	.	+	.	Parent=Transcript:F26D10.12a.1
+ch.2_314	RNASeq_stranded	transcript_region	658	664	26.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	665	684	42.0	+	.	
+ch.2_314	WormBase	mRNA	682	825	.	+	.	ID=Transcript:F26D10.12b.1;Parent=Gene:WBGene00009156
+ch.2_314	WormBase	exon	682	825	.	+	.	Parent=Transcript:F26D10.12b.1
+ch.2_314	WormBase	CDS	682	825	.	+	.	ID=CDS:F26D10.12b;Parent=Transcript:F26D10.12b.1
+ch.2_314	RNASeq_stranded	transcript_region	685	702	64.0	+	.	
+ch.2_314	RNASeq	transcription_end_site	700	700	.	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	703	747	104.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	748	796	158.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	797	831	239.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	801	896	1.0	-	.	
+ch.2_314	RNASeq_splice	intron	822	863	14.0	-	.	
+ch.2_314	WormBase	three_prime_UTR	826	893	.	+	.	Parent=Transcript:F26D10.12a.1
+ch.2_314	RNASeq_stranded	transcript_region	832	849	156.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	850	867	101.0	+	.	
+ch.2_314	RNASeq_reads	transcript_region	855	867	48.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	868	881	66.0	+	.	
+ch.2_314	RNASeq_reads	transcript_region	868	883	30.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	882	886	42.0	+	.	
+ch.2_314	RNASeq_reads	transcript_region	884	887	17.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	887	890	27.0	+	.	
+ch.2_314	RNASeq_reads	transcript_region	888	891	10.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	891	893	12.0	+	.	
+ch.2_314	RNASeq_reads	transcript_region	892	894	6.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	894	896	6.0	+	.	
+ch.2_314	RNASeq_reads	transcript_region	895	963	3.0	.	.	
+ch.2_314	RNASeq_stranded	transcript_region	897	919	1.0	+	.	
+ch.2_314	RNASeq	transcription_end_site	901	901	.	+	.	
+ch.2_314	RNASeq	transcription_end_site	920	920	.	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	921	923	1.0	+	.	
+ch.2_314	RNASeq_stranded	transcript_region	922	943	1.0	-	.	
+ch.2_314	RNASeq_stranded	transcript_region	949	951	1.0	-	.	
+ch.2_314	RNASeq_reads	transcript_region	964	965	1.0	.	.	
+ch.2_314	RNASeq_reads	transcript_region	966	984	2.0	.	.	

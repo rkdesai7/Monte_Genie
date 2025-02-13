@@ -1,0 +1,52 @@
+ch.1_110	RNASeq_reads	transcript_region	616	620	2.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	614	615	1.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	610	613	2.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	602	609	1.0	.	.	
+ch.1_110	RNASeq_splice	intron	559	601	4.0	-	.	
+ch.1_110	RNASeq_splice	intron	453	601	47.0	-	.	
+ch.1_110	RNASeq_splice	intron	447	601	547.0	-	.	
+ch.1_110	RNASeq_splice	intron	287	601	10.0	-	.	
+ch.1_110	RNASeq_splice	intron	238	601	10.0	-	.	
+ch.1_110	RNASeq_reads	transcript_region	591	598	1.0	.	.	
+ch.1_110	WormBase	three_prime_UTR	523	597	.	+	.	Parent=Transcript:K09C8.9.1
+ch.1_110	WormBase	exon	274	597	.	+	.	Parent=Transcript:K09C8.9.1
+ch.1_110	WormBase	gene	101	597	.	+	.	ID=Gene:WBGene00164969
+ch.1_110	WormBase	mRNA	101	597	.	+	.	ID=Transcript:K09C8.9.1;Parent=Gene:WBGene00164969
+ch.1_110	RNASeq_reads	transcript_region	580	590	2.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	568	579	4.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	534	567	7.0	.	.	
+ch.1_110	RNASeq_stranded	transcript_region	446	549	1.0	+	.	
+ch.1_110	RNASeq	transcription_end_site	534	534	.	-	.	
+ch.1_110	RNASeq_reads	transcript_region	508	533	11.0	.	.	
+ch.1_110	RNASeq	transcription_end_site	522	522	.	-	.	
+ch.1_110	RNASeq	transcription_end_site	522	522	.	-	.	
+ch.1_110	WormBase	CDS	274	522	.	+	.	ID=CDS:K09C8.9;Parent=Transcript:K09C8.9.1
+ch.1_110	RNASeq_reads	transcript_region	420	507	17.0	.	.	
+ch.1_110	RNASeq_stranded	transcript_region	431	442	1.0	+	.	
+ch.1_110	RNASeq_stranded	transcript_region	396	430	2.0	+	.	
+ch.1_110	RNASeq_reads	transcript_region	274	419	26.0	.	.	
+ch.1_110	RNASeq_stranded	transcript_region	319	395	1.0	+	.	
+ch.1_110	RNASeq_splice	intron	328	376	11.0	+	.	
+ch.1_110	RNASeq_splice	intron	287	344	399.0	-	.	
+ch.1_110	RNASeq_splice	intron	238	344	3.0	-	.	
+ch.1_110	RNASeq_stranded	transcript_region	271	318	2.0	+	.	
+ch.1_110	RNASeq_reads	transcript_region	272	273	5.0	.	.	
+ch.1_110	WormBase	intron	231	273	.	+	.	Parent=Transcript:K09C8.9.1
+ch.1_110	RNASeq_splice	intron	231	273	93019.0	+	.	
+ch.1_110	RNASeq_reads	transcript_region	271	271	3.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	232	270	1.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	231	231	2.0	.	.	
+ch.1_110	RNASeq_stranded	transcript_region	219	230	1.0	+	.	
+ch.1_110	RNASeq_reads	transcript_region	170	230	20.0	.	.	
+ch.1_110	WormBase	CDS	114	230	.	+	.	ID=CDS:K09C8.9;Parent=Transcript:K09C8.9.1
+ch.1_110	WormBase	exon	101	230	.	+	.	Parent=Transcript:K09C8.9.1
+ch.1_110	RNASeq_stranded	transcript_region	154	218	2.0	+	.	
+ch.1_110	RNASeq_reads	transcript_region	149	169	13.0	.	.	
+ch.1_110	RNASeq_stranded	transcript_region	121	153	1.0	+	.	
+ch.1_110	RNASeq_R_asymmetry	transcript_region	122	152	34795.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	122	148	8.0	.	.	
+ch.1_110	RNASeq_R_asymmetry	transcript_region	116	121	21600.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	116	121	5.0	.	.	
+ch.1_110	RNASeq_reads	transcript_region	104	115	3.0	.	.	
+ch.1_110	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:K09C8.9.1
+ch.1_110	RNASeq_reads	transcript_region	97	103	1.0	.	.	

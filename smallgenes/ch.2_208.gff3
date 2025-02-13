@@ -1,0 +1,74 @@
+ch.2_208	RNASeq	transcription_end_site	1	1	.	+	.	
+ch.2_208	RNASeq_stranded	transcript_region	1	3	4.0	+	.	
+ch.2_208	RNASeq_reads	transcript_region	3	5	2.0	.	.	
+ch.2_208	RNASeq_stranded	transcript_region	4	6	2.0	+	.	
+ch.2_208	RNASeq_reads	transcript_region	6	6	1.0	.	.	
+ch.2_208	RNASeq	transcription_end_site	8	8	.	+	.	
+ch.2_208	WormBase	five_prime_UTR	101	161	.	+	.	Parent=Transcript:K09G1.2.1
+ch.2_208	WormBase	exon	101	164	.	+	.	Parent=Transcript:K09G1.2.1
+ch.2_208	WormBase	gene	101	747	.	+	.	ID=Gene:WBGene00010728
+ch.2_208	WormBase	mRNA	101	747	.	+	.	ID=Transcript:K09G1.2.1;Parent=Gene:WBGene00010728
+ch.2_208	RNASeq_F_asymmetry	transcript_region	111	112	349.0	.	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	113	115	634.0	.	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	116	116	981.0	.	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	117	121	2064.0	.	.	
+ch.2_208	RNASeq_reads	transcript_region	120	134	1.0	.	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	122	131	3134.0	.	.	
+ch.2_208	RNASeq_stranded	transcript_region	130	132	1.0	+	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	132	134	5086.0	.	.	
+ch.2_208	RNASeq_stranded	transcript_region	133	139	2.0	+	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	135	136	8380.0	.	.	
+ch.2_208	RNASeq_reads	transcript_region	135	137	2.0	.	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	137	146	17235.0	.	.	
+ch.2_208	RNASeq_reads	transcript_region	138	152	4.0	.	.	
+ch.2_208	RNASeq_stranded	transcript_region	140	164	4.0	+	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	147	164	26183.0	.	.	
+ch.2_208	RNASeq_reads	transcript_region	153	164	7.0	.	.	
+ch.2_208	WormBase	CDS	162	164	.	+	.	ID=CDS:K09G1.2;Parent=Transcript:K09G1.2.1
+ch.2_208	RNASeq_F_asymmetry	transcript_region	165	165	1108.0	.	.	
+ch.2_208	WormBase	intron	165	210	.	+	.	Parent=Transcript:K09G1.2.1
+ch.2_208	RNASeq_splice	intron	165	210	35177.0	+	.	
+ch.2_208	RNASeq_splice	intron	165	218	13.0	+	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	166	168	358.0	.	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	174	185	330.0	.	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	191	195	386.0	.	.	
+ch.2_208	RNASeq_reads	transcript_region	210	210	3.0	.	.	
+ch.2_208	RNASeq_stranded	transcript_region	211	231	3.0	+	.	
+ch.2_208	RNASeq_F_asymmetry	transcript_region	211	232	42401.0	.	.	
+ch.2_208	RNASeq_reads	transcript_region	211	270	9.0	.	.	
+ch.2_208	WormBase	CDS	211	333	.	+	.	ID=CDS:K09G1.2;Parent=Transcript:K09G1.2.1
+ch.2_208	WormBase	exon	211	333	.	+	.	Parent=Transcript:K09G1.2.1
+ch.2_208	RNASeq_stranded	transcript_region	232	303	1.0	+	.	
+ch.2_208	RNASeq_reads	transcript_region	271	333	14.0	.	.	
+ch.2_208	RNASeq_stranded	transcript_region	304	312	2.0	+	.	
+ch.2_208	RNASeq_stranded	transcript_region	313	321	1.0	+	.	
+ch.2_208	RNASeq_stranded	transcript_region	322	333	3.0	+	.	
+ch.2_208	RNASeq_reads	transcript_region	334	334	1.0	.	.	
+ch.2_208	WormBase	intron	334	380	.	+	.	Parent=Transcript:K09G1.2.1
+ch.2_208	RNASeq_splice	intron	334	380	62910.0	+	.	
+ch.2_208	RNASeq_reads	transcript_region	379	380	1.0	.	.	
+ch.2_208	RNASeq_stranded	transcript_region	381	419	3.0	+	.	
+ch.2_208	RNASeq_reads	transcript_region	381	662	11.0	.	.	
+ch.2_208	WormBase	CDS	381	689	.	+	.	ID=CDS:K09G1.2;Parent=Transcript:K09G1.2.1
+ch.2_208	WormBase	exon	381	747	.	+	.	Parent=Transcript:K09G1.2.1
+ch.2_208	RNASeq_stranded	transcript_region	420	449	1.0	+	.	
+ch.2_208	RNASeq_stranded	transcript_region	450	450	2.0	+	.	
+ch.2_208	RNASeq_stranded	transcript_region	451	512	1.0	+	.	
+ch.2_208	RNASeq_stranded	transcript_region	513	570	2.0	+	.	
+ch.2_208	RNASeq_stranded	transcript_region	571	620	4.0	+	.	
+ch.2_208	RNASeq_stranded	transcript_region	621	702	2.0	+	.	
+ch.2_208	RNASeq	transcription_end_site	625	625	.	+	.	
+ch.2_208	RNASeq_R_asymmetry	transcript_region	641	650	35613.0	.	.	
+ch.2_208	RNASeq_R_asymmetry	transcript_region	652	701	32823.0	.	.	
+ch.2_208	RNASeq_reads	transcript_region	663	706	7.0	.	.	
+ch.2_208	WormBase	three_prime_UTR	690	747	.	+	.	Parent=Transcript:K09G1.2.1
+ch.2_208	RNASeq_R_asymmetry	transcript_region	702	717	21332.0	.	.	
+ch.2_208	RNASeq_stranded	transcript_region	703	726	1.0	+	.	
+ch.2_208	RNASeq_reads	transcript_region	707	718	4.0	.	.	
+ch.2_208	RNASeq_R_asymmetry	transcript_region	718	720	13170.0	.	.	
+ch.2_208	RNASeq_reads	transcript_region	719	730	2.0	.	.	
+ch.2_208	RNASeq_R_asymmetry	transcript_region	721	732	8362.0	.	.	
+ch.2_208	RNASeq_reads	transcript_region	731	741	1.0	.	.	
+ch.2_208	RNASeq_R_asymmetry	transcript_region	733	737	5309.0	.	.	
+ch.2_208	RNASeq_R_asymmetry	transcript_region	738	741	2891.0	.	.	
+ch.2_208	RNASeq	transcription_end_site	740	740	.	+	.	

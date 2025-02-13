@@ -1,0 +1,68 @@
+ch.1_78	RNASeq_F_asymmetry	transcript_region	2	9	3664.0	.	.	
+ch.1_78	RNASeq_F_asymmetry	transcript_region	10	17	6199.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	12	32	1.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	13	28	2.0	.	.	
+ch.1_78	RNASeq_F_asymmetry	transcript_region	18	25	9371.0	.	.	
+ch.1_78	RNASeq_F_asymmetry	transcript_region	26	40	15230.0	.	.	
+ch.1_78	RNASeq_reads	transcript_region	29	61	4.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	33	83	2.0	+	.	
+ch.1_78	RNASeq_F_asymmetry	transcript_region	41	70	22970.0	.	.	
+ch.1_78	RNASeq_reads	transcript_region	62	85	7.0	.	.	
+ch.1_78	RNASeq_F_asymmetry	transcript_region	72	74	29381.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	84	85	1.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	86	88	15.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	86	91	2.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	89	98	27.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	92	97	4.0	+	.	
+ch.1_78	RNASeq_stranded	transcript_region	98	103	9.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	99	107	42.0	.	.	
+ch.1_78	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:F41E7.4.1
+ch.1_78	WormBase	exon	101	151	.	+	.	Parent=Transcript:F41E7.4.1
+ch.1_78	WormBase	gene	101	503	.	+	.	ID=Gene:WBGene00009620
+ch.1_78	WormBase	mRNA	101	503	.	+	.	ID=Transcript:F41E7.4.1;Parent=Gene:WBGene00009620
+ch.1_78	WormBase	CDS	102	151	.	+	.	ID=CDS:F41E7.4;Parent=Transcript:F41E7.4.1
+ch.1_78	RNASeq_stranded	transcript_region	104	142	14.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	108	137	64.0	.	.	
+ch.1_78	RNASeq_F_asymmetry	transcript_region	115	116	305569.0	.	.	
+ch.1_78	RNASeq_reads	transcript_region	138	151	97.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	143	151	23.0	+	.	
+ch.1_78	RNASeq_F_asymmetry	transcript_region	152	152	22133.0	.	.	
+ch.1_78	RNASeq_reads	transcript_region	152	152	5.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	152	152	2.0	+	.	
+ch.1_78	RNASeq_splice	intron	152	231	5.0	+	.	
+ch.1_78	WormBase	intron	152	255	.	+	.	Parent=Transcript:F41E7.4.1
+ch.1_78	RNASeq_splice	intron	152	255	552692.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	153	255	1.0	.	.	
+ch.1_78	RNASeq_reads	transcript_region	256	292	103.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	256	292	24.0	+	.	
+ch.1_78	WormBase	CDS	256	430	.	+	.	ID=CDS:F41E7.4;Parent=Transcript:F41E7.4.1
+ch.1_78	WormBase	exon	256	503	.	+	.	Parent=Transcript:F41E7.4.1
+ch.1_78	RNASeq_stranded	transcript_region	275	308	1.0	-	.	
+ch.1_78	RNASeq_stranded	transcript_region	293	347	39.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	293	442	155.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	348	359	25.0	+	.	
+ch.1_78	RNASeq_stranded	transcript_region	360	385	38.0	+	.	
+ch.1_78	RNASeq_stranded	transcript_region	371	428	1.0	-	.	
+ch.1_78	RNASeq_stranded	transcript_region	386	463	60.0	+	.	
+ch.1_78	WormBase	three_prime_UTR	431	503	.	+	.	Parent=Transcript:F41E7.4.1
+ch.1_78	RNASeq_stranded	transcript_region	434	434	1.0	+	.	
+ch.1_78	RNASeq_stranded	transcript_region	435	435	3.0	+	.	
+ch.1_78	RNASeq_stranded	transcript_region	436	485	5.0	-	.	
+ch.1_78	RNASeq_reads	transcript_region	443	457	99.0	.	.	
+ch.1_78	RNASeq_reads	transcript_region	458	478	65.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	464	480	39.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	479	487	41.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	481	489	25.0	+	.	
+ch.1_78	RNASeq_stranded	transcript_region	486	500	1.0	-	.	
+ch.1_78	RNASeq_reads	transcript_region	488	495	25.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	490	498	15.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	496	500	15.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	499	504	9.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	501	504	9.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	505	506	2.0	+	.	
+ch.1_78	RNASeq_reads	transcript_region	505	507	4.0	.	.	
+ch.1_78	RNASeq_stranded	transcript_region	507	521	1.0	+	.	
+ch.1_78	RNASeq	transcription_end_site	508	508	.	+	.	
+ch.1_78	RNASeq_reads	transcript_region	508	509	2.0	.	.	
+ch.1_78	RNASeq_reads	transcript_region	510	531	1.0	.	.	
+ch.1_78	RNASeq	transcription_end_site	516	516	.	+	.	

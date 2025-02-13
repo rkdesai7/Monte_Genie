@@ -1,0 +1,48 @@
+ch.1_496	RNASeq_F_asymmetry	transcript_region	673	675	1332.0	.	.	
+ch.1_496	WormBase	three_prime_UTR	580	675	.	+	.	Parent=Transcript:K10H10.7.1
+ch.1_496	WormBase	exon	317	675	.	+	.	Parent=Transcript:K10H10.7.1
+ch.1_496	WormBase	gene	101	675	.	+	.	ID=Gene:WBGene00010763
+ch.1_496	WormBase	mRNA	101	675	.	+	.	ID=Transcript:K10H10.7.1;Parent=Gene:WBGene00010763
+ch.1_496	RNASeq_F_asymmetry	transcript_region	662	672	2924.0	.	.	
+ch.1_496	RNASeq_reads	transcript_region	640	672	1.0	.	.	
+ch.1_496	RNASeq_F_asymmetry	transcript_region	634	661	4465.0	.	.	
+ch.1_496	RNASeq_reads	transcript_region	592	639	2.0	.	.	
+ch.1_496	RNASeq_F_asymmetry	transcript_region	614	633	6764.0	.	.	
+ch.1_496	RNASeq_stranded	transcript_region	492	613	1.0	+	.	
+ch.1_496	RNASeq_F_asymmetry	transcript_region	582	591	14512.0	.	.	
+ch.1_496	RNASeq_reads	transcript_region	544	591	4.0	.	.	
+ch.1_496	WormBase	CDS	317	579	.	+	.	ID=CDS:K10H10.7;Parent=Transcript:K10H10.7.1
+ch.1_496	RNASeq_F_asymmetry	transcript_region	578	578	17085.0	.	.	
+ch.1_496	RNASeq	transcription_end_site	572	572	.	-	.	
+ch.1_496	RNASeq	transcription_end_site	572	572	.	-	.	
+ch.1_496	RNASeq_reads	transcript_region	317	543	7.0	.	.	
+ch.1_496	RNASeq_stranded	transcript_region	364	491	2.0	+	.	
+ch.1_496	RNASeq_stranded	transcript_region	334	363	1.0	+	.	
+ch.1_496	RNASeq_stranded	transcript_region	328	333	2.0	+	.	
+ch.1_496	RNASeq_stranded	transcript_region	317	327	1.0	+	.	
+ch.1_496	RNASeq_reads	transcript_region	316	316	1.0	.	.	
+ch.1_496	RNASeq_splice	intron	273	316	3.0	+	.	
+ch.1_496	WormBase	intron	269	316	.	+	.	Parent=Transcript:K10H10.7.1
+ch.1_496	RNASeq_splice	intron	269	316	34086.0	+	.	
+ch.1_496	RNASeq_splice	intron	254	305	315.0	-	.	
+ch.1_496	RNASeq_splice	intron	254	300	236.0	-	.	
+ch.1_496	RNASeq_stranded	transcript_region	236	268	1.0	+	.	
+ch.1_496	RNASeq_reads	transcript_region	155	268	7.0	.	.	
+ch.1_496	WormBase	CDS	133	268	.	+	.	ID=CDS:K10H10.7;Parent=Transcript:K10H10.7.1
+ch.1_496	WormBase	exon	101	268	.	+	.	Parent=Transcript:K10H10.7.1
+ch.1_496	RNASeq_stranded	transcript_region	227	232	1.0	+	.	
+ch.1_496	RNASeq_stranded	transcript_region	225	226	2.0	+	.	
+ch.1_496	RNASeq_stranded	transcript_region	201	224	1.0	+	.	
+ch.1_496	RNASeq_R_asymmetry	transcript_region	152	202	28482.0	.	.	
+ch.1_496	RNASeq_stranded	transcript_region	181	200	2.0	+	.	
+ch.1_496	RNASeq_stranded	transcript_region	107	180	1.0	+	.	
+ch.1_496	RNASeq_reads	transcript_region	137	154	4.0	.	.	
+ch.1_496	RNASeq_R_asymmetry	transcript_region	139	151	18566.0	.	.	
+ch.1_496	RNASeq_R_asymmetry	transcript_region	133	138	12037.0	.	.	
+ch.1_496	RNASeq_reads	transcript_region	131	136	2.0	.	.	
+ch.1_496	RNASeq_R_asymmetry	transcript_region	124	132	7763.0	.	.	
+ch.1_496	WormBase	five_prime_UTR	101	132	.	+	.	Parent=Transcript:K10H10.7.1
+ch.1_496	RNASeq_reads	transcript_region	115	130	1.0	.	.	
+ch.1_496	RNASeq_R_asymmetry	transcript_region	118	123	4906.0	.	.	
+ch.1_496	RNASeq_R_asymmetry	transcript_region	115	117	3221.0	.	.	
+ch.1_496	RNASeq_R_asymmetry	transcript_region	107	114	2025.0	.	.	

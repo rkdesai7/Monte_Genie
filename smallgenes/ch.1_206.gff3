@@ -1,0 +1,80 @@
+ch.1_206	RNASeq_reads	transcript_region	67	100	1.0	.	.	
+ch.1_206	RNASeq_F_asymmetry	transcript_region	101	103	22615.0	.	.	
+ch.1_206	RNASeq_reads	transcript_region	101	103	5.0	.	.	
+ch.1_206	RNASeq_stranded	transcript_region	101	109	4.0	+	.	
+ch.1_206	WormBase	five_prime_UTR	101	130	.	+	.	Parent=Transcript:T27E4.4.1
+ch.1_206	WormBase	exon	101	308	.	+	.	Parent=Transcript:T27E4.4.1
+ch.1_206	WormBase	gene	101	513	.	+	.	ID=Gene:WBGene00020862
+ch.1_206	WormBase	mRNA	101	513	.	+	.	ID=Transcript:T27E4.4.1;Parent=Gene:WBGene00020862
+ch.1_206	RNASeq_F_asymmetry	transcript_region	104	113	38230.0	.	.	
+ch.1_206	RNASeq_reads	transcript_region	104	113	8.0	.	.	
+ch.1_206	RNASeq_stranded	transcript_region	110	115	7.0	+	.	
+ch.1_206	RNASeq_F_asymmetry	transcript_region	114	117	59928.0	.	.	
+ch.1_206	RNASeq_reads	transcript_region	114	117	13.0	.	.	
+ch.1_206	RNASeq_stranded	transcript_region	116	118	11.0	+	.	
+ch.1_206	RNASeq_F_asymmetry	transcript_region	118	118	108101.0	.	.	
+ch.1_206	RNASeq_reads	transcript_region	118	118	22.0	.	.	
+ch.1_206	RNASeq_F_asymmetry	transcript_region	119	124	231718.0	.	.	
+ch.1_206	RNASeq_reads	transcript_region	119	124	46.0	.	.	
+ch.1_206	RNASeq_stranded	transcript_region	119	176	53.0	+	.	
+ch.1_206	RNASeq_reads	transcript_region	125	138	70.0	.	.	
+ch.1_206	RNASeq_F_asymmetry	transcript_region	125	139	350065.0	.	.	
+ch.1_206	WormBase	CDS	131	308	.	+	.	ID=CDS:T27E4.4;Parent=Transcript:T27E4.4.1
+ch.1_206	RNASeq_reads	transcript_region	139	234	106.0	.	.	
+ch.1_206	RNASeq_F_asymmetry	transcript_region	140	194	531490.0	.	.	
+ch.1_206	RNASeq_splice	intron	157	191	3.0	+	.	
+ch.1_206	RNASeq_stranded	transcript_region	174	282	1.0	-	.	
+ch.1_206	RNASeq_stranded	transcript_region	177	308	33.0	+	.	
+ch.1_206	RNASeq_reads	transcript_region	235	308	160.0	.	.	
+ch.1_206	RNASeq_splice	intron	255	364	52.0	+	.	
+ch.1_206	RNASeq_splice	intron	264	412	48.0	+	.	
+ch.1_206	RNASeq_splice	intron	273	385	4.0	+	.	
+ch.1_206	RNASeq_stranded	transcript_region	283	308	2.0	-	.	
+ch.1_206	RNASeq_reads	transcript_region	309	310	25.0	.	.	
+ch.1_206	RNASeq_stranded	transcript_region	309	310	1.0	-	.	
+ch.1_206	RNASeq_stranded	transcript_region	309	310	7.0	+	.	
+ch.1_206	WormBase	intron	309	358	.	+	.	Parent=Transcript:T27E4.4.1
+ch.1_206	RNASeq_splice	intron	309	358	776116.0	+	.	
+ch.1_206	RNASeq_splice	intron	309	364	714.0	+	.	
+ch.1_206	RNASeq_splice	intron	309	412	5.0	+	.	
+ch.1_206	RNASeq_reads	transcript_region	311	357	2.0	.	.	
+ch.1_206	RNASeq_reads	transcript_region	358	358	20.0	.	.	
+ch.1_206	RNASeq_stranded	transcript_region	358	358	17.0	+	.	
+ch.1_206	RNASeq_stranded	transcript_region	359	385	2.0	-	.	
+ch.1_206	RNASeq_stranded	transcript_region	359	388	46.0	+	.	
+ch.1_206	RNASeq_reads	transcript_region	359	431	150.0	.	.	
+ch.1_206	WormBase	CDS	359	450	.	+	.	ID=CDS:T27E4.4;Parent=Transcript:T27E4.4.1
+ch.1_206	WormBase	exon	359	513	.	+	.	Parent=Transcript:T27E4.4.1
+ch.1_206	RNASeq_splice	intron	377	412	27.0	+	.	
+ch.1_206	RNASeq_stranded	transcript_region	386	481	1.0	-	.	
+ch.1_206	RNASeq_stranded	transcript_region	389	453	70.0	+	.	
+ch.1_206	RNASeq_splice	intron	394	429	3.0	+	.	
+ch.1_206	RNASeq_R_asymmetry	transcript_region	424	438	429761.0	.	.	
+ch.1_206	RNASeq_reads	transcript_region	432	453	98.0	.	.	
+ch.1_206	RNASeq_R_asymmetry	transcript_region	440	465	334980.0	.	.	
+ch.1_206	WormBase	three_prime_UTR	451	513	.	+	.	Parent=Transcript:T27E4.4.1
+ch.1_206	RNASeq_reads	transcript_region	454	474	63.0	.	.	
+ch.1_206	RNASeq_stranded	transcript_region	454	489	46.0	+	.	
+ch.1_206	RNASeq_R_asymmetry	transcript_region	466	475	216822.0	.	.	
+ch.1_206	RNASeq_reads	transcript_region	475	490	37.0	.	.	
+ch.1_206	RNASeq	transcription_end_site	489	489	.	+	.	
+ch.1_206	RNASeq_stranded	transcript_region	490	497	30.0	+	.	
+ch.1_206	RNASeq_reads	transcript_region	491	497	24.0	.	.	
+ch.1_206	WormBase	three_prime_UTR	491	597	.	-	.	Parent=Transcript:T27E4.5.1
+ch.1_206	RNASeq_reads	transcript_region	498	504	15.0	.	.	
+ch.1_206	RNASeq_stranded	transcript_region	498	505	19.0	+	.	
+ch.1_206	RNASeq	transcription_end_site	502	502	.	+	.	
+ch.1_206	RNASeq_reads	transcript_region	505	513	9.0	.	.	
+ch.1_206	RNASeq_stranded	transcript_region	506	511	12.0	+	.	
+ch.1_206	RNASeq	transcription_end_site	509	509	.	+	.	
+ch.1_206	RNASeq_stranded	transcript_region	512	514	7.0	+	.	
+ch.1_206	RNASeq	transcription_end_site	513	513	.	+	.	
+ch.1_206	RNASeq_reads	transcript_region	514	514	5.0	.	.	
+ch.1_206	RNASeq	transcription_end_site	514	514	.	+	.	
+ch.1_206	RNASeq_reads	transcript_region	515	582	2.0	.	.	
+ch.1_206	RNASeq	transcription_end_site	522	522	.	+	.	
+ch.1_206	RNASeq	transcription_end_site	524	524	.	+	.	
+ch.1_206	RNASeq	transcription_end_site	531	531	.	+	.	
+ch.1_206	RNASeq	transcription_end_site	540	540	.	+	.	
+ch.1_206	RNASeq	transcription_end_site	540	540	.	+	.	
+ch.1_206	RNASeq	transcription_end_site	543	543	.	+	.	

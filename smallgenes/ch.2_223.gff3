@@ -1,0 +1,170 @@
+ch.2_223	RNASeq_splice	intron	56	100	3.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	95	98	18.0	+	.	
+ch.2_223	RNASeq_F_asymmetry	transcript_region	95	99	1566840.0	.	.	
+ch.2_223	RNASeq_reads	transcript_region	95	99	313.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	99	99	102.0	+	.	
+ch.2_223	RNASeq_F_asymmetry	transcript_region	100	102	3375940.0	.	.	
+ch.2_223	RNASeq_reads	transcript_region	100	102	669.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	100	108	182.0	+	.	
+ch.2_223	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:Y106G6H.3a.1
+ch.2_223	WormBase	exon	101	134	.	+	.	Parent=Transcript:Y106G6H.3a.1
+ch.2_223	WormBase	exon	101	256	.	+	.	Parent=Transcript:Y106G6H.3c.1
+ch.2_223	WormBase	five_prime_UTR	101	256	.	+	.	Parent=Transcript:Y106G6H.3c.1
+ch.2_223	WormBase	mRNA	101	731	.	+	.	ID=Transcript:Y106G6H.3a.1;Parent=Gene:WBGene00004444
+ch.2_223	WormBase	mRNA	101	731	.	+	.	ID=Transcript:Y106G6H.3c.1;Parent=Gene:WBGene00004444
+ch.2_223	WormBase	gene	101	735	.	+	.	ID=Gene:WBGene00004444
+ch.2_223	RNASeq_reads	transcript_region	103	111	1082.0	.	.	
+ch.2_223	RNASeq_F_asymmetry	transcript_region	103	112	5492970.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	109	116	280.0	+	.	
+ch.2_223	WormBase	CDS	111	134	.	+	.	ID=CDS:Y106G6H.3a;Parent=Transcript:Y106G6H.3a.1
+ch.2_223	RNASeq_reads	transcript_region	112	134	1626.0	.	.	
+ch.2_223	RNASeq_F_asymmetry	transcript_region	113	134	8358410.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	117	125	483.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	123	134	1.0	-	.	
+ch.2_223	RNASeq_splice	intron	123	422	20.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	126	134	934.0	+	.	
+ch.2_223	RNASeq_F_asymmetry	transcript_region	135	136	989386.0	.	.	
+ch.2_223	RNASeq_reads	transcript_region	135	136	193.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	135	136	90.0	+	.	
+ch.2_223	WormBase	intron	135	314	.	+	.	Parent=Transcript:Y106G6H.3a.1
+ch.2_223	RNASeq_splice	intron	135	314	13366600.0	+	.	
+ch.2_223	RNASeq_splice	intron	135	320	4353.0	+	.	
+ch.2_223	RNASeq_splice	intron	135	516	4.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	137	181	23.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	137	189	57.0	.	.	
+ch.2_223	RNASeq_F_asymmetry	transcript_region	137	190	273049.0	.	.	
+ch.2_223	RNASeq_splice	intron	139	320	2696.0	+	.	
+ch.2_223	RNASeq_splice	intron	144	314	12.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	182	216	15.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	190	256	88.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	217	256	9.0	+	.	
+ch.2_223	WormBase	exon	255	256	.	+	.	Parent=Transcript:Y106G6H.3b
+ch.2_223	WormBase	nc_primary_transcript	255	691	.	+	.	ID=Transcript:Y106G6H.3b;Parent=Gene:WBGene00004444
+ch.2_223	RNASeq_reads	transcript_region	257	258	14.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	257	258	2.0	+	.	
+ch.2_223	WormBase	intron	257	314	.	+	.	Parent=Transcript:Y106G6H.3c.1
+ch.2_223	RNASeq_splice	intron	257	314	477957.0	+	.	
+ch.2_223	RNASeq_splice	intron	257	320	43.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	259	275	1.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	259	312	6.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	276	279	2.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	280	280	1.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	281	281	2.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	282	285	1.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	286	311	2.0	+	.	
+ch.2_223	WormBase	five_prime_UTR	309	353	.	+	.	Parent=Transcript:Y106G6H.3c.2
+ch.2_223	WormBase	exon	309	463	.	+	.	Parent=Transcript:Y106G6H.3c.2
+ch.2_223	WormBase	mRNA	309	735	.	+	.	ID=Transcript:Y106G6H.3c.2;Parent=Gene:WBGene00004444
+ch.2_223	RNASeq_stranded	transcript_region	312	312	4.0	+	.	
+ch.2_223	RNASeq_F_asymmetry	transcript_region	313	314	1145520.0	.	.	
+ch.2_223	RNASeq_reads	transcript_region	313	314	272.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	313	314	218.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	314	327	1.0	-	.	
+ch.2_223	RNASeq	base_call_error_correction	315	316	.	+	.	
+ch.2_223	WormBase	five_prime_UTR	315	353	.	+	.	Parent=Transcript:Y106G6H.3c.1
+ch.2_223	RNASeq_F_asymmetry	transcript_region	315	354	11049900.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	315	388	1060.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	315	423	2341.0	.	.	
+ch.2_223	WormBase	CDS	315	463	.	+	.	ID=CDS:Y106G6H.3a;Parent=Transcript:Y106G6H.3a.1
+ch.2_223	WormBase	exon	315	463	.	+	.	Parent=Transcript:Y106G6H.3a.1
+ch.2_223	WormBase	exon	315	463	.	+	.	Parent=Transcript:Y106G6H.3c.1
+ch.2_223	WormBase	exon	315	463	.	+	.	Parent=Transcript:Y106G6H.3b
+ch.2_223	RNASeq_stranded	transcript_region	328	348	2.0	-	.	
+ch.2_223	RNASeq_splice	intron	346	394	4.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	349	365	4.0	-	.	
+ch.2_223	WormBase	CDS	354	463	.	+	.	ID=CDS:Y106G6H.3c;Parent=Transcript:Y106G6H.3c.1,Transcript:Y106G6H.3c.2
+ch.2_223	RNASeq_splice	intron	357	547	13.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	366	370	7.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	371	376	11.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	377	409	18.0	-	.	
+ch.2_223	RNASeq_splice	intron	381	428	4.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	389	403	693.0	+	.	
+ch.2_223	RNASeq_splice	intron	396	431	3.0	+	.	
+ch.2_223	RNASeq_splice	intron	397	608	10.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	404	413	457.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	410	410	28.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	411	420	43.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	414	462	691.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	421	463	90.0	-	.	
+ch.2_223	RNASeq_reads	transcript_region	424	463	3520.0	.	.	
+ch.2_223	RNASeq_splice	intron	452	560	6.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	463	463	416.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	464	464	2.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	464	466	1.0	+	.	
+ch.2_223	WormBase	intron	464	516	.	+	.	Parent=Transcript:Y106G6H.3a.1
+ch.2_223	WormBase	intron	464	516	.	+	.	Parent=Transcript:Y106G6H.3c.1
+ch.2_223	WormBase	intron	464	516	.	+	.	Parent=Transcript:Y106G6H.3c.2
+ch.2_223	RNASeq_splice	intron	464	516	15866400.0	+	.	
+ch.2_223	RNASeq_splice	intron	464	520	73.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	465	512	1.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	512	512	1.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	513	515	334.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	513	516	5.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	513	516	98.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	516	516	545.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	517	567	362.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	517	567	42.0	-	.	
+ch.2_223	RNASeq_reads	transcript_region	517	627	2916.0	.	.	
+ch.2_223	WormBase	CDS	517	691	.	+	.	ID=CDS:Y106G6H.3a;Parent=Transcript:Y106G6H.3a.1
+ch.2_223	WormBase	CDS	517	691	.	+	.	ID=CDS:Y106G6H.3c;Parent=Transcript:Y106G6H.3c.1,Transcript:Y106G6H.3c.2
+ch.2_223	WormBase	exon	517	691	.	+	.	Parent=Transcript:Y106G6H.3b
+ch.2_223	WormBase	exon	517	731	.	+	.	Parent=Transcript:Y106G6H.3a.1
+ch.2_223	WormBase	exon	517	731	.	+	.	Parent=Transcript:Y106G6H.3c.1
+ch.2_223	WormBase	exon	517	735	.	+	.	Parent=Transcript:Y106G6H.3c.2
+ch.2_223	RNASeq_splice	intron	527	583	3.0	+	.	
+ch.2_223	RNASeq_splice	intron	535	568	5.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	568	572	27.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	568	577	553.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	573	578	17.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	578	584	847.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	579	587	11.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	585	667	1272.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	588	727	7.0	-	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	616	617	9094140.0	.	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	620	624	8699380.0	.	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	626	628	7909030.0	.	.	
+ch.2_223	RNASeq_reads	transcript_region	628	648	1877.0	.	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	647	658	5058840.0	.	.	
+ch.2_223	RNASeq_reads	transcript_region	649	665	1175.0	.	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	662	669	3301490.0	.	.	
+ch.2_223	RNASeq_reads	transcript_region	666	691	750.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	668	689	815.0	+	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	675	694	2529060.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	690	705	525.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	692	696	488.0	.	.	
+ch.2_223	WormBase	three_prime_UTR	692	731	.	+	.	Parent=Transcript:Y106G6H.3a.1
+ch.2_223	WormBase	three_prime_UTR	692	731	.	+	.	Parent=Transcript:Y106G6H.3c.1
+ch.2_223	WormBase	three_prime_UTR	692	735	.	+	.	Parent=Transcript:Y106G6H.3c.2
+ch.2_223	RNASeq_R_asymmetry	transcript_region	695	695	1615390.0	.	.	
+ch.2_223	RNASeq_splice	intron	695	797	13.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	697	711	319.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	706	711	346.0	+	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	711	726	845109.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	712	723	210.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	712	725	203.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	724	726	122.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	726	726	130.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	727	727	75.0	+	.	
+ch.2_223	RNASeq	transcription_end_site	727	727	.	+	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	727	728	332168.0	.	.	
+ch.2_223	RNASeq_reads	transcript_region	727	728	80.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	728	728	2.0	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	728	730	36.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	729	731	44.0	.	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	729	732	183802.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	729	735	1.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	731	733	21.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	732	733	29.0	.	.	
+ch.2_223	RNASeq_R_asymmetry	transcript_region	733	735	96583.0	.	.	
+ch.2_223	RNASeq_reads	transcript_region	734	735	19.0	.	.	
+ch.2_223	RNASeq_stranded	transcript_region	734	735	13.0	+	.	
+ch.2_223	RNASeq	transcription_end_site	735	735	.	+	.	
+ch.2_223	RNASeq_stranded	transcript_region	736	736	1.0	+	.	
+ch.2_223	RNASeq_reads	transcript_region	736	756	1.0	.	.	
+ch.2_223	RNASeq	transcription_end_site	741	741	.	+	.	
+ch.2_223	WormBase	three_prime_UTR	742	758	.	-	.	Parent=Transcript:Y106G6H.4.1
+ch.2_223	RNASeq_stranded	transcript_region	746	753	1.0	-	.	
+ch.2_223	RNASeq_stranded	transcript_region	754	771	2.0	-	.	
+ch.2_223	RNASeq_reads	transcript_region	757	774	2.0	.	.	
+ch.2_223	RNASeq	transcription_end_site	759	759	.	+	.	
+ch.2_223	RNASeq_reads	transcript_region	775	807	4.0	.	.	

@@ -1,0 +1,47 @@
+ch.1_322	RNASeq_F_asymmetry	transcript_region	96	98	2221.0	.	.	
+ch.1_322	RNASeq_reads	transcript_region	99	102	1.0	.	.	
+ch.1_322	RNASeq_F_asymmetry	transcript_region	99	103	6725.0	.	.	
+ch.1_322	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:T28A11.22.1
+ch.1_322	WormBase	exon	101	505	.	+	.	Parent=Transcript:T28A11.22.1
+ch.1_322	WormBase	gene	101	828	.	+	.	ID=Gene:WBGene00044526
+ch.1_322	WormBase	mRNA	101	828	.	+	.	ID=Transcript:T28A11.22.1;Parent=Gene:WBGene00044526
+ch.1_322	RNASeq_reads	transcript_region	103	107	2.0	.	.	
+ch.1_322	RNASeq_F_asymmetry	transcript_region	104	110	15224.0	.	.	
+ch.1_322	RNASeq_stranded	transcript_region	105	172	1.0	+	.	
+ch.1_322	RNASeq_reads	transcript_region	108	124	4.0	.	.	
+ch.1_322	WormBase	CDS	109	505	.	+	.	ID=CDS:T28A11.22;Parent=Transcript:T28A11.22.1
+ch.1_322	RNASeq_F_asymmetry	transcript_region	111	138	23341.0	.	.	
+ch.1_322	RNASeq_reads	transcript_region	125	505	7.0	.	.	
+ch.1_322	RNASeq_F_asymmetry	transcript_region	139	198	35245.0	.	.	
+ch.1_322	RNASeq_stranded	transcript_region	173	235	2.0	+	.	
+ch.1_322	RNASeq_stranded	transcript_region	236	348	1.0	+	.	
+ch.1_322	RNASeq_stranded	transcript_region	349	432	2.0	+	.	
+ch.1_322	RNASeq_stranded	transcript_region	433	505	4.0	+	.	
+ch.1_322	RNASeq_reads	transcript_region	506	506	1.0	.	.	
+ch.1_322	RNASeq_stranded	transcript_region	506	506	1.0	+	.	
+ch.1_322	WormBase	intron	506	648	.	+	.	Parent=Transcript:T28A11.22.1
+ch.1_322	RNASeq_splice	intron	506	648	48337.0	+	.	
+ch.1_322	RNASeq_splice	intron	506	652	119.0	+	.	
+ch.1_322	RNASeq_reads	transcript_region	648	648	1.0	.	.	
+ch.1_322	RNASeq_stranded	transcript_region	648	648	2.0	+	.	
+ch.1_322	RNASeq_stranded	transcript_region	649	663	5.0	+	.	
+ch.1_322	RNASeq_reads	transcript_region	649	761	9.0	.	.	
+ch.1_322	WormBase	CDS	649	764	.	+	.	ID=CDS:T28A11.22;Parent=Transcript:T28A11.22.1
+ch.1_322	WormBase	exon	649	828	.	+	.	Parent=Transcript:T28A11.22.1
+ch.1_322	RNASeq_stranded	transcript_region	664	694	8.0	+	.	
+ch.1_322	RNASeq_stranded	transcript_region	695	794	13.0	+	.	
+ch.1_322	RNASeq_reads	transcript_region	762	789	5.0	.	.	
+ch.1_322	WormBase	three_prime_UTR	765	828	.	+	.	Parent=Transcript:T28A11.22.1
+ch.1_322	RNASeq	transcription_end_site	768	768	.	+	.	
+ch.1_322	RNASeq	transcription_end_site	769	769	.	+	.	
+ch.1_322	RNASeq	transcription_end_site	770	770	.	+	.	
+ch.1_322	RNASeq_reads	transcript_region	790	820	3.0	.	.	
+ch.1_322	RNASeq_stranded	transcript_region	795	804	8.0	+	.	
+ch.1_322	RNASeq	transcription_end_site	798	798	.	+	.	
+ch.1_322	RNASeq_stranded	transcript_region	805	812	5.0	+	.	
+ch.1_322	RNASeq_stranded	transcript_region	813	825	3.0	+	.	
+ch.1_322	RNASeq_reads	transcript_region	821	833	1.0	.	.	
+ch.1_322	RNASeq_stranded	transcript_region	826	828	1.0	+	.	
+ch.1_322	RNASeq_reads	transcript_region	848	911	1.0	.	.	
+ch.1_322	RNASeq_stranded	transcript_region	891	907	1.0	-	.	
+ch.1_322	RNASeq_stranded	transcript_region	908	926	2.0	-	.	

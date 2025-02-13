@@ -1,0 +1,31 @@
+ch.1_162	WormBase	five_prime_UTR	101	239	.	+	.	Parent=Transcript:Y38E10A.16.1
+ch.1_162	WormBase	exon	101	402	.	+	.	Parent=Transcript:Y38E10A.16.1
+ch.1_162	WormBase	gene	101	619	.	+	.	ID=Gene:WBGene00012594
+ch.1_162	WormBase	mRNA	101	619	.	+	.	ID=Transcript:Y38E10A.16.1;Parent=Gene:WBGene00012594
+ch.1_162	RNASeq_reads	transcript_region	138	178	1.0	.	.	
+ch.1_162	RNASeq_reads	transcript_region	179	212	2.0	.	.	
+ch.1_162	RNASeq_splice	intron	196	244	41.0	+	.	
+ch.1_162	RNASeq_reads	transcript_region	213	228	5.0	.	.	
+ch.1_162	RNASeq_stranded	transcript_region	228	402	1.0	+	.	
+ch.1_162	RNASeq_reads	transcript_region	229	254	8.0	.	.	
+ch.1_162	WormBase	CDS	240	402	.	+	.	ID=CDS:Y38E10A.16;Parent=Transcript:Y38E10A.16.1
+ch.1_162	RNASeq_reads	transcript_region	255	289	13.0	.	.	
+ch.1_162	RNASeq_reads	transcript_region	290	402	20.0	.	.	
+ch.1_162	RNASeq_reads	transcript_region	403	403	5.0	.	.	
+ch.1_162	WormBase	intron	403	445	.	+	.	Parent=Transcript:Y38E10A.16.1
+ch.1_162	RNASeq_splice	intron	403	445	95098.0	+	.	
+ch.1_162	RNASeq_reads	transcript_region	404	445	2.0	.	.	
+ch.1_162	RNASeq_stranded	transcript_region	446	450	1.0	+	.	
+ch.1_162	RNASeq_reads	transcript_region	446	504	20.0	.	.	
+ch.1_162	WormBase	CDS	446	507	.	+	.	ID=CDS:Y38E10A.16;Parent=Transcript:Y38E10A.16.1
+ch.1_162	WormBase	exon	446	619	.	+	.	Parent=Transcript:Y38E10A.16.1
+ch.1_162	RNASeq_stranded	transcript_region	451	467	2.0	+	.	
+ch.1_162	RNASeq_stranded	transcript_region	468	587	4.0	+	.	
+ch.1_162	RNASeq_reads	transcript_region	505	553	13.0	.	.	
+ch.1_162	WormBase	three_prime_UTR	508	619	.	+	.	Parent=Transcript:Y38E10A.16.1
+ch.1_162	RNASeq_reads	transcript_region	554	564	8.0	.	.	
+ch.1_162	RNASeq_reads	transcript_region	565	586	5.0	.	.	
+ch.1_162	RNASeq_reads	transcript_region	587	607	3.0	.	.	
+ch.1_162	RNASeq_stranded	transcript_region	588	598	2.0	+	.	
+ch.1_162	RNASeq_stranded	transcript_region	599	609	1.0	+	.	
+ch.1_162	RNASeq_reads	transcript_region	608	615	1.0	.	.	

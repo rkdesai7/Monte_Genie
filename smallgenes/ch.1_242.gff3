@@ -1,0 +1,70 @@
+ch.1_242	RNASeq_reads	transcript_region	618	621	1.0	.	.	
+ch.1_242	RNASeq_stranded	transcript_region	618	621	2.0	+	.	
+ch.1_242	WormBase	three_prime_UTR	494	619	.	+	.	Parent=Transcript:R09B5.3a.2
+ch.1_242	WormBase	exon	336	619	.	+	.	Parent=Transcript:R09B5.3a.2
+ch.1_242	WormBase	mRNA	105	619	.	+	.	ID=Transcript:R09B5.3a.2;Parent=Gene:WBGene00000556
+ch.1_242	WormBase	gene	101	619	.	+	.	ID=Gene:WBGene00000556
+ch.1_242	RNASeq	transcription_end_site	617	617	.	-	.	
+ch.1_242	RNASeq_stranded	transcript_region	616	617	7.0	+	.	
+ch.1_242	RNASeq_reads	transcript_region	612	617	2.0	.	.	
+ch.1_242	WormBase	three_prime_UTR	494	617	.	+	.	Parent=Transcript:R09B5.3a.1
+ch.1_242	WormBase	exon	336	617	.	+	.	Parent=Transcript:R09B5.3a.1
+ch.1_242	WormBase	mRNA	101	617	.	+	.	ID=Transcript:R09B5.3a.1;Parent=Gene:WBGene00000556
+ch.1_242	RNASeq	transcription_end_site	616	616	.	-	.	
+ch.1_242	RNASeq_stranded	transcript_region	600	615	12.0	+	.	
+ch.1_242	WormBase	three_prime_UTR	494	615	.	+	.	Parent=Transcript:R09B5.3b.1
+ch.1_242	WormBase	exon	366	615	.	+	.	Parent=Transcript:R09B5.3b.1
+ch.1_242	WormBase	mRNA	110	615	.	+	.	ID=Transcript:R09B5.3b.1;Parent=Gene:WBGene00000556
+ch.1_242	RNASeq_reads	transcript_region	592	611	4.0	.	.	
+ch.1_242	RNASeq_stranded	transcript_region	590	599	19.0	+	.	
+ch.1_242	RNASeq_stranded	transcript_region	569	599	1.0	-	.	
+ch.1_242	RNASeq_reads	transcript_region	581	591	7.0	.	.	
+ch.1_242	RNASeq_stranded	transcript_region	574	589	30.0	+	.	
+ch.1_242	RNASeq_reads	transcript_region	566	580	11.0	.	.	
+ch.1_242	RNASeq	transcription_end_site	579	579	.	-	.	
+ch.1_242	RNASeq_stranded	transcript_region	477	573	46.0	+	.	
+ch.1_242	RNASeq_reads	transcript_region	551	565	17.0	.	.	
+ch.1_242	RNASeq_stranded	transcript_region	548	560	1.0	-	.	
+ch.1_242	RNASeq_reads	transcript_region	404	550	26.0	.	.	
+ch.1_242	WormBase	CDS	366	493	.	+	.	ID=CDS:R09B5.3b;Parent=Transcript:R09B5.3b.1
+ch.1_242	WormBase	CDS	336	493	.	+	.	ID=CDS:R09B5.3a;Parent=Transcript:R09B5.3a.1,Transcript:R09B5.3a.2
+ch.1_242	RNASeq_stranded	transcript_region	454	476	30.0	+	.	
+ch.1_242	RNASeq_stranded	transcript_region	437	453	19.0	+	.	
+ch.1_242	RNASeq_stranded	transcript_region	336	436	12.0	+	.	
+ch.1_242	RNASeq_reads	transcript_region	336	403	40.0	.	.	
+ch.1_242	RNASeq	transcription_end_site	396	396	.	-	.	
+ch.1_242	RNASeq	transcription_end_site	396	396	.	-	.	
+ch.1_242	RNASeq_splice	intron	336	365	3.0	+	.	
+ch.1_242	WormBase	intron	171	365	.	+	.	Parent=Transcript:R09B5.3b.1
+ch.1_242	RNASeq_splice	intron	171	365	10358.0	+	.	
+ch.1_242	RNASeq_reads	transcript_region	335	335	4.0	.	.	
+ch.1_242	RNASeq_stranded	transcript_region	335	335	1.0	-	.	
+ch.1_242	WormBase	intron	171	335	.	+	.	Parent=Transcript:R09B5.3a.1
+ch.1_242	WormBase	intron	171	335	.	+	.	Parent=Transcript:R09B5.3a.2
+ch.1_242	RNASeq_splice	intron	171	335	138981.0	+	.	
+ch.1_242	RNASeq_reads	transcript_region	173	334	1.0	.	.	
+ch.1_242	RNASeq_splice	intron	162	328	10.0	-	.	
+ch.1_242	RNASeq_R_asymmetry	transcript_region	171	172	8911.0	.	.	
+ch.1_242	RNASeq_reads	transcript_region	171	172	2.0	.	.	
+ch.1_242	RNASeq_R_asymmetry	transcript_region	131	170	122798.0	.	.	
+ch.1_242	RNASeq_reads	transcript_region	131	170	30.0	.	.	
+ch.1_242	RNASeq_stranded	transcript_region	128	170	10.0	+	.	
+ch.1_242	WormBase	CDS	110	170	.	+	.	ID=CDS:R09B5.3b;Parent=Transcript:R09B5.3b.1
+ch.1_242	WormBase	CDS	110	170	.	+	.	ID=CDS:R09B5.3a;Parent=Transcript:R09B5.3a.1,Transcript:R09B5.3a.2
+ch.1_242	WormBase	exon	110	170	.	+	.	Parent=Transcript:R09B5.3b.1
+ch.1_242	WormBase	exon	105	170	.	+	.	Parent=Transcript:R09B5.3a.2
+ch.1_242	WormBase	exon	101	170	.	+	.	Parent=Transcript:R09B5.3a.1
+ch.1_242	RNASeq_R_asymmetry	transcript_region	118	130	80978.0	.	.	
+ch.1_242	RNASeq_reads	transcript_region	118	130	18.0	.	.	
+ch.1_242	RNASeq_stranded	transcript_region	116	127	6.0	+	.	
+ch.1_242	RNASeq_R_asymmetry	transcript_region	113	117	50260.0	.	.	
+ch.1_242	RNASeq_reads	transcript_region	113	117	11.0	.	.	
+ch.1_242	RNASeq_stranded	transcript_region	109	115	3.0	+	.	
+ch.1_242	RNASeq_R_asymmetry	transcript_region	108	112	22756.0	.	.	
+ch.1_242	RNASeq_reads	transcript_region	108	112	5.0	.	.	
+ch.1_242	WormBase	five_prime_UTR	105	109	.	+	.	Parent=Transcript:R09B5.3a.2
+ch.1_242	WormBase	five_prime_UTR	101	109	.	+	.	Parent=Transcript:R09B5.3a.1
+ch.1_242	RNASeq_stranded	transcript_region	104	108	1.0	+	.	
+ch.1_242	RNASeq_R_asymmetry	transcript_region	107	107	11797.0	.	.	
+ch.1_242	RNASeq_reads	transcript_region	97	107	3.0	.	.	
+ch.1_242	RNASeq_reads	transcript_region	92	96	1.0	.	.	

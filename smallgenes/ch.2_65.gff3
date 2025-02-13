@@ -1,0 +1,72 @@
+ch.2_65	RNASeq_stranded	transcript_region	582	583	1.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	581	583	1.0	.	.	
+ch.2_65	WormBase	three_prime_UTR	497	583	.	+	.	Parent=Transcript:C53A5.2.1
+ch.2_65	WormBase	exon	425	583	.	+	.	Parent=Transcript:C53A5.2.1
+ch.2_65	WormBase	gene	101	583	.	+	.	ID=Gene:WBGene00008263
+ch.2_65	WormBase	mRNA	101	583	.	+	.	ID=Transcript:C53A5.2.1;Parent=Gene:WBGene00008263
+ch.2_65	RNASeq_stranded	transcript_region	573	581	2.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	569	580	2.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	565	572	4.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	561	568	4.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	550	564	7.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	553	560	7.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	522	552	11.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	531	549	11.0	+	.	
+ch.2_65	RNASeq_stranded	transcript_region	494	530	17.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	481	521	17.0	.	.	
+ch.2_65	RNASeq	transcription_end_site	510	510	.	-	.	
+ch.2_65	RNASeq	transcription_end_site	510	510	.	-	.	
+ch.2_65	WormBase	CDS	425	496	.	+	.	ID=CDS:C53A5.2;Parent=Transcript:C53A5.2.1
+ch.2_65	RNASeq_stranded	transcript_region	440	493	26.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	425	480	26.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	426	439	16.0	+	.	
+ch.2_65	RNASeq_splice	intron	371	426	8.0	+	.	
+ch.2_65	RNASeq_stranded	transcript_region	425	425	9.0	-	.	
+ch.2_65	RNASeq_reads	transcript_region	424	424	4.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	424	424	5.0	-	.	
+ch.2_65	WormBase	intron	371	424	.	+	.	Parent=Transcript:C53A5.2.1
+ch.2_65	RNASeq_splice	intron	371	424	154889.0	+	.	
+ch.2_65	RNASeq_stranded	transcript_region	423	423	2.0	-	.	
+ch.2_65	RNASeq_reads	transcript_region	419	423	2.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	413	422	1.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	382	418	1.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	375	381	2.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	372	374	1.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	371	371	2.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	344	370	5.0	+	.	
+ch.2_65	WormBase	CDS	281	370	.	+	.	ID=CDS:C53A5.2;Parent=Transcript:C53A5.2.1
+ch.2_65	WormBase	exon	281	370	.	+	.	Parent=Transcript:C53A5.2.1
+ch.2_65	RNASeq_reads	transcript_region	281	370	27.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	281	343	8.0	+	.	
+ch.2_65	RNASeq	transcription_end_site	341	341	.	-	.	
+ch.2_65	RNASeq_stranded	transcript_region	280	280	2.0	-	.	
+ch.2_65	RNASeq_reads	transcript_region	279	280	6.0	.	.	
+ch.2_65	WormBase	intron	228	280	.	+	.	Parent=Transcript:C53A5.2.1
+ch.2_65	RNASeq_splice	intron	228	280	123432.0	+	.	
+ch.2_65	RNASeq_stranded	transcript_region	274	279	1.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	270	278	2.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	237	269	1.0	.	.	
+ch.2_65	RNASeq_splice	intron	228	269	7968.0	+	.	
+ch.2_65	RNASeq_stranded	transcript_region	228	246	1.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	230	231	1.0	.	.	
+ch.2_65	RNASeq_R_asymmetry	transcript_region	228	229	15302.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	228	229	4.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	213	227	6.0	+	.	
+ch.2_65	WormBase	CDS	129	227	.	+	.	ID=CDS:C53A5.2;Parent=Transcript:C53A5.2.1
+ch.2_65	RNASeq_reads	transcript_region	129	227	27.0	.	.	
+ch.2_65	WormBase	exon	101	227	.	+	.	Parent=Transcript:C53A5.2.1
+ch.2_65	RNASeq_stranded	transcript_region	175	212	3.0	+	.	
+ch.2_65	RNASeq_stranded	transcript_region	117	174	5.0	+	.	
+ch.2_65	RNASeq_R_asymmetry	transcript_region	124	169	97641.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	119	128	17.0	.	.	
+ch.2_65	WormBase	five_prime_UTR	101	128	.	+	.	Parent=Transcript:C53A5.2.1
+ch.2_65	RNASeq_R_asymmetry	transcript_region	119	123	63471.0	.	.	
+ch.2_65	RNASeq_R_asymmetry	transcript_region	111	118	40261.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	110	118	10.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	107	116	3.0	+	.	
+ch.2_65	RNASeq_R_asymmetry	transcript_region	107	110	26144.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	101	109	6.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	91	106	1.0	+	.	
+ch.2_65	RNASeq_reads	transcript_region	85	100	3.0	.	.	
+ch.2_65	RNASeq_reads	transcript_region	16	84	1.0	.	.	
+ch.2_65	RNASeq_stranded	transcript_region	7	39	1.0	+	.	

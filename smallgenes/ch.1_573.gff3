@@ -1,0 +1,74 @@
+ch.1_573	RNASeq_F_asymmetry	transcript_region	727	727	640.0	.	.	
+ch.1_573	RNASeq	transcription_end_site	727	727	.	-	.	
+ch.1_573	RNASeq	transcription_end_site	727	727	.	-	.	
+ch.1_573	RNASeq	transcription_end_site	726	726	.	-	.	
+ch.1_573	RNASeq	transcription_end_site	726	726	.	-	.	
+ch.1_573	RNASeq_reads	transcript_region	724	726	1.0	.	.	
+ch.1_573	RNASeq_F_asymmetry	transcript_region	721	726	5817.0	.	.	
+ch.1_573	RNASeq_stranded	transcript_region	715	726	1.0	+	.	
+ch.1_573	RNASeq	transcription_end_site	725	725	.	-	.	
+ch.1_573	RNASeq	transcription_end_site	725	725	.	-	.	
+ch.1_573	WormBase	three_prime_UTR	708	724	.	+	.	Parent=Transcript:F01D5.1.1
+ch.1_573	WormBase	exon	542	724	.	+	.	Parent=Transcript:F01D5.1.1
+ch.1_573	WormBase	gene	101	724	.	+	.	ID=Gene:WBGene00008492
+ch.1_573	WormBase	mRNA	101	724	.	+	.	ID=Transcript:F01D5.1.1;Parent=Gene:WBGene00008492
+ch.1_573	RNASeq_reads	transcript_region	710	723	2.0	.	.	
+ch.1_573	RNASeq	transcription_end_site	721	721	.	-	.	
+ch.1_573	RNASeq_stranded	transcript_region	702	714	2.0	+	.	
+ch.1_573	RNASeq_reads	transcript_region	696	709	4.0	.	.	
+ch.1_573	WormBase	CDS	542	707	.	+	.	ID=CDS:F01D5.1;Parent=Transcript:F01D5.1.1
+ch.1_573	RNASeq_stranded	transcript_region	673	701	4.0	+	.	
+ch.1_573	RNASeq	transcription_end_site	700	700	.	-	.	
+ch.1_573	RNASeq	transcription_end_site	700	700	.	-	.	
+ch.1_573	RNASeq_reads	transcript_region	689	695	8.0	.	.	
+ch.1_573	RNASeq_F_asymmetry	transcript_region	689	693	33597.0	.	.	
+ch.1_573	RNASeq_F_asymmetry	transcript_region	665	688	58679.0	.	.	
+ch.1_573	RNASeq_reads	transcript_region	663	688	14.0	.	.	
+ch.1_573	RNASeq_stranded	transcript_region	542	672	7.0	+	.	
+ch.1_573	RNASeq_F_asymmetry	transcript_region	651	664	88763.0	.	.	
+ch.1_573	RNASeq_reads	transcript_region	646	662	23.0	.	.	
+ch.1_573	RNASeq	transcription_end_site	652	652	.	-	.	
+ch.1_573	RNASeq_F_asymmetry	transcript_region	612	650	138200.0	.	.	
+ch.1_573	RNASeq	transcription_end_site	648	648	.	-	.	
+ch.1_573	RNASeq_reads	transcript_region	609	645	35.0	.	.	
+ch.1_573	RNASeq_F_asymmetry	transcript_region	594	611	212045.0	.	.	
+ch.1_573	RNASeq_reads	transcript_region	542	608	53.0	.	.	
+ch.1_573	RNASeq	transcription_end_site	602	602	.	-	.	
+ch.1_573	RNASeq_splice	intron	486	541	4.0	+	.	
+ch.1_573	WormBase	intron	482	541	.	+	.	Parent=Transcript:F01D5.1.1
+ch.1_573	RNASeq_splice	intron	482	541	299565.0	+	.	
+ch.1_573	RNASeq_reads	transcript_region	482	484	3.0	.	.	
+ch.1_573	RNASeq_stranded	transcript_region	371	481	5.0	+	.	
+ch.1_573	RNASeq_reads	transcript_region	132	481	61.0	.	.	
+ch.1_573	WormBase	CDS	111	481	.	+	.	ID=CDS:F01D5.1;Parent=Transcript:F01D5.1.1
+ch.1_573	WormBase	exon	101	481	.	+	.	Parent=Transcript:F01D5.1.1
+ch.1_573	RNASeq_stranded	transcript_region	415	452	1.0	-	.	
+ch.1_573	RNASeq_splice	intron	269	409	12.0	-	.	
+ch.1_573	RNASeq_stranded	transcript_region	336	370	8.0	+	.	
+ch.1_573	RNASeq_stranded	transcript_region	302	338	1.0	-	.	
+ch.1_573	RNASeq_stranded	transcript_region	317	335	13.0	+	.	
+ch.1_573	RNASeq_stranded	transcript_region	205	316	22.0	+	.	
+ch.1_573	RNASeq_stranded	transcript_region	237	301	2.0	-	.	
+ch.1_573	RNASeq_stranded	transcript_region	200	236	1.0	-	.	
+ch.1_573	RNASeq_stranded	transcript_region	153	204	35.0	+	.	
+ch.1_573	RNASeq_R_asymmetry	transcript_region	121	183	252190.0	.	.	
+ch.1_573	RNASeq_stranded	transcript_region	121	152	23.0	+	.	
+ch.1_573	RNASeq_reads	transcript_region	112	131	40.0	.	.	
+ch.1_573	RNASeq_R_asymmetry	transcript_region	109	120	165738.0	.	.	
+ch.1_573	RNASeq_stranded	transcript_region	105	120	15.0	+	.	
+ch.1_573	RNASeq_reads	transcript_region	105	111	26.0	.	.	
+ch.1_573	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:F01D5.1.1
+ch.1_573	RNASeq_R_asymmetry	transcript_region	104	108	94569.0	.	.	
+ch.1_573	RNASeq_reads	transcript_region	102	104	14.0	.	.	
+ch.1_573	RNASeq_stranded	transcript_region	102	104	8.0	+	.	
+ch.1_573	RNASeq_R_asymmetry	transcript_region	101	103	57732.0	.	.	
+ch.1_573	RNASeq_stranded	transcript_region	98	101	4.0	+	.	
+ch.1_573	RNASeq_reads	transcript_region	97	101	9.0	.	.	
+ch.1_573	RNASeq_R_asymmetry	transcript_region	95	100	25422.0	.	.	
+ch.1_573	RNASeq_stranded	transcript_region	91	97	2.0	+	.	
+ch.1_573	RNASeq_reads	transcript_region	90	96	5.0	.	.	
+ch.1_573	RNASeq_stranded	transcript_region	86	90	1.0	+	.	
+ch.1_573	RNASeq_reads	transcript_region	86	89	3.0	.	.	
+ch.1_573	RNASeq_R_asymmetry	transcript_region	86	87	10395.0	.	.	
+ch.1_573	RNASeq_R_asymmetry	transcript_region	85	85	3753.0	.	.	
+ch.1_573	RNASeq_reads	transcript_region	77	85	1.0	.	.	

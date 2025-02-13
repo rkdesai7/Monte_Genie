@@ -1,0 +1,107 @@
+ch.3_61	RNASeq_reads	transcript_region	95	100	1.0	.	.	
+ch.3_61	RNASeq_F_asymmetry	transcript_region	96	100	5910.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	101	103	1.0	+	.	
+ch.3_61	RNASeq_F_asymmetry	transcript_region	101	105	54497.0	.	.	
+ch.3_61	RNASeq_reads	transcript_region	101	105	11.0	.	.	
+ch.3_61	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:K03B4.3b.1
+ch.3_61	WormBase	exon	101	186	.	+	.	Parent=Transcript:K03B4.3b.1
+ch.3_61	WormBase	gene	101	897	.	+	.	ID=Gene:WBGene00006392
+ch.3_61	WormBase	mRNA	101	897	.	+	.	ID=Transcript:K03B4.3b.1;Parent=Gene:WBGene00006392
+ch.3_61	RNASeq_stranded	transcript_region	104	104	2.0	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	105	110	4.0	+	.	
+ch.3_61	RNASeq_F_asymmetry	transcript_region	106	109	110100.0	.	.	
+ch.3_61	RNASeq_reads	transcript_region	106	109	22.0	.	.	
+ch.3_61	WormBase	five_prime_UTR	107	111	.	+	.	Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	exon	107	186	.	+	.	Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	mRNA	107	896	.	+	.	ID=Transcript:K03B4.3a.1;Parent=Gene:WBGene00006392
+ch.3_61	RNASeq_reads	transcript_region	110	125	34.0	.	.	
+ch.3_61	RNASeq_F_asymmetry	transcript_region	110	127	168219.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	111	117	7.0	+	.	
+ch.3_61	WormBase	CDS	112	186	.	+	.	ID=CDS:K03B4.3a;Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	CDS	112	186	.	+	.	ID=CDS:K03B4.3b;Parent=Transcript:K03B4.3b.1
+ch.3_61	RNASeq_stranded	transcript_region	118	123	11.0	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	124	186	17.0	+	.	
+ch.3_61	RNASeq_reads	transcript_region	126	186	52.0	.	.	
+ch.3_61	RNASeq_F_asymmetry	transcript_region	128	186	252891.0	.	.	
+ch.3_61	WormBase	intron	187	228	.	+	.	Parent=Transcript:K03B4.3b.1
+ch.3_61	RNASeq_splice	intron	187	228	202935.0	+	.	
+ch.3_61	WormBase	intron	187	237	.	+	.	Parent=Transcript:K03B4.3a.1
+ch.3_61	RNASeq_splice	intron	187	237	144700.0	+	.	
+ch.3_61	RNASeq_reads	transcript_region	227	228	6.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	227	228	2.0	+	.	
+ch.3_61	RNASeq_reads	transcript_region	229	237	44.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	229	237	9.0	+	.	
+ch.3_61	WormBase	CDS	229	296	.	+	.	ID=CDS:K03B4.3b;Parent=Transcript:K03B4.3b.1
+ch.3_61	WormBase	exon	229	296	.	+	.	Parent=Transcript:K03B4.3b.1
+ch.3_61	WormBase	CDS	238	296	.	+	.	ID=CDS:K03B4.3a;Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	exon	238	296	.	+	.	Parent=Transcript:K03B4.3a.1
+ch.3_61	RNASeq_reads	transcript_region	238	296	76.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	238	296	16.0	+	.	
+ch.3_61	WormBase	intron	297	360	.	+	.	Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	intron	297	360	.	+	.	Parent=Transcript:K03B4.3b.1
+ch.3_61	RNASeq_splice	intron	297	360	407024.0	+	.	
+ch.3_61	RNASeq_splice	intron	297	681	3.0	+	.	
+ch.3_61	RNASeq_splice	intron	314	360	33.0	+	.	
+ch.3_61	RNASeq_reads	transcript_region	350	352	1.0	.	.	
+ch.3_61	RNASeq_reads	transcript_region	353	358	5.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	353	358	1.0	+	.	
+ch.3_61	RNASeq_reads	transcript_region	359	360	11.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	359	360	2.0	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	361	505	12.0	+	.	
+ch.3_61	WormBase	CDS	361	625	.	+	.	ID=CDS:K03B4.3a;Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	CDS	361	625	.	+	.	ID=CDS:K03B4.3b;Parent=Transcript:K03B4.3b.1
+ch.3_61	WormBase	exon	361	625	.	+	.	Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	exon	361	625	.	+	.	Parent=Transcript:K03B4.3b.1
+ch.3_61	RNASeq_reads	transcript_region	361	625	77.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	506	529	19.0	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	530	625	36.0	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	584	625	1.0	-	.	
+ch.3_61	RNASeq_splice	intron	624	681	218.0	+	.	
+ch.3_61	RNASeq_reads	transcript_region	626	626	9.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	626	626	5.0	+	.	
+ch.3_61	RNASeq_splice	intron	626	670	146.0	+	.	
+ch.3_61	WormBase	intron	626	681	.	+	.	Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	intron	626	681	.	+	.	Parent=Transcript:K03B4.3b.1
+ch.3_61	RNASeq_splice	intron	626	681	483304.0	+	.	
+ch.3_61	RNASeq_reads	transcript_region	627	627	2.0	.	.	
+ch.3_61	RNASeq_reads	transcript_region	628	681	1.0	.	.	
+ch.3_61	RNASeq_splice	intron	631	681	4350.0	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	682	737	1.0	-	.	
+ch.3_61	RNASeq_stranded	transcript_region	682	784	22.0	+	.	
+ch.3_61	WormBase	CDS	682	813	.	+	.	ID=CDS:K03B4.3a;Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	CDS	682	813	.	+	.	ID=CDS:K03B4.3b;Parent=Transcript:K03B4.3b.1
+ch.3_61	RNASeq_reads	transcript_region	682	821	91.0	.	.	
+ch.3_61	WormBase	exon	682	896	.	+	.	Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	exon	682	897	.	+	.	Parent=Transcript:K03B4.3b.1
+ch.3_61	RNASeq_splice	intron	712	743	6.0	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	785	802	34.0	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	803	825	52.0	+	.	
+ch.3_61	WormBase	three_prime_UTR	814	896	.	+	.	Parent=Transcript:K03B4.3a.1
+ch.3_61	WormBase	three_prime_UTR	814	897	.	+	.	Parent=Transcript:K03B4.3b.1
+ch.3_61	RNASeq_reads	transcript_region	822	847	60.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	826	838	34.0	+	.	
+ch.3_61	RNASeq_R_asymmetry	transcript_region	829	829	210555.0	.	.	
+ch.3_61	RNASeq_R_asymmetry	transcript_region	832	839	194665.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	839	862	22.0	+	.	
+ch.3_61	RNASeq_R_asymmetry	transcript_region	841	883	167697.0	.	.	
+ch.3_61	RNASeq_splice	intron	847	991	12.0	+	.	
+ch.3_61	RNASeq_reads	transcript_region	848	882	39.0	.	.	
+ch.3_61	RNASeq	transcription_end_site	849	849	.	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	863	879	14.0	+	.	
+ch.3_61	RNASeq_stranded	transcript_region	880	889	9.0	+	.	
+ch.3_61	RNASeq_reads	transcript_region	883	891	25.0	.	.	
+ch.3_61	RNASeq_R_asymmetry	transcript_region	884	891	107326.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	890	896	5.0	+	.	
+ch.3_61	RNASeq_R_asymmetry	transcript_region	892	893	64809.0	.	.	
+ch.3_61	RNASeq_reads	transcript_region	892	895	15.0	.	.	
+ch.3_61	RNASeq	transcription_end_site	894	894	.	+	.	
+ch.3_61	RNASeq	transcription_end_site	896	896	.	+	.	
+ch.3_61	RNASeq_reads	transcript_region	896	897	9.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	897	897	3.0	+	.	
+ch.3_61	RNASeq	transcription_end_site	897	897	.	+	.	
+ch.3_61	RNASeq_reads	transcript_region	898	985	5.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	898	989	1.0	+	.	
+ch.3_61	RNASeq	transcription_end_site	918	918	.	+	.	
+ch.3_61	RNASeq	transcription_end_site	938	938	.	+	.	
+ch.3_61	RNASeq_reads	transcript_region	986	989	8.0	.	.	
+ch.3_61	RNASeq_stranded	transcript_region	990	995	7.0	+	.	

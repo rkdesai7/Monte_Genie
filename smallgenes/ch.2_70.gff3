@@ -1,0 +1,106 @@
+ch.2_70	RNASeq_splice	intron	584	702	6.0	-	.	
+ch.2_70	RNASeq	transcription_end_site	664	664	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	664	664	.	-	.	
+ch.2_70	RNASeq_F_asymmetry	transcript_region	648	653	2078.0	.	.	
+ch.2_70	RNASeq_reads	transcript_region	648	653	1.0	.	.	
+ch.2_70	RNASeq	transcription_end_site	648	648	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	647	647	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	647	647	.	-	.	
+ch.2_70	RNASeq_stranded	transcript_region	645	647	3.0	+	.	
+ch.2_70	RNASeq_reads	transcript_region	644	647	4.0	.	.	
+ch.2_70	RNASeq	transcription_end_site	646	646	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	646	646	.	-	.	
+ch.2_70	RNASeq_F_asymmetry	transcript_region	645	645	19268.0	.	.	
+ch.2_70	RNASeq	transcription_end_site	645	645	.	-	.	
+ch.2_70	WormBase	three_prime_UTR	540	645	.	+	.	Parent=Transcript:F33D4.7.1
+ch.2_70	WormBase	exon	334	645	.	+	.	Parent=Transcript:F33D4.7.1
+ch.2_70	WormBase	gene	101	645	.	+	.	ID=Gene:WBGene00017999
+ch.2_70	WormBase	mRNA	101	645	.	+	.	ID=Transcript:F33D4.7.1;Parent=Gene:WBGene00017999
+ch.2_70	RNASeq	transcription_end_site	644	644	.	-	.	
+ch.2_70	RNASeq_stranded	transcript_region	636	644	5.0	+	.	
+ch.2_70	RNASeq_F_asymmetry	transcript_region	643	643	25817.0	.	.	
+ch.2_70	RNASeq_reads	transcript_region	643	643	7.0	.	.	
+ch.2_70	RNASeq_F_asymmetry	transcript_region	637	642	89232.0	.	.	
+ch.2_70	RNASeq_reads	transcript_region	636	642	19.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	593	642	1.0	-	.	
+ch.2_70	RNASeq_F_asymmetry	transcript_region	618	636	134098.0	.	.	
+ch.2_70	RNASeq_reads	transcript_region	615	635	29.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	615	635	8.0	+	.	
+ch.2_70	RNASeq_F_asymmetry	transcript_region	574	617	201804.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	594	614	14.0	+	.	
+ch.2_70	RNASeq_reads	transcript_region	571	614	44.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	585	593	23.0	+	.	
+ch.2_70	RNASeq	transcription_end_site	587	587	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	584	584	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	584	584	.	-	.	
+ch.2_70	RNASeq_stranded	transcript_region	447	584	35.0	+	.	
+ch.2_70	RNASeq	transcription_end_site	583	583	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	583	583	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	574	574	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	574	574	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	572	572	.	-	.	
+ch.2_70	RNASeq	transcription_end_site	572	572	.	-	.	
+ch.2_70	RNASeq_F_asymmetry	transcript_region	557	571	254396.0	.	.	
+ch.2_70	RNASeq_reads	transcript_region	507	570	71.0	.	.	
+ch.2_70	RNASeq_F_asymmetry	transcript_region	535	556	401722.0	.	.	
+ch.2_70	WormBase	CDS	334	539	.	+	.	ID=CDS:F33D4.7;Parent=Transcript:F33D4.7.1
+ch.2_70	RNASeq_splice	intron	408	525	8.0	-	.	
+ch.2_70	WormBase	exon	334	506	.	+	.	Parent=Transcript:F33D4.5.2
+ch.2_70	WormBase	five_prime_UTR	334	506	.	+	.	Parent=Transcript:F33D4.5.2
+ch.2_70	RNASeq_reads	transcript_region	334	506	107.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	440	446	23.0	+	.	
+ch.2_70	RNASeq_stranded	transcript_region	430	439	35.0	+	.	
+ch.2_70	RNASeq_stranded	transcript_region	395	429	57.0	+	.	
+ch.2_70	RNASeq_stranded	transcript_region	334	394	28.0	+	.	
+ch.2_70	RNASeq_splice	intron	291	360	36.0	+	.	
+ch.2_70	RNASeq_reads	transcript_region	331	333	18.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	331	333	10.0	+	.	
+ch.2_70	WormBase	intron	291	333	.	+	.	Parent=Transcript:F33D4.5.2
+ch.2_70	WormBase	intron	291	333	.	+	.	Parent=Transcript:F33D4.7.1
+ch.2_70	RNASeq_splice	intron	291	333	566128.0	+	.	
+ch.2_70	RNASeq_splice	intron	279	333	1102.0	+	.	
+ch.2_70	RNASeq_splice	intron	261	333	7.0	+	.	
+ch.2_70	RNASeq_splice	intron	259	333	3.0	+	.	
+ch.2_70	RNASeq_reads	transcript_region	292	297	1.0	.	.	
+ch.2_70	RNASeq_R_asymmetry	transcript_region	292	295	4084.0	.	.	
+ch.2_70	RNASeq_reads	transcript_region	291	291	15.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	291	291	8.0	-	.	
+ch.2_70	RNASeq_stranded	transcript_region	252	290	25.0	+	.	
+ch.2_70	WormBase	CDS	211	290	.	+	.	ID=CDS:F33D4.7;Parent=Transcript:F33D4.7.1
+ch.2_70	WormBase	exon	211	290	.	+	.	Parent=Transcript:F33D4.5.2
+ch.2_70	WormBase	exon	211	290	.	+	.	Parent=Transcript:F33D4.7.1
+ch.2_70	WormBase	five_prime_UTR	211	290	.	+	.	Parent=Transcript:F33D4.5.2
+ch.2_70	RNASeq_reads	transcript_region	211	290	104.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	211	251	39.0	+	.	
+ch.2_70	RNASeq_R_asymmetry	transcript_region	211	242	484658.0	.	.	
+ch.2_70	RNASeq_splice	intron	159	218	5.0	+	.	
+ch.2_70	RNASeq_reads	transcript_region	208	210	6.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	208	210	1.0	+	.	
+ch.2_70	RNASeq_splice	intron	169	210	4.0	+	.	
+ch.2_70	WormBase	intron	159	210	.	+	.	Parent=Transcript:F33D4.5.2
+ch.2_70	WormBase	intron	159	210	.	+	.	Parent=Transcript:F33D4.7.1
+ch.2_70	RNASeq_splice	intron	159	210	553602.0	+	.	
+ch.2_70	RNASeq_splice	intron	150	210	10.0	+	.	
+ch.2_70	WormBase	exon	136	158	.	+	.	Parent=Transcript:F33D4.5.2
+ch.2_70	WormBase	five_prime_UTR	136	158	.	+	.	Parent=Transcript:F33D4.5.2
+ch.2_70	RNASeq_reads	transcript_region	113	158	93.0	.	.	
+ch.2_70	WormBase	CDS	109	158	.	+	.	ID=CDS:F33D4.7;Parent=Transcript:F33D4.7.1
+ch.2_70	RNASeq_R_asymmetry	transcript_region	106	158	415388.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	106	158	31.0	+	.	
+ch.2_70	WormBase	exon	101	158	.	+	.	Parent=Transcript:F33D4.7.1
+ch.2_70	RNASeq_reads	transcript_region	103	112	61.0	.	.	
+ch.2_70	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:F33D4.7.1
+ch.2_70	RNASeq_R_asymmetry	transcript_region	102	105	255578.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	100	105	20.0	+	.	
+ch.2_70	RNASeq_reads	transcript_region	100	102	35.0	.	.	
+ch.2_70	RNASeq_R_asymmetry	transcript_region	99	101	166840.0	.	.	
+ch.2_70	RNASeq_splice	intron	49	100	4.0	+	.	
+ch.2_70	RNASeq_splice	intron	45	100	3.0	-	.	
+ch.2_70	RNASeq_reads	transcript_region	99	99	23.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	99	99	10.0	-	.	
+ch.2_70	RNASeq_R_asymmetry	transcript_region	95	98	67420.0	.	.	
+ch.2_70	RNASeq_reads	transcript_region	95	98	14.0	.	.	
+ch.2_70	RNASeq_stranded	transcript_region	95	98	2.0	+	.	
+ch.2_70	RNASeq_reads	transcript_region	30	94	1.0	.	.	
+ch.2_70	RNASeq_R_asymmetry	transcript_region	22	77	3063.0	.	.	
+ch.2_70	RNASeq_R_asymmetry	transcript_region	5	21	1929.0	.	.	

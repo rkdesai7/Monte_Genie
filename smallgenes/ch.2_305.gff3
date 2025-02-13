@@ -1,0 +1,58 @@
+ch.2_305	WormBase	three_prime_UTR	898	953	.	-	.	Parent=Transcript:T06G6.7.1
+ch.2_305	WormBase	three_prime_UTR	882	950	.	+	.	Parent=Transcript:T06G6.12.1
+ch.2_305	WormBase	exon	750	950	.	+	.	Parent=Transcript:T06G6.12.1
+ch.2_305	WormBase	gene	101	950	.	+	.	ID=Gene:WBGene00011551
+ch.2_305	WormBase	mRNA	101	950	.	+	.	ID=Transcript:T06G6.12.1;Parent=Gene:WBGene00011551
+ch.2_305	RNASeq_reads	transcript_region	907	937	1.0	.	.	
+ch.2_305	RNASeq_stranded	transcript_region	920	935	1.0	+	.	
+ch.2_305	RNASeq_stranded	transcript_region	780	919	2.0	+	.	
+ch.2_305	RNASeq	transcription_end_site	918	918	.	-	.	
+ch.2_305	RNASeq	transcription_end_site	918	918	.	-	.	
+ch.2_305	RNASeq_reads	transcript_region	873	906	2.0	.	.	
+ch.2_305	RNASeq	transcription_end_site	891	891	.	-	.	
+ch.2_305	RNASeq	transcription_end_site	891	891	.	-	.	
+ch.2_305	WormBase	CDS	750	881	.	+	.	ID=CDS:T06G6.12;Parent=Transcript:T06G6.12.1
+ch.2_305	RNASeq_reads	transcript_region	849	872	4.0	.	.	
+ch.2_305	RNASeq_F_asymmetry	transcript_region	866	867	22219.0	.	.	
+ch.2_305	RNASeq_F_asymmetry	transcript_region	858	862	23682.0	.	.	
+ch.2_305	RNASeq_reads	transcript_region	750	848	7.0	.	.	
+ch.2_305	RNASeq	transcription_end_site	831	831	.	-	.	
+ch.2_305	RNASeq_F_asymmetry	transcript_region	827	828	31385.0	.	.	
+ch.2_305	RNASeq	transcription_end_site	824	824	.	-	.	
+ch.2_305	RNASeq	transcription_end_site	824	824	.	-	.	
+ch.2_305	RNASeq	transcription_end_site	808	808	.	-	.	
+ch.2_305	RNASeq	transcription_end_site	808	808	.	-	.	
+ch.2_305	RNASeq_stranded	transcript_region	772	779	1.0	+	.	
+ch.2_305	RNASeq_stranded	transcript_region	769	771	2.0	+	.	
+ch.2_305	RNASeq_stranded	transcript_region	766	768	1.0	+	.	
+ch.2_305	RNASeq_stranded	transcript_region	756	765	2.0	+	.	
+ch.2_305	RNASeq_stranded	transcript_region	750	755	1.0	+	.	
+ch.2_305	RNASeq_reads	transcript_region	747	749	1.0	.	.	
+ch.2_305	WormBase	intron	705	749	.	+	.	Parent=Transcript:T06G6.12.1
+ch.2_305	RNASeq_splice	intron	705	749	44935.0	+	.	
+ch.2_305	RNASeq_stranded	transcript_region	633	704	1.0	+	.	
+ch.2_305	WormBase	CDS	602	704	.	+	.	ID=CDS:T06G6.12;Parent=Transcript:T06G6.12.1
+ch.2_305	WormBase	exon	602	704	.	+	.	Parent=Transcript:T06G6.12.1
+ch.2_305	RNASeq_reads	transcript_region	602	704	8.0	.	.	
+ch.2_305	RNASeq	transcription_end_site	671	671	.	-	.	
+ch.2_305	RNASeq	transcription_end_site	665	665	.	-	.	
+ch.2_305	RNASeq	transcription_end_site	662	662	.	-	.	
+ch.2_305	RNASeq_stranded	transcript_region	602	632	2.0	+	.	
+ch.2_305	RNASeq_reads	transcript_region	600	601	1.0	.	.	
+ch.2_305	RNASeq_splice	intron	231	601	34.0	+	.	
+ch.2_305	WormBase	intron	213	601	.	+	.	Parent=Transcript:T06G6.12.1
+ch.2_305	RNASeq_splice	intron	213	601	43147.0	+	.	
+ch.2_305	RNASeq_splice	intron	39	553	47.0	-	.	
+ch.2_305	RNASeq_stranded	transcript_region	141	212	3.0	+	.	
+ch.2_305	RNASeq_reads	transcript_region	127	212	8.0	.	.	
+ch.2_305	WormBase	CDS	118	212	.	+	.	ID=CDS:T06G6.12;Parent=Transcript:T06G6.12.1
+ch.2_305	WormBase	exon	101	212	.	+	.	Parent=Transcript:T06G6.12.1
+ch.2_305	RNASeq_R_asymmetry	transcript_region	112	164	27801.0	.	.	
+ch.2_305	RNASeq_stranded	transcript_region	109	140	1.0	+	.	
+ch.2_305	RNASeq_reads	transcript_region	111	126	5.0	.	.	
+ch.2_305	WormBase	five_prime_UTR	101	117	.	+	.	Parent=Transcript:T06G6.12.1
+ch.2_305	RNASeq_R_asymmetry	transcript_region	110	111	18128.0	.	.	
+ch.2_305	RNASeq_reads	transcript_region	107	110	3.0	.	.	
+ch.2_305	RNASeq_R_asymmetry	transcript_region	107	109	11388.0	.	.	
+ch.2_305	RNASeq_R_asymmetry	transcript_region	103	106	6108.0	.	.	
+ch.2_305	RNASeq_reads	transcript_region	103	106	1.0	.	.	

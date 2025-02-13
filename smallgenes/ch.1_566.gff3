@@ -1,0 +1,29 @@
+ch.1_566	WormBase	five_prime_UTR	101	412	.	+	.	Parent=Transcript:M03B6.5.1
+ch.1_566	WormBase	exon	101	467	.	+	.	Parent=Transcript:M03B6.5.1
+ch.1_566	WormBase	gene	101	801	.	+	.	ID=Gene:WBGene00010837
+ch.1_566	WormBase	mRNA	101	801	.	+	.	ID=Transcript:M03B6.5.1;Parent=Gene:WBGene00010837
+ch.1_566	RNASeq_reads	transcript_region	280	331	1.0	.	.	
+ch.1_566	RNASeq_F_asymmetry	transcript_region	282	305	2343.0	.	.	
+ch.1_566	RNASeq_F_asymmetry	transcript_region	306	327	3523.0	.	.	
+ch.1_566	RNASeq_F_asymmetry	transcript_region	328	366	5457.0	.	.	
+ch.1_566	RNASeq_reads	transcript_region	332	432	2.0	.	.	
+ch.1_566	RNASeq_F_asymmetry	transcript_region	367	372	8358.0	.	.	
+ch.1_566	WormBase	CDS	413	467	.	+	.	ID=CDS:M03B6.5;Parent=Transcript:M03B6.5.1
+ch.1_566	RNASeq_reads	transcript_region	433	467	4.0	.	.	
+ch.1_566	RNASeq_splice	intron	455	519	29.0	+	.	
+ch.1_566	WormBase	intron	468	519	.	+	.	Parent=Transcript:M03B6.5.1
+ch.1_566	RNASeq_splice	intron	468	519	17690.0	+	.	
+ch.1_566	RNASeq_splice	intron	468	528	12.0	+	.	
+ch.1_566	RNASeq_splice	intron	472	519	627.0	+	.	
+ch.1_566	RNASeq_reads	transcript_region	520	747	4.0	.	.	
+ch.1_566	WormBase	CDS	520	785	.	+	.	ID=CDS:M03B6.5;Parent=Transcript:M03B6.5.1
+ch.1_566	WormBase	exon	520	801	.	+	.	Parent=Transcript:M03B6.5.1
+ch.1_566	RNASeq_stranded	transcript_region	528	552	1.0	+	.	
+ch.1_566	RNASeq_stranded	transcript_region	553	600	2.0	+	.	
+ch.1_566	RNASeq_stranded	transcript_region	601	608	1.0	+	.	
+ch.1_566	RNASeq_stranded	transcript_region	618	768	1.0	+	.	
+ch.1_566	RNASeq_R_asymmetry	transcript_region	745	764	10060.0	.	.	
+ch.1_566	RNASeq_reads	transcript_region	748	767	2.0	.	.	
+ch.1_566	RNASeq_R_asymmetry	transcript_region	766	767	6398.0	.	.	
+ch.1_566	RNASeq_reads	transcript_region	768	789	1.0	.	.	
+ch.1_566	WormBase	three_prime_UTR	786	801	.	+	.	Parent=Transcript:M03B6.5.1

@@ -1,0 +1,30 @@
+ch.2_217	RNASeq_F_asymmetry	transcript_region	101	101	265.0	.	.	
+ch.2_217	WormBase	five_prime_UTR	101	153	.	+	.	Parent=Transcript:C12D5.5.1
+ch.2_217	WormBase	exon	101	399	.	+	.	Parent=Transcript:C12D5.5.1
+ch.2_217	WormBase	gene	101	867	.	+	.	ID=Gene:WBGene00015708
+ch.2_217	WormBase	mRNA	101	867	.	+	.	ID=Transcript:C12D5.5.1;Parent=Gene:WBGene00015708
+ch.2_217	RNASeq_F_asymmetry	transcript_region	102	114	1058.0	.	.	
+ch.2_217	RNASeq_F_asymmetry	transcript_region	115	122	1597.0	.	.	
+ch.2_217	RNASeq_reads	transcript_region	121	162	1.0	.	.	
+ch.2_217	RNASeq_F_asymmetry	transcript_region	123	142	3407.0	.	.	
+ch.2_217	RNASeq_F_asymmetry	transcript_region	143	178	5147.0	.	.	
+ch.2_217	WormBase	CDS	154	399	.	+	.	ID=CDS:C12D5.5;Parent=Transcript:C12D5.5.1
+ch.2_217	RNASeq_reads	transcript_region	163	399	2.0	.	.	
+ch.2_217	WormBase	intron	400	453	.	+	.	Parent=Transcript:C12D5.5.1
+ch.2_217	RNASeq_splice	intron	400	453	11845.0	+	.	
+ch.2_217	RNASeq_splice	intron	400	456	17.0	+	.	
+ch.2_217	RNASeq_splice	intron	404	456	20.0	+	.	
+ch.2_217	WormBase	CDS	454	591	.	+	.	ID=CDS:C12D5.5;Parent=Transcript:C12D5.5.1
+ch.2_217	WormBase	exon	454	607	.	+	.	Parent=Transcript:C12D5.5.1
+ch.2_217	RNASeq_reads	transcript_region	454	607	3.0	.	.	
+ch.2_217	WormBase	three_prime_UTR	592	607	.	+	.	Parent=Transcript:C12D5.5.1
+ch.2_217	WormBase	intron	608	660	.	+	.	Parent=Transcript:C12D5.5.1
+ch.2_217	RNASeq_splice	intron	608	660	9079.0	+	.	
+ch.2_217	RNASeq_reads	transcript_region	661	784	2.0	.	.	
+ch.2_217	WormBase	exon	661	867	.	+	.	Parent=Transcript:C12D5.5.1
+ch.2_217	WormBase	three_prime_UTR	661	867	.	+	.	Parent=Transcript:C12D5.5.1
+ch.2_217	RNASeq_stranded	transcript_region	717	815	1.0	+	.	
+ch.2_217	RNASeq	transcription_end_site	759	759	.	+	.	
+ch.2_217	RNASeq_reads	transcript_region	785	843	1.0	.	.	
+ch.2_217	RNASeq_F_asymmetry	transcript_region	868	870	412.0	.	.	
+ch.2_217	RNASeq_F_asymmetry	transcript_region	871	875	253.0	.	.	

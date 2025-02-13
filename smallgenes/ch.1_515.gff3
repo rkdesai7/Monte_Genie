@@ -1,0 +1,84 @@
+ch.1_515	RNASeq_splice	intron	32	113	6.0	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	36	88	1.0	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	42	45	2.0	-	.	
+ch.1_515	RNASeq_reads	transcript_region	44	84	3.0	.	.	
+ch.1_515	RNASeq_splice	intron	44	612	8.0	-	.	
+ch.1_515	RNASeq_F_asymmetry	transcript_region	50	63	8764.0	.	.	
+ch.1_515	RNASeq_F_asymmetry	transcript_region	76	77	14937.0	.	.	
+ch.1_515	RNASeq_F_asymmetry	transcript_region	79	79	15655.0	.	.	
+ch.1_515	RNASeq_F_asymmetry	transcript_region	81	82	17056.0	.	.	
+ch.1_515	RNASeq_F_asymmetry	transcript_region	85	88	26777.0	.	.	
+ch.1_515	RNASeq_reads	transcript_region	85	88	6.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	89	97	2.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	89	109	33.0	.	.	
+ch.1_515	RNASeq_F_asymmetry	transcript_region	89	110	152853.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	98	107	4.0	+	.	
+ch.1_515	WormBase	five_prime_UTR	101	123	.	+	.	Parent=Transcript:ZC395.5.1
+ch.1_515	WormBase	exon	101	202	.	+	.	Parent=Transcript:ZC395.5.1
+ch.1_515	WormBase	gene	101	834	.	+	.	ID=Gene:WBGene00022597
+ch.1_515	WormBase	mRNA	101	834	.	+	.	ID=Transcript:ZC395.5.1;Parent=Gene:WBGene00022597
+ch.1_515	RNASeq_stranded	transcript_region	108	114	7.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	110	126	50.0	.	.	
+ch.1_515	RNASeq_F_asymmetry	transcript_region	111	134	244035.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	115	202	11.0	+	.	
+ch.1_515	WormBase	CDS	124	202	.	+	.	ID=CDS:ZC395.5;Parent=Transcript:ZC395.5.1
+ch.1_515	RNASeq_reads	transcript_region	127	202	80.0	.	.	
+ch.1_515	RNASeq_F_asymmetry	transcript_region	135	146	366803.0	.	.	
+ch.1_515	RNASeq_splice	intron	197	602	56.0	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	203	268	1.0	+	.	
+ch.1_515	RNASeq_splice	intron	203	577	19.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	203	601	6.0	.	.	
+ch.1_515	WormBase	intron	203	602	.	+	.	Parent=Transcript:ZC395.5.1
+ch.1_515	RNASeq_splice	intron	203	602	407017.0	+	.	
+ch.1_515	RNASeq_splice	intron	219	266	4.0	+	.	
+ch.1_515	RNASeq_splice	intron	226	266	41.0	-	.	
+ch.1_515	RNASeq_stranded	transcript_region	270	298	1.0	+	.	
+ch.1_515	WormBase_transposon	transposable_element	270	550	.	+	.	ID=Transposon:Predicted_CELE2_8769
+ch.1_515	RNASeq_stranded	transcript_region	300	300	1.0	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	302	349	1.0	+	.	
+ch.1_515	RNASeq_splice	intron	311	461	3.0	+	.	
+ch.1_515	RNASeq_splice	intron	324	497	10.0	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	464	466	1.0	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	471	558	1.0	+	.	
+ch.1_515	RNASeq_splice	intron	527	602	38.0	+	.	
+ch.1_515	RNASeq_splice	intron	545	602	43.0	+	.	
+ch.1_515	RNASeq_splice	intron	559	602	3912.0	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	567	601	1.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	602	602	21.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	602	602	5.0	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	603	615	13.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	603	693	113.0	.	.	
+ch.1_515	WormBase	CDS	603	748	.	+	.	ID=CDS:ZC395.5;Parent=Transcript:ZC395.5.1
+ch.1_515	WormBase	exon	603	834	.	+	.	Parent=Transcript:ZC395.5.1
+ch.1_515	RNASeq_stranded	transcript_region	616	690	20.0	+	.	
+ch.1_515	RNASeq_R_asymmetry	transcript_region	657	695	405459.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	691	699	31.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	694	713	74.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	700	798	48.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	714	731	48.0	.	.	
+ch.1_515	RNASeq	transcription_end_site	732	732	.	+	.	
+ch.1_515	RNASeq_reads	transcript_region	732	761	31.0	.	.	
+ch.1_515	WormBase	three_prime_UTR	749	834	.	+	.	Parent=Transcript:ZC395.5.1
+ch.1_515	RNASeq_reads	transcript_region	762	803	20.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	767	856	1.0	-	.	
+ch.1_515	RNASeq_stranded	transcript_region	799	809	30.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	804	822	13.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	810	817	19.0	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	818	822	12.0	+	.	
+ch.1_515	RNASeq_R_asymmetry	transcript_region	818	826	40183.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	823	829	7.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	823	830	8.0	.	.	
+ch.1_515	RNASeq_R_asymmetry	transcript_region	827	834	25264.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	830	835	4.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	831	835	5.0	.	.	
+ch.1_515	RNASeq_R_asymmetry	transcript_region	835	835	15932.0	.	.	
+ch.1_515	RNASeq	transcription_end_site	835	835	.	+	.	
+ch.1_515	RNASeq_stranded	transcript_region	836	839	1.0	+	.	
+ch.1_515	RNASeq_reads	transcript_region	836	843	1.0	.	.	
+ch.1_515	RNASeq_reads	transcript_region	846	869	1.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	857	869	2.0	-	.	
+ch.1_515	RNASeq_stranded	transcript_region	870	909	4.0	-	.	
+ch.1_515	RNASeq_reads	transcript_region	870	918	2.0	.	.	
+ch.1_515	RNASeq_stranded	transcript_region	910	918	7.0	-	.	
+ch.1_515	RNASeq	transcription_end_site	916	916	.	+	.	
+ch.1_515	RNASeq	transcription_end_site	916	916	.	+	.	

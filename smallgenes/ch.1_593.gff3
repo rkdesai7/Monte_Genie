@@ -1,0 +1,69 @@
+ch.1_593	RNASeq_splice	intron	60	167	3.0	+	.	
+ch.1_593	RNASeq_splice	intron	87	167	18.0	+	.	
+ch.1_593	WormBase	five_prime_UTR	101	130	.	+	.	Parent=Transcript:F32B6.7.1
+ch.1_593	WormBase	exon	101	229	.	+	.	Parent=Transcript:F32B6.7.1
+ch.1_593	WormBase	gene	101	849	.	+	.	ID=Gene:WBGene00006049
+ch.1_593	WormBase	mRNA	101	849	.	+	.	ID=Transcript:F32B6.7.1;Parent=Gene:WBGene00006049
+ch.1_593	RNASeq_F_asymmetry	transcript_region	111	115	233.0	.	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	117	118	589.0	.	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	119	119	907.0	.	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	120	124	1589.0	.	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	125	127	2498.0	.	.	
+ch.1_593	RNASeq_reads	transcript_region	125	131	1.0	.	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	128	131	4252.0	.	.	
+ch.1_593	WormBase	CDS	131	229	.	+	.	ID=CDS:F32B6.7;Parent=Transcript:F32B6.7.1
+ch.1_593	RNASeq_F_asymmetry	transcript_region	132	134	7291.0	.	.	
+ch.1_593	RNASeq_reads	transcript_region	132	139	2.0	.	.	
+ch.1_593	RNASeq_stranded	transcript_region	133	154	1.0	+	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	135	139	13100.0	.	.	
+ch.1_593	RNASeq_reads	transcript_region	140	154	4.0	.	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	140	156	20732.0	.	.	
+ch.1_593	RNASeq_reads	transcript_region	155	207	7.0	.	.	
+ch.1_593	RNASeq_stranded	transcript_region	155	213	2.0	+	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	157	187	31904.0	.	.	
+ch.1_593	RNASeq_splice	intron	199	538	67.0	+	.	
+ch.1_593	RNASeq_reads	transcript_region	208	229	11.0	.	.	
+ch.1_593	RNASeq_stranded	transcript_region	214	214	1.0	+	.	
+ch.1_593	RNASeq_stranded	transcript_region	215	229	4.0	+	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	230	231	5810.0	.	.	
+ch.1_593	RNASeq_reads	transcript_region	230	231	1.0	.	.	
+ch.1_593	WormBase	intron	230	538	.	+	.	Parent=Transcript:F32B6.7.1
+ch.1_593	RNASeq_splice	intron	230	538	50563.0	+	.	
+ch.1_593	RNASeq_splice	intron	230	544	41.0	+	.	
+ch.1_593	RNASeq_splice	intron	230	619	4.0	+	.	
+ch.1_593	RNASeq_splice	intron	230	683	17.0	+	.	
+ch.1_593	RNASeq_splice	intron	295	538	821.0	+	.	
+ch.1_593	RNASeq_splice	intron	299	538	12.0	+	.	
+ch.1_593	RNASeq_splice	intron	316	538	21.0	+	.	
+ch.1_593	RNASeq_reads	transcript_region	537	538	1.0	.	.	
+ch.1_593	RNASeq_stranded	transcript_region	537	538	1.0	+	.	
+ch.1_593	RNASeq_stranded	transcript_region	539	614	4.0	+	.	
+ch.1_593	RNASeq_reads	transcript_region	539	634	11.0	.	.	
+ch.1_593	WormBase	CDS	539	763	.	+	.	ID=CDS:F32B6.7;Parent=Transcript:F32B6.7.1
+ch.1_593	WormBase	exon	539	849	.	+	.	Parent=Transcript:F32B6.7.1
+ch.1_593	RNASeq_stranded	transcript_region	615	626	2.0	+	.	
+ch.1_593	RNASeq_stranded	transcript_region	627	637	1.0	+	.	
+ch.1_593	RNASeq_reads	transcript_region	635	673	7.0	.	.	
+ch.1_593	RNASeq_splice	intron	636	683	3.0	+	.	
+ch.1_593	RNASeq_stranded	transcript_region	638	643	2.0	+	.	
+ch.1_593	RNASeq_stranded	transcript_region	644	775	1.0	+	.	
+ch.1_593	RNASeq_reads	transcript_region	674	776	4.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	730	784	15117.0	.	.	
+ch.1_593	WormBase	three_prime_UTR	764	849	.	+	.	Parent=Transcript:F32B6.7.1
+ch.1_593	RNASeq_reads	transcript_region	777	786	2.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	785	828	6674.0	.	.	
+ch.1_593	RNASeq_reads	transcript_region	787	844	1.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	829	840	4295.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	841	856	2772.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	857	857	1735.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	858	861	1132.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	862	863	375.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	866	867	103.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	868	870	65.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	889	889	125.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	890	891	188.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	892	915	296.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	916	916	109.0	.	.	
+ch.1_593	RNASeq_R_asymmetry	transcript_region	917	917	60.0	.	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	925	928	21.0	.	.	
+ch.1_593	RNASeq_F_asymmetry	transcript_region	929	940	46.0	.	.	

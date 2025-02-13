@@ -1,0 +1,32 @@
+ch.1_330	WormBase	three_prime_UTR	577	634	.	+	.	Parent=Transcript:Y47D7A.11.1
+ch.1_330	WormBase	exon	482	634	.	+	.	Parent=Transcript:Y47D7A.11.1
+ch.1_330	WormBase	gene	101	634	.	+	.	ID=Gene:WBGene00021623
+ch.1_330	WormBase	mRNA	101	634	.	+	.	ID=Transcript:Y47D7A.11.1;Parent=Gene:WBGene00021623
+ch.1_330	RNASeq_reads	transcript_region	546	584	1.0	.	.	
+ch.1_330	WormBase	CDS	482	576	.	+	.	ID=CDS:Y47D7A.11;Parent=Transcript:Y47D7A.11.1
+ch.1_330	RNASeq_F_asymmetry	transcript_region	551	562	4076.0	.	.	
+ch.1_330	RNASeq_F_asymmetry	transcript_region	535	550	6122.0	.	.	
+ch.1_330	RNASeq_reads	transcript_region	507	545	2.0	.	.	
+ch.1_330	RNASeq_F_asymmetry	transcript_region	512	534	9294.0	.	.	
+ch.1_330	RNASeq_F_asymmetry	transcript_region	482	511	14487.0	.	.	
+ch.1_330	RNASeq_reads	transcript_region	482	506	4.0	.	.	
+ch.1_330	RNASeq_splice	intron	436	481	87.0	+	.	
+ch.1_330	WormBase	intron	412	481	.	+	.	Parent=Transcript:Y47D7A.11.1
+ch.1_330	RNASeq_splice	intron	412	481	18510.0	+	.	
+ch.1_330	RNASeq_splice	intron	366	481	157.0	+	.	
+ch.1_330	RNASeq_F_asymmetry	transcript_region	369	411	19659.0	.	.	
+ch.1_330	RNASeq_reads	transcript_region	311	411	4.0	.	.	
+ch.1_330	WormBase	CDS	117	411	.	+	.	ID=CDS:Y47D7A.11;Parent=Transcript:Y47D7A.11.1
+ch.1_330	WormBase	exon	101	411	.	+	.	Parent=Transcript:Y47D7A.11.1
+ch.1_330	RNASeq_F_asymmetry	transcript_region	275	324	20620.0	.	.	
+ch.1_330	RNASeq_reads	transcript_region	215	310	7.0	.	.	
+ch.1_330	RNASeq_F_asymmetry	transcript_region	226	274	31002.0	.	.	
+ch.1_330	RNASeq_reads	transcript_region	129	214	4.0	.	.	
+ch.1_330	RNASeq_R_asymmetry	transcript_region	126	183	16033.0	.	.	
+ch.1_330	RNASeq_reads	transcript_region	120	128	2.0	.	.	
+ch.1_330	RNASeq_R_asymmetry	transcript_region	120	125	10431.0	.	.	
+ch.1_330	RNASeq_R_asymmetry	transcript_region	118	119	6603.0	.	.	
+ch.1_330	RNASeq_reads	transcript_region	115	119	1.0	.	.	
+ch.1_330	RNASeq_R_asymmetry	transcript_region	115	117	4028.0	.	.	
+ch.1_330	WormBase	five_prime_UTR	101	116	.	+	.	Parent=Transcript:Y47D7A.11.1
+ch.1_330	RNASeq_R_asymmetry	transcript_region	114	114	1981.0	.	.	

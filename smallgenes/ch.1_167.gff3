@@ -1,0 +1,42 @@
+ch.1_167	RNASeq_F_asymmetry	transcript_region	68	69	245.0	.	.	
+ch.1_167	RNASeq_F_asymmetry	transcript_region	77	77	299.0	.	.	
+ch.1_167	RNASeq_F_asymmetry	transcript_region	81	83	357.0	.	.	
+ch.1_167	RNASeq_F_asymmetry	transcript_region	89	89	538.0	.	.	
+ch.1_167	RNASeq_F_asymmetry	transcript_region	90	95	1172.0	.	.	
+ch.1_167	RNASeq_F_asymmetry	transcript_region	96	102	1779.0	.	.	
+ch.1_167	RNASeq_reads	transcript_region	97	109	1.0	.	.	
+ch.1_167	WormBase	five_prime_UTR	101	117	.	+	.	Parent=Transcript:M04D8.3.1
+ch.1_167	WormBase	exon	101	265	.	+	.	Parent=Transcript:M04D8.3.1
+ch.1_167	WormBase	gene	101	551	.	+	.	ID=Gene:WBGene00002106
+ch.1_167	WormBase	mRNA	101	551	.	+	.	ID=Transcript:M04D8.3.1;Parent=Gene:WBGene00002106
+ch.1_167	RNASeq_F_asymmetry	transcript_region	103	104	2785.0	.	.	
+ch.1_167	RNASeq_stranded	transcript_region	104	105	1.0	+	.	
+ch.1_167	RNASeq_F_asymmetry	transcript_region	105	107	4274.0	.	.	
+ch.1_167	RNASeq_stranded	transcript_region	106	184	2.0	+	.	
+ch.1_167	RNASeq_F_asymmetry	transcript_region	108	119	6606.0	.	.	
+ch.1_167	RNASeq_reads	transcript_region	110	183	2.0	.	.	
+ch.1_167	WormBase	CDS	118	265	.	+	.	ID=CDS:M04D8.3;Parent=Transcript:M04D8.3.1
+ch.1_167	RNASeq_F_asymmetry	transcript_region	120	157	9974.0	.	.	
+ch.1_167	RNASeq_reads	transcript_region	184	265	4.0	.	.	
+ch.1_167	RNASeq_stranded	transcript_region	185	205	4.0	+	.	
+ch.1_167	RNASeq_stranded	transcript_region	206	210	2.0	+	.	
+ch.1_167	RNASeq_stranded	transcript_region	211	263	1.0	+	.	
+ch.1_167	RNASeq_splice	intron	244	293	11.0	+	.	
+ch.1_167	WormBase	intron	266	323	.	+	.	Parent=Transcript:M04D8.3.1
+ch.1_167	RNASeq_splice	intron	266	323	12150.0	+	.	
+ch.1_167	RNASeq_stranded	transcript_region	324	361	1.0	+	.	
+ch.1_167	RNASeq_reads	transcript_region	324	397	3.0	.	.	
+ch.1_167	WormBase	CDS	324	406	.	+	.	ID=CDS:M04D8.3;Parent=Transcript:M04D8.3.1
+ch.1_167	WormBase	exon	324	551	.	+	.	Parent=Transcript:M04D8.3.1
+ch.1_167	RNASeq_stranded	transcript_region	362	387	2.0	+	.	
+ch.1_167	RNASeq_stranded	transcript_region	388	400	4.0	+	.	
+ch.1_167	RNASeq_reads	transcript_region	398	492	5.0	.	.	
+ch.1_167	RNASeq_stranded	transcript_region	401	423	7.0	+	.	
+ch.1_167	WormBase	three_prime_UTR	407	551	.	+	.	Parent=Transcript:M04D8.3.1
+ch.1_167	RNASeq_stranded	transcript_region	424	518	11.0	+	.	
+ch.1_167	RNASeq_reads	transcript_region	493	522	3.0	.	.	
+ch.1_167	RNASeq_stranded	transcript_region	519	531	7.0	+	.	
+ch.1_167	RNASeq_reads	transcript_region	523	541	1.0	.	.	
+ch.1_167	RNASeq_stranded	transcript_region	532	541	4.0	+	.	
+ch.1_167	RNASeq_stranded	transcript_region	542	544	2.0	+	.	
+ch.1_167	RNASeq_stranded	transcript_region	545	549	1.0	+	.	

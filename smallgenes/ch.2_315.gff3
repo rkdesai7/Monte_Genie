@@ -1,0 +1,48 @@
+ch.2_315	WormBase	three_prime_UTR	652	814	.	+	.	Parent=Transcript:H03G16.7.1
+ch.2_315	WormBase	exon	649	814	.	+	.	Parent=Transcript:H03G16.7.1
+ch.2_315	WormBase	gene	101	814	.	+	.	ID=Gene:WBGene00304793
+ch.2_315	WormBase	mRNA	101	814	.	+	.	ID=Transcript:H03G16.7.1;Parent=Gene:WBGene00304793
+ch.2_315	RNASeq_stranded	transcript_region	787	804	1.0	+	.	
+ch.2_315	RNASeq_reads	transcript_region	722	792	1.0	.	.	
+ch.2_315	RNASeq_stranded	transcript_region	688	786	2.0	+	.	
+ch.2_315	RNASeq_reads	transcript_region	720	721	2.0	.	.	
+ch.2_315	RNASeq_reads	transcript_region	717	719	1.0	.	.	
+ch.2_315	RNASeq_reads	transcript_region	715	716	2.0	.	.	
+ch.2_315	RNASeq_reads	transcript_region	707	714	1.0	.	.	
+ch.2_315	RNASeq_reads	transcript_region	649	706	2.0	.	.	
+ch.2_315	RNASeq_stranded	transcript_region	664	687	4.0	+	.	
+ch.2_315	RNASeq_stranded	transcript_region	655	663	2.0	+	.	
+ch.2_315	RNASeq_F_asymmetry	transcript_region	649	654	11999.0	.	.	
+ch.2_315	RNASeq_stranded	transcript_region	649	654	1.0	+	.	
+ch.2_315	WormBase	CDS	649	651	.	+	.	ID=CDS:H03G16.7;Parent=Transcript:H03G16.7.1
+ch.2_315	WormBase	intron	601	648	.	+	.	Parent=Transcript:H03G16.7.1
+ch.2_315	RNASeq_splice	intron	601	648	17940.0	+	.	
+ch.2_315	RNASeq_F_asymmetry	transcript_region	581	600	13535.0	.	.	
+ch.2_315	RNASeq_stranded	transcript_region	532	600	1.0	+	.	
+ch.2_315	WormBase	CDS	383	600	.	+	.	ID=CDS:H03G16.7;Parent=Transcript:H03G16.7.1
+ch.2_315	WormBase	exon	383	600	.	+	.	Parent=Transcript:H03G16.7.1
+ch.2_315	RNASeq_reads	transcript_region	383	600	3.0	.	.	
+ch.2_315	RNASeq	transcription_end_site	596	596	.	-	.	
+ch.2_315	RNASeq_stranded	transcript_region	529	531	2.0	+	.	
+ch.2_315	RNASeq_stranded	transcript_region	528	528	1.0	-	.	
+ch.2_315	RNASeq_stranded	transcript_region	526	527	2.0	+	.	
+ch.2_315	RNASeq_stranded	transcript_region	469	525	1.0	+	.	
+ch.2_315	RNASeq_stranded	transcript_region	460	468	2.0	+	.	
+ch.2_315	RNASeq_stranded	transcript_region	450	459	1.0	+	.	
+ch.2_315	RNASeq_stranded	transcript_region	449	449	2.0	-	.	
+ch.2_315	RNASeq_stranded	transcript_region	411	448	1.0	+	.	
+ch.2_315	RNASeq_stranded	transcript_region	383	405	1.0	+	.	
+ch.2_315	RNASeq_splice	intron	337	391	187.0	+	.	
+ch.2_315	WormBase	intron	337	382	.	+	.	Parent=Transcript:H03G16.7.1
+ch.2_315	RNASeq_splice	intron	337	382	15093.0	+	.	
+ch.2_315	RNASeq_splice	intron	337	373	12.0	+	.	
+ch.2_315	RNASeq_stranded	transcript_region	309	336	1.0	+	.	
+ch.2_315	WormBase	CDS	108	336	.	+	.	ID=CDS:H03G16.7;Parent=Transcript:H03G16.7.1
+ch.2_315	RNASeq_reads	transcript_region	105	336	3.0	.	.	
+ch.2_315	WormBase	exon	101	336	.	+	.	Parent=Transcript:H03G16.7.1
+ch.2_315	RNASeq_stranded	transcript_region	128	188	1.0	+	.	
+ch.2_315	RNASeq_R_asymmetry	transcript_region	105	155	10317.0	.	.	
+ch.2_315	WormBase	five_prime_UTR	101	107	.	+	.	Parent=Transcript:H03G16.7.1
+ch.2_315	RNASeq_R_asymmetry	transcript_region	98	104	6748.0	.	.	
+ch.2_315	RNASeq_reads	transcript_region	97	104	1.0	.	.	
+ch.2_315	RNASeq_R_asymmetry	transcript_region	97	97	4047.0	.	.	

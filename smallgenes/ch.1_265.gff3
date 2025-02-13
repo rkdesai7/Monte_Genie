@@ -1,0 +1,46 @@
+ch.1_265	RNASeq_splice	intron	52	94	10.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	90	102	2.0	.	.	
+ch.1_265	RNASeq_stranded	transcript_region	98	105	1.0	+	.	
+ch.1_265	RNASeq_F_asymmetry	transcript_region	101	105	14030.0	.	.	
+ch.1_265	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:F16B4.7.1
+ch.1_265	WormBase	exon	101	217	.	+	.	Parent=Transcript:F16B4.7.1
+ch.1_265	WormBase	gene	101	479	.	+	.	ID=Gene:WBGene00017509
+ch.1_265	WormBase	mRNA	101	479	.	+	.	ID=Transcript:F16B4.7.1;Parent=Gene:WBGene00017509
+ch.1_265	RNASeq_reads	transcript_region	103	105	4.0	.	.	
+ch.1_265	RNASeq_F_asymmetry	transcript_region	106	131	36855.0	.	.	
+ch.1_265	RNASeq_stranded	transcript_region	106	141	2.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	106	171	8.0	.	.	
+ch.1_265	WormBase	CDS	112	217	.	+	.	ID=CDS:F16B4.7;Parent=Transcript:F16B4.7.1
+ch.1_265	RNASeq_F_asymmetry	transcript_region	132	181	55348.0	.	.	
+ch.1_265	RNASeq_stranded	transcript_region	142	209	4.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	172	209	13.0	.	.	
+ch.1_265	RNASeq_splice	intron	174	266	3.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	210	217	8.0	.	.	
+ch.1_265	RNASeq_stranded	transcript_region	210	217	2.0	+	.	
+ch.1_265	RNASeq_splice	intron	215	266	55.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	218	265	1.0	.	.	
+ch.1_265	RNASeq_stranded	transcript_region	218	265	1.0	+	.	
+ch.1_265	WormBase	intron	218	266	.	+	.	Parent=Transcript:F16B4.7.1
+ch.1_265	RNASeq_splice	intron	218	266	30062.0	+	.	
+ch.1_265	RNASeq_splice	intron	218	352	4.0	+	.	
+ch.1_265	RNASeq_splice	intron	222	266	12.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	266	266	2.0	.	.	
+ch.1_265	RNASeq_stranded	transcript_region	266	270	2.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	267	306	9.0	.	.	
+ch.1_265	WormBase	CDS	267	418	.	+	.	ID=CDS:F16B4.7;Parent=Transcript:F16B4.7.1
+ch.1_265	WormBase	exon	267	479	.	+	.	Parent=Transcript:F16B4.7.1
+ch.1_265	RNASeq_stranded	transcript_region	271	307	4.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	307	410	14.0	.	.	
+ch.1_265	RNASeq_stranded	transcript_region	308	311	7.0	+	.	
+ch.1_265	RNASeq_stranded	transcript_region	312	317	11.0	+	.	
+ch.1_265	RNASeq_stranded	transcript_region	318	335	17.0	+	.	
+ch.1_265	RNASeq_stranded	transcript_region	336	429	26.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	411	438	9.0	.	.	
+ch.1_265	WormBase	three_prime_UTR	419	479	.	+	.	Parent=Transcript:F16B4.7.1
+ch.1_265	RNASeq_stranded	transcript_region	430	443	17.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	439	452	5.0	.	.	
+ch.1_265	RNASeq_stranded	transcript_region	444	450	11.0	+	.	
+ch.1_265	RNASeq_stranded	transcript_region	451	465	7.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	453	472	3.0	.	.	
+ch.1_265	RNASeq_stranded	transcript_region	466	478	3.0	+	.	
+ch.1_265	RNASeq_reads	transcript_region	473	478	1.0	.	.	

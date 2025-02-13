@@ -1,0 +1,62 @@
+ch.1_342	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:T04H1.3.1
+ch.1_342	WormBase	exon	101	273	.	+	.	Parent=Transcript:T04H1.3.1
+ch.1_342	WormBase	gene	101	620	.	+	.	ID=Gene:WBGene00011450
+ch.1_342	WormBase	mRNA	101	620	.	+	.	ID=Transcript:T04H1.3.1;Parent=Gene:WBGene00011450
+ch.1_342	RNASeq_F_asymmetry	transcript_region	104	106	2292.0	.	.	
+ch.1_342	RNASeq_reads	transcript_region	104	108	1.0	.	.	
+ch.1_342	WormBase	CDS	105	273	.	+	.	ID=CDS:T04H1.3;Parent=Transcript:T04H1.3.1
+ch.1_342	RNASeq_F_asymmetry	transcript_region	107	109	5683.0	.	.	
+ch.1_342	RNASeq_reads	transcript_region	109	125	2.0	.	.	
+ch.1_342	RNASeq_F_asymmetry	transcript_region	110	121	9012.0	.	.	
+ch.1_342	RNASeq_F_asymmetry	transcript_region	122	137	13855.0	.	.	
+ch.1_342	RNASeq_reads	transcript_region	126	171	4.0	.	.	
+ch.1_342	RNASeq_stranded	transcript_region	126	192	1.0	+	.	
+ch.1_342	RNASeq_F_asymmetry	transcript_region	138	172	20849.0	.	.	
+ch.1_342	RNASeq_reads	transcript_region	172	273	7.0	.	.	
+ch.1_342	RNASeq_stranded	transcript_region	197	227	1.0	+	.	
+ch.1_342	RNASeq_stranded	transcript_region	228	273	2.0	+	.	
+ch.1_342	WormBase	intron	274	321	.	+	.	Parent=Transcript:T04H1.3.1
+ch.1_342	RNASeq_splice	intron	274	321	38390.0	+	.	
+ch.1_342	RNASeq_splice	intron	278	321	5.0	+	.	
+ch.1_342	RNASeq_stranded	transcript_region	322	410	1.0	+	.	
+ch.1_342	RNASeq_reads	transcript_region	322	509	8.0	.	.	
+ch.1_342	WormBase	CDS	322	587	.	+	.	ID=CDS:T04H1.3;Parent=Transcript:T04H1.3.1
+ch.1_342	WormBase	exon	322	620	.	+	.	Parent=Transcript:T04H1.3.1
+ch.1_342	RNASeq_splice	intron	380	529	6.0	+	.	
+ch.1_342	RNASeq_stranded	transcript_region	413	418	1.0	+	.	
+ch.1_342	RNASeq_stranded	transcript_region	427	428	1.0	+	.	
+ch.1_342	RNASeq_stranded	transcript_region	456	456	1.0	+	.	
+ch.1_342	RNASeq_stranded	transcript_region	458	458	1.0	+	.	
+ch.1_342	RNASeq_stranded	transcript_region	492	551	1.0	+	.	
+ch.1_342	RNASeq_reads	transcript_region	510	547	5.0	.	.	
+ch.1_342	RNASeq	transcription_end_site	523	523	.	+	.	
+ch.1_342	RNASeq_reads	transcript_region	548	591	3.0	.	.	
+ch.1_342	RNASeq	transcription_end_site	551	551	.	+	.	
+ch.1_342	WormBase	three_prime_UTR	588	620	.	+	.	Parent=Transcript:T04H1.3.1
+ch.1_342	RNASeq_reads	transcript_region	592	610	1.0	.	.	
+ch.1_342	RNASeq	transcription_end_site	634	634	.	+	.	
+ch.1_342	RNASeq	transcription_end_site	636	636	.	+	.	
+ch.1_342	RNASeq	transcription_end_site	636	636	.	+	.	
+ch.1_342	RNASeq_reads	transcript_region	636	637	1.0	.	.	
+ch.1_342	RNASeq_stranded	transcript_region	636	637	1.0	-	.	
+ch.1_342	RNASeq_F_asymmetry	transcript_region	637	637	5192.0	.	.	
+ch.1_342	RNASeq	transcription_end_site	638	638	.	+	.	
+ch.1_342	RNASeq	transcription_end_site	638	638	.	+	.	
+ch.1_342	RNASeq_reads	transcript_region	638	639	3.0	.	.	
+ch.1_342	RNASeq_stranded	transcript_region	638	641	6.0	-	.	
+ch.1_342	RNASeq_F_asymmetry	transcript_region	640	642	23172.0	.	.	
+ch.1_342	RNASeq_reads	transcript_region	640	643	6.0	.	.	
+ch.1_342	RNASeq	transcription_end_site	642	642	.	+	.	
+ch.1_342	RNASeq	transcription_end_site	642	642	.	+	.	
+ch.1_342	RNASeq_stranded	transcript_region	642	647	11.0	-	.	
+ch.1_342	RNASeq_F_asymmetry	transcript_region	644	649	39724.0	.	.	
+ch.1_342	RNASeq_reads	transcript_region	644	652	10.0	.	.	
+ch.1_342	RNASeq	transcription_end_site	646	646	.	+	.	
+ch.1_342	RNASeq_stranded	transcript_region	648	655	17.0	-	.	
+ch.1_342	RNASeq_F_asymmetry	transcript_region	650	655	60615.0	.	.	
+ch.1_342	RNASeq_reads	transcript_region	653	675	16.0	.	.	
+ch.1_342	RNASeq_stranded	transcript_region	656	661	26.0	-	.	
+ch.1_342	RNASeq_stranded	transcript_region	662	670	44.0	-	.	
+ch.1_342	RNASeq_stranded	transcript_region	671	689	70.0	-	.	
+ch.1_342	RNASeq_reads	transcript_region	676	705	25.0	.	.	
+ch.1_342	RNASeq_stranded	transcript_region	690	707	107.0	-	.	

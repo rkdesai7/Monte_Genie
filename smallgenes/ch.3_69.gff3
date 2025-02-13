@@ -1,0 +1,102 @@
+ch.3_69	RNASeq_F_asymmetry	transcript_region	99	102	143691.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	99	102	29.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	99	114	14.0	+	.	
+ch.3_69	WormBase	exon	101	196	.	+	.	Parent=Transcript:C40H1.6.1
+ch.3_69	WormBase	CDS	101	196	.	+	.	ID=CDS:C40H1.6;Parent=Transcript:C40H1.6.1
+ch.3_69	WormBase	gene	101	871	.	+	.	ID=Gene:WBGene00008041
+ch.3_69	WormBase	mRNA	101	871	.	+	.	ID=Transcript:C40H1.6.1;Parent=Gene:WBGene00008041
+ch.3_69	RNASeq_F_asymmetry	transcript_region	103	112	267467.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	103	112	53.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	113	157	88.0	.	.	
+ch.3_69	RNASeq_F_asymmetry	transcript_region	113	184	434942.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	115	154	22.0	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	155	157	34.0	+	.	
+ch.3_69	RNASeq_reads	transcript_region	158	196	141.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	158	196	95.0	+	.	
+ch.3_69	RNASeq_splice	intron	161	520	16.0	+	.	
+ch.3_69	RNASeq_F_asymmetry	transcript_region	197	197	109751.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	197	197	23.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	197	197	17.0	+	.	
+ch.3_69	RNASeq_splice	intron	197	238	355.0	+	.	
+ch.3_69	WormBase	intron	197	245	.	+	.	Parent=Transcript:C40H1.6.1
+ch.3_69	RNASeq_splice	intron	197	245	701405.0	+	.	
+ch.3_69	RNASeq_splice	intron	197	249	7.0	+	.	
+ch.3_69	RNASeq_F_asymmetry	transcript_region	198	199	1603.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	198	208	1.0	+	.	
+ch.3_69	RNASeq_F_asymmetry	transcript_region	235	235	1370.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	243	243	1.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	244	245	13.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	244	245	10.0	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	246	257	103.0	+	.	
+ch.3_69	WormBase	CDS	246	310	.	+	.	ID=CDS:C40H1.6;Parent=Transcript:C40H1.6.1
+ch.3_69	WormBase	exon	246	310	.	+	.	Parent=Transcript:C40H1.6.1
+ch.3_69	RNASeq_reads	transcript_region	246	310	137.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	258	285	54.0	+	.	
+ch.3_69	RNASeq_splice	intron	258	435	6.0	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	286	310	34.0	+	.	
+ch.3_69	RNASeq_splice	intron	299	716	3.0	+	.	
+ch.3_69	RNASeq_splice	intron	311	393	5.0	+	.	
+ch.3_69	RNASeq_splice	intron	311	401	48.0	+	.	
+ch.3_69	WormBase	intron	311	415	.	+	.	Parent=Transcript:C40H1.6.1
+ch.3_69	RNASeq_splice	intron	311	415	696731.0	+	.	
+ch.3_69	RNASeq_splice	intron	311	620	4.0	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	416	491	30.0	+	.	
+ch.3_69	WormBase	CDS	416	575	.	+	.	ID=CDS:C40H1.6;Parent=Transcript:C40H1.6.1
+ch.3_69	WormBase	exon	416	575	.	+	.	Parent=Transcript:C40H1.6.1
+ch.3_69	RNASeq_reads	transcript_region	416	575	119.0	.	.	
+ch.3_69	RNASeq_splice	intron	482	620	16.0	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	492	526	19.0	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	527	531	31.0	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	532	575	47.0	+	.	
+ch.3_69	RNASeq_splice	intron	568	626	9.0	-	.	
+ch.3_69	RNASeq_splice	intron	568	704	4.0	-	.	
+ch.3_69	RNASeq_stranded	transcript_region	576	578	1.0	+	.	
+ch.3_69	WormBase	intron	576	620	.	+	.	Parent=Transcript:C40H1.6.1
+ch.3_69	RNASeq_reads	transcript_region	576	620	1.0	.	.	
+ch.3_69	RNASeq_splice	intron	576	620	595666.0	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	621	623	18.0	+	.	
+ch.3_69	RNASeq_reads	transcript_region	621	777	108.0	.	.	
+ch.3_69	WormBase	CDS	621	788	.	+	.	ID=CDS:C40H1.6;Parent=Transcript:C40H1.6.1
+ch.3_69	WormBase	exon	621	871	.	+	.	Parent=Transcript:C40H1.6.1
+ch.3_69	RNASeq_stranded	transcript_region	624	697	28.0	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	698	747	43.0	+	.	
+ch.3_69	RNASeq_R_asymmetry	transcript_region	734	785	378935.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	748	807	28.0	+	.	
+ch.3_69	RNASeq_reads	transcript_region	778	787	70.0	.	.	
+ch.3_69	RNASeq_R_asymmetry	transcript_region	786	789	237355.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	788	789	43.0	.	.	
+ch.3_69	WormBase	three_prime_UTR	789	871	.	+	.	Parent=Transcript:C40H1.6.1
+ch.3_69	RNASeq_reads	transcript_region	790	813	27.0	.	.	
+ch.3_69	RNASeq_R_asymmetry	transcript_region	805	813	89066.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	808	817	18.0	+	.	
+ch.3_69	RNASeq	transcription_end_site	810	810	.	+	.	
+ch.3_69	RNASeq	transcription_end_site	813	813	.	+	.	
+ch.3_69	RNASeq_reads	transcript_region	814	840	17.0	.	.	
+ch.3_69	RNASeq_R_asymmetry	transcript_region	815	844	66158.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	818	837	11.0	+	.	
+ch.3_69	RNASeq	transcription_end_site	824	824	.	+	.	
+ch.3_69	RNASeq	transcription_end_site	828	828	.	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	838	853	7.0	+	.	
+ch.3_69	RNASeq	transcription_end_site	840	840	.	+	.	
+ch.3_69	RNASeq_reads	transcript_region	841	851	11.0	.	.	
+ch.3_69	RNASeq_R_asymmetry	transcript_region	845	855	39936.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	852	871	7.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	854	866	4.0	+	.	
+ch.3_69	RNASeq_R_asymmetry	transcript_region	856	856	26356.0	.	.	
+ch.3_69	WormBase	three_prime_UTR	856	913	.	-	.	Parent=Transcript:C40H1.4.1
+ch.3_69	RNASeq	transcription_end_site	862	862	.	+	.	
+ch.3_69	RNASeq_stranded	transcript_region	867	873	2.0	+	.	
+ch.3_69	RNASeq_reads	transcript_region	872	907	3.0	.	.	
+ch.3_69	RNASeq_stranded	transcript_region	872	909	1.0	-	.	
+ch.3_69	RNASeq_stranded	transcript_region	874	894	1.0	+	.	
+ch.3_69	RNASeq	transcription_end_site	892	892	.	+	.	
+ch.3_69	RNASeq	transcription_end_site	892	892	.	+	.	
+ch.3_69	RNASeq_F_asymmetry	transcript_region	903	914	15427.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	908	918	5.0	.	.	
+ch.3_69	RNASeq	transcription_end_site	914	914	.	+	.	
+ch.3_69	RNASeq	transcription_end_site	914	914	.	+	.	
+ch.3_69	RNASeq_F_asymmetry	transcript_region	915	919	23569.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	919	925	8.0	.	.	
+ch.3_69	RNASeq_F_asymmetry	transcript_region	920	925	35864.0	.	.	
+ch.3_69	RNASeq_reads	transcript_region	926	940	13.0	.	.	
+ch.3_69	RNASeq_F_asymmetry	transcript_region	926	943	62743.0	.	.	

@@ -1,0 +1,40 @@
+ch.1_488	WormBase	five_prime_UTR	101	288	.	+	.	Parent=Transcript:F33D11.16a.1
+ch.1_488	WormBase	exon	101	307	.	+	.	Parent=Transcript:F33D11.16a.1
+ch.1_488	WormBase	gene	101	856	.	+	.	ID=Gene:WBGene00269382
+ch.1_488	WormBase	mRNA	101	856	.	+	.	ID=Transcript:F33D11.16a.1;Parent=Gene:WBGene00269382
+ch.1_488	RNASeq_F_asymmetry	transcript_region	139	151	594.0	.	.	
+ch.1_488	RNASeq_F_asymmetry	transcript_region	152	163	930.0	.	.	
+ch.1_488	RNASeq_F_asymmetry	transcript_region	166	182	1291.0	.	.	
+ch.1_488	RNASeq_F_asymmetry	transcript_region	183	203	2002.0	.	.	
+ch.1_488	RNASeq_reads	transcript_region	187	275	1.0	.	.	
+ch.1_488	RNASeq_F_asymmetry	transcript_region	204	245	3045.0	.	.	
+ch.1_488	RNASeq_reads	transcript_region	276	299	2.0	.	.	
+ch.1_488	RNASeq_F_asymmetry	transcript_region	283	307	9991.0	.	.	
+ch.1_488	WormBase	CDS	289	307	.	+	.	ID=CDS:F33D11.16a;Parent=Transcript:F33D11.16a.1
+ch.1_488	RNASeq_reads	transcript_region	300	307	4.0	.	.	
+ch.1_488	RNASeq_splice	intron	302	535	3.0	-	.	
+ch.1_488	WormBase	intron	308	590	.	+	.	Parent=Transcript:F33D11.16a.1
+ch.1_488	RNASeq_splice	intron	308	590	17895.0	+	.	
+ch.1_488	RNASeq_splice	intron	326	535	4.0	-	.	
+ch.1_488	RNASeq_splice	intron	372	414	8.0	-	.	
+ch.1_488	RNASeq_reads	transcript_region	590	590	1.0	.	.	
+ch.1_488	RNASeq_stranded	transcript_region	591	680	1.0	+	.	
+ch.1_488	WormBase	CDS	591	760	.	+	.	ID=CDS:F33D11.16a;Parent=Transcript:F33D11.16a.1
+ch.1_488	RNASeq_reads	transcript_region	591	777	4.0	.	.	
+ch.1_488	WormBase	exon	591	856	.	+	.	Parent=Transcript:F33D11.16a.1
+ch.1_488	RNASeq	transcription_end_site	632	632	.	+	.	
+ch.1_488	WormBase	mRNA	641	760	.	+	.	ID=Transcript:F33D11.16b.1;Parent=Gene:WBGene00269382
+ch.1_488	WormBase	exon	641	760	.	+	.	Parent=Transcript:F33D11.16b.1
+ch.1_488	WormBase	CDS	641	760	.	+	.	ID=CDS:F33D11.16b;Parent=Transcript:F33D11.16b.1
+ch.1_488	RNASeq	transcription_end_site	656	656	.	+	.	
+ch.1_488	RNASeq_stranded	transcript_region	689	805	1.0	+	.	
+ch.1_488	RNASeq_R_asymmetry	transcript_region	739	753	16164.0	.	.	
+ch.1_488	WormBase	three_prime_UTR	761	856	.	+	.	Parent=Transcript:F33D11.16a.1
+ch.1_488	RNASeq_R_asymmetry	transcript_region	776	798	9954.0	.	.	
+ch.1_488	RNASeq_reads	transcript_region	778	799	2.0	.	.	
+ch.1_488	RNASeq_splice	intron	789	885	34.0	-	.	
+ch.1_488	RNASeq_splice	intron	796	885	17.0	-	.	
+ch.1_488	RNASeq_R_asymmetry	transcript_region	799	800	5954.0	.	.	
+ch.1_488	RNASeq_reads	transcript_region	800	829	1.0	.	.	
+ch.1_488	RNASeq	transcription_end_site	841	841	.	+	.	
+ch.1_488	RNASeq_splice	intron	891	933	13.0	+	.	

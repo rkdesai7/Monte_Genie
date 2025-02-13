@@ -1,0 +1,102 @@
+ch.2_324	RNASeq_reads	transcript_region	22	94	1.0	.	.	
+ch.2_324	RNASeq_F_asymmetry	transcript_region	48	86	3137.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	48	94	1.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	95	98	4.0	+	.	
+ch.2_324	RNASeq_F_asymmetry	transcript_region	95	99	182284.0	.	.	
+ch.2_324	RNASeq_reads	transcript_region	95	99	36.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	99	99	17.0	+	.	
+ch.2_324	RNASeq_F_asymmetry	transcript_region	100	102	321102.0	.	.	
+ch.2_324	RNASeq_reads	transcript_region	100	103	64.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	100	117	28.0	+	.	
+ch.2_324	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:C03D6.8.1
+ch.2_324	WormBase	exon	101	187	.	+	.	Parent=Transcript:C03D6.8.1
+ch.2_324	WormBase	gene	101	784	.	+	.	ID=Gene:WBGene00004437
+ch.2_324	WormBase	mRNA	101	784	.	+	.	ID=Transcript:C03D6.8.1;Parent=Gene:WBGene00004437
+ch.2_324	RNASeq_F_asymmetry	transcript_region	103	115	486726.0	.	.	
+ch.2_324	RNASeq_reads	transcript_region	104	115	99.0	.	.	
+ch.2_324	WormBase	CDS	107	187	.	+	.	ID=CDS:C03D6.8;Parent=Transcript:C03D6.8.1
+ch.2_324	RNASeq_F_asymmetry	transcript_region	116	146	736356.0	.	.	
+ch.2_324	RNASeq_reads	transcript_region	116	146	149.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	118	144	43.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	145	146	69.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	147	158	1.0	-	.	
+ch.2_324	RNASeq_F_asymmetry	transcript_region	147	187	1299650.0	.	.	
+ch.2_324	RNASeq_reads	transcript_region	147	187	274.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	147	189	352.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	159	187	2.0	-	.	
+ch.2_324	RNASeq_F_asymmetry	transcript_region	188	189	664483.0	.	.	
+ch.2_324	RNASeq_reads	transcript_region	188	189	128.0	.	.	
+ch.2_324	WormBase	intron	188	242	.	+	.	Parent=Transcript:C03D6.8.1
+ch.2_324	RNASeq_splice	intron	188	242	1038140.0	+	.	
+ch.2_324	RNASeq_splice	intron	188	265	8.0	+	.	
+ch.2_324	RNASeq_splice	intron	188	284	7.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	190	190	2.0	+	.	
+ch.2_324	RNASeq_reads	transcript_region	190	242	1.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	191	197	1.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	243	263	74.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	243	282	2.0	-	.	
+ch.2_324	WormBase	CDS	243	469	.	+	.	ID=CDS:C03D6.8;Parent=Transcript:C03D6.8.1
+ch.2_324	WormBase	exon	243	469	.	+	.	Parent=Transcript:C03D6.8.1
+ch.2_324	RNASeq_reads	transcript_region	243	469	193.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	264	314	198.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	283	291	1.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	292	299	2.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	300	333	1.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	315	437	48.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	334	347	2.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	348	425	4.0	-	.	
+ch.2_324	RNASeq_splice	intron	394	525	5.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	426	441	2.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	438	469	73.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	442	456	1.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	457	469	2.0	-	.	
+ch.2_324	RNASeq_reads	transcript_region	470	472	13.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	470	472	4.0	+	.	
+ch.2_324	WormBase	intron	470	515	.	+	.	Parent=Transcript:C03D6.8.1
+ch.2_324	RNASeq_splice	intron	470	515	1228470.0	+	.	
+ch.2_324	RNASeq_splice	intron	470	533	10.0	+	.	
+ch.2_324	RNASeq_splice	intron	470	555	13.0	+	.	
+ch.2_324	RNASeq_splice	intron	470	629	6.0	+	.	
+ch.2_324	RNASeq_reads	transcript_region	513	513	1.0	.	.	
+ch.2_324	RNASeq_reads	transcript_region	514	515	35.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	514	515	15.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	514	515	1.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	516	542	79.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	516	562	3.0	-	.	
+ch.2_324	WormBase	CDS	516	696	.	+	.	ID=CDS:C03D6.8;Parent=Transcript:C03D6.8.1
+ch.2_324	RNASeq_reads	transcript_region	516	697	242.0	.	.	
+ch.2_324	WormBase	exon	516	784	.	+	.	Parent=Transcript:C03D6.8.1
+ch.2_324	RNASeq_stranded	transcript_region	543	635	142.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	563	569	1.0	-	.	
+ch.2_324	RNASeq_splice	intron	563	661	7.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	570	674	2.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	636	736	218.0	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	675	689	1.0	-	.	
+ch.2_324	RNASeq_stranded	transcript_region	695	700	1.0	-	.	
+ch.2_324	WormBase	three_prime_UTR	697	784	.	+	.	Parent=Transcript:C03D6.8.1
+ch.2_324	RNASeq_reads	transcript_region	698	753	144.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	701	785	2.0	-	.	
+ch.2_324	RNASeq_R_asymmetry	transcript_region	731	757	479893.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	737	771	140.0	+	.	
+ch.2_324	RNASeq_reads	transcript_region	754	759	93.0	.	.	
+ch.2_324	RNASeq_reads	transcript_region	760	776	53.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	772	779	87.0	+	.	
+ch.2_324	RNASeq_reads	transcript_region	777	782	32.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	780	782	57.0	+	.	
+ch.2_324	RNASeq_reads	transcript_region	783	784	21.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	783	785	37.0	+	.	
+ch.2_324	RNASeq	transcription_end_site	784	784	.	+	.	
+ch.2_324	RNASeq_reads	transcript_region	785	785	13.0	.	.	
+ch.2_324	RNASeq	transcription_end_site	785	785	.	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	786	786	13.0	+	.	
+ch.2_324	RNASeq	transcription_end_site	786	786	.	+	.	
+ch.2_324	RNASeq_reads	transcript_region	786	787	7.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	787	787	8.0	+	.	
+ch.2_324	RNASeq	transcription_end_site	787	787	.	+	.	
+ch.2_324	RNASeq	transcription_end_site	788	788	.	+	.	
+ch.2_324	RNASeq_reads	transcript_region	788	790	2.0	.	.	
+ch.2_324	RNASeq_stranded	transcript_region	788	793	3.0	+	.	
+ch.2_324	RNASeq	transcription_end_site	789	789	.	+	.	
+ch.2_324	RNASeq_stranded	transcript_region	794	795	1.0	+	.	
+ch.2_324	RNASeq	transcription_end_site	807	807	.	+	.	
+ch.2_324	RNASeq	transcription_end_site	810	810	.	+	.	

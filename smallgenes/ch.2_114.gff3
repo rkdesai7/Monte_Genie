@@ -1,0 +1,77 @@
+ch.2_114	RNASeq_F_asymmetry	transcript_region	25	25	3321.0	.	.	
+ch.2_114	RNASeq_F_asymmetry	transcript_region	33	50	3595.0	.	.	
+ch.2_114	RNASeq_splice	intron	41	100	232.0	+	.	
+ch.2_114	RNASeq_reads	transcript_region	84	93	2.0	.	.	
+ch.2_114	RNASeq_F_asymmetry	transcript_region	94	98	144641.0	.	.	
+ch.2_114	RNASeq_reads	transcript_region	94	98	29.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	94	98	1.0	+	.	
+ch.2_114	RNASeq_F_asymmetry	transcript_region	99	101	308215.0	.	.	
+ch.2_114	RNASeq_reads	transcript_region	99	101	61.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	99	105	37.0	+	.	
+ch.2_114	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:F36H1.1a.1
+ch.2_114	WormBase	exon	101	232	.	+	.	Parent=Transcript:F36H1.1a.1
+ch.2_114	WormBase	gene	101	693	.	+	.	ID=Gene:WBGene00001426
+ch.2_114	WormBase	mRNA	101	693	.	+	.	ID=Transcript:F36H1.1a.1;Parent=Gene:WBGene00001426
+ch.2_114	RNASeq_F_asymmetry	transcript_region	102	105	493619.0	.	.	
+ch.2_114	RNASeq_reads	transcript_region	102	105	97.0	.	.	
+ch.2_114	WormBase	CDS	105	232	.	+	.	ID=CDS:F36H1.1a;Parent=Transcript:F36H1.1a.1
+ch.2_114	RNASeq_F_asymmetry	transcript_region	106	114	778179.0	.	.	
+ch.2_114	RNASeq_reads	transcript_region	106	114	153.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	106	125	58.0	+	.	
+ch.2_114	RNASeq_F_asymmetry	transcript_region	115	175	1167720.0	.	.	
+ch.2_114	RNASeq_reads	transcript_region	115	176	232.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	126	215	88.0	+	.	
+ch.2_114	RNASeq_splice	intron	148	349	6.0	+	.	
+ch.2_114	RNASeq_reads	transcript_region	177	232	350.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	216	232	56.0	+	.	
+ch.2_114	RNASeq_stranded	transcript_region	233	233	1.0	+	.	
+ch.2_114	RNASeq_reads	transcript_region	233	274	1.0	.	.	
+ch.2_114	WormBase	intron	233	277	.	+	.	Parent=Transcript:F36H1.1a.1
+ch.2_114	RNASeq_splice	intron	233	277	1897220.0	+	.	
+ch.2_114	RNASeq_splice	intron	233	281	103.0	+	.	
+ch.2_114	RNASeq_splice	intron	233	343	12.0	+	.	
+ch.2_114	RNASeq_reads	transcript_region	275	277	40.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	275	277	12.0	+	.	
+ch.2_114	RNASeq_stranded	transcript_region	278	298	51.0	+	.	
+ch.2_114	WormBase	CDS	278	389	.	+	.	ID=CDS:F36H1.1a;Parent=Transcript:F36H1.1a.1
+ch.2_114	WormBase	exon	278	389	.	+	.	Parent=Transcript:F36H1.1a.1
+ch.2_114	RNASeq_reads	transcript_region	278	389	352.0	.	.	
+ch.2_114	WormBase	CDS	297	389	.	+	.	ID=CDS:F36H1.1b;Parent=Transcript:F36H1.1b.1
+ch.2_114	WormBase	exon	297	389	.	+	.	Parent=Transcript:F36H1.1b.1
+ch.2_114	WormBase	mRNA	297	620	.	+	.	ID=Transcript:F36H1.1b.1;Parent=Gene:WBGene00001426
+ch.2_114	RNASeq_stranded	transcript_region	299	303	77.0	+	.	
+ch.2_114	RNASeq_stranded	transcript_region	304	354	131.0	+	.	
+ch.2_114	RNASeq_stranded	transcript_region	355	389	73.0	+	.	
+ch.2_114	RNASeq_splice	intron	375	515	3.0	-	.	
+ch.2_114	RNASeq_stranded	transcript_region	376	389	1.0	-	.	
+ch.2_114	RNASeq_reads	transcript_region	390	391	36.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	390	391	15.0	+	.	
+ch.2_114	WormBase	intron	390	440	.	+	.	Parent=Transcript:F36H1.1a.1
+ch.2_114	WormBase	intron	390	440	.	+	.	Parent=Transcript:F36H1.1b.1
+ch.2_114	RNASeq_splice	intron	390	440	1841820.0	+	.	
+ch.2_114	RNASeq_splice	intron	390	449	174.0	+	.	
+ch.2_114	RNASeq_reads	transcript_region	439	440	1.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	441	514	60.0	+	.	
+ch.2_114	WormBase	CDS	441	620	.	+	.	ID=CDS:F36H1.1a;Parent=Transcript:F36H1.1a.1
+ch.2_114	WormBase	CDS	441	620	.	+	.	ID=CDS:F36H1.1b;Parent=Transcript:F36H1.1b.1
+ch.2_114	WormBase	exon	441	620	.	+	.	Parent=Transcript:F36H1.1b.1
+ch.2_114	RNASeq_stranded	transcript_region	441	641	1.0	-	.	
+ch.2_114	RNASeq_reads	transcript_region	441	649	353.0	.	.	
+ch.2_114	WormBase	exon	441	693	.	+	.	Parent=Transcript:F36H1.1a.1
+ch.2_114	RNASeq_stranded	transcript_region	515	554	91.0	+	.	
+ch.2_114	RNASeq_splice	intron	516	786	3.0	-	.	
+ch.2_114	RNASeq_splice	intron	532	612	13.0	+	.	
+ch.2_114	RNASeq_stranded	transcript_region	555	670	200.0	+	.	
+ch.2_114	WormBase	three_prime_UTR	621	693	.	+	.	Parent=Transcript:F36H1.1a.1
+ch.2_114	RNASeq_stranded	transcript_region	642	648	2.0	-	.	
+ch.2_114	RNASeq_splice	intron	645	694	6.0	+	.	
+ch.2_114	RNASeq_stranded	transcript_region	649	751	1.0	-	.	
+ch.2_114	RNASeq_reads	transcript_region	650	690	232.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	671	679	130.0	+	.	
+ch.2_114	RNASeq_R_asymmetry	transcript_region	679	720	666831.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	680	689	83.0	+	.	
+ch.2_114	RNASeq_stranded	transcript_region	690	704	54.0	+	.	
+ch.2_114	RNASeq_reads	transcript_region	691	721	152.0	.	.	
+ch.2_114	RNASeq_stranded	transcript_region	705	713	34.0	+	.	
+ch.2_114	RNASeq_R_asymmetry	transcript_region	721	723	428006.0	.	.	
+ch.2_114	RNASeq_reads	transcript_region	722	724	97.0	.	.	

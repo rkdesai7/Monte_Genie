@@ -1,0 +1,37 @@
+ch.2_7	WormBase	exon	94	180	.	+	.	Parent=Transcript:R07B1.6b
+ch.2_7	RNASeq_reads	transcript_region	94	180	2.0	.	.	
+ch.2_7	RNASeq_stranded	transcript_region	98	131	1.0	+	.	
+ch.2_7	WormBase	five_prime_UTR	101	140	.	+	.	Parent=Transcript:R07B1.7.1
+ch.2_7	WormBase	exon	101	180	.	+	.	Parent=Transcript:R07B1.7.1
+ch.2_7	WormBase	gene	101	555	.	+	.	ID=Gene:WBGene00011079
+ch.2_7	WormBase	mRNA	101	555	.	+	.	ID=Transcript:R07B1.7.1;Parent=Gene:WBGene00011079
+ch.2_7	RNASeq_stranded	transcript_region	132	146	2.0	+	.	
+ch.2_7	WormBase	CDS	141	180	.	+	.	ID=CDS:R07B1.7;Parent=Transcript:R07B1.7.1
+ch.2_7	RNASeq_stranded	transcript_region	147	152	1.0	+	.	
+ch.2_7	RNASeq_stranded	transcript_region	153	153	2.0	+	.	
+ch.2_7	RNASeq_stranded	transcript_region	154	155	1.0	+	.	
+ch.2_7	RNASeq_stranded	transcript_region	156	178	2.0	+	.	
+ch.2_7	RNASeq_splice	intron	175	227	3.0	+	.	
+ch.2_7	RNASeq_stranded	transcript_region	179	180	1.0	+	.	
+ch.2_7	WormBase	intron	181	227	.	+	.	Parent=Transcript:R07B1.7.1
+ch.2_7	RNASeq_splice	intron	181	227	16461.0	+	.	
+ch.2_7	RNASeq_splice	intron	181	248	10.0	+	.	
+ch.2_7	RNASeq_stranded	transcript_region	228	238	1.0	+	.	
+ch.2_7	WormBase	CDS	228	382	.	+	.	ID=CDS:R07B1.7;Parent=Transcript:R07B1.7.1
+ch.2_7	WormBase	exon	228	382	.	+	.	Parent=Transcript:R07B1.7.1
+ch.2_7	WormBase	exon	228	382	.	+	.	Parent=Transcript:R07B1.6b
+ch.2_7	RNASeq_reads	transcript_region	228	382	3.0	.	.	
+ch.2_7	RNASeq_stranded	transcript_region	239	253	2.0	+	.	
+ch.2_7	RNASeq_stranded	transcript_region	254	289	1.0	+	.	
+ch.2_7	WormBase	intron	383	426	.	+	.	Parent=Transcript:R07B1.7.1
+ch.2_7	RNASeq_splice	intron	383	426	14319.0	+	.	
+ch.2_7	RNASeq_splice	intron	383	434	354.0	+	.	
+ch.2_7	WormBase	CDS	427	555	.	+	.	ID=CDS:R07B1.7;Parent=Transcript:R07B1.7.1
+ch.2_7	WormBase	exon	427	555	.	+	.	Parent=Transcript:R07B1.7.1
+ch.2_7	WormBase	exon	427	555	.	+	.	Parent=Transcript:R07B1.6b
+ch.2_7	RNASeq_reads	transcript_region	427	619	3.0	.	.	
+ch.2_7	RNASeq_splice	intron	459	508	3.0	+	.	
+ch.2_7	RNASeq_R_asymmetry	transcript_region	586	591	7805.0	.	.	
+ch.2_7	RNASeq_R_asymmetry	transcript_region	599	631	6441.0	.	.	
+ch.2_7	RNASeq	transcription_end_site	619	619	.	+	.	
+ch.2_7	RNASeq	transcription_end_site	636	636	.	+	.	

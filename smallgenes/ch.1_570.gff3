@@ -1,0 +1,61 @@
+ch.1_570	WormBase	five_prime_UTR	101	225	.	+	.	Parent=Transcript:Y41C4A.18.1
+ch.1_570	WormBase	exon	101	408	.	+	.	Parent=Transcript:Y41C4A.18.1
+ch.1_570	WormBase	gene	101	794	.	+	.	ID=Gene:WBGene00012761
+ch.1_570	WormBase	mRNA	101	794	.	+	.	ID=Transcript:Y41C4A.18.1;Parent=Gene:WBGene00012761
+ch.1_570	RNASeq_F_asymmetry	transcript_region	166	170	603.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	171	173	1209.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	174	180	1826.0	.	.	
+ch.1_570	RNASeq_reads	transcript_region	179	198	1.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	181	184	2775.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	185	198	4618.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	199	202	7358.0	.	.	
+ch.1_570	RNASeq_reads	transcript_region	199	204	2.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	203	205	11843.0	.	.	
+ch.1_570	RNASeq_reads	transcript_region	205	229	4.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	206	215	18685.0	.	.	
+ch.1_570	RNASeq_stranded	transcript_region	211	217	1.0	+	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	216	277	28091.0	.	.	
+ch.1_570	RNASeq_stranded	transcript_region	219	304	1.0	+	.	
+ch.1_570	WormBase	CDS	226	408	.	+	.	ID=CDS:Y41C4A.18;Parent=Transcript:Y41C4A.18.1
+ch.1_570	RNASeq_reads	transcript_region	230	279	7.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	280	280	43134.0	.	.	
+ch.1_570	RNASeq_reads	transcript_region	280	408	11.0	.	.	
+ch.1_570	RNASeq_stranded	transcript_region	305	316	2.0	+	.	
+ch.1_570	RNASeq_stranded	transcript_region	317	344	1.0	+	.	
+ch.1_570	RNASeq_stranded	transcript_region	345	347	2.0	+	.	
+ch.1_570	RNASeq_stranded	transcript_region	348	397	5.0	+	.	
+ch.1_570	RNASeq_splice	intron	352	647	22.0	+	.	
+ch.1_570	RNASeq_stranded	transcript_region	398	405	3.0	+	.	
+ch.1_570	RNASeq_stranded	transcript_region	406	408	1.0	+	.	
+ch.1_570	RNASeq_reads	transcript_region	409	409	2.0	.	.	
+ch.1_570	WormBase	intron	409	647	.	+	.	Parent=Transcript:Y41C4A.18.1
+ch.1_570	RNASeq_splice	intron	409	647	56913.0	+	.	
+ch.1_570	RNASeq_splice	intron	431	485	4.0	+	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	464	467	383.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	474	475	372.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	488	489	365.0	.	.	
+ch.1_570	RNASeq_F_asymmetry	transcript_region	493	503	374.0	.	.	
+ch.1_570	RNASeq_splice	intron	511	851	31.0	-	.	
+ch.1_570	RNASeq_splice	intron	528	569	3.0	+	.	
+ch.1_570	RNASeq_reads	transcript_region	642	646	1.0	.	.	
+ch.1_570	RNASeq_stranded	transcript_region	645	654	2.0	+	.	
+ch.1_570	RNASeq_reads	transcript_region	647	647	2.0	.	.	
+ch.1_570	RNASeq_reads	transcript_region	648	733	11.0	.	.	
+ch.1_570	WormBase	CDS	648	767	.	+	.	ID=CDS:Y41C4A.18;Parent=Transcript:Y41C4A.18.1
+ch.1_570	WormBase	exon	648	794	.	+	.	Parent=Transcript:Y41C4A.18.1
+ch.1_570	RNASeq_stranded	transcript_region	655	693	4.0	+	.	
+ch.1_570	RNASeq_R_asymmetry	transcript_region	691	742	43555.0	.	.	
+ch.1_570	RNASeq_stranded	transcript_region	694	695	2.0	+	.	
+ch.1_570	RNASeq_stranded	transcript_region	696	770	1.0	+	.	
+ch.1_570	RNASeq_reads	transcript_region	734	756	7.0	.	.	
+ch.1_570	RNASeq_R_asymmetry	transcript_region	743	756	27719.0	.	.	
+ch.1_570	RNASeq_R_asymmetry	transcript_region	757	759	17660.0	.	.	
+ch.1_570	RNASeq_reads	transcript_region	757	765	4.0	.	.	
+ch.1_570	RNASeq_splice	intron	757	812	21.0	+	.	
+ch.1_570	RNASeq_R_asymmetry	transcript_region	760	786	10860.0	.	.	
+ch.1_570	RNASeq_reads	transcript_region	766	788	2.0	.	.	
+ch.1_570	WormBase	three_prime_UTR	768	794	.	+	.	Parent=Transcript:Y41C4A.18.1
+ch.1_570	RNASeq_R_asymmetry	transcript_region	787	791	7141.0	.	.	
+ch.1_570	RNASeq_reads	transcript_region	789	793	1.0	.	.	
+ch.1_570	RNASeq_R_asymmetry	transcript_region	792	792	4462.0	.	.	
+ch.1_570	RNASeq	transcription_end_site	794	794	.	+	.	

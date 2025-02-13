@@ -1,0 +1,94 @@
+ch.2_143	RNASeq_splice	intron	634	800	11.0	-	.	
+ch.2_143	RNASeq	transcription_end_site	742	742	.	-	.	
+ch.2_143	RNASeq	transcription_end_site	742	742	.	-	.	
+ch.2_143	RNASeq	transcription_end_site	740	740	.	-	.	
+ch.2_143	RNASeq	transcription_end_site	740	740	.	-	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	738	740	5913.0	.	.	
+ch.2_143	RNASeq_reads	transcript_region	738	740	1.0	.	.	
+ch.2_143	RNASeq	transcription_end_site	737	737	.	-	.	
+ch.2_143	RNASeq	transcription_end_site	737	737	.	-	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	732	737	9222.0	.	.	
+ch.2_143	RNASeq_reads	transcript_region	729	737	2.0	.	.	
+ch.2_143	RNASeq_stranded	transcript_region	724	736	1.0	+	.	
+ch.2_143	WormBase	three_prime_UTR	599	736	.	+	.	Parent=Transcript:C34D4.13.1
+ch.2_143	WormBase	exon	491	736	.	+	.	Parent=Transcript:C34D4.13.1
+ch.2_143	WormBase	gene	101	736	.	+	.	ID=Gene:WBGene00016404
+ch.2_143	WormBase	mRNA	101	736	.	+	.	ID=Transcript:C34D4.13.1;Parent=Gene:WBGene00016404
+ch.2_143	RNASeq_F_asymmetry	transcript_region	718	731	13863.0	.	.	
+ch.2_143	RNASeq_reads	transcript_region	711	728	4.0	.	.	
+ch.2_143	RNASeq_stranded	transcript_region	702	723	2.0	+	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	697	717	21814.0	.	.	
+ch.2_143	RNASeq_reads	transcript_region	691	710	7.0	.	.	
+ch.2_143	RNASeq_stranded	transcript_region	680	701	4.0	+	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	674	690	45838.0	.	.	
+ch.2_143	RNASeq_reads	transcript_region	674	690	11.0	.	.	
+ch.2_143	RNASeq_splice	intron	634	683	3.0	-	.	
+ch.2_143	RNASeq_stranded	transcript_region	667	679	7.0	+	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	658	673	68903.0	.	.	
+ch.2_143	RNASeq_reads	transcript_region	648	673	17.0	.	.	
+ch.2_143	RNASeq	transcription_end_site	671	671	.	-	.	
+ch.2_143	RNASeq	transcription_end_site	670	670	.	-	.	
+ch.2_143	RNASeq	transcription_end_site	670	670	.	-	.	
+ch.2_143	RNASeq_stranded	transcript_region	658	666	11.0	+	.	
+ch.2_143	RNASeq_stranded	transcript_region	620	657	17.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	625	647	26.0	.	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	641	644	112124.0	.	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	636	637	120902.0	.	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	634	634	122616.0	.	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	620	632	141344.0	.	.	
+ch.2_143	RNASeq_reads	transcript_region	610	624	42.0	.	.	
+ch.2_143	RNASeq_F_asymmetry	transcript_region	590	619	212531.0	.	.	
+ch.2_143	RNASeq_stranded	transcript_region	525	619	11.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	491	609	65.0	.	.	
+ch.2_143	WormBase	CDS	491	598	.	+	.	ID=CDS:C34D4.13;Parent=Transcript:C34D4.13.1
+ch.2_143	RNASeq_F_asymmetry	transcript_region	566	589	323646.0	.	.	
+ch.2_143	RNASeq_splice	intron	443	532	10.0	+	.	
+ch.2_143	RNASeq_stranded	transcript_region	491	524	17.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	489	490	15.0	.	.	
+ch.2_143	RNASeq_stranded	transcript_region	489	490	3.0	+	.	
+ch.2_143	WormBase	intron	443	490	.	+	.	Parent=Transcript:C34D4.13.1
+ch.2_143	RNASeq_splice	intron	443	490	389491.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	444	488	1.0	.	.	
+ch.2_143	RNASeq_splice	intron	443	485	2969.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	443	443	13.0	.	.	
+ch.2_143	RNASeq_stranded	transcript_region	443	443	3.0	-	.	
+ch.2_143	RNASeq_stranded	transcript_region	429	442	14.0	+	.	
+ch.2_143	WormBase	CDS	227	442	.	+	.	ID=CDS:C34D4.13;Parent=Transcript:C34D4.13.1
+ch.2_143	WormBase	exon	227	442	.	+	.	Parent=Transcript:C34D4.13.1
+ch.2_143	RNASeq_reads	transcript_region	227	442	79.0	.	.	
+ch.2_143	RNASeq_stranded	transcript_region	345	428	22.0	+	.	
+ch.2_143	RNASeq_stranded	transcript_region	387	391	1.0	-	.	
+ch.2_143	RNASeq_stranded	transcript_region	329	344	14.0	+	.	
+ch.2_143	RNASeq_splice	intron	286	332	5.0	+	.	
+ch.2_143	RNASeq_stranded	transcript_region	271	328	9.0	+	.	
+ch.2_143	RNASeq_stranded	transcript_region	227	270	14.0	+	.	
+ch.2_143	RNASeq_R_asymmetry	transcript_region	227	238	284030.0	.	.	
+ch.2_143	RNASeq_splice	intron	182	236	181.0	+	.	
+ch.2_143	RNASeq_splice	intron	131	236	3.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	226	226	7.0	.	.	
+ch.2_143	RNASeq_stranded	transcript_region	226	226	3.0	-	.	
+ch.2_143	WormBase	intron	182	226	.	+	.	Parent=Transcript:C34D4.13.1
+ch.2_143	RNASeq_splice	intron	182	226	307054.0	+	.	
+ch.2_143	RNASeq_splice	intron	179	226	1311.0	+	.	
+ch.2_143	RNASeq_splice	intron	131	226	228.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	184	225	1.0	.	.	
+ch.2_143	RNASeq_R_asymmetry	transcript_region	182	183	29612.0	.	.	
+ch.2_143	RNASeq_reads	transcript_region	182	183	7.0	.	.	
+ch.2_143	RNASeq_stranded	transcript_region	182	183	1.0	+	.	
+ch.2_143	RNASeq_stranded	transcript_region	174	181	8.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	117	181	62.0	.	.	
+ch.2_143	RNASeq_R_asymmetry	transcript_region	112	181	258415.0	.	.	
+ch.2_143	WormBase	CDS	110	181	.	+	.	ID=CDS:C34D4.13;Parent=Transcript:C34D4.13.1
+ch.2_143	WormBase	exon	101	181	.	+	.	Parent=Transcript:C34D4.13.1
+ch.2_143	RNASeq_stranded	transcript_region	122	173	13.0	+	.	
+ch.2_143	RNASeq_stranded	transcript_region	109	121	8.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	104	116	40.0	.	.	
+ch.2_143	RNASeq_R_asymmetry	transcript_region	103	111	157336.0	.	.	
+ch.2_143	WormBase	five_prime_UTR	101	109	.	+	.	Parent=Transcript:C34D4.13.1
+ch.2_143	RNASeq_stranded	transcript_region	99	108	5.0	+	.	
+ch.2_143	RNASeq_reads	transcript_region	99	103	24.0	.	.	
+ch.2_143	RNASeq_R_asymmetry	transcript_region	99	102	102273.0	.	.	
+ch.2_143	RNASeq_splice	intron	10	100	97.0	+	.	
+ch.2_143	RNASeq_R_asymmetry	transcript_region	95	98	14831.0	.	.	
+ch.2_143	RNASeq_reads	transcript_region	93	98	3.0	.	.	
+ch.2_143	RNASeq_splice	intron	10	93	3.0	+	.	

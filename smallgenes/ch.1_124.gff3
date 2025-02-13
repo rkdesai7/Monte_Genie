@@ -1,0 +1,39 @@
+ch.1_124	RNASeq_splice	intron	17	106	2604.0	+	.	
+ch.1_124	RNASeq_F_asymmetry	transcript_region	101	104	1729.0	.	.	
+ch.1_124	WormBase	five_prime_UTR	101	121	.	+	.	Parent=Transcript:cTel54X.2.1
+ch.1_124	WormBase	exon	101	222	.	+	.	Parent=Transcript:cTel54X.2.1
+ch.1_124	WormBase	gene	101	515	.	+	.	ID=Gene:WBGene00305997
+ch.1_124	WormBase	mRNA	101	515	.	+	.	ID=Transcript:cTel54X.2.1;Parent=Gene:WBGene00305997
+ch.1_124	RNASeq_F_asymmetry	transcript_region	105	106	3292.0	.	.	
+ch.1_124	RNASeq_reads	transcript_region	105	107	1.0	.	.	
+ch.1_124	RNASeq_F_asymmetry	transcript_region	107	112	5745.0	.	.	
+ch.1_124	RNASeq_stranded	transcript_region	107	156	1.0	+	.	
+ch.1_124	RNASeq_reads	transcript_region	108	222	2.0	.	.	
+ch.1_124	RNASeq_F_asymmetry	transcript_region	113	151	9277.0	.	.	
+ch.1_124	WormBase	CDS	122	222	.	+	.	ID=CDS:cTel54X.2;Parent=Transcript:cTel54X.2.1
+ch.1_124	WormBase	exon	144	222	.	+	.	Parent=Transcript:H10E21.2.1
+ch.1_124	WormBase	five_prime_UTR	144	222	.	+	.	Parent=Transcript:H10E21.2.1
+ch.1_124	RNASeq_stranded	transcript_region	157	159	2.0	+	.	
+ch.1_124	RNASeq_stranded	transcript_region	160	167	1.0	+	.	
+ch.1_124	RNASeq_stranded	transcript_region	168	174	2.0	+	.	
+ch.1_124	RNASeq_stranded	transcript_region	175	180	1.0	+	.	
+ch.1_124	RNASeq_splice	intron	176	273	140.0	+	.	
+ch.1_124	RNASeq_stranded	transcript_region	181	197	2.0	+	.	
+ch.1_124	RNASeq_stranded	transcript_region	198	222	1.0	+	.	
+ch.1_124	WormBase	intron	223	269	.	+	.	Parent=Transcript:cTel54X.2.1
+ch.1_124	RNASeq_splice	intron	223	269	15156.0	+	.	
+ch.1_124	RNASeq_splice	intron	223	273	74.0	+	.	
+ch.1_124	WormBase	intron	223	275	.	+	.	Parent=Transcript:H10E21.2.1
+ch.1_124	RNASeq_stranded	transcript_region	270	283	1.0	+	.	
+ch.1_124	WormBase	CDS	270	357	.	+	.	ID=CDS:cTel54X.2;Parent=Transcript:cTel54X.2.1
+ch.1_124	RNASeq_reads	transcript_region	270	445	3.0	.	.	
+ch.1_124	WormBase	exon	270	515	.	+	.	Parent=Transcript:cTel54X.2.1
+ch.1_124	WormBase	exon	276	550	.	+	.	Parent=Transcript:H10E21.2.1
+ch.1_124	WormBase	five_prime_UTR	276	550	.	+	.	Parent=Transcript:H10E21.2.1
+ch.1_124	RNASeq_stranded	transcript_region	284	334	2.0	+	.	
+ch.1_124	RNASeq_stranded	transcript_region	335	435	1.0	+	.	
+ch.1_124	RNASeq_R_asymmetry	transcript_region	357	438	10881.0	.	.	
+ch.1_124	WormBase	three_prime_UTR	358	515	.	+	.	Parent=Transcript:cTel54X.2.1
+ch.1_124	RNASeq_stranded	transcript_region	436	472	2.0	+	.	
+ch.1_124	RNASeq_reads	transcript_region	446	514	1.0	.	.	
+ch.1_124	RNASeq_stranded	transcript_region	473	489	1.0	+	.	

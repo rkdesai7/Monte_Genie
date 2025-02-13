@@ -1,0 +1,81 @@
+ch.2_329	WormBase	five_prime_UTR	101	126	.	+	.	Parent=Transcript:C54D1.2.1
+ch.2_329	WormBase	exon	101	215	.	+	.	Parent=Transcript:C54D1.2.1
+ch.2_329	WormBase	gene	101	792	.	+	.	ID=Gene:WBGene00016912
+ch.2_329	WormBase	mRNA	101	792	.	+	.	ID=Transcript:C54D1.2.1;Parent=Gene:WBGene00016912
+ch.2_329	RNASeq_F_asymmetry	transcript_region	105	114	3187.0	.	.	
+ch.2_329	RNASeq_reads	transcript_region	105	120	1.0	.	.	
+ch.2_329	RNASeq_stranded	transcript_region	113	117	1.0	+	.	
+ch.2_329	RNASeq_F_asymmetry	transcript_region	115	120	4960.0	.	.	
+ch.2_329	RNASeq_stranded	transcript_region	118	150	2.0	+	.	
+ch.2_329	RNASeq_F_asymmetry	transcript_region	121	121	9768.0	.	.	
+ch.2_329	RNASeq_reads	transcript_region	121	122	2.0	.	.	
+ch.2_329	RNASeq_F_asymmetry	transcript_region	122	123	14913.0	.	.	
+ch.2_329	RNASeq_reads	transcript_region	123	135	4.0	.	.	
+ch.2_329	RNASeq_F_asymmetry	transcript_region	124	140	24435.0	.	.	
+ch.2_329	WormBase	CDS	127	215	.	+	.	ID=CDS:C54D1.2;Parent=Transcript:C54D1.2.1
+ch.2_329	RNASeq_reads	transcript_region	136	177	7.0	.	.	
+ch.2_329	RNASeq_F_asymmetry	transcript_region	141	199	36936.0	.	.	
+ch.2_329	RNASeq_stranded	transcript_region	151	215	4.0	+	.	
+ch.2_329	RNASeq_reads	transcript_region	178	215	11.0	.	.	
+ch.2_329	RNASeq_splice	intron	191	550	6.0	-	.	
+ch.2_329	RNASeq_F_asymmetry	transcript_region	200	215	57501.0	.	.	
+ch.2_329	WormBase	intron	216	261	.	+	.	Parent=Transcript:C54D1.2.1
+ch.2_329	RNASeq_splice	intron	216	261	68418.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	262	310	4.0	+	.	
+ch.2_329	RNASeq_reads	transcript_region	262	325	13.0	.	.	
+ch.2_329	WormBase	CDS	262	380	.	+	.	ID=CDS:C54D1.2;Parent=Transcript:C54D1.2.1
+ch.2_329	WormBase	exon	262	380	.	+	.	Parent=Transcript:C54D1.2.1
+ch.2_329	RNASeq_stranded	transcript_region	311	323	7.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	324	374	11.0	+	.	
+ch.2_329	RNASeq_reads	transcript_region	326	380	20.0	.	.	
+ch.2_329	RNASeq_splice	intron	351	554	4.0	+	.	
+ch.2_329	RNASeq	transcription_end_site	359	359	.	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	375	378	7.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	379	380	4.0	+	.	
+ch.2_329	WormBase	intron	381	427	.	+	.	Parent=Transcript:C54D1.2.1
+ch.2_329	RNASeq_splice	intron	381	427	96449.0	+	.	
+ch.2_329	RNASeq_splice	intron	381	433	48.0	+	.	
+ch.2_329	RNASeq_splice	intron	381	448	262.0	+	.	
+ch.2_329	RNASeq_splice	intron	385	433	44.0	+	.	
+ch.2_329	RNASeq_reads	transcript_region	420	427	1.0	.	.	
+ch.2_329	RNASeq_stranded	transcript_region	428	451	4.0	+	.	
+ch.2_329	RNASeq_reads	transcript_region	428	694	19.0	.	.	
+ch.2_329	WormBase	CDS	428	720	.	+	.	ID=CDS:C54D1.2;Parent=Transcript:C54D1.2.1
+ch.2_329	WormBase	exon	428	792	.	+	.	Parent=Transcript:C54D1.2.1
+ch.2_329	RNASeq_stranded	transcript_region	452	469	7.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	466	469	1.0	-	.	
+ch.2_329	RNASeq_stranded	transcript_region	470	552	11.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	472	472	1.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	474	474	1.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	476	479	1.0	-	.	
+ch.2_329	RNASeq_splice	intron	490	552	8.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	553	596	17.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	597	603	10.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	604	615	6.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	616	620	3.0	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	621	671	6.0	+	.	
+ch.2_329	RNASeq_R_asymmetry	transcript_region	671	695	70333.0	.	.	
+ch.2_329	RNASeq_stranded	transcript_region	672	745	3.0	+	.	
+ch.2_329	RNASeq_reads	transcript_region	695	811	12.0	.	.	
+ch.2_329	RNASeq_R_asymmetry	transcript_region	696	697	44698.0	.	.	
+ch.2_329	RNASeq_splice	intron	713	772	40.0	-	.	
+ch.2_329	RNASeq_splice	intron	713	805	144.0	-	.	
+ch.2_329	RNASeq_splice	intron	713	822	114.0	-	.	
+ch.2_329	RNASeq_splice	intron	713	828	262.0	-	.	
+ch.2_329	RNASeq_splice	intron	713	869	29.0	-	.	
+ch.2_329	RNASeq_R_asymmetry	transcript_region	718	740	31030.0	.	.	
+ch.2_329	RNASeq	transcription_end_site	720	720	.	+	.	
+ch.2_329	RNASeq	transcription_end_site	720	720	.	+	.	
+ch.2_329	WormBase	three_prime_UTR	721	792	.	+	.	Parent=Transcript:C54D1.2.1
+ch.2_329	RNASeq_stranded	transcript_region	722	727	1.0	-	.	
+ch.2_329	RNASeq_stranded	transcript_region	728	732	2.0	-	.	
+ch.2_329	WormBase	three_prime_UTR	730	798	.	-	.	Parent=Transcript:C54D1.4.1
+ch.2_329	RNASeq_stranded	transcript_region	733	736	4.0	-	.	
+ch.2_329	RNASeq_stranded	transcript_region	737	755	7.0	-	.	
+ch.2_329	RNASeq_R_asymmetry	transcript_region	743	745	35487.0	.	.	
+ch.2_329	RNASeq_stranded	transcript_region	746	791	1.0	+	.	
+ch.2_329	RNASeq	transcription_end_site	747	747	.	+	.	
+ch.2_329	RNASeq	transcription_end_site	747	747	.	+	.	
+ch.2_329	RNASeq_stranded	transcript_region	756	779	11.0	-	.	
+ch.2_329	RNASeq_stranded	transcript_region	780	827	17.0	-	.	
+ch.2_329	RNASeq_stranded	transcript_region	828	859	26.0	-	.	

@@ -1,0 +1,136 @@
+ch.2_89	RNASeq_reads	transcript_region	761	783	1.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	761	778	1.0	+	.	
+ch.2_89	RNASeq	transcription_end_site	760	760	.	-	.	
+ch.2_89	RNASeq	transcription_end_site	760	760	.	-	.	
+ch.2_89	RNASeq_reads	transcript_region	759	760	3.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	759	760	3.0	+	.	
+ch.2_89	WormBase	three_prime_UTR	503	759	.	+	.	Parent=Transcript:F48D6.4b.1
+ch.2_89	WormBase	exon	469	759	.	+	.	Parent=Transcript:F48D6.4b.1
+ch.2_89	WormBase	mRNA	128	759	.	+	.	ID=Transcript:F48D6.4b.1;Parent=Gene:WBGene00018602
+ch.2_89	WormBase	gene	101	759	.	+	.	ID=Gene:WBGene00018602
+ch.2_89	RNASeq_reads	transcript_region	758	758	5.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	757	758	5.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	757	757	8.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	757	757	1.0	-	.	
+ch.2_89	WormBase	three_prime_UTR	577	757	.	+	.	Parent=Transcript:F48D6.4c.1
+ch.2_89	WormBase	exon	483	757	.	+	.	Parent=Transcript:F48D6.4c.1
+ch.2_89	WormBase	mRNA	101	757	.	+	.	ID=Transcript:F48D6.4c.1;Parent=Gene:WBGene00018602
+ch.2_89	RNASeq	transcription_end_site	756	756	.	-	.	
+ch.2_89	RNASeq	transcription_end_site	756	756	.	-	.	
+ch.2_89	RNASeq_reads	transcript_region	755	756	17.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	754	756	18.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	670	756	3.0	-	.	
+ch.2_89	WormBase	three_prime_UTR	577	756	.	+	.	Parent=Transcript:F48D6.4a.1
+ch.2_89	WormBase	exon	477	756	.	+	.	Parent=Transcript:F48D6.4a.1
+ch.2_89	WormBase	mRNA	143	756	.	+	.	ID=Transcript:F48D6.4a.1;Parent=Gene:WBGene00018602
+ch.2_89	RNASeq_reads	transcript_region	748	754	26.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	753	753	29.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	748	752	47.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	743	747	47.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	735	747	76.0	+	.	
+ch.2_89	RNASeq_splice	intron	662	744	4.0	-	.	
+ch.2_89	RNASeq_reads	transcript_region	724	742	73.0	.	.	
+ch.2_89	RNASeq_splice	intron	181	740	3.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	717	734	117.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	697	723	110.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	694	716	176.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	646	696	170.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	613	693	275.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	666	669	1.0	-	.	
+ch.2_89	RNASeq_reads	transcript_region	537	645	264.0	.	.	
+ch.2_89	RNASeq_splice	intron	530	637	4.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	596	612	180.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	584	595	117.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	477	583	75.0	+	.	
+ch.2_89	WormBase	CDS	483	576	.	+	.	ID=CDS:F48D6.4c;Parent=Transcript:F48D6.4c.1
+ch.2_89	WormBase	CDS	477	576	.	+	.	ID=CDS:F48D6.4a;Parent=Transcript:F48D6.4a.1
+ch.2_89	RNASeq_stranded	transcript_region	537	538	3.0	-	.	
+ch.2_89	RNASeq_reads	transcript_region	476	536	414.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	469	536	5.0	-	.	
+ch.2_89	WormBase	CDS	469	502	.	+	.	ID=CDS:F48D6.4b;Parent=Transcript:F48D6.4b.1
+ch.2_89	RNASeq_splice	intron	436	486	4.0	-	.	
+ch.2_89	RNASeq_splice	intron	430	482	17.0	+	.	
+ch.2_89	WormBase	intron	426	482	.	+	.	Parent=Transcript:F48D6.4c.1
+ch.2_89	RNASeq_splice	intron	426	482	99909.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	469	476	46.0	+	.	
+ch.2_89	RNASeq_splice	intron	430	476	422.0	+	.	
+ch.2_89	WormBase	intron	426	476	.	+	.	Parent=Transcript:F48D6.4a.1
+ch.2_89	RNASeq_splice	intron	426	476	837819.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	469	475	272.0	.	.	
+ch.2_89	RNASeq_splice	intron	430	468	13.0	+	.	
+ch.2_89	WormBase	intron	426	468	.	+	.	Parent=Transcript:F48D6.4b.1
+ch.2_89	RNASeq_reads	transcript_region	426	468	13.0	.	.	
+ch.2_89	RNASeq_splice	intron	426	468	1238010.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	426	468	2.0	+	.	
+ch.2_89	RNASeq_splice	intron	417	468	46.0	+	.	
+ch.2_89	RNASeq_splice	intron	415	468	66.0	+	.	
+ch.2_89	RNASeq_splice	intron	426	459	7961.0	+	.	
+ch.2_89	RNASeq_splice	intron	415	459	16.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	394	425	6.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	375	425	66.0	+	.	
+ch.2_89	WormBase	CDS	297	425	.	+	.	ID=CDS:F48D6.4c;Parent=Transcript:F48D6.4c.1
+ch.2_89	WormBase	CDS	297	425	.	+	.	ID=CDS:F48D6.4a;Parent=Transcript:F48D6.4a.1
+ch.2_89	WormBase	CDS	297	425	.	+	.	ID=CDS:F48D6.4b;Parent=Transcript:F48D6.4b.1
+ch.2_89	WormBase	exon	297	425	.	+	.	Parent=Transcript:F48D6.4a.1
+ch.2_89	WormBase	exon	297	425	.	+	.	Parent=Transcript:F48D6.4b.1
+ch.2_89	WormBase	exon	297	425	.	+	.	Parent=Transcript:F48D6.4c.1
+ch.2_89	RNASeq_reads	transcript_region	297	425	429.0	.	.	
+ch.2_89	RNASeq_splice	intron	363	394	3.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	386	393	3.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	347	385	1.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	297	374	100.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	346	346	3.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	297	345	6.0	-	.	
+ch.2_89	RNASeq_splice	intron	139	311	6.0	-	.	
+ch.2_89	RNASeq_splice	intron	251	302	16.0	+	.	
+ch.2_89	RNASeq_splice	intron	247	302	44.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	293	296	1.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	291	296	4.0	.	.	
+ch.2_89	RNASeq_splice	intron	251	296	7.0	+	.	
+ch.2_89	WormBase	intron	247	296	.	+	.	Parent=Transcript:F48D6.4a.1
+ch.2_89	WormBase	intron	247	296	.	+	.	Parent=Transcript:F48D6.4b.1
+ch.2_89	WormBase	intron	247	296	.	+	.	Parent=Transcript:F48D6.4c.1
+ch.2_89	RNASeq_splice	intron	247	296	2375720.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	247	290	2.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	279	280	1.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	247	275	1.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	244	246	88.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	197	246	8.0	-	.	
+ch.2_89	WormBase	CDS	179	246	.	+	.	ID=CDS:F48D6.4c;Parent=Transcript:F48D6.4c.1
+ch.2_89	WormBase	CDS	179	246	.	+	.	ID=CDS:F48D6.4a;Parent=Transcript:F48D6.4a.1
+ch.2_89	WormBase	CDS	179	246	.	+	.	ID=CDS:F48D6.4b;Parent=Transcript:F48D6.4b.1
+ch.2_89	RNASeq_reads	transcript_region	161	246	491.0	.	.	
+ch.2_89	WormBase	exon	143	246	.	+	.	Parent=Transcript:F48D6.4a.1
+ch.2_89	WormBase	exon	128	246	.	+	.	Parent=Transcript:F48D6.4b.1
+ch.2_89	WormBase	exon	101	246	.	+	.	Parent=Transcript:F48D6.4c.1
+ch.2_89	RNASeq_stranded	transcript_region	239	243	137.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	141	238	215.0	+	.	
+ch.2_89	RNASeq_stranded	transcript_region	196	196	4.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	194	195	2.0	-	.	
+ch.2_89	RNASeq_R_asymmetry	transcript_region	151	194	1827040.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	180	193	1.0	-	.	
+ch.2_89	WormBase	five_prime_UTR	143	178	.	+	.	Parent=Transcript:F48D6.4a.1
+ch.2_89	WormBase	five_prime_UTR	128	178	.	+	.	Parent=Transcript:F48D6.4b.1
+ch.2_89	WormBase	five_prime_UTR	101	178	.	+	.	Parent=Transcript:F48D6.4c.1
+ch.2_89	RNASeq_reads	transcript_region	146	160	319.0	.	.	
+ch.2_89	RNASeq_R_asymmetry	transcript_region	144	150	1171840.0	.	.	
+ch.2_89	RNASeq_reads	transcript_region	144	145	207.0	.	.	
+ch.2_89	RNASeq_R_asymmetry	transcript_region	140	143	549054.0	.	.	
+ch.2_89	RNASeq_reads	transcript_region	139	143	121.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	139	140	135.0	+	.	
+ch.2_89	RNASeq_R_asymmetry	transcript_region	139	139	360442.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	135	138	78.0	+	.	
+ch.2_89	RNASeq_R_asymmetry	transcript_region	134	138	231092.0	.	.	
+ch.2_89	RNASeq_reads	transcript_region	134	138	55.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	134	134	49.0	-	.	
+ch.2_89	RNASeq_stranded	transcript_region	132	133	20.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	130	133	34.0	.	.	
+ch.2_89	RNASeq_R_asymmetry	transcript_region	132	132	127108.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	130	131	10.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	125	129	18.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	119	129	4.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	108	124	11.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	107	118	2.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	80	107	7.0	.	.	
+ch.2_89	RNASeq_stranded	transcript_region	20	106	1.0	+	.	
+ch.2_89	RNASeq_reads	transcript_region	21	79	4.0	.	.	

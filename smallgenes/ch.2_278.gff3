@@ -1,0 +1,65 @@
+ch.2_278	RNASeq_reads	transcript_region	64	66	1.0	.	.	
+ch.2_278	RNASeq_reads	transcript_region	69	71	1.0	.	.	
+ch.2_278	RNASeq_reads	transcript_region	94	98	1.0	.	.	
+ch.2_278	RNASeq_reads	transcript_region	99	179	2.0	.	.	
+ch.2_278	WormBase	five_prime_UTR	101	208	.	+	.	Parent=Transcript:T05E12.8.1
+ch.2_278	WormBase	exon	101	241	.	+	.	Parent=Transcript:T05E12.8.1
+ch.2_278	WormBase	gene	101	883	.	+	.	ID=Gene:WBGene00045382
+ch.2_278	WormBase	mRNA	101	883	.	+	.	ID=Transcript:T05E12.8.1;Parent=Gene:WBGene00045382
+ch.2_278	WormBase	five_prime_UTR	116	208	.	+	.	Parent=Transcript:T05E12.8.2
+ch.2_278	WormBase	exon	116	241	.	+	.	Parent=Transcript:T05E12.8.2
+ch.2_278	WormBase	mRNA	116	867	.	+	.	ID=Transcript:T05E12.8.2;Parent=Gene:WBGene00045382
+ch.2_278	RNASeq_stranded	transcript_region	155	186	1.0	+	.	
+ch.2_278	RNASeq_reads	transcript_region	180	241	4.0	.	.	
+ch.2_278	WormBase	five_prime_UTR	186	208	.	+	.	Parent=Transcript:T05E12.8.3
+ch.2_278	WormBase	exon	186	241	.	+	.	Parent=Transcript:T05E12.8.3
+ch.2_278	WormBase	mRNA	186	868	.	+	.	ID=Transcript:T05E12.8.3;Parent=Gene:WBGene00045382
+ch.2_278	RNASeq_stranded	transcript_region	190	203	1.0	+	.	
+ch.2_278	WormBase	CDS	209	241	.	+	.	ID=CDS:T05E12.8;Parent=Transcript:T05E12.8.1,Transcript:T05E12.8.2,Transcript:T05E12.8.3
+ch.2_278	WormBase	intron	242	312	.	+	.	Parent=Transcript:T05E12.8.1
+ch.2_278	WormBase	intron	242	312	.	+	.	Parent=Transcript:T05E12.8.2
+ch.2_278	WormBase	intron	242	312	.	+	.	Parent=Transcript:T05E12.8.3
+ch.2_278	RNASeq_splice	intron	242	312	11229.0	+	.	
+ch.2_278	RNASeq_reads	transcript_region	312	312	1.0	.	.	
+ch.2_278	WormBase	CDS	313	495	.	+	.	ID=CDS:T05E12.8;Parent=Transcript:T05E12.8.1,Transcript:T05E12.8.2,Transcript:T05E12.8.3
+ch.2_278	WormBase	exon	313	572	.	+	.	Parent=Transcript:T05E12.8.1
+ch.2_278	WormBase	exon	313	575	.	+	.	Parent=Transcript:T05E12.8.2
+ch.2_278	RNASeq_reads	transcript_region	313	575	4.0	.	.	
+ch.2_278	WormBase	exon	313	620	.	+	.	Parent=Transcript:T05E12.8.3
+ch.2_278	RNASeq_stranded	transcript_region	350	350	1.0	+	.	
+ch.2_278	RNASeq_stranded	transcript_region	472	534	1.0	+	.	
+ch.2_278	WormBase	three_prime_UTR	496	572	.	+	.	Parent=Transcript:T05E12.8.1
+ch.2_278	WormBase	three_prime_UTR	496	575	.	+	.	Parent=Transcript:T05E12.8.2
+ch.2_278	WormBase	three_prime_UTR	496	620	.	+	.	Parent=Transcript:T05E12.8.3
+ch.2_278	RNASeq_stranded	transcript_region	536	544	1.0	+	.	
+ch.2_278	WormBase	intron	573	662	.	+	.	Parent=Transcript:T05E12.8.1
+ch.2_278	RNASeq_splice	intron	573	662	198.0	+	.	
+ch.2_278	RNASeq_reads	transcript_region	576	620	2.0	.	.	
+ch.2_278	WormBase	intron	576	662	.	+	.	Parent=Transcript:T05E12.8.2
+ch.2_278	RNASeq_splice	intron	576	662	11298.0	+	.	
+ch.2_278	WormBase	intron	621	662	.	+	.	Parent=Transcript:T05E12.8.3
+ch.2_278	RNASeq_splice	intron	621	662	8987.0	+	.	
+ch.2_278	RNASeq_reads	transcript_region	662	662	1.0	.	.	
+ch.2_278	RNASeq_reads	transcript_region	663	841	5.0	.	.	
+ch.2_278	WormBase	exon	663	867	.	+	.	Parent=Transcript:T05E12.8.2
+ch.2_278	WormBase	three_prime_UTR	663	867	.	+	.	Parent=Transcript:T05E12.8.2
+ch.2_278	WormBase	exon	663	868	.	+	.	Parent=Transcript:T05E12.8.3
+ch.2_278	WormBase	three_prime_UTR	663	868	.	+	.	Parent=Transcript:T05E12.8.3
+ch.2_278	WormBase	exon	663	883	.	+	.	Parent=Transcript:T05E12.8.1
+ch.2_278	WormBase	three_prime_UTR	663	883	.	+	.	Parent=Transcript:T05E12.8.1
+ch.2_278	RNASeq_stranded	transcript_region	681	770	1.0	+	.	
+ch.2_278	RNASeq_R_asymmetry	transcript_region	743	841	19358.0	.	.	
+ch.2_278	RNASeq_stranded	transcript_region	771	816	2.0	+	.	
+ch.2_278	RNASeq_stranded	transcript_region	817	819	1.0	+	.	
+ch.2_278	RNASeq_stranded	transcript_region	820	837	2.0	+	.	
+ch.2_278	RNASeq_stranded	transcript_region	838	842	1.0	+	.	
+ch.2_278	RNASeq_R_asymmetry	transcript_region	842	846	11953.0	.	.	
+ch.2_278	RNASeq_reads	transcript_region	842	852	3.0	.	.	
+ch.2_278	RNASeq_stranded	transcript_region	843	846	2.0	+	.	
+ch.2_278	RNASeq_R_asymmetry	transcript_region	847	852	7798.0	.	.	
+ch.2_278	RNASeq_stranded	transcript_region	847	872	1.0	+	.	
+ch.2_278	RNASeq_reads	transcript_region	853	878	1.0	.	.	
+ch.2_278	RNASeq_R_asymmetry	transcript_region	858	860	5138.0	.	.	
+ch.2_278	RNASeq_R_asymmetry	transcript_region	888	891	1307.0	.	.	
+ch.2_278	RNASeq_R_asymmetry	transcript_region	892	893	848.0	.	.	
+ch.2_278	RNASeq	transcription_end_site	893	893	.	+	.	

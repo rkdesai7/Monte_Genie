@@ -1,0 +1,64 @@
+ch.2_72	RNASeq_reads	transcript_region	699	700	1.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	699	700	2.0	+	.	
+ch.2_72	WormBase	three_prime_UTR	623	700	.	+	.	Parent=Transcript:T07H8.11.1
+ch.2_72	WormBase	exon	546	700	.	+	.	Parent=Transcript:T07H8.11.1
+ch.2_72	WormBase	gene	101	700	.	+	.	ID=Gene:WBGene00304201
+ch.2_72	WormBase	mRNA	101	700	.	+	.	ID=Transcript:T07H8.11.1;Parent=Gene:WBGene00304201
+ch.2_72	RNASeq_stranded	transcript_region	697	698	4.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	687	698	2.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	612	698	1.0	-	.	
+ch.2_72	RNASeq_stranded	transcript_region	694	696	7.0	+	.	
+ch.2_72	RNASeq_stranded	transcript_region	678	693	11.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	672	686	4.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	669	677	19.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	654	671	7.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	652	668	29.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	635	653	11.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	616	651	47.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	612	634	17.0	.	.	
+ch.2_72	WormBase	CDS	546	622	.	+	.	ID=CDS:T07H8.11;Parent=Transcript:T07H8.11.1
+ch.2_72	RNASeq_stranded	transcript_region	564	615	71.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	546	611	26.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	551	563	46.0	+	.	
+ch.2_72	RNASeq_splice	intron	460	557	34.0	+	.	
+ch.2_72	RNASeq_stranded	transcript_region	546	550	29.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	545	545	2.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	545	545	4.0	-	.	
+ch.2_72	WormBase	intron	460	545	.	+	.	Parent=Transcript:T07H8.11.1
+ch.2_72	RNASeq_splice	intron	460	545	162135.0	+	.	
+ch.2_72	RNASeq_splice	intron	363	545	7.0	+	.	
+ch.2_72	RNASeq_splice	intron	296	545	6.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	531	544	1.0	.	.	
+ch.2_72	RNASeq_reads	transcript_region	513	514	1.0	.	.	
+ch.2_72	RNASeq_splice	intron	460	511	3.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	503	506	1.0	.	.	
+ch.2_72	RNASeq_splice	intron	460	506	6.0	+	.	
+ch.2_72	RNASeq_splice	intron	460	502	713.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	460	462	1.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	440	459	21.0	+	.	
+ch.2_72	WormBase	CDS	349	459	.	+	.	ID=CDS:T07H8.11;Parent=Transcript:T07H8.11.1
+ch.2_72	WormBase	exon	349	459	.	+	.	Parent=Transcript:T07H8.11.1
+ch.2_72	RNASeq_reads	transcript_region	349	459	34.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	418	439	13.0	+	.	
+ch.2_72	RNASeq_stranded	transcript_region	349	417	8.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	348	348	3.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	348	348	1.0	-	.	
+ch.2_72	RNASeq_splice	intron	300	348	284.0	+	.	
+ch.2_72	WormBase	intron	296	348	.	+	.	Parent=Transcript:T07H8.11.1
+ch.2_72	RNASeq_splice	intron	296	348	161439.0	+	.	
+ch.2_72	RNASeq_splice	intron	292	348	26.0	+	.	
+ch.2_72	RNASeq_splice	intron	296	333	84.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	296	296	2.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	296	296	1.0	-	.	
+ch.2_72	RNASeq_reads	transcript_region	170	295	32.0	.	.	
+ch.2_72	WormBase	CDS	118	295	.	+	.	ID=CDS:T07H8.11;Parent=Transcript:T07H8.11.1
+ch.2_72	RNASeq_stranded	transcript_region	112	295	6.0	+	.	
+ch.2_72	WormBase	exon	101	295	.	+	.	Parent=Transcript:T07H8.11.1
+ch.2_72	RNASeq_reads	transcript_region	114	169	21.0	.	.	
+ch.2_72	WormBase	five_prime_UTR	101	117	.	+	.	Parent=Transcript:T07H8.11.1
+ch.2_72	RNASeq_reads	transcript_region	104	113	13.0	.	.	
+ch.2_72	RNASeq_stranded	transcript_region	104	111	3.0	+	.	
+ch.2_72	RNASeq_stranded	transcript_region	100	103	1.0	+	.	
+ch.2_72	RNASeq_reads	transcript_region	94	103	8.0	.	.	
+ch.2_72	RNASeq_reads	transcript_region	89	93	5.0	.	.	
+ch.2_72	RNASeq_reads	transcript_region	72	88	1.0	.	.	

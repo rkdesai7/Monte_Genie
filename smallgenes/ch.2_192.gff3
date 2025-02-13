@@ -1,0 +1,40 @@
+ch.2_192	WormBase	exon	706	990	.	+	.	Parent=Transcript:K10G4.3.1
+ch.2_192	WormBase	CDS	706	990	.	+	.	ID=CDS:K10G4.3;Parent=Transcript:K10G4.3.1
+ch.2_192	WormBase	gene	101	990	.	+	.	ID=Gene:WBGene00010752
+ch.2_192	WormBase	mRNA	101	990	.	+	.	ID=Transcript:K10G4.3.1;Parent=Gene:WBGene00010752
+ch.2_192	RNASeq_stranded	transcript_region	950	985	1.0	+	.	
+ch.2_192	RNASeq_reads	transcript_region	902	985	4.0	.	.	
+ch.2_192	RNASeq_stranded	transcript_region	894	949	2.0	+	.	
+ch.2_192	RNASeq_reads	transcript_region	719	901	7.0	.	.	
+ch.2_192	RNASeq_stranded	transcript_region	873	893	1.0	+	.	
+ch.2_192	RNASeq_stranded	transcript_region	870	872	2.0	+	.	
+ch.2_192	RNASeq_splice	intron	480	870	116.0	+	.	
+ch.2_192	RNASeq_stranded	transcript_region	720	869	1.0	+	.	
+ch.2_192	RNASeq_splice	intron	480	849	26.0	+	.	
+ch.2_192	RNASeq_reads	transcript_region	706	718	4.0	.	.	
+ch.2_192	RNASeq_stranded	transcript_region	717	717	1.0	-	.	
+ch.2_192	WormBase	intron	480	705	.	+	.	Parent=Transcript:K10G4.3.1
+ch.2_192	RNASeq_splice	intron	480	705	20196.0	+	.	
+ch.2_192	RNASeq_reads	transcript_region	480	480	1.0	.	.	
+ch.2_192	RNASeq_stranded	transcript_region	446	479	1.0	+	.	
+ch.2_192	WormBase	CDS	309	479	.	+	.	ID=CDS:K10G4.3;Parent=Transcript:K10G4.3.1
+ch.2_192	WormBase	exon	309	479	.	+	.	Parent=Transcript:K10G4.3.1
+ch.2_192	RNASeq_reads	transcript_region	309	479	4.0	.	.	
+ch.2_192	RNASeq_stranded	transcript_region	441	445	2.0	+	.	
+ch.2_192	RNASeq_stranded	transcript_region	424	440	1.0	+	.	
+ch.2_192	RNASeq_stranded	transcript_region	351	423	2.0	+	.	
+ch.2_192	RNASeq_stranded	transcript_region	342	350	1.0	+	.	
+ch.2_192	RNASeq_splice	intron	256	321	37.0	+	.	
+ch.2_192	RNASeq_splice	intron	256	314	4.0	+	.	
+ch.2_192	WormBase	intron	256	308	.	+	.	Parent=Transcript:K10G4.3.1
+ch.2_192	RNASeq_splice	intron	256	308	17170.0	+	.	
+ch.2_192	RNASeq_reads	transcript_region	107	255	3.0	.	.	
+ch.2_192	WormBase	CDS	103	255	.	+	.	ID=CDS:K10G4.3;Parent=Transcript:K10G4.3.1
+ch.2_192	WormBase	exon	101	255	.	+	.	Parent=Transcript:K10G4.3.1
+ch.2_192	RNASeq_stranded	transcript_region	111	232	1.0	+	.	
+ch.2_192	RNASeq_R_asymmetry	transcript_region	112	157	11680.0	.	.	
+ch.2_192	RNASeq_R_asymmetry	transcript_region	104	111	7377.0	.	.	
+ch.2_192	RNASeq_reads	transcript_region	101	106	1.0	.	.	
+ch.2_192	RNASeq_R_asymmetry	transcript_region	102	103	4206.0	.	.	
+ch.2_192	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:K10G4.3.1
+ch.2_192	RNASeq_R_asymmetry	transcript_region	97	101	2264.0	.	.	

@@ -1,0 +1,49 @@
+ch.2_133	WormBase	five_prime_UTR	101	178	.	+	.	Parent=Transcript:Y59H11AR.10.1
+ch.2_133	WormBase	exon	101	227	.	+	.	Parent=Transcript:Y59H11AR.10.1
+ch.2_133	WormBase	gene	101	635	.	+	.	ID=Gene:WBGene00235290
+ch.2_133	WormBase	mRNA	101	635	.	+	.	ID=Transcript:Y59H11AR.10.1;Parent=Gene:WBGene00235290
+ch.2_133	RNASeq_F_asymmetry	transcript_region	138	144	236.0	.	.	
+ch.2_133	RNASeq_F_asymmetry	transcript_region	145	150	370.0	.	.	
+ch.2_133	RNASeq_F_asymmetry	transcript_region	151	156	568.0	.	.	
+ch.2_133	RNASeq_F_asymmetry	transcript_region	157	163	923.0	.	.	
+ch.2_133	RNASeq_F_asymmetry	transcript_region	164	164	1976.0	.	.	
+ch.2_133	RNASeq_F_asymmetry	transcript_region	165	171	2998.0	.	.	
+ch.2_133	RNASeq_reads	transcript_region	165	185	1.0	.	.	
+ch.2_133	RNASeq_F_asymmetry	transcript_region	172	193	5286.0	.	.	
+ch.2_133	WormBase	CDS	179	227	.	+	.	ID=CDS:Y59H11AR.10;Parent=Transcript:Y59H11AR.10.1
+ch.2_133	RNASeq_reads	transcript_region	186	227	2.0	.	.	
+ch.2_133	RNASeq_F_asymmetry	transcript_region	194	227	7979.0	.	.	
+ch.2_133	RNASeq_stranded	transcript_region	211	227	1.0	+	.	
+ch.2_133	RNASeq_splice	intron	228	268	47.0	+	.	
+ch.2_133	WormBase	intron	228	361	.	+	.	Parent=Transcript:Y59H11AR.10.1
+ch.2_133	RNASeq_splice	intron	228	361	10634.0	+	.	
+ch.2_133	RNASeq_splice	intron	228	407	235.0	+	.	
+ch.2_133	RNASeq_splice	intron	310	361	535.0	+	.	
+ch.2_133	RNASeq_splice	intron	314	361	13.0	+	.	
+ch.2_133	RNASeq_reads	transcript_region	361	361	1.0	.	.	
+ch.2_133	RNASeq_stranded	transcript_region	362	399	1.0	+	.	
+ch.2_133	WormBase	CDS	362	477	.	+	.	ID=CDS:Y59H11AR.10;Parent=Transcript:Y59H11AR.10.1
+ch.2_133	WormBase	exon	362	477	.	+	.	Parent=Transcript:Y59H11AR.10.1
+ch.2_133	RNASeq_reads	transcript_region	362	477	3.0	.	.	
+ch.2_133	RNASeq_stranded	transcript_region	404	404	1.0	+	.	
+ch.2_133	RNASeq_stranded	transcript_region	405	419	2.0	+	.	
+ch.2_133	RNASeq_stranded	transcript_region	420	457	4.0	+	.	
+ch.2_133	RNASeq_stranded	transcript_region	458	466	2.0	+	.	
+ch.2_133	RNASeq_stranded	transcript_region	467	477	1.0	+	.	
+ch.2_133	RNASeq_R_asymmetry	transcript_region	470	477	12003.0	.	.	
+ch.2_133	WormBase	intron	478	526	.	+	.	Parent=Transcript:Y59H11AR.10.1
+ch.2_133	RNASeq_splice	intron	478	526	13173.0	+	.	
+ch.2_133	RNASeq_stranded	transcript_region	527	541	1.0	+	.	
+ch.2_133	RNASeq_reads	transcript_region	527	573	2.0	.	.	
+ch.2_133	RNASeq_R_asymmetry	transcript_region	527	576	9657.0	.	.	
+ch.2_133	WormBase	CDS	527	598	.	+	.	ID=CDS:Y59H11AR.10;Parent=Transcript:Y59H11AR.10.1
+ch.2_133	WormBase	exon	527	635	.	+	.	Parent=Transcript:Y59H11AR.10.1
+ch.2_133	RNASeq_reads	transcript_region	574	592	1.0	.	.	
+ch.2_133	RNASeq_R_asymmetry	transcript_region	577	581	6330.0	.	.	
+ch.2_133	RNASeq_R_asymmetry	transcript_region	582	591	3964.0	.	.	
+ch.2_133	RNASeq_R_asymmetry	transcript_region	592	606	2422.0	.	.	
+ch.2_133	WormBase	three_prime_UTR	599	635	.	+	.	Parent=Transcript:Y59H11AR.10.1
+ch.2_133	RNASeq_R_asymmetry	transcript_region	607	626	1593.0	.	.	
+ch.2_133	RNASeq_R_asymmetry	transcript_region	627	628	1044.0	.	.	
+ch.2_133	RNASeq_R_asymmetry	transcript_region	629	632	675.0	.	.	
+ch.2_133	RNASeq_R_asymmetry	transcript_region	633	634	430.0	.	.	

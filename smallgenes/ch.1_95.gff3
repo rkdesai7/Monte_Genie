@@ -1,0 +1,52 @@
+ch.1_95	RNASeq_reads	transcript_region	504	514	1.0	.	.	
+ch.1_95	WormBase	three_prime_UTR	390	513	.	+	.	Parent=Transcript:C23G10.11.1
+ch.1_95	WormBase	exon	250	513	.	+	.	Parent=Transcript:C23G10.11.1
+ch.1_95	WormBase	gene	101	513	.	+	.	ID=Gene:WBGene00016017
+ch.1_95	WormBase	mRNA	101	513	.	+	.	ID=Transcript:C23G10.11.1;Parent=Gene:WBGene00016017
+ch.1_95	WormBase	three_prime_UTR	390	512	.	+	.	Parent=Transcript:C23G10.11.2
+ch.1_95	WormBase	exon	250	512	.	+	.	Parent=Transcript:C23G10.11.2
+ch.1_95	WormBase	mRNA	112	512	.	+	.	ID=Transcript:C23G10.11.2;Parent=Gene:WBGene00016017
+ch.1_95	RNASeq_reads	transcript_region	486	503	2.0	.	.	
+ch.1_95	RNASeq_stranded	transcript_region	493	502	1.0	+	.	
+ch.1_95	RNASeq_stranded	transcript_region	466	492	2.0	+	.	
+ch.1_95	RNASeq	transcription_end_site	490	490	.	-	.	
+ch.1_95	RNASeq	transcription_end_site	490	490	.	-	.	
+ch.1_95	RNASeq_reads	transcript_region	457	485	4.0	.	.	
+ch.1_95	RNASeq_stranded	transcript_region	363	465	4.0	+	.	
+ch.1_95	RNASeq_reads	transcript_region	447	456	7.0	.	.	
+ch.1_95	RNASeq_reads	transcript_region	427	446	11.0	.	.	
+ch.1_95	RNASeq_F_asymmetry	transcript_region	426	426	72379.0	.	.	
+ch.1_95	RNASeq_reads	transcript_region	250	426	18.0	.	.	
+ch.1_95	RNASeq_F_asymmetry	transcript_region	411	420	73965.0	.	.	
+ch.1_95	WormBase	CDS	250	389	.	+	.	ID=CDS:C23G10.11;Parent=Transcript:C23G10.11.1,Transcript:C23G10.11.2
+ch.1_95	RNASeq_stranded	transcript_region	357	362	2.0	+	.	
+ch.1_95	RNASeq_stranded	transcript_region	307	356	12.0	+	.	
+ch.1_95	RNASeq_stranded	transcript_region	250	306	2.0	+	.	
+ch.1_95	RNASeq_splice	intron	199	305	72.0	+	.	
+ch.1_95	RNASeq	transcription_end_site	277	277	.	-	.	
+ch.1_95	RNASeq_reads	transcript_region	249	249	2.0	.	.	
+ch.1_95	RNASeq_splice	intron	204	249	918.0	+	.	
+ch.1_95	WormBase	intron	199	249	.	+	.	Parent=Transcript:C23G10.11.1
+ch.1_95	WormBase	intron	199	249	.	+	.	Parent=Transcript:C23G10.11.2
+ch.1_95	RNASeq_splice	intron	199	249	60833.0	+	.	
+ch.1_95	RNASeq_reads	transcript_region	247	248	1.0	.	.	
+ch.1_95	RNASeq_stranded	transcript_region	152	198	2.0	+	.	
+ch.1_95	RNASeq_reads	transcript_region	150	198	14.0	.	.	
+ch.1_95	WormBase	CDS	147	198	.	+	.	ID=CDS:C23G10.11;Parent=Transcript:C23G10.11.1,Transcript:C23G10.11.2
+ch.1_95	WormBase	exon	112	198	.	+	.	Parent=Transcript:C23G10.11.2
+ch.1_95	WormBase	exon	101	198	.	+	.	Parent=Transcript:C23G10.11.1
+ch.1_95	RNASeq_R_asymmetry	transcript_region	136	168	49571.0	.	.	
+ch.1_95	RNASeq_stranded	transcript_region	145	151	1.0	+	.	
+ch.1_95	RNASeq_reads	transcript_region	133	149	9.0	.	.	
+ch.1_95	WormBase	five_prime_UTR	112	146	.	+	.	Parent=Transcript:C23G10.11.2
+ch.1_95	WormBase	five_prime_UTR	101	146	.	+	.	Parent=Transcript:C23G10.11.1
+ch.1_95	RNASeq_R_asymmetry	transcript_region	128	135	31903.0	.	.	
+ch.1_95	RNASeq_reads	transcript_region	127	132	5.0	.	.	
+ch.1_95	RNASeq_R_asymmetry	transcript_region	125	127	19899.0	.	.	
+ch.1_95	RNASeq_reads	transcript_region	121	126	3.0	.	.	
+ch.1_95	RNASeq_R_asymmetry	transcript_region	122	124	13117.0	.	.	
+ch.1_95	RNASeq_R_asymmetry	transcript_region	120	121	7229.0	.	.	
+ch.1_95	RNASeq_reads	transcript_region	103	120	1.0	.	.	
+ch.1_95	RNASeq_R_asymmetry	transcript_region	116	119	4717.0	.	.	
+ch.1_95	RNASeq_R_asymmetry	transcript_region	87	100	440.0	.	.	
+ch.1_95	RNASeq_R_asymmetry	transcript_region	84	86	275.0	.	.	

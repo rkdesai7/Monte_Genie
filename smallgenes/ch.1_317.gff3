@@ -1,0 +1,67 @@
+ch.1_317	RNASeq_F_asymmetry	transcript_region	1	18	290.0	.	.	
+ch.1_317	RNASeq_F_asymmetry	transcript_region	19	33	438.0	.	.	
+ch.1_317	RNASeq_F_asymmetry	transcript_region	34	68	666.0	.	.	
+ch.1_317	RNASeq_splice	intron	44	106	4.0	+	.	
+ch.1_317	RNASeq_splice	intron	48	106	3.0	+	.	
+ch.1_317	RNASeq_F_asymmetry	transcript_region	69	100	1000.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	101	104	1.0	+	.	
+ch.1_317	RNASeq_reads	transcript_region	101	105	18.0	.	.	
+ch.1_317	WormBase	five_prime_UTR	101	125	.	+	.	Parent=Transcript:F42H10.2.1
+ch.1_317	WormBase	exon	101	386	.	+	.	Parent=Transcript:F42H10.2.1
+ch.1_317	WormBase	gene	101	585	.	+	.	ID=Gene:WBGene00018366
+ch.1_317	WormBase	mRNA	101	585	.	+	.	ID=Transcript:F42H10.2.1;Parent=Gene:WBGene00018366
+ch.1_317	RNASeq_F_asymmetry	transcript_region	105	106	102560.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	105	114	8.0	+	.	
+ch.1_317	RNASeq_reads	transcript_region	106	111	35.0	.	.	
+ch.1_317	RNASeq_F_asymmetry	transcript_region	107	112	164692.0	.	.	
+ch.1_317	RNASeq_reads	transcript_region	112	129	54.0	.	.	
+ch.1_317	RNASeq_F_asymmetry	transcript_region	113	130	250146.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	115	195	13.0	+	.	
+ch.1_317	WormBase	CDS	126	386	.	+	.	ID=CDS:F42H10.2;Parent=Transcript:F42H10.2.1
+ch.1_317	RNASeq_reads	transcript_region	130	386	83.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	196	212	8.0	+	.	
+ch.1_317	RNASeq_stranded	transcript_region	213	328	14.0	+	.	
+ch.1_317	RNASeq_splice	intron	239	313	3.0	+	.	
+ch.1_317	RNASeq_splice	intron	249	316	6.0	+	.	
+ch.1_317	RNASeq_stranded	transcript_region	329	381	22.0	+	.	
+ch.1_317	RNASeq_R_asymmetry	transcript_region	371	386	273342.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	382	386	14.0	+	.	
+ch.1_317	RNASeq_R_asymmetry	transcript_region	387	387	46165.0	.	.	
+ch.1_317	RNASeq_reads	transcript_region	387	387	11.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	387	387	3.0	+	.	
+ch.1_317	WormBase	intron	387	442	.	+	.	Parent=Transcript:F42H10.2.1
+ch.1_317	RNASeq_splice	intron	387	442	316575.0	+	.	
+ch.1_317	RNASeq_splice	intron	387	446	61.0	+	.	
+ch.1_317	RNASeq_R_asymmetry	transcript_region	441	441	15457.0	.	.	
+ch.1_317	RNASeq_reads	transcript_region	441	442	4.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	441	442	3.0	+	.	
+ch.1_317	RNASeq_stranded	transcript_region	443	494	11.0	+	.	
+ch.1_317	RNASeq_reads	transcript_region	443	502	53.0	.	.	
+ch.1_317	RNASeq_R_asymmetry	transcript_region	443	503	221875.0	.	.	
+ch.1_317	WormBase	CDS	443	529	.	+	.	ID=CDS:F42H10.2;Parent=Transcript:F42H10.2.1
+ch.1_317	WormBase	exon	443	585	.	+	.	Parent=Transcript:F42H10.2.1
+ch.1_317	RNASeq_stranded	transcript_region	495	533	17.0	+	.	
+ch.1_317	RNASeq_reads	transcript_region	503	510	34.0	.	.	
+ch.1_317	RNASeq_R_asymmetry	transcript_region	504	510	140996.0	.	.	
+ch.1_317	RNASeq_reads	transcript_region	511	525	20.0	.	.	
+ch.1_317	RNASeq	transcription_end_site	512	512	.	+	.	
+ch.1_317	RNASeq	transcription_end_site	520	520	.	+	.	
+ch.1_317	RNASeq_reads	transcript_region	526	530	13.0	.	.	
+ch.1_317	RNASeq	transcription_end_site	528	528	.	+	.	
+ch.1_317	WormBase	three_prime_UTR	530	585	.	+	.	Parent=Transcript:F42H10.2.1
+ch.1_317	RNASeq_reads	transcript_region	531	543	8.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	534	540	11.0	+	.	
+ch.1_317	RNASeq	transcription_end_site	540	540	.	+	.	
+ch.1_317	RNASeq_stranded	transcript_region	541	556	7.0	+	.	
+ch.1_317	RNASeq	transcription_end_site	543	543	.	+	.	
+ch.1_317	RNASeq_reads	transcript_region	544	565	5.0	.	.	
+ch.1_317	RNASeq	transcription_end_site	546	546	.	+	.	
+ch.1_317	RNASeq_stranded	transcript_region	557	567	4.0	+	.	
+ch.1_317	RNASeq_reads	transcript_region	566	583	3.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	568	577	2.0	+	.	
+ch.1_317	RNASeq_R_asymmetry	transcript_region	569	580	12676.0	.	.	
+ch.1_317	RNASeq_stranded	transcript_region	578	583	1.0	+	.	
+ch.1_317	RNASeq	transcription_end_site	580	580	.	+	.	
+ch.1_317	RNASeq	transcription_end_site	581	581	.	+	.	
+ch.1_317	RNASeq_R_asymmetry	transcript_region	581	583	8115.0	.	.	
+ch.1_317	RNASeq	transcription_end_site	584	584	.	+	.	

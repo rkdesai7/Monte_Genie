@@ -1,0 +1,59 @@
+ch.1_534	RNASeq_stranded	transcript_region	858	879	11.0	-	.	
+ch.1_534	RNASeq_stranded	transcript_region	850	869	2.0	+	.	
+ch.1_534	RNASeq_F_asymmetry	transcript_region	857	857	13301.0	.	.	
+ch.1_534	RNASeq_stranded	transcript_region	849	857	7.0	-	.	
+ch.1_534	RNASeq_F_asymmetry	transcript_region	855	855	13544.0	.	.	
+ch.1_534	RNASeq_F_asymmetry	transcript_region	850	852	13880.0	.	.	
+ch.1_534	RNASeq_stranded	transcript_region	787	849	4.0	+	.	
+ch.1_534	RNASeq_stranded	transcript_region	839	848	4.0	-	.	
+ch.1_534	RNASeq_F_asymmetry	transcript_region	838	844	14113.0	.	.	
+ch.1_534	RNASeq_stranded	transcript_region	833	838	2.0	-	.	
+ch.1_534	RNASeq_F_asymmetry	transcript_region	836	836	14159.0	.	.	
+ch.1_534	RNASeq_F_asymmetry	transcript_region	807	833	16940.0	.	.	
+ch.1_534	RNASeq_stranded	transcript_region	829	832	1.0	-	.	
+ch.1_534	RNASeq_F_asymmetry	transcript_region	779	806	29938.0	.	.	
+ch.1_534	RNASeq_reads	transcript_region	762	806	7.0	.	.	
+ch.1_534	WormBase	CDS	566	790	.	+	.	ID=CDS:H04D03.6a;Parent=Transcript:H04D03.6a.1
+ch.1_534	WormBase	exon	566	790	.	+	.	Parent=Transcript:H04D03.6a.1
+ch.1_534	WormBase	exon	560	790	.	+	.	Parent=Transcript:H04D03.6b.1
+ch.1_534	WormBase	CDS	560	790	.	+	.	ID=CDS:H04D03.6b;Parent=Transcript:H04D03.6b.1
+ch.1_534	WormBase	gene	101	790	.	+	.	ID=Gene:WBGene00194861
+ch.1_534	WormBase	mRNA	101	790	.	+	.	ID=Transcript:H04D03.6a.1;Parent=Gene:WBGene00194861
+ch.1_534	WormBase	mRNA	101	790	.	+	.	ID=Transcript:H04D03.6b.1;Parent=Gene:WBGene00194861
+ch.1_534	RNASeq_stranded	transcript_region	762	786	7.0	+	.	
+ch.1_534	RNASeq_reads	transcript_region	713	761	11.0	.	.	
+ch.1_534	RNASeq_stranded	transcript_region	695	761	11.0	+	.	
+ch.1_534	RNASeq_F_asymmetry	transcript_region	745	745	51400.0	.	.	
+ch.1_534	RNASeq_F_asymmetry	transcript_region	740	741	54109.0	.	.	
+ch.1_534	RNASeq_reads	transcript_region	587	712	17.0	.	.	
+ch.1_534	RNASeq_stranded	transcript_region	566	694	7.0	+	.	
+ch.1_534	RNASeq_splice	intron	602	676	6.0	+	.	
+ch.1_534	RNASeq_splice	intron	155	627	14.0	+	.	
+ch.1_534	RNASeq_reads	transcript_region	566	586	26.0	.	.	
+ch.1_534	RNASeq_reads	transcript_region	560	565	16.0	.	.	
+ch.1_534	RNASeq_stranded	transcript_region	560	565	3.0	+	.	
+ch.1_534	RNASeq_splice	intron	524	565	64.0	+	.	
+ch.1_534	WormBase	intron	155	565	.	+	.	Parent=Transcript:H04D03.6a.1
+ch.1_534	RNASeq_splice	intron	155	565	56211.0	+	.	
+ch.1_534	RNASeq_reads	transcript_region	558	559	3.0	.	.	
+ch.1_534	RNASeq_splice	intron	524	559	13.0	+	.	
+ch.1_534	WormBase	intron	155	559	.	+	.	Parent=Transcript:H04D03.6b.1
+ch.1_534	RNASeq_splice	intron	155	559	66428.0	+	.	
+ch.1_534	RNASeq_reads	transcript_region	555	557	1.0	.	.	
+ch.1_534	RNASeq_R_asymmetry	transcript_region	555	555	5618.0	.	.	
+ch.1_534	WormBase_transposon	transposable_element	362	538	.	-	.	ID=Transposon:Predicted_CELE14_9224
+ch.1_534	RNASeq_splice	intron	155	389	126.0	+	.	
+ch.1_534	WormBase	CDS	101	154	.	+	.	ID=CDS:H04D03.6a;Parent=Transcript:H04D03.6a.1
+ch.1_534	WormBase	CDS	101	154	.	+	.	ID=CDS:H04D03.6b;Parent=Transcript:H04D03.6b.1
+ch.1_534	WormBase	exon	101	154	.	+	.	Parent=Transcript:H04D03.6a.1
+ch.1_534	WormBase	exon	101	154	.	+	.	Parent=Transcript:H04D03.6b.1
+ch.1_534	RNASeq_reads	transcript_region	100	154	20.0	.	.	
+ch.1_534	RNASeq_stranded	transcript_region	81	154	6.0	+	.	
+ch.1_534	RNASeq_R_asymmetry	transcript_region	90	137	79339.0	.	.	
+ch.1_534	RNASeq	transcription_end_site	114	114	.	-	.	
+ch.1_534	RNASeq	transcription_end_site	114	114	.	-	.	
+ch.1_534	RNASeq_reads	transcript_region	87	99	13.0	.	.	
+ch.1_534	RNASeq_R_asymmetry	transcript_region	84	89	50614.0	.	.	
+ch.1_534	RNASeq_reads	transcript_region	81	86	8.0	.	.	
+ch.1_534	RNASeq_R_asymmetry	transcript_region	81	83	31110.0	.	.	
+ch.1_534	RNASeq_R_asymmetry	transcript_region	79	80	1765.0	.	.	

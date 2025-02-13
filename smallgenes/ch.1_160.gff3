@@ -1,0 +1,106 @@
+ch.1_160	RNASeq_R_asymmetry	transcript_region	685	685	1964.0	.	.	
+ch.1_160	RNASeq_R_asymmetry	transcript_region	684	684	1230.0	.	.	
+ch.1_160	RNASeq	transcription_end_site	610	610	.	-	.	
+ch.1_160	RNASeq	transcription_end_site	610	610	.	-	.	
+ch.1_160	RNASeq	transcription_end_site	604	604	.	-	.	
+ch.1_160	RNASeq_reads	transcript_region	590	603	1.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	589	603	1.0	+	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	598	602	2643.0	.	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	596	596	3228.0	.	.	
+ch.1_160	RNASeq	transcription_end_site	596	596	.	-	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	590	594	3668.0	.	.	
+ch.1_160	RNASeq	transcription_end_site	591	591	.	-	.	
+ch.1_160	RNASeq	transcription_end_site	591	591	.	-	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	589	589	6144.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	589	589	2.0	.	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	587	588	39566.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	586	588	10.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	585	588	9.0	+	.	
+ch.1_160	RNASeq_stranded	transcript_region	583	588	1.0	-	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	583	586	64129.0	.	.	
+ch.1_160	WormBase	three_prime_UTR	365	586	.	+	.	Parent=Transcript:F32D8.6.1
+ch.1_160	WormBase	exon	252	586	.	+	.	Parent=Transcript:F32D8.6.1
+ch.1_160	WormBase	gene	101	586	.	+	.	ID=Gene:WBGene00001303
+ch.1_160	WormBase	mRNA	101	586	.	+	.	ID=Transcript:F32D8.6.1;Parent=Gene:WBGene00001303
+ch.1_160	RNASeq_reads	transcript_region	582	585	17.0	.	.	
+ch.1_160	RNASeq	transcription_end_site	584	584	.	-	.	
+ch.1_160	RNASeq	transcription_end_site	584	584	.	-	.	
+ch.1_160	RNASeq_stranded	transcript_region	583	584	14.0	+	.	
+ch.1_160	RNASeq	transcription_end_site	582	582	.	-	.	
+ch.1_160	RNASeq	transcription_end_site	582	582	.	-	.	
+ch.1_160	RNASeq_stranded	transcript_region	581	582	22.0	+	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	580	582	104231.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	549	582	2.0	-	.	
+ch.1_160	RNASeq_reads	transcript_region	579	581	27.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	576	580	37.0	+	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	577	578	165609.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	571	578	41.0	.	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	565	575	187159.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	563	575	58.0	+	.	
+ch.1_160	RNASeq_reads	transcript_region	552	570	62.0	.	.	
+ch.1_160	RNASeq	transcription_end_site	566	566	.	-	.	
+ch.1_160	RNASeq	transcription_end_site	566	566	.	-	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	562	564	285216.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	547	562	89.0	+	.	
+ch.1_160	RNASeq	transcription_end_site	561	561	.	-	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	548	551	388752.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	548	551	98.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	543	548	4.0	-	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	541	547	841473.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	540	547	189.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	536	546	136.0	+	.	
+ch.1_160	RNASeq_stranded	transcript_region	498	542	7.0	-	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	501	540	1283300.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	502	539	295.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	519	535	207.0	+	.	
+ch.1_160	RNASeq_stranded	transcript_region	413	518	322.0	+	.	
+ch.1_160	RNASeq_reads	transcript_region	461	501	443.0	.	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	450	500	1972690.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	473	497	3.0	-	.	
+ch.1_160	RNASeq_stranded	transcript_region	453	472	5.0	-	.	
+ch.1_160	RNASeq_reads	transcript_region	371	460	665.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	391	452	3.0	-	.	
+ch.1_160	RNASeq_F_asymmetry	transcript_region	413	432	3246970.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	331	412	210.0	+	.	
+ch.1_160	RNASeq_stranded	transcript_region	383	390	5.0	-	.	
+ch.1_160	RNASeq_stranded	transcript_region	289	382	3.0	-	.	
+ch.1_160	RNASeq_reads	transcript_region	252	370	1003.0	.	.	
+ch.1_160	WormBase	CDS	252	364	.	+	.	ID=CDS:F32D8.6;Parent=Transcript:F32D8.6.1
+ch.1_160	RNASeq_stranded	transcript_region	287	330	132.0	+	.	
+ch.1_160	RNASeq_stranded	transcript_region	262	288	1.0	-	.	
+ch.1_160	RNASeq_stranded	transcript_region	252	286	203.0	+	.	
+ch.1_160	RNASeq_splice	intron	140	276	8.0	-	.	
+ch.1_160	RNASeq_splice	intron	203	262	4.0	+	.	
+ch.1_160	RNASeq_stranded	transcript_region	252	261	2.0	-	.	
+ch.1_160	RNASeq_splice	intron	203	259	164.0	+	.	
+ch.1_160	RNASeq_reads	transcript_region	250	251	118.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	250	251	33.0	+	.	
+ch.1_160	WormBase	intron	203	251	.	+	.	Parent=Transcript:F32D8.6.1
+ch.1_160	RNASeq_splice	intron	203	251	4742840.0	+	.	
+ch.1_160	RNASeq_reads	transcript_region	248	249	2.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	203	247	1.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	203	237	1.0	+	.	
+ch.1_160	RNASeq_stranded	transcript_region	163	202	4.0	-	.	
+ch.1_160	RNASeq_stranded	transcript_region	142	202	170.0	+	.	
+ch.1_160	RNASeq_reads	transcript_region	114	202	900.0	.	.	
+ch.1_160	WormBase	CDS	109	202	.	+	.	ID=CDS:F32D8.6;Parent=Transcript:F32D8.6.1
+ch.1_160	WormBase	exon	101	202	.	+	.	Parent=Transcript:F32D8.6.1
+ch.1_160	RNASeq_R_asymmetry	transcript_region	113	175	3873750.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	161	162	2.0	-	.	
+ch.1_160	RNASeq_stranded	transcript_region	141	160	1.0	-	.	
+ch.1_160	RNASeq_stranded	transcript_region	138	141	111.0	+	.	
+ch.1_160	RNASeq_stranded	transcript_region	99	137	171.0	+	.	
+ch.1_160	RNASeq_reads	transcript_region	104	113	591.0	.	.	
+ch.1_160	RNASeq_R_asymmetry	transcript_region	104	112	2538270.0	.	.	
+ch.1_160	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:F32D8.6.1
+ch.1_160	RNASeq_R_asymmetry	transcript_region	99	103	1589010.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	99	103	318.0	.	.	
+ch.1_160	RNASeq_splice	intron	4	100	7.0	+	.	
+ch.1_160	RNASeq_R_asymmetry	transcript_region	95	98	841999.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	95	98	170.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	95	98	7.0	+	.	
+ch.1_160	RNASeq_R_asymmetry	transcript_region	92	94	212559.0	.	.	
+ch.1_160	RNASeq_reads	transcript_region	92	94	42.0	.	.	
+ch.1_160	RNASeq_stranded	transcript_region	92	94	2.0	+	.	
+ch.1_160	RNASeq_stranded	transcript_region	68	91	1.0	+	.	
+ch.1_160	RNASeq_R_asymmetry	transcript_region	82	84	5376.0	.	.	

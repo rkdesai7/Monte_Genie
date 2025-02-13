@@ -1,0 +1,70 @@
+ch.2_32	RNASeq_F_asymmetry	transcript_region	94	98	12129.0	.	.	
+ch.2_32	RNASeq_reads	transcript_region	94	98	2.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	99	99	1.0	+	.	
+ch.2_32	RNASeq_reads	transcript_region	99	102	4.0	.	.	
+ch.2_32	RNASeq_F_asymmetry	transcript_region	99	103	21999.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	100	123	2.0	+	.	
+ch.2_32	WormBase	five_prime_UTR	101	107	.	+	.	Parent=Transcript:ZK622.4.1
+ch.2_32	WormBase	exon	101	158	.	+	.	Parent=Transcript:ZK622.4.1
+ch.2_32	WormBase	gene	101	705	.	+	.	ID=Gene:WBGene00022782
+ch.2_32	WormBase	mRNA	101	705	.	+	.	ID=Transcript:ZK622.4.1;Parent=Gene:WBGene00022782
+ch.2_32	RNASeq_reads	transcript_region	103	109	7.0	.	.	
+ch.2_32	RNASeq_F_asymmetry	transcript_region	104	109	33568.0	.	.	
+ch.2_32	WormBase	CDS	108	158	.	+	.	ID=CDS:ZK622.4;Parent=Transcript:ZK622.4.1
+ch.2_32	RNASeq_reads	transcript_region	110	128	11.0	.	.	
+ch.2_32	RNASeq_F_asymmetry	transcript_region	110	131	53512.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	124	158	4.0	+	.	
+ch.2_32	RNASeq_reads	transcript_region	129	158	17.0	.	.	
+ch.2_32	RNASeq_F_asymmetry	transcript_region	132	158	80517.0	.	.	
+ch.2_32	WormBase	intron	159	240	.	+	.	Parent=Transcript:ZK622.4.1
+ch.2_32	RNASeq_splice	intron	159	240	87826.0	+	.	
+ch.2_32	RNASeq_splice	intron	191	240	11.0	+	.	
+ch.2_32	RNASeq_reads	transcript_region	239	240	2.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	239	240	1.0	+	.	
+ch.2_32	RNASeq	transcription_end_site	241	241	.	+	.	
+ch.2_32	RNASeq_F_asymmetry	transcript_region	241	258	74965.0	.	.	
+ch.2_32	WormBase	CDS	241	360	.	+	.	ID=CDS:ZK622.4;Parent=Transcript:ZK622.4.1
+ch.2_32	WormBase	exon	241	360	.	+	.	Parent=Transcript:ZK622.4.1
+ch.2_32	RNASeq_reads	transcript_region	241	360	18.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	241	360	4.0	+	.	
+ch.2_32	RNASeq	transcription_end_site	317	317	.	+	.	
+ch.2_32	RNASeq	transcription_end_site	353	353	.	+	.	
+ch.2_32	RNASeq_reads	transcript_region	361	362	2.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	361	362	1.0	+	.	
+ch.2_32	WormBase	intron	361	410	.	+	.	Parent=Transcript:ZK622.4.1
+ch.2_32	RNASeq_splice	intron	361	410	111699.0	+	.	
+ch.2_32	RNASeq_splice	intron	361	441	21.0	+	.	
+ch.2_32	RNASeq_splice	intron	365	410	17.0	+	.	
+ch.2_32	RNASeq_reads	transcript_region	406	408	2.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	409	409	1.0	+	.	
+ch.2_32	RNASeq_reads	transcript_region	409	410	4.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	410	410	2.0	+	.	
+ch.2_32	RNASeq_stranded	transcript_region	411	454	4.0	+	.	
+ch.2_32	WormBase	CDS	411	542	.	+	.	ID=CDS:ZK622.4;Parent=Transcript:ZK622.4.1
+ch.2_32	RNASeq_reads	transcript_region	411	658	24.0	.	.	
+ch.2_32	WormBase	exon	411	705	.	+	.	Parent=Transcript:ZK622.4.1
+ch.2_32	RNASeq_stranded	transcript_region	455	492	7.0	+	.	
+ch.2_32	RNASeq	transcription_end_site	488	488	.	+	.	
+ch.2_32	RNASeq_stranded	transcript_region	493	547	4.0	+	.	
+ch.2_32	WormBase	three_prime_UTR	543	705	.	+	.	Parent=Transcript:ZK622.4.1
+ch.2_32	RNASeq_stranded	transcript_region	548	594	7.0	+	.	
+ch.2_32	RNASeq	transcription_end_site	556	556	.	+	.	
+ch.2_32	RNASeq	transcription_end_site	588	588	.	+	.	
+ch.2_32	RNASeq_stranded	transcript_region	595	666	11.0	+	.	
+ch.2_32	RNASeq	transcription_end_site	647	647	.	+	.	
+ch.2_32	RNASeq_reads	transcript_region	659	687	15.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	667	680	7.0	+	.	
+ch.2_32	RNASeq_R_asymmetry	transcript_region	673	673	51345.0	.	.	
+ch.2_32	RNASeq_R_asymmetry	transcript_region	679	692	44813.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	681	692	4.0	+	.	
+ch.2_32	RNASeq_reads	transcript_region	688	696	8.0	.	.	
+ch.2_32	RNASeq_R_asymmetry	transcript_region	693	696	27661.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	693	701	2.0	+	.	
+ch.2_32	RNASeq_reads	transcript_region	697	699	4.0	.	.	
+ch.2_32	RNASeq	transcription_end_site	699	699	.	+	.	
+ch.2_32	RNASeq_reads	transcript_region	700	703	2.0	.	.	
+ch.2_32	RNASeq_stranded	transcript_region	702	703	1.0	+	.	
+ch.2_32	RNASeq	transcription_end_site	703	703	.	+	.	
+ch.2_32	RNASeq_reads	transcript_region	704	704	1.0	.	.	
+ch.2_32	RNASeq	transcription_end_site	705	705	.	+	.	
+ch.2_32	RNASeq	transcription_end_site	711	711	.	+	.	

@@ -1,0 +1,128 @@
+ch.2_335	RNASeq_reads	transcript_region	33	95	4.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	50	100	2.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	96	100	7.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	101	102	5.0	+	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	101	105	117785.0	.	.	
+ch.2_335	RNASeq_reads	transcript_region	101	105	28.0	.	.	
+ch.2_335	WormBase	five_prime_UTR	101	136	.	+	.	Parent=Transcript:R07B1.10.1
+ch.2_335	WormBase	exon	101	157	.	+	.	Parent=Transcript:R07B1.10.1
+ch.2_335	WormBase	gene	101	866	.	+	.	ID=Gene:WBGene00002271
+ch.2_335	WormBase	mRNA	101	866	.	+	.	ID=Transcript:R07B1.10.1;Parent=Gene:WBGene00002271
+ch.2_335	RNASeq_stranded	transcript_region	103	105	9.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	106	107	15.0	+	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	106	109	188112.0	.	.	
+ch.2_335	RNASeq_reads	transcript_region	106	110	43.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	108	108	28.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	109	113	58.0	+	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	110	113	286556.0	.	.	
+ch.2_335	RNASeq_reads	transcript_region	111	117	68.0	.	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	114	122	431778.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	114	126	103.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	118	128	123.0	.	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	123	131	654163.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	127	157	156.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	129	150	186.0	.	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	132	157	986230.0	.	.	
+ch.2_335	WormBase	CDS	137	157	.	+	.	ID=CDS:R07B1.10;Parent=Transcript:R07B1.10.1
+ch.2_335	RNASeq_stranded	transcript_region	140	141	1.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	142	142	2.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	143	157	5.0	-	.	
+ch.2_335	RNASeq_reads	transcript_region	151	157	280.0	.	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	158	158	80980.0	.	.	
+ch.2_335	RNASeq_reads	transcript_region	158	158	16.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	158	158	14.0	+	.	
+ch.2_335	RNASeq_splice	intron	158	198	38.0	+	.	
+ch.2_335	WormBase	intron	158	222	.	+	.	Parent=Transcript:R07B1.10.1
+ch.2_335	RNASeq_splice	intron	158	222	1534820.0	+	.	
+ch.2_335	RNASeq_splice	intron	158	375	33.0	+	.	
+ch.2_335	RNASeq_splice	intron	158	551	14.0	+	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	159	202	6380.0	.	.	
+ch.2_335	RNASeq_reads	transcript_region	159	206	1.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	159	221	1.0	+	.	
+ch.2_335	RNASeq_splice	intron	162	222	7.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	207	221	2.0	.	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	222	222	422727.0	.	.	
+ch.2_335	RNASeq_reads	transcript_region	222	222	95.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	222	222	21.0	+	.	
+ch.2_335	RNASeq_F_asymmetry	transcript_region	223	253	1580970.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	223	293	6.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	223	382	196.0	+	.	
+ch.2_335	WormBase	CDS	223	504	.	+	.	ID=CDS:R07B1.10;Parent=Transcript:R07B1.10.1
+ch.2_335	WormBase	exon	223	504	.	+	.	Parent=Transcript:R07B1.10.1
+ch.2_335	RNASeq_reads	transcript_region	223	504	355.0	.	.	
+ch.2_335	RNASeq_splice	intron	271	426	28.0	+	.	
+ch.2_335	RNASeq_splice	intron	280	325	68.0	+	.	
+ch.2_335	RNASeq_splice	intron	280	375	11.0	+	.	
+ch.2_335	RNASeq_splice	intron	280	551	5.0	+	.	
+ch.2_335	RNASeq_splice	intron	281	430	23.0	+	.	
+ch.2_335	RNASeq_splice	intron	282	424	40.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	294	307	10.0	-	.	
+ch.2_335	RNASeq_splice	intron	300	449	220.0	+	.	
+ch.2_335	RNASeq_splice	intron	305	379	7.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	308	343	6.0	-	.	
+ch.2_335	RNASeq_splice	intron	322	375	23.0	+	.	
+ch.2_335	RNASeq_splice	intron	329	686	28.0	+	.	
+ch.2_335	RNASeq_splice	intron	329	721	14.0	+	.	
+ch.2_335	RNASeq_splice	intron	339	445	5.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	344	356	3.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	357	397	5.0	-	.	
+ch.2_335	RNASeq_splice	intron	363	438	5.0	-	.	
+ch.2_335	RNASeq_splice	intron	368	569	4.0	+	.	
+ch.2_335	RNASeq_splice	intron	373	412	5.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	383	406	126.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	398	454	8.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	407	504	83.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	455	457	5.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	458	458	2.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	459	504	1.0	-	.	
+ch.2_335	RNASeq_splice	intron	472	572	19.0	-	.	
+ch.2_335	RNASeq_splice	intron	498	544	24.0	-	.	
+ch.2_335	RNASeq_reads	transcript_region	505	547	2.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	505	547	1.0	+	.	
+ch.2_335	WormBase	intron	505	551	.	+	.	Parent=Transcript:R07B1.10.1
+ch.2_335	RNASeq_splice	intron	505	551	1699620.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	548	551	28.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	548	551	3.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	552	552	1.0	+	.	
+ch.2_335	RNASeq	transcription_end_site	552	552	.	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	552	599	69.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	552	784	326.0	.	.	
+ch.2_335	WormBase	CDS	552	791	.	+	.	ID=CDS:R07B1.10;Parent=Transcript:R07B1.10.1
+ch.2_335	WormBase	exon	552	866	.	+	.	Parent=Transcript:R07B1.10.1
+ch.2_335	RNASeq_stranded	transcript_region	553	578	2.0	-	.	
+ch.2_335	RNASeq_splice	intron	573	776	3.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	579	597	1.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	598	618	2.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	600	650	105.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	619	624	1.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	625	634	2.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	635	648	1.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	651	684	158.0	+	.	
+ch.2_335	RNASeq_splice	intron	659	747	3.0	+	.	
+ch.2_335	RNASeq_splice	intron	665	720	5.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	671	775	1.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	685	719	242.0	+	.	
+ch.2_335	RNASeq_splice	intron	716	781	14.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	720	738	372.0	+	.	
+ch.2_335	RNASeq_splice	intron	733	766	11.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	739	832	567.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	776	780	2.0	-	.	
+ch.2_335	RNASeq_stranded	transcript_region	781	788	4.0	-	.	
+ch.2_335	RNASeq_reads	transcript_region	785	814	213.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	789	867	7.0	-	.	
+ch.2_335	WormBase	three_prime_UTR	792	866	.	+	.	Parent=Transcript:R07B1.10.1
+ch.2_335	RNASeq_reads	transcript_region	815	836	139.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	833	847	328.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	837	849	87.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	848	859	203.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	850	856	57.0	.	.	
+ch.2_335	RNASeq_reads	transcript_region	857	863	35.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	860	864	131.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	864	867	23.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	865	867	83.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	868	871	5.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	868	871	5.0	+	.	
+ch.2_335	RNASeq_stranded	transcript_region	872	894	3.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	872	895	3.0	.	.	
+ch.2_335	RNASeq_stranded	transcript_region	895	915	1.0	+	.	
+ch.2_335	RNASeq_reads	transcript_region	896	912	1.0	.	.	

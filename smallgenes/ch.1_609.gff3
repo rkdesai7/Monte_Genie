@@ -1,0 +1,48 @@
+ch.1_609	RNASeq_F_asymmetry	transcript_region	820	820	519.0	.	.	
+ch.1_609	RNASeq	transcription_end_site	819	819	.	-	.	
+ch.1_609	RNASeq	transcription_end_site	819	819	.	-	.	
+ch.1_609	RNASeq_F_asymmetry	transcript_region	818	819	1136.0	.	.	
+ch.1_609	WormBase	three_prime_UTR	770	819	.	+	.	Parent=Transcript:C29F3.3.1
+ch.1_609	WormBase	exon	491	819	.	+	.	Parent=Transcript:C29F3.3.1
+ch.1_609	WormBase	gene	101	819	.	+	.	ID=Gene:WBGene00007804
+ch.1_609	WormBase	mRNA	101	819	.	+	.	ID=Transcript:C29F3.3.1;Parent=Gene:WBGene00007804
+ch.1_609	RNASeq_F_asymmetry	transcript_region	816	817	1951.0	.	.	
+ch.1_609	RNASeq_F_asymmetry	transcript_region	806	815	2987.0	.	.	
+ch.1_609	RNASeq_reads	transcript_region	798	815	1.0	.	.	
+ch.1_609	RNASeq_stranded	transcript_region	773	815	1.0	-	.	
+ch.1_609	RNASeq_F_asymmetry	transcript_region	798	805	4575.0	.	.	
+ch.1_609	RNASeq_reads	transcript_region	767	797	2.0	.	.	
+ch.1_609	RNASeq	transcription_end_site	791	791	.	-	.	
+ch.1_609	RNASeq	transcription_end_site	791	791	.	-	.	
+ch.1_609	WormBase	CDS	491	769	.	+	.	ID=CDS:C29F3.3;Parent=Transcript:C29F3.3.1
+ch.1_609	RNASeq_reads	transcript_region	729	766	4.0	.	.	
+ch.1_609	RNASeq_reads	transcript_region	690	728	7.0	.	.	
+ch.1_609	RNASeq_stranded	transcript_region	632	725	1.0	+	.	
+ch.1_609	RNASeq_reads	transcript_region	491	689	11.0	.	.	
+ch.1_609	RNASeq_stranded	transcript_region	579	631	2.0	+	.	
+ch.1_609	RNASeq_splice	intron	194	587	14.0	+	.	
+ch.1_609	RNASeq_stranded	transcript_region	577	578	1.0	+	.	
+ch.1_609	RNASeq_stranded	transcript_region	546	550	1.0	+	.	
+ch.1_609	RNASeq_stranded	transcript_region	499	545	2.0	+	.	
+ch.1_609	RNASeq_stranded	transcript_region	491	498	4.0	+	.	
+ch.1_609	RNASeq_reads	transcript_region	490	490	1.0	.	.	
+ch.1_609	RNASeq_stranded	transcript_region	490	490	1.0	-	.	
+ch.1_609	WormBase	intron	228	490	.	+	.	Parent=Transcript:C29F3.3.1
+ch.1_609	RNASeq_splice	intron	228	490	57129.0	+	.	
+ch.1_609	RNASeq_splice	intron	228	462	9.0	+	.	
+ch.1_609	RNASeq_reads	transcript_region	156	227	11.0	.	.	
+ch.1_609	RNASeq_stranded	transcript_region	153	227	3.0	+	.	
+ch.1_609	WormBase	CDS	105	227	.	+	.	ID=CDS:C29F3.3;Parent=Transcript:C29F3.3.1
+ch.1_609	WormBase	exon	101	227	.	+	.	Parent=Transcript:C29F3.3.1
+ch.1_609	RNASeq_R_asymmetry	transcript_region	124	179	36669.0	.	.	
+ch.1_609	RNASeq_reads	transcript_region	115	155	7.0	.	.	
+ch.1_609	RNASeq_stranded	transcript_region	107	152	1.0	+	.	
+ch.1_609	RNASeq_R_asymmetry	transcript_region	113	123	23484.0	.	.	
+ch.1_609	RNASeq_reads	transcript_region	113	114	4.0	.	.	
+ch.1_609	RNASeq_R_asymmetry	transcript_region	107	112	9554.0	.	.	
+ch.1_609	RNASeq_reads	transcript_region	107	112	2.0	.	.	
+ch.1_609	RNASeq_R_asymmetry	transcript_region	103	106	6244.0	.	.	
+ch.1_609	RNASeq_reads	transcript_region	91	106	1.0	.	.	
+ch.1_609	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:C29F3.3.1
+ch.1_609	RNASeq_R_asymmetry	transcript_region	92	102	3160.0	.	.	
+ch.1_609	RNASeq_R_asymmetry	transcript_region	91	91	2064.0	.	.	

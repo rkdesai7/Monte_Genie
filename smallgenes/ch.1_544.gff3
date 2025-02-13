@@ -1,0 +1,47 @@
+ch.1_544	RNASeq_F_asymmetry	transcript_region	97	100	1964.0	.	.	
+ch.1_544	RNASeq_reads	transcript_region	100	103	1.0	.	.	
+ch.1_544	RNASeq_F_asymmetry	transcript_region	101	101	3443.0	.	.	
+ch.1_544	WormBase	five_prime_UTR	101	112	.	+	.	Parent=Transcript:F35H10.2.1
+ch.1_544	WormBase	exon	101	361	.	+	.	Parent=Transcript:F35H10.2.1
+ch.1_544	WormBase	gene	101	844	.	+	.	ID=Gene:WBGene00018068
+ch.1_544	WormBase	mRNA	101	844	.	+	.	ID=Transcript:F35H10.2.1;Parent=Gene:WBGene00018068
+ch.1_544	RNASeq_F_asymmetry	transcript_region	102	104	5230.0	.	.	
+ch.1_544	RNASeq_reads	transcript_region	104	111	2.0	.	.	
+ch.1_544	RNASeq_F_asymmetry	transcript_region	105	109	10418.0	.	.	
+ch.1_544	RNASeq_F_asymmetry	transcript_region	110	115	15833.0	.	.	
+ch.1_544	RNASeq_stranded	transcript_region	111	132	1.0	+	.	
+ch.1_544	RNASeq_reads	transcript_region	112	125	4.0	.	.	
+ch.1_544	WormBase	CDS	113	361	.	+	.	ID=CDS:F35H10.2;Parent=Transcript:F35H10.2.1
+ch.1_544	RNASeq_F_asymmetry	transcript_region	116	135	23889.0	.	.	
+ch.1_544	RNASeq_reads	transcript_region	126	166	7.0	.	.	
+ch.1_544	RNASeq_stranded	transcript_region	133	143	2.0	+	.	
+ch.1_544	RNASeq_F_asymmetry	transcript_region	136	177	36349.0	.	.	
+ch.1_544	RNASeq_stranded	transcript_region	144	190	4.0	+	.	
+ch.1_544	RNASeq_reads	transcript_region	167	361	11.0	.	.	
+ch.1_544	RNASeq_F_asymmetry	transcript_region	179	179	44973.0	.	.	
+ch.1_544	RNASeq_stranded	transcript_region	191	196	2.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	197	199	1.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	200	203	2.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	204	278	1.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	279	338	2.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	339	361	1.0	+	.	
+ch.1_544	WormBase	intron	362	461	.	+	.	Parent=Transcript:F35H10.2.1
+ch.1_544	RNASeq_splice	intron	362	461	60351.0	+	.	
+ch.1_544	RNASeq_reads	transcript_region	457	461	1.0	.	.	
+ch.1_544	RNASeq_stranded	transcript_region	462	479	1.0	+	.	
+ch.1_544	RNASeq_reads	transcript_region	462	698	12.0	.	.	
+ch.1_544	WormBase	CDS	462	719	.	+	.	ID=CDS:F35H10.2;Parent=Transcript:F35H10.2.1
+ch.1_544	WormBase	exon	462	844	.	+	.	Parent=Transcript:F35H10.2.1
+ch.1_544	RNASeq_stranded	transcript_region	480	516	2.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	517	560	1.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	561	577	2.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	578	611	1.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	628	628	1.0	+	.	
+ch.1_544	RNASeq_stranded	transcript_region	630	822	1.0	+	.	
+ch.1_544	RNASeq_reads	transcript_region	699	750	7.0	.	.	
+ch.1_544	WormBase	three_prime_UTR	720	844	.	+	.	Parent=Transcript:F35H10.2.1
+ch.1_544	RNASeq_R_asymmetry	transcript_region	729	750	26514.0	.	.	
+ch.1_544	RNASeq_reads	transcript_region	751	798	4.0	.	.	
+ch.1_544	RNASeq_reads	transcript_region	799	834	2.0	.	.	
+ch.1_544	RNASeq_reads	transcript_region	835	844	1.0	.	.	
+ch.1_544	RNASeq_R_asymmetry	transcript_region	836	839	5911.0	.	.	

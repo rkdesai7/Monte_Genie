@@ -1,0 +1,44 @@
+ch.1_411	WormBase_transposon	transposable_element	21	233	.	+	.	ID=Transposon:Predicted_SINE1_CE_6700
+ch.1_411	RNASeq_R_asymmetry	transcript_region	40	49	960.0	.	.	
+ch.1_411	RNASeq_reads	transcript_region	93	146	1.0	.	.	
+ch.1_411	RNASeq_F_asymmetry	transcript_region	97	98	3549.0	.	.	
+ch.1_411	WormBase	five_prime_UTR	101	314	.	+	.	Parent=Transcript:C32C4.16.1
+ch.1_411	WormBase	exon	101	350	.	+	.	Parent=Transcript:C32C4.16.1
+ch.1_411	WormBase	gene	101	654	.	+	.	ID=Gene:WBGene00206383
+ch.1_411	WormBase	mRNA	101	654	.	+	.	ID=Transcript:C32C4.16.1;Parent=Gene:WBGene00206383
+ch.1_411	RNASeq_F_asymmetry	transcript_region	108	128	3896.0	.	.	
+ch.1_411	RNASeq_reads	transcript_region	151	151	1.0	.	.	
+ch.1_411	RNASeq_reads	transcript_region	154	191	1.0	.	.	
+ch.1_411	RNASeq_splice	intron	236	312	10.0	+	.	
+ch.1_411	RNASeq_splice	intron	255	312	31.0	+	.	
+ch.1_411	RNASeq_F_asymmetry	transcript_region	307	313	4744.0	.	.	
+ch.1_411	RNASeq_reads	transcript_region	307	313	1.0	.	.	
+ch.1_411	RNASeq_F_asymmetry	transcript_region	314	316	7348.0	.	.	
+ch.1_411	RNASeq_reads	transcript_region	314	350	2.0	.	.	
+ch.1_411	WormBase	CDS	315	350	.	+	.	ID=CDS:C32C4.16;Parent=Transcript:C32C4.16.1
+ch.1_411	RNASeq_F_asymmetry	transcript_region	317	350	12165.0	.	.	
+ch.1_411	RNASeq_stranded	transcript_region	318	350	1.0	+	.	
+ch.1_411	RNASeq_splice	intron	340	446	3.0	+	.	
+ch.1_411	RNASeq_F_asymmetry	transcript_region	351	394	3843.0	.	.	
+ch.1_411	RNASeq_reads	transcript_region	351	394	1.0	.	.	
+ch.1_411	RNASeq_splice	intron	351	407	5.0	+	.	
+ch.1_411	WormBase	intron	351	446	.	+	.	Parent=Transcript:C32C4.16.1
+ch.1_411	RNASeq_splice	intron	351	446	15657.0	+	.	
+ch.1_411	RNASeq_splice	intron	395	446	2672.0	+	.	
+ch.1_411	RNASeq_F_asymmetry	transcript_region	447	494	15128.0	.	.	
+ch.1_411	WormBase	CDS	447	545	.	+	.	ID=CDS:C32C4.16;Parent=Transcript:C32C4.16.1
+ch.1_411	RNASeq_reads	transcript_region	447	640	3.0	.	.	
+ch.1_411	WormBase	exon	447	654	.	+	.	Parent=Transcript:C32C4.16.1
+ch.1_411	RNASeq_stranded	transcript_region	457	457	1.0	+	.	
+ch.1_411	RNASeq_stranded	transcript_region	463	464	1.0	+	.	
+ch.1_411	RNASeq	transcription_end_site	505	505	.	+	.	
+ch.1_411	RNASeq_R_asymmetry	transcript_region	515	573	9392.0	.	.	
+ch.1_411	RNASeq_stranded	transcript_region	537	570	1.0	+	.	
+ch.1_411	WormBase	three_prime_UTR	546	654	.	+	.	Parent=Transcript:C32C4.16.1
+ch.1_411	RNASeq_stranded	transcript_region	571	575	2.0	+	.	
+ch.1_411	RNASeq_R_asymmetry	transcript_region	574	597	14398.0	.	.	
+ch.1_411	RNASeq_stranded	transcript_region	576	587	1.0	+	.	
+ch.1_411	RNASeq_stranded	transcript_region	588	726	2.0	+	.	
+ch.1_411	RNASeq_R_asymmetry	transcript_region	598	640	9063.0	.	.	
+ch.1_411	RNASeq_reads	transcript_region	641	716	1.0	.	.	
+ch.1_411	RNASeq_stranded	transcript_region	727	730	1.0	+	.	

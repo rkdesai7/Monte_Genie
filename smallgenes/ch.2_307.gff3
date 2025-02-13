@@ -1,0 +1,53 @@
+ch.2_307	RNASeq_reads	transcript_region	873	901	4.0	.	.	
+ch.2_307	RNASeq_reads	transcript_region	865	872	2.0	.	.	
+ch.2_307	RNASeq_stranded	transcript_region	848	872	1.0	-	.	
+ch.2_307	RNASeq_reads	transcript_region	837	864	1.0	.	.	
+ch.2_307	WormBase	three_prime_UTR	773	838	.	+	.	Parent=Transcript:C27F2.6.1
+ch.2_307	WormBase	exon	702	838	.	+	.	Parent=Transcript:C27F2.6.1
+ch.2_307	WormBase	gene	101	838	.	+	.	ID=Gene:WBGene00016168
+ch.2_307	WormBase	mRNA	101	838	.	+	.	ID=Transcript:C27F2.6.1;Parent=Gene:WBGene00016168
+ch.2_307	RNASeq_reads	transcript_region	782	811	1.0	.	.	
+ch.2_307	RNASeq_F_asymmetry	transcript_region	793	800	3395.0	.	.	
+ch.2_307	RNASeq_stranded	transcript_region	762	794	1.0	+	.	
+ch.2_307	RNASeq_F_asymmetry	transcript_region	774	792	5110.0	.	.	
+ch.2_307	RNASeq_reads	transcript_region	702	781	2.0	.	.	
+ch.2_307	RNASeq_F_asymmetry	transcript_region	762	773	7930.0	.	.	
+ch.2_307	WormBase	CDS	702	772	.	+	.	ID=CDS:C27F2.6;Parent=Transcript:C27F2.6.1
+ch.2_307	RNASeq_stranded	transcript_region	748	761	2.0	+	.	
+ch.2_307	RNASeq_stranded	transcript_region	707	747	4.0	+	.	
+ch.2_307	RNASeq_stranded	transcript_region	702	706	2.0	+	.	
+ch.2_307	RNASeq_splice	intron	655	701	58.0	+	.	
+ch.2_307	RNASeq_splice	intron	646	701	37.0	+	.	
+ch.2_307	WormBase	intron	632	701	.	+	.	Parent=Transcript:C27F2.6.1
+ch.2_307	RNASeq_splice	intron	632	701	14141.0	+	.	
+ch.2_307	RNASeq_stranded	transcript_region	610	631	2.0	+	.	
+ch.2_307	WormBase	CDS	496	631	.	+	.	ID=CDS:C27F2.6;Parent=Transcript:C27F2.6.1
+ch.2_307	WormBase	exon	496	631	.	+	.	Parent=Transcript:C27F2.6.1
+ch.2_307	RNASeq_reads	transcript_region	496	631	3.0	.	.	
+ch.2_307	RNASeq_stranded	transcript_region	592	609	1.0	+	.	
+ch.2_307	RNASeq_stranded	transcript_region	550	573	1.0	+	.	
+ch.2_307	RNASeq_splice	intron	441	548	3.0	+	.	
+ch.2_307	RNASeq_stranded	transcript_region	543	544	1.0	+	.	
+ch.2_307	RNASeq_stranded	transcript_region	493	542	2.0	+	.	
+ch.2_307	RNASeq_reads	transcript_region	493	495	1.0	.	.	
+ch.2_307	WormBase	intron	441	495	.	+	.	Parent=Transcript:C27F2.6.1
+ch.2_307	RNASeq_splice	intron	441	495	6387.0	+	.	
+ch.2_307	RNASeq_splice	intron	389	495	4.0	+	.	
+ch.2_307	RNASeq_splice	intron	385	495	87.0	+	.	
+ch.2_307	RNASeq_splice	intron	366	495	20.0	+	.	
+ch.2_307	RNASeq_reads	transcript_region	439	440	1.0	.	.	
+ch.2_307	WormBase	CDS	150	440	.	+	.	ID=CDS:C27F2.6;Parent=Transcript:C27F2.6.1
+ch.2_307	WormBase	exon	101	440	.	+	.	Parent=Transcript:C27F2.6.1
+ch.2_307	RNASeq_reads	transcript_region	363	438	2.0	.	.	
+ch.2_307	RNASeq_reads	transcript_region	242	362	1.0	.	.	
+ch.2_307	RNASeq_reads	transcript_region	205	241	2.0	.	.	
+ch.2_307	RNASeq_reads	transcript_region	117	204	1.0	.	.	
+ch.2_307	RNASeq_R_asymmetry	transcript_region	119	153	4564.0	.	.	
+ch.2_307	WormBase	five_prime_UTR	101	149	.	+	.	Parent=Transcript:C27F2.6.1
+ch.2_307	RNASeq_splice	intron	74	132	7.0	+	.	
+ch.2_307	RNASeq_R_asymmetry	transcript_region	117	118	2967.0	.	.	
+ch.2_307	RNASeq_R_asymmetry	transcript_region	113	116	1573.0	.	.	
+ch.2_307	RNASeq_stranded	transcript_region	41	47	1.0	+	.	
+ch.2_307	RNASeq_reads	transcript_region	29	45	1.0	.	.	
+ch.2_307	RNASeq_stranded	transcript_region	28	40	2.0	+	.	
+ch.2_307	RNASeq_stranded	transcript_region	3	27	4.0	+	.	

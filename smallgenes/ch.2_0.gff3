@@ -1,0 +1,39 @@
+ch.2_0	RNASeq_F_asymmetry	transcript_region	425	426	2799.0	.	.	
+ch.2_0	RNASeq_reads	transcript_region	420	426	1.0	.	.	
+ch.2_0	WormBase	three_prime_UTR	412	426	.	+	.	Parent=Transcript:C49C3.20.1
+ch.2_0	WormBase	exon	336	426	.	+	.	Parent=Transcript:C49C3.20.1
+ch.2_0	WormBase	gene	101	426	.	+	.	ID=Gene:WBGene00185097
+ch.2_0	WormBase	mRNA	101	426	.	+	.	ID=Transcript:C49C3.20.1;Parent=Gene:WBGene00185097
+ch.2_0	RNASeq_F_asymmetry	transcript_region	414	424	4799.0	.	.	
+ch.2_0	RNASeq_reads	transcript_region	358	419	2.0	.	.	
+ch.2_0	RNASeq_F_asymmetry	transcript_region	388	413	7269.0	.	.	
+ch.2_0	WormBase	CDS	336	411	.	+	.	ID=CDS:C49C3.20;Parent=Transcript:C49C3.20.1
+ch.2_0	RNASeq_stranded	transcript_region	336	387	1.0	+	.	
+ch.2_0	RNASeq_F_asymmetry	transcript_region	386	386	9489.0	.	.	
+ch.2_0	RNASeq_F_asymmetry	transcript_region	369	375	11260.0	.	.	
+ch.2_0	RNASeq	transcription_end_site	359	359	.	-	.	
+ch.2_0	RNASeq_reads	transcript_region	336	357	4.0	.	.	
+ch.2_0	RNASeq_splice	intron	288	337	3.0	+	.	
+ch.2_0	WormBase	intron	288	335	.	+	.	Parent=Transcript:C49C3.20.1
+ch.2_0	RNASeq_splice	intron	288	335	19530.0	+	.	
+ch.2_0	RNASeq_stranded	transcript_region	263	287	1.0	+	.	
+ch.2_0	WormBase	CDS	244	287	.	+	.	ID=CDS:C49C3.20;Parent=Transcript:C49C3.20.1
+ch.2_0	WormBase	exon	244	287	.	+	.	Parent=Transcript:C49C3.20.1
+ch.2_0	RNASeq_reads	transcript_region	244	287	4.0	.	.	
+ch.2_0	RNASeq_stranded	transcript_region	244	260	1.0	+	.	
+ch.2_0	WormBase	intron	189	243	.	+	.	Parent=Transcript:C49C3.20.1
+ch.2_0	RNASeq_splice	intron	189	243	23109.0	+	.	
+ch.2_0	RNASeq_splice	intron	186	243	4.0	+	.	
+ch.2_0	RNASeq_R_asymmetry	transcript_region	189	191	1480.0	.	.	
+ch.2_0	RNASeq_stranded	transcript_region	167	188	1.0	+	.	
+ch.2_0	RNASeq_reads	transcript_region	142	188	5.0	.	.	
+ch.2_0	WormBase	CDS	132	188	.	+	.	ID=CDS:C49C3.20;Parent=Transcript:C49C3.20.1
+ch.2_0	WormBase	exon	101	188	.	+	.	Parent=Transcript:C49C3.20.1
+ch.2_0	RNASeq_stranded	transcript_region	155	166	2.0	+	.	
+ch.2_0	RNASeq_stranded	transcript_region	143	154	1.0	+	.	
+ch.2_0	RNASeq_R_asymmetry	transcript_region	121	146	15045.0	.	.	
+ch.2_0	RNASeq_reads	transcript_region	109	141	3.0	.	.	
+ch.2_0	WormBase	five_prime_UTR	101	131	.	+	.	Parent=Transcript:C49C3.20.1
+ch.2_0	RNASeq_R_asymmetry	transcript_region	108	120	9722.0	.	.	
+ch.2_0	RNASeq_reads	transcript_region	103	108	1.0	.	.	
+ch.2_0	RNASeq_R_asymmetry	transcript_region	103	107	5830.0	.	.	

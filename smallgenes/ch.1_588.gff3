@@ -1,0 +1,71 @@
+ch.1_588	RNASeq_stranded	transcript_region	777	801	13.0	-	.	
+ch.1_588	RNASeq_reads	transcript_region	776	776	5.0	.	.	
+ch.1_588	RNASeq_stranded	transcript_region	776	776	2.0	-	.	
+ch.1_588	RNASeq_splice	intron	725	776	9.0	-	.	
+ch.1_588	RNASeq_splice	intron	681	776	478.0	-	.	
+ch.1_588	RNASeq_reads	transcript_region	709	775	1.0	.	.	
+ch.1_588	RNASeq_stranded	transcript_region	704	775	1.0	-	.	
+ch.1_588	RNASeq	transcription_end_site	710	710	.	-	.	
+ch.1_588	RNASeq	transcription_end_site	710	710	.	-	.	
+ch.1_588	RNASeq_reads	transcript_region	706	708	2.0	.	.	
+ch.1_588	RNASeq_stranded	transcript_region	695	708	1.0	+	.	
+ch.1_588	RNASeq_F_asymmetry	transcript_region	703	705	19601.0	.	.	
+ch.1_588	RNASeq_reads	transcript_region	698	705	5.0	.	.	
+ch.1_588	WormBase	three_prime_UTR	628	705	.	+	.	Parent=Transcript:F36A2.10.1
+ch.1_588	WormBase	exon	582	705	.	+	.	Parent=Transcript:F36A2.10.1
+ch.1_588	WormBase	gene	101	705	.	+	.	ID=Gene:WBGene00009457
+ch.1_588	WormBase	mRNA	101	705	.	+	.	ID=Transcript:F36A2.10.1;Parent=Gene:WBGene00009457
+ch.1_588	RNASeq_F_asymmetry	transcript_region	675	702	30258.0	.	.	
+ch.1_588	RNASeq_reads	transcript_region	674	697	8.0	.	.	
+ch.1_588	RNASeq_stranded	transcript_region	683	694	2.0	+	.	
+ch.1_588	RNASeq_stranded	transcript_region	594	682	4.0	+	.	
+ch.1_588	RNASeq_F_asymmetry	transcript_region	672	674	51155.0	.	.	
+ch.1_588	RNASeq_reads	transcript_region	671	673	13.0	.	.	
+ch.1_588	RNASeq_F_asymmetry	transcript_region	637	671	79441.0	.	.	
+ch.1_588	RNASeq_reads	transcript_region	635	670	20.0	.	.	
+ch.1_588	RNASeq_F_asymmetry	transcript_region	621	636	119604.0	.	.	
+ch.1_588	RNASeq_reads	transcript_region	582	634	31.0	.	.	
+ch.1_588	WormBase	CDS	582	627	.	+	.	ID=CDS:F36A2.10;Parent=Transcript:F36A2.10.1
+ch.1_588	RNASeq_F_asymmetry	transcript_region	612	615	130892.0	.	.	
+ch.1_588	RNASeq	transcription_end_site	613	613	.	-	.	
+ch.1_588	RNASeq_stranded	transcript_region	582	593	2.0	+	.	
+ch.1_588	RNASeq_reads	transcript_region	581	581	4.0	.	.	
+ch.1_588	RNASeq_stranded	transcript_region	581	581	1.0	-	.	
+ch.1_588	WormBase	intron	536	581	.	+	.	Parent=Transcript:F36A2.10.1
+ch.1_588	RNASeq_splice	intron	536	581	166961.0	+	.	
+ch.1_588	RNASeq_reads	transcript_region	536	580	1.0	.	.	
+ch.1_588	RNASeq_stranded	transcript_region	471	535	2.0	+	.	
+ch.1_588	RNASeq_reads	transcript_region	133	535	33.0	.	.	
+ch.1_588	WormBase	CDS	126	535	.	+	.	ID=CDS:F36A2.10;Parent=Transcript:F36A2.10.1
+ch.1_588	WormBase	exon	101	535	.	+	.	Parent=Transcript:F36A2.10.1
+ch.1_588	RNASeq_stranded	transcript_region	400	470	4.0	+	.	
+ch.1_588	RNASeq_splice	intron	403	464	3.0	+	.	
+ch.1_588	RNASeq_splice	intron	330	464	3.0	+	.	
+ch.1_588	RNASeq_splice	intron	358	409	880.0	+	.	
+ch.1_588	RNASeq_stranded	transcript_region	357	407	1.0	-	.	
+ch.1_588	RNASeq_stranded	transcript_region	369	399	2.0	+	.	
+ch.1_588	RNASeq_stranded	transcript_region	350	368	1.0	+	.	
+ch.1_588	RNASeq_stranded	transcript_region	328	350	1.0	-	.	
+ch.1_588	RNASeq_stranded	transcript_region	305	349	2.0	+	.	
+ch.1_588	RNASeq_stranded	transcript_region	257	304	4.0	+	.	
+ch.1_588	RNASeq_stranded	transcript_region	238	256	7.0	+	.	
+ch.1_588	RNASeq_stranded	transcript_region	213	237	4.0	+	.	
+ch.1_588	RNASeq_stranded	transcript_region	212	212	7.0	-	.	
+ch.1_588	RNASeq_stranded	transcript_region	141	211	11.0	+	.	
+ch.1_588	RNASeq_R_asymmetry	transcript_region	168	168	138259.0	.	.	
+ch.1_588	RNASeq_R_asymmetry	transcript_region	127	166	132579.0	.	.	
+ch.1_588	RNASeq_stranded	transcript_region	126	140	6.0	+	.	
+ch.1_588	RNASeq_reads	transcript_region	113	132	21.0	.	.	
+ch.1_588	RNASeq_R_asymmetry	transcript_region	112	126	87292.0	.	.	
+ch.1_588	RNASeq_stranded	transcript_region	118	125	3.0	+	.	
+ch.1_588	WormBase	five_prime_UTR	101	125	.	+	.	Parent=Transcript:F36A2.10.1
+ch.1_588	RNASeq_stranded	transcript_region	97	117	1.0	+	.	
+ch.1_588	RNASeq_splice	intron	63	115	13.0	+	.	
+ch.1_588	RNASeq_reads	transcript_region	103	112	12.0	.	.	
+ch.1_588	RNASeq_R_asymmetry	transcript_region	104	111	55823.0	.	.	
+ch.1_588	RNASeq_R_asymmetry	transcript_region	101	103	35623.0	.	.	
+ch.1_588	RNASeq_reads	transcript_region	94	102	6.0	.	.	
+ch.1_588	RNASeq_R_asymmetry	transcript_region	94	100	22326.0	.	.	
+ch.1_588	RNASeq_R_asymmetry	transcript_region	87	93	13510.0	.	.	
+ch.1_588	RNASeq_reads	transcript_region	79	93	3.0	.	.	
+ch.1_588	RNASeq_R_asymmetry	transcript_region	78	86	8301.0	.	.	

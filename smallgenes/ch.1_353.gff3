@@ -1,0 +1,102 @@
+ch.1_353	RNASeq_R_asymmetry	transcript_region	743	743	784.0	.	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	677	699	512.0	.	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	671	676	788.0	.	.	
+ch.1_353	RNASeq	transcription_end_site	671	671	.	-	.	
+ch.1_353	RNASeq	transcription_end_site	671	671	.	-	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	668	670	2963.0	.	.	
+ch.1_353	RNASeq_reads	transcript_region	668	670	1.0	.	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	664	667	8470.0	.	.	
+ch.1_353	RNASeq_reads	transcript_region	663	667	2.0	.	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	663	663	13603.0	.	.	
+ch.1_353	RNASeq	transcription_end_site	663	663	.	-	.	
+ch.1_353	RNASeq	transcription_end_site	662	662	.	-	.	
+ch.1_353	RNASeq	transcription_end_site	662	662	.	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	658	662	2.0	+	.	
+ch.1_353	RNASeq_reads	transcript_region	633	662	11.0	.	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	631	662	54152.0	.	.	
+ch.1_353	WormBase	three_prime_UTR	561	660	.	+	.	Parent=Transcript:Y56A3A.19.1
+ch.1_353	WormBase	exon	303	660	.	+	.	Parent=Transcript:Y56A3A.19.1
+ch.1_353	WormBase	gene	101	660	.	+	.	ID=Gene:WBGene00013237
+ch.1_353	WormBase	mRNA	101	660	.	+	.	ID=Transcript:Y56A3A.19.1;Parent=Gene:WBGene00013237
+ch.1_353	RNASeq_stranded	transcript_region	649	657	4.0	+	.	
+ch.1_353	RNASeq	transcription_end_site	650	650	.	-	.	
+ch.1_353	RNASeq	transcription_end_site	650	650	.	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	642	648	7.0	+	.	
+ch.1_353	RNASeq_stranded	transcript_region	633	641	13.0	+	.	
+ch.1_353	RNASeq_reads	transcript_region	630	632	17.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	613	632	21.0	+	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	630	630	88327.0	.	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	592	629	141962.0	.	.	
+ch.1_353	RNASeq_reads	transcript_region	592	629	31.0	.	.	
+ch.1_353	RNASeq	transcription_end_site	625	625	.	-	.	
+ch.1_353	RNASeq	transcription_end_site	621	621	.	-	.	
+ch.1_353	RNASeq	transcription_end_site	620	620	.	-	.	
+ch.1_353	RNASeq	transcription_end_site	620	620	.	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	609	620	1.0	-	.	
+ch.1_353	RNASeq	transcription_end_site	618	618	.	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	573	612	32.0	+	.	
+ch.1_353	RNASeq	transcription_end_site	607	607	.	-	.	
+ch.1_353	RNASeq	transcription_end_site	607	607	.	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	593	606	1.0	-	.	
+ch.1_353	RNASeq	transcription_end_site	603	603	.	-	.	
+ch.1_353	RNASeq	transcription_end_site	603	603	.	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	590	592	2.0	-	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	589	591	283192.0	.	.	
+ch.1_353	RNASeq_reads	transcript_region	587	591	64.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	540	589	6.0	-	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	575	588	431852.0	.	.	
+ch.1_353	RNASeq_reads	transcript_region	573	586	99.0	.	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	538	574	664521.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	561	572	50.0	+	.	
+ch.1_353	RNASeq_reads	transcript_region	538	572	150.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	433	560	76.0	+	.	
+ch.1_353	WormBase	CDS	303	560	.	+	.	ID=CDS:Y56A3A.19;Parent=Transcript:Y56A3A.19.1
+ch.1_353	RNASeq_splice	intron	519	548	5.0	+	.	
+ch.1_353	RNASeq_stranded	transcript_region	539	539	2.0	-	.	
+ch.1_353	RNASeq_F_asymmetry	transcript_region	491	537	1090440.0	.	.	
+ch.1_353	RNASeq_reads	transcript_region	303	537	249.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	488	531	1.0	-	.	
+ch.1_353	RNASeq_splice	intron	474	503	4.0	-	.	
+ch.1_353	RNASeq_splice	intron	441	489	6.0	+	.	
+ch.1_353	RNASeq_stranded	transcript_region	438	487	2.0	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	303	437	1.0	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	372	432	117.0	+	.	
+ch.1_353	RNASeq_splice	intron	393	431	5.0	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	334	371	77.0	+	.	
+ch.1_353	RNASeq_stranded	transcript_region	303	333	116.0	+	.	
+ch.1_353	RNASeq_splice	intron	239	313	110.0	-	.	
+ch.1_353	RNASeq_reads	transcript_region	301	302	46.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	301	302	45.0	+	.	
+ch.1_353	WormBase	intron	247	302	.	+	.	Parent=Transcript:Y56A3A.19.1
+ch.1_353	RNASeq_splice	intron	247	302	1629280.0	+	.	
+ch.1_353	RNASeq_reads	transcript_region	300	300	1.0	.	.	
+ch.1_353	RNASeq_splice	intron	239	293	10.0	-	.	
+ch.1_353	RNASeq_splice	intron	237	293	165.0	-	.	
+ch.1_353	RNASeq_splice	intron	247	285	11.0	+	.	
+ch.1_353	RNASeq_reads	transcript_region	247	247	57.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	247	247	32.0	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	229	246	1.0	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	203	246	72.0	+	.	
+ch.1_353	RNASeq_reads	transcript_region	118	246	327.0	.	.	
+ch.1_353	WormBase	CDS	103	246	.	+	.	ID=CDS:Y56A3A.19;Parent=Transcript:Y56A3A.19.1
+ch.1_353	WormBase	exon	101	246	.	+	.	Parent=Transcript:Y56A3A.19.1
+ch.1_353	RNASeq_stranded	transcript_region	224	228	2.0	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	217	223	1.0	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	213	216	2.0	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	159	212	1.0	-	.	
+ch.1_353	RNASeq_stranded	transcript_region	138	202	43.0	+	.	
+ch.1_353	RNASeq_R_asymmetry	transcript_region	106	162	1186290.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	118	137	70.0	+	.	
+ch.1_353	RNASeq_reads	transcript_region	105	117	212.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	99	117	46.0	+	.	
+ch.1_353	RNASeq_R_asymmetry	transcript_region	100	105	764880.0	.	.	
+ch.1_353	RNASeq_reads	transcript_region	100	104	126.0	.	.	
+ch.1_353	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:Y56A3A.19.1
+ch.1_353	RNASeq_R_asymmetry	transcript_region	99	99	408523.0	.	.	
+ch.1_353	RNASeq_reads	transcript_region	99	99	82.0	.	.	
+ch.1_353	RNASeq_R_asymmetry	transcript_region	96	98	188643.0	.	.	
+ch.1_353	RNASeq_reads	transcript_region	96	98	39.0	.	.	
+ch.1_353	RNASeq_stranded	transcript_region	96	98	3.0	+	.	
+ch.1_353	RNASeq_reads	transcript_region	31	95	1.0	.	.	
+ch.1_353	RNASeq_R_asymmetry	transcript_region	38	80	2605.0	.	.	
+ch.1_353	RNASeq_R_asymmetry	transcript_region	36	36	2155.0	.	.	

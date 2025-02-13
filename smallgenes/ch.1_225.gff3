@@ -1,0 +1,81 @@
+ch.1_225	RNASeq_reads	transcript_region	596	620	1.0	.	.	
+ch.1_225	RNASeq_reads	transcript_region	591	595	2.0	.	.	
+ch.1_225	RNASeq_reads	transcript_region	590	590	4.0	.	.	
+ch.1_225	RNASeq_stranded	transcript_region	590	590	1.0	-	.	
+ch.1_225	RNASeq	transcription_end_site	589	589	.	-	.	
+ch.1_225	RNASeq_reads	transcript_region	585	589	18.0	.	.	
+ch.1_225	RNASeq_stranded	transcript_region	574	589	2.0	+	.	
+ch.1_225	WormBase	three_prime_UTR	486	587	.	+	.	Parent=Transcript:R12E2.7.1
+ch.1_225	WormBase	exon	359	587	.	+	.	Parent=Transcript:R12E2.7.1
+ch.1_225	WormBase	gene	101	587	.	+	.	ID=Gene:WBGene00020033
+ch.1_225	WormBase	mRNA	101	587	.	+	.	ID=Transcript:R12E2.7.1;Parent=Gene:WBGene00020033
+ch.1_225	RNASeq_stranded	transcript_region	578	585	1.0	-	.	
+ch.1_225	RNASeq_reads	transcript_region	583	584	31.0	.	.	
+ch.1_225	RNASeq_reads	transcript_region	577	582	49.0	.	.	
+ch.1_225	RNASeq_stranded	transcript_region	537	577	2.0	-	.	
+ch.1_225	RNASeq_reads	transcript_region	560	576	74.0	.	.	
+ch.1_225	RNASeq_stranded	transcript_region	567	573	4.0	+	.	
+ch.1_225	RNASeq_stranded	transcript_region	552	566	7.0	+	.	
+ch.1_225	RNASeq_reads	transcript_region	528	559	112.0	.	.	
+ch.1_225	RNASeq_stranded	transcript_region	539	551	11.0	+	.	
+ch.1_225	RNASeq_stranded	transcript_region	521	538	17.0	+	.	
+ch.1_225	RNASeq_stranded	transcript_region	528	536	1.0	-	.	
+ch.1_225	RNASeq	transcription_end_site	528	528	.	-	.	
+ch.1_225	RNASeq_reads	transcript_region	509	527	169.0	.	.	
+ch.1_225	RNASeq	transcription_end_site	521	521	.	-	.	
+ch.1_225	RNASeq	transcription_end_site	521	521	.	-	.	
+ch.1_225	RNASeq_stranded	transcript_region	514	520	26.0	+	.	
+ch.1_225	RNASeq	transcription_end_site	519	519	.	-	.	
+ch.1_225	RNASeq	transcription_end_site	519	519	.	-	.	
+ch.1_225	RNASeq_stranded	transcript_region	419	513	40.0	+	.	
+ch.1_225	RNASeq_reads	transcript_region	496	508	267.0	.	.	
+ch.1_225	RNASeq_stranded	transcript_region	493	496	1.0	-	.	
+ch.1_225	RNASeq_reads	transcript_region	452	495	404.0	.	.	
+ch.1_225	RNASeq_stranded	transcript_region	457	492	2.0	-	.	
+ch.1_225	WormBase	CDS	359	485	.	+	.	ID=CDS:R12E2.7;Parent=Transcript:R12E2.7.1
+ch.1_225	RNASeq_stranded	transcript_region	444	456	1.0	-	.	
+ch.1_225	RNASeq_reads	transcript_region	359	451	607.0	.	.	
+ch.1_225	RNASeq_splice	intron	209	443	5.0	-	.	
+ch.1_225	RNASeq_splice	intron	398	439	3.0	-	.	
+ch.1_225	RNASeq_splice	intron	205	435	6.0	-	.	
+ch.1_225	RNASeq_splice	intron	398	432	5.0	-	.	
+ch.1_225	RNASeq_splice	intron	205	432	7.0	-	.	
+ch.1_225	RNASeq_splice	intron	373	426	3.0	+	.	
+ch.1_225	RNASeq_stranded	transcript_region	359	418	26.0	+	.	
+ch.1_225	RNASeq_splice	intron	209	401	16.0	-	.	
+ch.1_225	RNASeq_splice	intron	203	384	3.0	+	.	
+ch.1_225	RNASeq_splice	intron	271	378	12.0	+	.	
+ch.1_225	RNASeq_splice	intron	275	366	4.0	+	.	
+ch.1_225	RNASeq_splice	intron	271	366	61.0	+	.	
+ch.1_225	RNASeq_splice	intron	225	366	4.0	+	.	
+ch.1_225	RNASeq_splice	intron	275	363	4217.0	+	.	
+ch.1_225	RNASeq_splice	intron	271	363	97.0	+	.	
+ch.1_225	RNASeq_reads	transcript_region	358	358	71.0	.	.	
+ch.1_225	RNASeq_stranded	transcript_region	358	358	8.0	-	.	
+ch.1_225	RNASeq_splice	intron	313	358	15.0	+	.	
+ch.1_225	RNASeq_splice	intron	275	358	3.0	+	.	
+ch.1_225	WormBase	intron	271	358	.	+	.	Parent=Transcript:R12E2.7.1
+ch.1_225	RNASeq_splice	intron	271	358	3384620.0	+	.	
+ch.1_225	RNASeq_reads	transcript_region	271	357	10.0	.	.	
+ch.1_225	RNASeq_splice	intron	256	324	7.0	-	.	
+ch.1_225	RNASeq_stranded	transcript_region	214	270	27.0	+	.	
+ch.1_225	RNASeq_reads	transcript_region	154	270	706.0	.	.	
+ch.1_225	WormBase	CDS	149	270	.	+	.	ID=CDS:R12E2.7;Parent=Transcript:R12E2.7.1
+ch.1_225	WormBase	exon	101	270	.	+	.	Parent=Transcript:R12E2.7.1
+ch.1_225	RNASeq_splice	intron	191	244	4.0	+	.	
+ch.1_225	RNASeq_splice	intron	179	244	3.0	+	.	
+ch.1_225	RNASeq_splice	intron	184	238	4.0	-	.	
+ch.1_225	RNASeq_splice	intron	193	235	3.0	-	.	
+ch.1_225	RNASeq_stranded	transcript_region	197	213	41.0	+	.	
+ch.1_225	RNASeq_stranded	transcript_region	118	196	25.0	+	.	
+ch.1_225	RNASeq_reads	transcript_region	138	153	465.0	.	.	
+ch.1_225	WormBase	five_prime_UTR	101	148	.	+	.	Parent=Transcript:R12E2.7.1
+ch.1_225	RNASeq_reads	transcript_region	129	137	306.0	.	.	
+ch.1_225	RNASeq_reads	transcript_region	121	128	201.0	.	.	
+ch.1_225	RNASeq_reads	transcript_region	112	120	130.0	.	.	
+ch.1_225	RNASeq_splice	intron	69	118	27.0	-	.	
+ch.1_225	RNASeq_stranded	transcript_region	114	117	16.0	+	.	
+ch.1_225	RNASeq_stranded	transcript_region	112	113	1.0	+	.	
+ch.1_225	RNASeq_reads	transcript_region	108	111	44.0	.	.	
+ch.1_225	RNASeq_reads	transcript_region	107	107	26.0	.	.	
+ch.1_225	RNASeq_reads	transcript_region	101	106	1.0	.	.	

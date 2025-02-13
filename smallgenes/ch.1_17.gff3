@@ -1,0 +1,69 @@
+ch.1_17	RNASeq_stranded	transcript_region	5	6	60.0	-	.	
+ch.1_17	RNASeq_reads	transcript_region	7	7	10.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	7	7	21.0	+	.	
+ch.1_17	RNASeq_splice	intron	7	58	25.0	-	.	
+ch.1_17	WormBase	intron	7	443	.	-	.	Parent=Transcript:T01B7.4.1
+ch.1_17	RNASeq_splice	intron	7	443	348866.0	-	.	
+ch.1_17	RNASeq_splice	intron	7	453	23.0	-	.	
+ch.1_17	RNASeq_splice	intron	7	503	4289.0	-	.	
+ch.1_17	RNASeq_splice	intron	7	506	368.0	-	.	
+ch.1_17	RNASeq_reads	transcript_region	8	8	2.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	8	18	1.0	-	.	
+ch.1_17	RNASeq_reads	transcript_region	9	110	1.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	25	25	1.0	+	.	
+ch.1_17	WormBase	five_prime_UTR	101	120	.	+	.	Parent=Transcript:T01B7.13.1
+ch.1_17	WormBase	exon	101	275	.	+	.	Parent=Transcript:T01B7.13.1
+ch.1_17	WormBase	gene	101	448	.	+	.	ID=Gene:WBGene00206502
+ch.1_17	WormBase	mRNA	101	448	.	+	.	ID=Transcript:T01B7.13.1;Parent=Gene:WBGene00206502
+ch.1_17	RNASeq_stranded	transcript_region	107	110	1.0	+	.	
+ch.1_17	RNASeq_F_asymmetry	transcript_region	111	113	6603.0	.	.	
+ch.1_17	RNASeq_reads	transcript_region	111	115	2.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	111	115	3.0	+	.	
+ch.1_17	RNASeq_F_asymmetry	transcript_region	114	115	11360.0	.	.	
+ch.1_17	RNASeq_F_asymmetry	transcript_region	116	118	23295.0	.	.	
+ch.1_17	RNASeq_reads	transcript_region	116	118	5.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	116	166	5.0	+	.	
+ch.1_17	RNASeq_F_asymmetry	transcript_region	119	124	51082.0	.	.	
+ch.1_17	RNASeq_reads	transcript_region	119	124	10.0	.	.	
+ch.1_17	WormBase	CDS	121	275	.	+	.	ID=CDS:T01B7.13;Parent=Transcript:T01B7.13.1
+ch.1_17	RNASeq_F_asymmetry	transcript_region	125	166	79019.0	.	.	
+ch.1_17	RNASeq_reads	transcript_region	125	178	17.0	.	.	
+ch.1_17	RNASeq	base_call_error_correction	149	149	.	+	.	
+ch.1_17	RNASeq_stranded	transcript_region	167	170	3.0	+	.	
+ch.1_17	RNASeq_stranded	transcript_region	171	198	5.0	+	.	
+ch.1_17	RNASeq_reads	transcript_region	179	235	26.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	199	202	11.0	+	.	
+ch.1_17	RNASeq_stranded	transcript_region	203	204	17.0	+	.	
+ch.1_17	RNASeq_stranded	transcript_region	205	253	36.0	+	.	
+ch.1_17	RNASeq_stranded	transcript_region	232	275	1.0	-	.	
+ch.1_17	RNASeq_reads	transcript_region	236	264	40.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	254	255	23.0	+	.	
+ch.1_17	RNASeq_stranded	transcript_region	256	275	5.0	+	.	
+ch.1_17	RNASeq_reads	transcript_region	265	275	26.0	.	.	
+ch.1_17	RNASeq_reads	transcript_region	276	279	6.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	276	279	1.0	+	.	
+ch.1_17	WormBase	intron	276	324	.	+	.	Parent=Transcript:T01B7.13.1
+ch.1_17	RNASeq_splice	intron	276	324	119735.0	+	.	
+ch.1_17	RNASeq_reads	transcript_region	280	324	2.0	.	.	
+ch.1_17	RNASeq_splice	intron	280	324	13994.0	+	.	
+ch.1_17	RNASeq	transcription_end_site	321	321	.	+	.	
+ch.1_17	RNASeq_stranded	transcript_region	325	325	1.0	+	.	
+ch.1_17	RNASeq_stranded	transcript_region	325	361	4.0	+	.	
+ch.1_17	RNASeq_reads	transcript_region	325	390	23.0	.	.	
+ch.1_17	WormBase	CDS	325	421	.	+	.	ID=CDS:T01B7.13;Parent=Transcript:T01B7.13.1
+ch.1_17	WormBase	exon	325	448	.	+	.	Parent=Transcript:T01B7.13.1
+ch.1_17	RNASeq_R_asymmetry	transcript_region	350	356	90275.0	.	.	
+ch.1_17	RNASeq_R_asymmetry	transcript_region	361	408	74854.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	362	393	2.0	+	.	
+ch.1_17	RNASeq_reads	transcript_region	391	415	15.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	394	431	1.0	+	.	
+ch.1_17	RNASeq_splice	intron	398	443	120.0	-	.	
+ch.1_17	RNASeq_R_asymmetry	transcript_region	409	418	49289.0	.	.	
+ch.1_17	RNASeq_reads	transcript_region	416	420	9.0	.	.	
+ch.1_17	RNASeq_R_asymmetry	transcript_region	419	420	27653.0	.	.	
+ch.1_17	RNASeq_reads	transcript_region	421	430	4.0	.	.	
+ch.1_17	WormBase	three_prime_UTR	422	448	.	+	.	Parent=Transcript:T01B7.13.1
+ch.1_17	RNASeq_reads	transcript_region	431	442	2.0	.	.	
+ch.1_17	RNASeq_reads	transcript_region	443	443	13.0	.	.	
+ch.1_17	RNASeq_stranded	transcript_region	443	443	12.0	+	.	
+ch.1_17	RNASeq_stranded	transcript_region	444	476	46.0	-	.	

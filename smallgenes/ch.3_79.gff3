@@ -1,0 +1,100 @@
+ch.3_79	RNASeq_F_asymmetry	transcript_region	30	46	1491.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	43	80	1.0	.	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	47	59	2312.0	.	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	60	72	3570.0	.	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	73	89	5388.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	81	110	2.0	.	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	90	110	8443.0	.	.	
+ch.3_79	WormBase	CDS	101	173	.	+	.	ID=CDS:Y66H1A.3;Parent=Transcript:Y66H1A.3.1
+ch.3_79	WormBase	exon	101	173	.	+	.	Parent=Transcript:Y66H1A.3.1
+ch.3_79	WormBase	gene	101	902	.	+	.	ID=Gene:WBGene00022045
+ch.3_79	WormBase	mRNA	101	902	.	+	.	ID=Transcript:Y66H1A.3.1;Parent=Gene:WBGene00022045
+ch.3_79	RNASeq_F_asymmetry	transcript_region	111	113	82579.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	111	113	17.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	111	118	4.0	+	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	114	121	179240.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	114	121	36.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	119	143	7.0	+	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	122	173	271549.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	122	173	55.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	144	173	11.0	+	.	
+ch.3_79	RNASeq_splice	intron	150	650	3.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	174	174	1.0	.	.	
+ch.3_79	WormBase	intron	174	388	.	+	.	Parent=Transcript:Y66H1A.3.1
+ch.3_79	RNASeq_splice	intron	174	388	360028.0	+	.	
+ch.3_79	RNASeq_splice	intron	174	390	134.0	+	.	
+ch.3_79	RNASeq_splice	intron	174	392	3.0	+	.	
+ch.3_79	RNASeq_splice	intron	174	590	60.0	+	.	
+ch.3_79	RNASeq_splice	intron	178	390	6.0	+	.	
+ch.3_79	RNASeq_splice	intron	212	388	18.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	386	388	9.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	386	388	17.0	+	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	389	398	289976.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	389	432	29.0	+	.	
+ch.3_79	WormBase	CDS	389	516	.	+	.	ID=CDS:Y66H1A.3;Parent=Transcript:Y66H1A.3.1
+ch.3_79	WormBase	exon	389	516	.	+	.	Parent=Transcript:Y66H1A.3.1
+ch.3_79	RNASeq_reads	transcript_region	389	516	71.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	433	516	16.0	+	.	
+ch.3_79	RNASeq_splice	intron	516	590	32.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	517	517	1.0	.	.	
+ch.3_79	WormBase	intron	517	590	.	+	.	Parent=Transcript:Y66H1A.3.1
+ch.3_79	RNASeq_splice	intron	517	590	346976.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	587	587	1.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	588	590	8.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	588	590	2.0	+	.	
+ch.3_79	RNASeq_stranded	transcript_region	591	613	17.0	+	.	
+ch.3_79	WormBase	CDS	591	686	.	+	.	ID=CDS:Y66H1A.3;Parent=Transcript:Y66H1A.3.1
+ch.3_79	WormBase	exon	591	686	.	+	.	Parent=Transcript:Y66H1A.3.1
+ch.3_79	RNASeq_reads	transcript_region	591	686	68.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	614	664	29.0	+	.	
+ch.3_79	RNASeq_stranded	transcript_region	622	674	1.0	-	.	
+ch.3_79	RNASeq_stranded	transcript_region	665	686	18.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	687	687	10.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	687	687	4.0	+	.	
+ch.3_79	WormBase	intron	687	731	.	+	.	Parent=Transcript:Y66H1A.3.1
+ch.3_79	RNASeq_splice	intron	687	731	363697.0	+	.	
+ch.3_79	RNASeq_splice	intron	687	735	269.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	688	694	2.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	732	740	19.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	732	800	65.0	.	.	
+ch.3_79	WormBase	CDS	732	812	.	+	.	ID=CDS:Y66H1A.3;Parent=Transcript:Y66H1A.3.1
+ch.3_79	WormBase	exon	732	902	.	+	.	Parent=Transcript:Y66H1A.3.1
+ch.3_79	RNASeq_R_asymmetry	transcript_region	736	737	269424.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	741	785	29.0	+	.	
+ch.3_79	RNASeq_R_asymmetry	transcript_region	752	792	275256.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	786	801	44.0	+	.	
+ch.3_79	RNASeq_stranded	transcript_region	793	793	1.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	801	801	42.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	802	836	91.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	802	836	380.0	+	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	804	836	350003.0	.	.	
+ch.3_79	WormBase	three_prime_UTR	813	902	.	+	.	Parent=Transcript:Y66H1A.3.1
+ch.3_79	RNASeq	transcription_end_site	827	827	.	+	.	
+ch.3_79	RNASeq	transcription_end_site	828	828	.	+	.	
+ch.3_79	RNASeq	transcription_end_site	834	834	.	+	.	
+ch.3_79	RNASeq_stranded	transcript_region	837	850	29.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	837	886	16.0	.	.	
+ch.3_79	RNASeq	transcription_end_site	842	842	.	+	.	
+ch.3_79	RNASeq	transcription_end_site	843	843	.	+	.	
+ch.3_79	RNASeq_stranded	transcript_region	851	863	19.0	+	.	
+ch.3_79	RNASeq_R_asymmetry	transcript_region	854	892	58967.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	864	884	12.0	+	.	
+ch.3_79	RNASeq_stranded	transcript_region	885	891	7.0	+	.	
+ch.3_79	RNASeq_reads	transcript_region	887	894	10.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	892	897	4.0	+	.	
+ch.3_79	RNASeq_R_asymmetry	transcript_region	893	894	37441.0	.	.	
+ch.3_79	RNASeq_R_asymmetry	transcript_region	895	898	17649.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	895	898	4.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	898	899	2.0	+	.	
+ch.3_79	RNASeq_R_asymmetry	transcript_region	899	899	8088.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	899	899	2.0	.	.	
+ch.3_79	RNASeq	transcription_end_site	899	899	.	+	.	
+ch.3_79	RNASeq_R_asymmetry	transcript_region	900	900	4337.0	.	.	
+ch.3_79	RNASeq_reads	transcript_region	900	903	1.0	.	.	
+ch.3_79	RNASeq_stranded	transcript_region	900	903	1.0	+	.	
+ch.3_79	RNASeq	transcription_end_site	902	902	.	+	.	
+ch.3_79	RNASeq_R_asymmetry	transcript_region	902	903	3272.0	.	.	
+ch.3_79	RNASeq	transcription_end_site	903	903	.	+	.	
+ch.3_79	RNASeq	transcription_end_site	914	914	.	+	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	946	956	972.0	.	.	
+ch.3_79	RNASeq_F_asymmetry	transcript_region	957	1000	1475.0	.	.	

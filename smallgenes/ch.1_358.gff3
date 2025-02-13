@@ -1,0 +1,106 @@
+ch.1_358	RNASeq_reads	transcript_region	15	92	1.0	.	.	
+ch.1_358	RNASeq_splice	intron	16	332	32.0	+	.	
+ch.1_358	RNASeq_splice	intron	64	105	20.0	+	.	
+ch.1_358	RNASeq_splice	intron	64	332	2151.0	+	.	
+ch.1_358	RNASeq_splice	intron	79	332	22.0	+	.	
+ch.1_358	RNASeq_splice	intron	90	332	6.0	+	.	
+ch.1_358	RNASeq_reads	transcript_region	93	98	2.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	99	100	5.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	100	100	1.0	+	.	
+ch.1_358	RNASeq_reads	transcript_region	101	101	8.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	101	101	3.0	+	.	
+ch.1_358	WormBase	five_prime_UTR	101	133	.	+	.	Parent=Transcript:F53F1.4.1
+ch.1_358	WormBase	exon	101	222	.	+	.	Parent=Transcript:F53F1.4.1
+ch.1_358	WormBase	gene	101	738	.	+	.	ID=Gene:WBGene00009982
+ch.1_358	WormBase	mRNA	101	738	.	+	.	ID=Transcript:F53F1.4.1;Parent=Gene:WBGene00009982
+ch.1_358	RNASeq_F_asymmetry	transcript_region	102	109	125396.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	102	111	31.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	102	120	36.0	+	.	
+ch.1_358	RNASeq_F_asymmetry	transcript_region	112	116	192063.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	112	116	48.0	.	.	
+ch.1_358	RNASeq_F_asymmetry	transcript_region	117	118	352633.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	117	118	81.0	.	.	
+ch.1_358	RNASeq_F_asymmetry	transcript_region	119	121	564209.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	119	121	124.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	121	131	55.0	+	.	
+ch.1_358	RNASeq_F_asymmetry	transcript_region	122	124	919310.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	122	124	194.0	.	.	
+ch.1_358	RNASeq_F_asymmetry	transcript_region	125	135	1485200.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	125	135	309.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	132	173	83.0	+	.	
+ch.1_358	WormBase	CDS	134	222	.	+	.	ID=CDS:F53F1.4;Parent=Transcript:F53F1.4.1
+ch.1_358	RNASeq_reads	transcript_region	136	172	486.0	.	.	
+ch.1_358	RNASeq_F_asymmetry	transcript_region	136	188	2339330.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	173	222	734.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	174	219	135.0	+	.	
+ch.1_358	RNASeq_splice	intron	185	486	5.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	190	196	1.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	197	222	2.0	-	.	
+ch.1_358	RNASeq_splice	intron	213	439	27.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	220	222	87.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	223	224	2.0	+	.	
+ch.1_358	RNASeq_splice	intron	223	301	122.0	+	.	
+ch.1_358	WormBase	intron	223	332	.	+	.	Parent=Transcript:F53F1.4.1
+ch.1_358	RNASeq_reads	transcript_region	223	332	10.0	.	.	
+ch.1_358	RNASeq_splice	intron	223	332	3814740.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	225	266	1.0	+	.	
+ch.1_358	RNASeq_splice	intron	227	332	23.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	271	321	4.0	+	.	
+ch.1_358	RNASeq_splice	intron	302	624	11.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	322	332	1.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	333	341	18.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	333	348	2.0	-	.	
+ch.1_358	WormBase	CDS	333	561	.	+	.	ID=CDS:F53F1.4;Parent=Transcript:F53F1.4.1
+ch.1_358	RNASeq_reads	transcript_region	333	659	675.0	.	.	
+ch.1_358	WormBase	exon	333	738	.	+	.	Parent=Transcript:F53F1.4.1
+ch.1_358	RNASeq_stranded	transcript_region	342	350	29.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	349	360	4.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	351	359	47.0	+	.	
+ch.1_358	RNASeq_splice	intron	356	439	6.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	360	375	73.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	361	411	8.0	-	.	
+ch.1_358	RNASeq_splice	intron	362	469	3.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	376	386	120.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	387	444	193.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	412	428	2.0	-	.	
+ch.1_358	RNASeq_splice	intron	417	660	4.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	429	432	5.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	433	440	8.0	-	.	
+ch.1_358	RNASeq_splice	intron	440	472	89.0	+	.	
+ch.1_358	RNASeq_splice	intron	440	535	6.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	441	448	13.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	445	458	124.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	449	496	20.0	-	.	
+ch.1_358	RNASeq_splice	intron	458	496	4.0	-	.	
+ch.1_358	RNASeq_splice	intron	458	523	3.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	459	473	45.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	474	524	68.0	+	.	
+ch.1_358	RNASeq_splice	intron	483	530	14.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	497	507	13.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	508	573	8.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	525	673	103.0	+	.	
+ch.1_358	WormBase	three_prime_UTR	562	738	.	+	.	Parent=Transcript:F53F1.4.1
+ch.1_358	RNASeq_stranded	transcript_region	574	581	4.0	-	.	
+ch.1_358	RNASeq_stranded	transcript_region	582	598	2.0	-	.	
+ch.1_358	RNASeq_splice	intron	585	673	4.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	599	656	1.0	-	.	
+ch.1_358	RNASeq	transcription_end_site	609	609	.	+	.	
+ch.1_358	RNASeq_R_asymmetry	transcript_region	655	660	1808010.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	657	663	2.0	-	.	
+ch.1_358	RNASeq_reads	transcript_region	660	708	440.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	664	705	1.0	-	.	
+ch.1_358	RNASeq_R_asymmetry	transcript_region	666	666	1484990.0	.	.	
+ch.1_358	RNASeq_R_asymmetry	transcript_region	669	673	1433070.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	674	674	199.0	+	.	
+ch.1_358	RNASeq_stranded	transcript_region	675	709	584.0	+	.	
+ch.1_358	RNASeq	transcription_end_site	676	676	.	+	.	
+ch.1_358	RNASeq_reads	transcript_region	709	709	272.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	710	715	119.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	710	719	54.0	+	.	
+ch.1_358	RNASeq_reads	transcript_region	716	725	72.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	720	732	35.0	+	.	
+ch.1_358	RNASeq_reads	transcript_region	726	734	45.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	733	740	23.0	+	.	
+ch.1_358	RNASeq_reads	transcript_region	735	739	26.0	.	.	
+ch.1_358	RNASeq_reads	transcript_region	740	742	17.0	.	.	
+ch.1_358	RNASeq_stranded	transcript_region	741	742	15.0	+	.	

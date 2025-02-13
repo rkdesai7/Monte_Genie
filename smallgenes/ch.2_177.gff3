@@ -1,0 +1,45 @@
+ch.2_177	RNASeq_reads	transcript_region	74	132	1.0	.	.	
+ch.2_177	WormBase	five_prime_UTR	101	140	.	+	.	Parent=Transcript:R01H2.8.1
+ch.2_177	WormBase	exon	101	296	.	+	.	Parent=Transcript:R01H2.8.1
+ch.2_177	WormBase	gene	101	770	.	+	.	ID=Gene:WBGene00045190
+ch.2_177	WormBase	mRNA	101	770	.	+	.	ID=Transcript:R01H2.8.1;Parent=Gene:WBGene00045190
+ch.2_177	RNASeq_reads	transcript_region	133	147	2.0	.	.	
+ch.2_177	RNASeq_F_asymmetry	transcript_region	139	144	8844.0	.	.	
+ch.2_177	WormBase	CDS	141	296	.	+	.	ID=CDS:R01H2.8;Parent=Transcript:R01H2.8.1
+ch.2_177	RNASeq_F_asymmetry	transcript_region	145	162	14321.0	.	.	
+ch.2_177	RNASeq_reads	transcript_region	148	223	4.0	.	.	
+ch.2_177	RNASeq_F_asymmetry	transcript_region	163	192	21547.0	.	.	
+ch.2_177	RNASeq_splice	intron	216	261	186.0	+	.	
+ch.2_177	RNASeq_splice	intron	216	264	53.0	+	.	
+ch.2_177	RNASeq_splice	intron	216	324	4.0	+	.	
+ch.2_177	RNASeq_splice	intron	216	335	1501.0	+	.	
+ch.2_177	RNASeq_reads	transcript_region	224	296	7.0	.	.	
+ch.2_177	RNASeq_splice	intron	237	335	8.0	+	.	
+ch.2_177	RNASeq_splice	intron	289	335	67.0	+	.	
+ch.2_177	WormBase	intron	297	335	.	+	.	Parent=Transcript:R01H2.8.1
+ch.2_177	RNASeq_reads	transcript_region	297	335	4.0	.	.	
+ch.2_177	RNASeq_splice	intron	297	335	20128.0	+	.	
+ch.2_177	RNASeq_splice	intron	297	511	9.0	+	.	
+ch.2_177	WormBase	CDS	336	467	.	+	.	ID=CDS:R01H2.8;Parent=Transcript:R01H2.8.1
+ch.2_177	WormBase	exon	336	467	.	+	.	Parent=Transcript:R01H2.8.1
+ch.2_177	RNASeq_reads	transcript_region	336	467	9.0	.	.	
+ch.2_177	RNASeq_stranded	transcript_region	347	416	1.0	+	.	
+ch.2_177	RNASeq_splice	intron	405	511	3.0	+	.	
+ch.2_177	RNASeq_stranded	transcript_region	417	451	2.0	+	.	
+ch.2_177	RNASeq_splice	intron	418	511	4.0	+	.	
+ch.2_177	RNASeq_splice	intron	436	511	12.0	+	.	
+ch.2_177	RNASeq_stranded	transcript_region	452	467	1.0	+	.	
+ch.2_177	WormBase	intron	468	511	.	+	.	Parent=Transcript:R01H2.8.1
+ch.2_177	RNASeq_splice	intron	468	511	44731.0	+	.	
+ch.2_177	RNASeq_stranded	transcript_region	512	548	1.0	+	.	
+ch.2_177	WormBase	CDS	512	598	.	+	.	ID=CDS:R01H2.8;Parent=Transcript:R01H2.8.1
+ch.2_177	RNASeq_reads	transcript_region	512	635	10.0	.	.	
+ch.2_177	WormBase	exon	512	770	.	+	.	Parent=Transcript:R01H2.8.1
+ch.2_177	RNASeq_stranded	transcript_region	549	580	2.0	+	.	
+ch.2_177	RNASeq_stranded	transcript_region	581	669	1.0	+	.	
+ch.2_177	WormBase	three_prime_UTR	599	770	.	+	.	Parent=Transcript:R01H2.8.1
+ch.2_177	RNASeq_reads	transcript_region	636	725	6.0	.	.	
+ch.2_177	RNASeq_stranded	transcript_region	670	700	2.0	+	.	
+ch.2_177	RNASeq_stranded	transcript_region	701	742	1.0	+	.	
+ch.2_177	RNASeq_reads	transcript_region	726	756	3.0	.	.	
+ch.2_177	RNASeq_reads	transcript_region	757	764	1.0	.	.	

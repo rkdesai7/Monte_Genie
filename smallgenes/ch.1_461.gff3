@@ -1,0 +1,47 @@
+ch.1_461	RNASeq	transcription_end_site	902	902	.	-	.	
+ch.1_461	RNASeq	transcription_end_site	902	902	.	-	.	
+ch.1_461	RNASeq_reads	transcript_region	882	898	1.0	.	.	
+ch.1_461	WormBase	three_prime_UTR	826	895	.	+	.	Parent=Transcript:T01C1.4.1
+ch.1_461	WormBase	exon	682	895	.	+	.	Parent=Transcript:T01C1.4.1
+ch.1_461	WormBase	gene	101	895	.	+	.	ID=Gene:WBGene00011317
+ch.1_461	WormBase	mRNA	101	895	.	+	.	ID=Transcript:T01C1.4.1;Parent=Gene:WBGene00011317
+ch.1_461	RNASeq_stranded	transcript_region	859	886	1.0	+	.	
+ch.1_461	RNASeq_reads	transcript_region	830	881	2.0	.	.	
+ch.1_461	RNASeq	transcription_end_site	875	875	.	-	.	
+ch.1_461	RNASeq	transcription_end_site	875	875	.	-	.	
+ch.1_461	RNASeq_stranded	transcript_region	744	858	2.0	+	.	
+ch.1_461	RNASeq	transcription_end_site	853	853	.	-	.	
+ch.1_461	RNASeq_reads	transcript_region	799	829	4.0	.	.	
+ch.1_461	WormBase	CDS	682	825	.	+	.	ID=CDS:T01C1.4;Parent=Transcript:T01C1.4.1
+ch.1_461	RNASeq	transcription_end_site	807	807	.	-	.	
+ch.1_461	RNASeq	transcription_end_site	802	802	.	-	.	
+ch.1_461	RNASeq_reads	transcript_region	767	798	8.0	.	.	
+ch.1_461	RNASeq_F_asymmetry	transcript_region	762	796	34617.0	.	.	
+ch.1_461	RNASeq_reads	transcript_region	682	766	13.0	.	.	
+ch.1_461	RNASeq_F_asymmetry	transcript_region	751	761	52895.0	.	.	
+ch.1_461	RNASeq_stranded	transcript_region	726	743	1.0	+	.	
+ch.1_461	RNASeq_stranded	transcript_region	682	725	2.0	+	.	
+ch.1_461	RNASeq_splice	intron	249	686	589.0	+	.	
+ch.1_461	RNASeq_reads	transcript_region	681	681	1.0	.	.	
+ch.1_461	WormBase	intron	249	681	.	+	.	Parent=Transcript:T01C1.4.1
+ch.1_461	RNASeq_splice	intron	249	681	63934.0	+	.	
+ch.1_461	RNASeq_splice	intron	172	681	6.0	+	.	
+ch.1_461	RNASeq_reads	transcript_region	249	253	1.0	.	.	
+ch.1_461	RNASeq_stranded	transcript_region	218	248	2.0	+	.	
+ch.1_461	RNASeq_reads	transcript_region	118	248	13.0	.	.	
+ch.1_461	WormBase	CDS	114	248	.	+	.	ID=CDS:T01C1.4;Parent=Transcript:T01C1.4.1
+ch.1_461	WormBase	exon	101	248	.	+	.	Parent=Transcript:T01C1.4.1
+ch.1_461	RNASeq_stranded	transcript_region	186	217	1.0	+	.	
+ch.1_461	RNASeq_stranded	transcript_region	101	185	2.0	+	.	
+ch.1_461	RNASeq_R_asymmetry	transcript_region	106	142	43815.0	.	.	
+ch.1_461	RNASeq_reads	transcript_region	102	117	8.0	.	.	
+ch.1_461	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:T01C1.4.1
+ch.1_461	RNASeq_R_asymmetry	transcript_region	100	105	28803.0	.	.	
+ch.1_461	RNASeq_reads	transcript_region	99	101	5.0	.	.	
+ch.1_461	RNASeq_stranded	transcript_region	96	100	1.0	+	.	
+ch.1_461	RNASeq_R_asymmetry	transcript_region	99	99	17987.0	.	.	
+ch.1_461	RNASeq_reads	transcript_region	81	98	2.0	.	.	
+ch.1_461	RNASeq_R_asymmetry	transcript_region	80	98	8732.0	.	.	
+ch.1_461	RNASeq_reads	transcript_region	48	80	1.0	.	.	
+ch.1_461	RNASeq_R_asymmetry	transcript_region	69	79	5196.0	.	.	
+ch.1_461	RNASeq_R_asymmetry	transcript_region	48	61	3455.0	.	.	

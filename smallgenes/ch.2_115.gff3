@@ -1,0 +1,34 @@
+ch.2_115	WormBase	three_prime_UTR	625	730	.	+	.	Parent=Transcript:F08B4.4.1
+ch.2_115	WormBase	exon	497	730	.	+	.	Parent=Transcript:F08B4.4.1
+ch.2_115	WormBase	gene	101	730	.	+	.	ID=Gene:WBGene00017236
+ch.2_115	WormBase	mRNA	101	730	.	+	.	ID=Transcript:F08B4.4.1;Parent=Gene:WBGene00017236
+ch.2_115	RNASeq_reads	transcript_region	651	690	1.0	.	.	
+ch.2_115	RNASeq_F_asymmetry	transcript_region	666	679	3517.0	.	.	
+ch.2_115	RNASeq_F_asymmetry	transcript_region	628	665	5405.0	.	.	
+ch.2_115	RNASeq_reads	transcript_region	630	650	2.0	.	.	
+ch.2_115	RNASeq_reads	transcript_region	629	629	1.0	.	.	
+ch.2_115	RNASeq_reads	transcript_region	625	628	2.0	.	.	
+ch.2_115	RNASeq_reads	transcript_region	624	624	1.0	.	.	
+ch.2_115	WormBase	CDS	497	624	.	+	.	ID=CDS:F08B4.4;Parent=Transcript:F08B4.4.1
+ch.2_115	RNASeq_reads	transcript_region	622	623	2.0	.	.	
+ch.2_115	RNASeq_reads	transcript_region	620	621	1.0	.	.	
+ch.2_115	RNASeq_stranded	transcript_region	544	620	1.0	+	.	
+ch.2_115	RNASeq_reads	transcript_region	497	619	2.0	.	.	
+ch.2_115	WormBase	intron	413	496	.	+	.	Parent=Transcript:F08B4.4.1
+ch.2_115	RNASeq_splice	intron	413	496	13176.0	+	.	
+ch.2_115	WormBase	CDS	303	412	.	+	.	ID=CDS:F08B4.4;Parent=Transcript:F08B4.4.1
+ch.2_115	WormBase	exon	303	412	.	+	.	Parent=Transcript:F08B4.4.1
+ch.2_115	RNASeq_reads	transcript_region	303	412	3.0	.	.	
+ch.2_115	RNASeq_stranded	transcript_region	303	341	1.0	+	.	
+ch.2_115	WormBase	intron	209	302	.	+	.	Parent=Transcript:F08B4.4.1
+ch.2_115	RNASeq_splice	intron	209	302	13118.0	+	.	
+ch.2_115	RNASeq_stranded	transcript_region	196	208	1.0	+	.	
+ch.2_115	WormBase	CDS	120	208	.	+	.	ID=CDS:F08B4.4;Parent=Transcript:F08B4.4.1
+ch.2_115	RNASeq_reads	transcript_region	109	208	2.0	.	.	
+ch.2_115	WormBase	exon	101	208	.	+	.	Parent=Transcript:F08B4.4.1
+ch.2_115	RNASeq_R_asymmetry	transcript_region	107	181	10765.0	.	.	
+ch.2_115	WormBase	five_prime_UTR	101	119	.	+	.	Parent=Transcript:F08B4.4.1
+ch.2_115	RNASeq_reads	transcript_region	99	108	1.0	.	.	
+ch.2_115	RNASeq_R_asymmetry	transcript_region	101	106	6810.0	.	.	
+ch.2_115	RNASeq_R_asymmetry	transcript_region	99	100	3645.0	.	.	
+ch.2_115	RNASeq_R_asymmetry	transcript_region	92	98	876.0	.	.	

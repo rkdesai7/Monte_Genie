@@ -1,0 +1,37 @@
+ch.2_92	WormBase	three_prime_UTR	631	672	.	+	.	Parent=Transcript:C16C8.7.1
+ch.2_92	WormBase	exon	523	672	.	+	.	Parent=Transcript:C16C8.7.1
+ch.2_92	WormBase	gene	101	672	.	+	.	ID=Gene:WBGene00015845
+ch.2_92	WormBase	mRNA	101	672	.	+	.	ID=Transcript:C16C8.7.1;Parent=Gene:WBGene00015845
+ch.2_92	RNASeq_F_asymmetry	transcript_region	671	671	796.0	.	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	659	670	1266.0	.	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	618	658	1906.0	.	.	
+ch.2_92	RNASeq_reads	transcript_region	523	639	1.0	.	.	
+ch.2_92	WormBase	CDS	523	630	.	+	.	ID=CDS:C16C8.7;Parent=Transcript:C16C8.7.1
+ch.2_92	RNASeq_F_asymmetry	transcript_region	597	617	2860.0	.	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	570	596	4549.0	.	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	559	565	4664.0	.	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	553	557	4817.0	.	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	546	550	5377.0	.	.	
+ch.2_92	WormBase	intron	476	522	.	+	.	Parent=Transcript:C16C8.7.1
+ch.2_92	RNASeq_splice	intron	476	522	10485.0	+	.	
+ch.2_92	RNASeq_reads	transcript_region	433	475	1.0	.	.	
+ch.2_92	WormBase	CDS	318	475	.	+	.	ID=CDS:C16C8.7;Parent=Transcript:C16C8.7.1
+ch.2_92	WormBase	exon	318	475	.	+	.	Parent=Transcript:C16C8.7.1
+ch.2_92	RNASeq_reads	transcript_region	318	432	2.0	.	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	354	431	8801.0	.	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	318	353	13582.0	.	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	317	317	3367.0	.	.	
+ch.2_92	RNASeq_reads	transcript_region	317	317	1.0	.	.	
+ch.2_92	WormBase	intron	257	317	.	+	.	Parent=Transcript:C16C8.7.1
+ch.2_92	RNASeq_splice	intron	257	317	14279.0	+	.	
+ch.2_92	RNASeq_F_asymmetry	transcript_region	215	256	13476.0	.	.	
+ch.2_92	RNASeq_reads	transcript_region	175	256	3.0	.	.	
+ch.2_92	WormBase	CDS	103	256	.	+	.	ID=CDS:C16C8.7;Parent=Transcript:C16C8.7.1
+ch.2_92	WormBase	exon	101	256	.	+	.	Parent=Transcript:C16C8.7.1
+ch.2_92	RNASeq_reads	transcript_region	112	174	1.0	.	.	
+ch.2_92	RNASeq_R_asymmetry	transcript_region	116	163	4254.0	.	.	
+ch.2_92	RNASeq_R_asymmetry	transcript_region	111	115	2807.0	.	.	
+ch.2_92	RNASeq_R_asymmetry	transcript_region	106	110	1347.0	.	.	
+ch.2_92	RNASeq_R_asymmetry	transcript_region	102	105	852.0	.	.	
+ch.2_92	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:C16C8.7.1
+ch.2_92	RNASeq_R_asymmetry	transcript_region	101	101	485.0	.	.	

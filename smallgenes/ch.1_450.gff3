@@ -1,0 +1,73 @@
+ch.1_450	RNASeq_R_asymmetry	transcript_region	845	848	6590.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	845	848	1.0	.	.	
+ch.1_450	RNASeq	transcription_end_site	758	758	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	758	758	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	757	757	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	757	757	.	-	.	
+ch.1_450	RNASeq_F_asymmetry	transcript_region	754	755	2600.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	754	755	1.0	.	.	
+ch.1_450	RNASeq_stranded	transcript_region	754	755	1.0	+	.	
+ch.1_450	RNASeq	transcription_end_site	754	754	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	754	754	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	753	753	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	753	753	.	-	.	
+ch.1_450	RNASeq_F_asymmetry	transcript_region	752	753	6586.0	.	.	
+ch.1_450	RNASeq_stranded	transcript_region	744	753	2.0	+	.	
+ch.1_450	RNASeq_reads	transcript_region	734	753	2.0	.	.	
+ch.1_450	WormBase	three_prime_UTR	662	748	.	+	.	Parent=Transcript:C25H3.17.1
+ch.1_450	WormBase	exon	513	748	.	+	.	Parent=Transcript:C25H3.17.1
+ch.1_450	WormBase	gene	101	748	.	+	.	ID=Gene:WBGene00194642
+ch.1_450	WormBase	mRNA	101	748	.	+	.	ID=Transcript:C25H3.17.1;Parent=Gene:WBGene00194642
+ch.1_450	RNASeq_stranded	transcript_region	734	743	4.0	+	.	
+ch.1_450	RNASeq_stranded	transcript_region	718	733	7.0	+	.	
+ch.1_450	RNASeq_reads	transcript_region	717	733	4.0	.	.	
+ch.1_450	RNASeq	transcription_end_site	718	718	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	718	718	.	-	.	
+ch.1_450	RNASeq_stranded	transcript_region	695	717	11.0	+	.	
+ch.1_450	RNASeq_F_asymmetry	transcript_region	716	716	33047.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	715	716	8.0	.	.	
+ch.1_450	RNASeq_F_asymmetry	transcript_region	684	715	52179.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	680	714	13.0	.	.	
+ch.1_450	RNASeq_stranded	transcript_region	590	694	17.0	+	.	
+ch.1_450	RNASeq_F_asymmetry	transcript_region	666	683	79388.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	639	679	20.0	.	.	
+ch.1_450	RNASeq	transcription_end_site	662	662	.	-	.	
+ch.1_450	WormBase	CDS	513	661	.	+	.	ID=CDS:C25H3.17;Parent=Transcript:C25H3.17.1
+ch.1_450	RNASeq	transcription_end_site	655	655	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	653	653	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	653	653	.	-	.	
+ch.1_450	RNASeq	transcription_end_site	652	652	.	-	.	
+ch.1_450	RNASeq_F_asymmetry	transcript_region	648	648	108798.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	606	638	31.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	513	605	47.0	.	.	
+ch.1_450	RNASeq_stranded	transcript_region	568	589	11.0	+	.	
+ch.1_450	RNASeq_stranded	transcript_region	513	567	17.0	+	.	
+ch.1_450	RNASeq_reads	transcript_region	504	512	2.0	.	.	
+ch.1_450	RNASeq_splice	intron	454	512	27.0	+	.	
+ch.1_450	WormBase	intron	183	512	.	+	.	Parent=Transcript:C25H3.17.1
+ch.1_450	RNASeq_splice	intron	183	512	289274.0	+	.	
+ch.1_450	RNASeq_splice	intron	173	512	119.0	+	.	
+ch.1_450	RNASeq_splice	intron	159	512	3.0	+	.	
+ch.1_450	RNASeq_splice	intron	135	512	11.0	+	.	
+ch.1_450	RNASeq_splice	intron	454	503	4.0	+	.	
+ch.1_450	RNASeq_reads	transcript_region	370	503	1.0	.	.	
+ch.1_450	RNASeq_splice	intron	183	503	3492.0	+	.	
+ch.1_450	WormBase_transposon	transposable_element	206	478	.	-	.	ID=Transposon:Predicted_CELE2_8893
+ch.1_450	RNASeq_splice	intron	183	424	3.0	+	.	
+ch.1_450	RNASeq_reads	transcript_region	183	261	1.0	.	.	
+ch.1_450	RNASeq_stranded	transcript_region	159	182	10.0	+	.	
+ch.1_450	RNASeq_reads	transcript_region	109	182	57.0	.	.	
+ch.1_450	WormBase	CDS	101	182	.	+	.	ID=CDS:C25H3.17;Parent=Transcript:C25H3.17.1
+ch.1_450	WormBase	exon	101	182	.	+	.	Parent=Transcript:C25H3.17.1
+ch.1_450	RNASeq_stranded	transcript_region	137	158	16.0	+	.	
+ch.1_450	RNASeq_R_asymmetry	transcript_region	105	152	225066.0	.	.	
+ch.1_450	RNASeq_stranded	transcript_region	108	136	25.0	+	.	
+ch.1_450	RNASeq_reads	transcript_region	101	108	37.0	.	.	
+ch.1_450	RNASeq_stranded	transcript_region	99	107	14.0	+	.	
+ch.1_450	RNASeq_R_asymmetry	transcript_region	99	104	146998.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	99	100	24.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	98	98	2.0	.	.	
+ch.1_450	RNASeq_R_asymmetry	transcript_region	95	98	6354.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	57	97	1.0	.	.	
+ch.1_450	RNASeq_R_asymmetry	transcript_region	92	94	3356.0	.	.	
+ch.1_450	RNASeq_reads	transcript_region	5	10	1.0	.	.	

@@ -1,0 +1,31 @@
+ch.1_231	RNASeq_F_asymmetry	transcript_region	96	99	764.0	.	.	
+ch.1_231	RNASeq_F_asymmetry	transcript_region	100	102	1684.0	.	.	
+ch.1_231	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:T28A11.4.1
+ch.1_231	WormBase	exon	101	188	.	+	.	Parent=Transcript:T28A11.4.1
+ch.1_231	WormBase	gene	101	538	.	+	.	ID=Gene:WBGene00020871
+ch.1_231	WormBase	mRNA	101	538	.	+	.	ID=Transcript:T28A11.4.1;Parent=Gene:WBGene00020871
+ch.1_231	RNASeq_reads	transcript_region	102	135	1.0	.	.	
+ch.1_231	RNASeq_F_asymmetry	transcript_region	103	109	2765.0	.	.	
+ch.1_231	WormBase	CDS	105	188	.	+	.	ID=CDS:T28A11.4;Parent=Transcript:T28A11.4.1
+ch.1_231	RNASeq_F_asymmetry	transcript_region	110	175	4995.0	.	.	
+ch.1_231	RNASeq_reads	transcript_region	136	188	2.0	.	.	
+ch.1_231	RNASeq_F_asymmetry	transcript_region	176	176	7510.0	.	.	
+ch.1_231	RNASeq_F_asymmetry	transcript_region	189	189	1581.0	.	.	
+ch.1_231	WormBase	intron	189	236	.	+	.	Parent=Transcript:T28A11.4.1
+ch.1_231	RNASeq_splice	intron	189	236	11673.0	+	.	
+ch.1_231	RNASeq_reads	transcript_region	237	391	2.0	.	.	
+ch.1_231	WormBase	CDS	237	425	.	+	.	ID=CDS:T28A11.4;Parent=Transcript:T28A11.4.1
+ch.1_231	WormBase	exon	237	538	.	+	.	Parent=Transcript:T28A11.4.1
+ch.1_231	RNASeq_reads	transcript_region	392	393	1.0	.	.	
+ch.1_231	RNASeq_reads	transcript_region	394	422	2.0	.	.	
+ch.1_231	RNASeq_reads	transcript_region	423	423	1.0	.	.	
+ch.1_231	RNASeq_reads	transcript_region	424	430	2.0	.	.	
+ch.1_231	WormBase	three_prime_UTR	426	538	.	+	.	Parent=Transcript:T28A11.4.1
+ch.1_231	RNASeq_reads	transcript_region	431	514	1.0	.	.	
+ch.1_231	RNASeq_R_asymmetry	transcript_region	438	438	5602.0	.	.	
+ch.1_231	RNASeq_R_asymmetry	transcript_region	440	490	5541.0	.	.	
+ch.1_231	RNASeq_R_asymmetry	transcript_region	491	514	3359.0	.	.	
+ch.1_231	RNASeq_R_asymmetry	transcript_region	515	528	2096.0	.	.	
+ch.1_231	RNASeq_R_asymmetry	transcript_region	529	539	1318.0	.	.	
+ch.1_231	RNASeq_R_asymmetry	transcript_region	540	543	869.0	.	.	
+ch.1_231	RNASeq	transcription_end_site	553	553	.	+	.	

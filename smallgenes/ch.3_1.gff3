@@ -1,0 +1,37 @@
+ch.3_1	RNASeq_stranded	transcript_region	35	152	1.0	+	.	
+ch.3_1	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:Y75B12B.11.1
+ch.3_1	WormBase	exon	101	183	.	+	.	Parent=Transcript:Y75B12B.11.1
+ch.3_1	WormBase	gene	101	660	.	+	.	ID=Gene:WBGene00013573
+ch.3_1	WormBase	mRNA	101	660	.	+	.	ID=Transcript:Y75B12B.11.1;Parent=Gene:WBGene00013573
+ch.3_1	WormBase	CDS	114	183	.	+	.	ID=CDS:Y75B12B.11;Parent=Transcript:Y75B12B.11.1
+ch.3_1	RNASeq_F_asymmetry	transcript_region	122	129	6347.0	.	.	
+ch.3_1	RNASeq_reads	transcript_region	122	183	2.0	.	.	
+ch.3_1	RNASeq_F_asymmetry	transcript_region	130	183	10828.0	.	.	
+ch.3_1	WormBase	intron	184	234	.	+	.	Parent=Transcript:Y75B12B.11.1
+ch.3_1	RNASeq_splice	intron	184	234	16970.0	+	.	
+ch.3_1	RNASeq_splice	intron	184	517	27.0	+	.	
+ch.3_1	RNASeq_F_asymmetry	transcript_region	235	264	13640.0	.	.	
+ch.3_1	WormBase	CDS	235	318	.	+	.	ID=CDS:Y75B12B.11;Parent=Transcript:Y75B12B.11.1
+ch.3_1	WormBase	exon	235	318	.	+	.	Parent=Transcript:Y75B12B.11.1
+ch.3_1	RNASeq_reads	transcript_region	235	318	3.0	.	.	
+ch.3_1	RNASeq_stranded	transcript_region	282	318	1.0	+	.	
+ch.3_1	WormBase	intron	319	366	.	+	.	Parent=Transcript:Y75B12B.11.1
+ch.3_1	RNASeq_splice	intron	319	366	19749.0	+	.	
+ch.3_1	RNASeq_reads	transcript_region	365	366	1.0	.	.	
+ch.3_1	RNASeq_stranded	transcript_region	367	398	1.0	+	.	
+ch.3_1	WormBase	CDS	367	463	.	+	.	ID=CDS:Y75B12B.11;Parent=Transcript:Y75B12B.11.1
+ch.3_1	WormBase	exon	367	463	.	+	.	Parent=Transcript:Y75B12B.11.1
+ch.3_1	RNASeq_reads	transcript_region	367	463	4.0	.	.	
+ch.3_1	RNASeq_stranded	transcript_region	434	463	1.0	+	.	
+ch.3_1	RNASeq_reads	transcript_region	464	465	1.0	.	.	
+ch.3_1	WormBase	intron	464	517	.	+	.	Parent=Transcript:Y75B12B.11.1
+ch.3_1	RNASeq_splice	intron	464	517	14856.0	+	.	
+ch.3_1	RNASeq_reads	transcript_region	516	517	1.0	.	.	
+ch.3_1	RNASeq_reads	transcript_region	518	634	3.0	.	.	
+ch.3_1	RNASeq_stranded	transcript_region	518	636	1.0	+	.	
+ch.3_1	WormBase	CDS	518	641	.	+	.	ID=CDS:Y75B12B.11;Parent=Transcript:Y75B12B.11.1
+ch.3_1	WormBase	exon	518	660	.	+	.	Parent=Transcript:Y75B12B.11.1
+ch.3_1	RNASeq	transcription_end_site	631	631	.	+	.	
+ch.3_1	RNASeq_reads	transcript_region	635	644	1.0	.	.	
+ch.3_1	RNASeq_splice	intron	638	679	278.0	-	.	
+ch.3_1	WormBase	three_prime_UTR	642	660	.	+	.	Parent=Transcript:Y75B12B.11.1

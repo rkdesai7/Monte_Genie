@@ -1,0 +1,36 @@
+ch.1_40	WormBase	five_prime_UTR	101	121	.	+	.	Parent=Transcript:F14D7.10.1
+ch.1_40	WormBase	exon	101	197	.	+	.	Parent=Transcript:F14D7.10.1
+ch.1_40	WormBase	gene	101	514	.	+	.	ID=Gene:WBGene00008797
+ch.1_40	WormBase	mRNA	101	514	.	+	.	ID=Transcript:F14D7.10.1;Parent=Gene:WBGene00008797
+ch.1_40	RNASeq_reads	transcript_region	111	112	1.0	.	.	
+ch.1_40	RNASeq_reads	transcript_region	113	127	2.0	.	.	
+ch.1_40	RNASeq_stranded	transcript_region	119	129	1.0	+	.	
+ch.1_40	WormBase	CDS	122	197	.	+	.	ID=CDS:F14D7.10;Parent=Transcript:F14D7.10.1
+ch.1_40	RNASeq_F_asymmetry	transcript_region	128	134	17596.0	.	.	
+ch.1_40	RNASeq_reads	transcript_region	128	134	4.0	.	.	
+ch.1_40	RNASeq_stranded	transcript_region	130	174	2.0	+	.	
+ch.1_40	RNASeq_F_asymmetry	transcript_region	135	144	28827.0	.	.	
+ch.1_40	RNASeq_reads	transcript_region	135	148	7.0	.	.	
+ch.1_40	RNASeq_F_asymmetry	transcript_region	145	184	46087.0	.	.	
+ch.1_40	RNASeq_reads	transcript_region	149	197	11.0	.	.	
+ch.1_40	RNASeq_stranded	transcript_region	175	197	4.0	+	.	
+ch.1_40	WormBase	intron	198	242	.	+	.	Parent=Transcript:F14D7.10.1
+ch.1_40	RNASeq_splice	intron	198	242	55453.0	+	.	
+ch.1_40	RNASeq_splice	intron	198	245	92.0	+	.	
+ch.1_40	RNASeq_splice	intron	202	245	130.0	+	.	
+ch.1_40	RNASeq_reads	transcript_region	242	242	1.0	.	.	
+ch.1_40	RNASeq_reads	transcript_region	243	320	12.0	.	.	
+ch.1_40	RNASeq_stranded	transcript_region	243	396	3.0	+	.	
+ch.1_40	WormBase	CDS	243	478	.	+	.	ID=CDS:F14D7.10;Parent=Transcript:F14D7.10.1
+ch.1_40	WormBase	exon	243	514	.	+	.	Parent=Transcript:F14D7.10.1
+ch.1_40	RNASeq	transcription_end_site	275	275	.	+	.	
+ch.1_40	RNASeq_reads	transcript_region	321	401	19.0	.	.	
+ch.1_40	RNASeq_stranded	transcript_region	397	455	5.0	+	.	
+ch.1_40	RNASeq_reads	transcript_region	402	436	12.0	.	.	
+ch.1_40	RNASeq_reads	transcript_region	437	462	7.0	.	.	
+ch.1_40	RNASeq_stranded	transcript_region	456	498	3.0	+	.	
+ch.1_40	RNASeq_reads	transcript_region	463	482	4.0	.	.	
+ch.1_40	WormBase	three_prime_UTR	479	514	.	+	.	Parent=Transcript:F14D7.10.1
+ch.1_40	RNASeq_reads	transcript_region	483	490	2.0	.	.	
+ch.1_40	RNASeq_reads	transcript_region	491	510	1.0	.	.	
+ch.1_40	RNASeq_stranded	transcript_region	499	509	1.0	+	.	

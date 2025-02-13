@@ -1,0 +1,113 @@
+ch.2_127	RNASeq_reads	transcript_region	844	849	19.0	.	.	
+ch.2_127	WormBase	five_prime_UTR	845	847	.	+	.	Parent=Transcript:C18E9.10c.1
+ch.2_127	WormBase	five_prime_UTR	842	847	.	+	.	Parent=Transcript:C18E9.10a.1
+ch.2_127	RNASeq_stranded	transcript_region	842	844	2.0	+	.	
+ch.2_127	RNASeq_splice	intron	796	844	11.0	+	.	
+ch.2_127	RNASeq_R_asymmetry	transcript_region	842	843	61169.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	842	843	12.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	810	812	1.0	+	.	
+ch.2_127	RNASeq_stranded	transcript_region	797	807	1.0	+	.	
+ch.2_127	RNASeq	transcription_end_site	757	757	.	-	.	
+ch.2_127	RNASeq	transcription_end_site	757	757	.	-	.	
+ch.2_127	RNASeq_reads	transcript_region	754	757	1.0	.	.	
+ch.2_127	RNASeq	transcription_end_site	756	756	.	-	.	
+ch.2_127	RNASeq	transcription_end_site	756	756	.	-	.	
+ch.2_127	RNASeq	transcription_end_site	755	755	.	-	.	
+ch.2_127	RNASeq	transcription_end_site	754	754	.	-	.	
+ch.2_127	RNASeq	transcription_end_site	754	754	.	-	.	
+ch.2_127	RNASeq	transcription_end_site	753	753	.	-	.	
+ch.2_127	RNASeq	transcription_end_site	753	753	.	-	.	
+ch.2_127	RNASeq_stranded	transcript_region	751	753	5.0	+	.	
+ch.2_127	RNASeq_F_asymmetry	transcript_region	750	753	35673.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	750	753	9.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	749	750	8.0	+	.	
+ch.2_127	RNASeq_F_asymmetry	transcript_region	746	749	60490.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	740	749	14.0	.	.	
+ch.2_127	WormBase	three_prime_UTR	649	749	.	+	.	Parent=Transcript:C18E9.4.1
+ch.2_127	WormBase	exon	535	749	.	+	.	Parent=Transcript:C18E9.4.1
+ch.2_127	WormBase	gene	101	749	.	+	.	ID=Gene:WBGene00007684
+ch.2_127	WormBase	mRNA	101	749	.	+	.	ID=Transcript:C18E9.4.1;Parent=Gene:WBGene00007684
+ch.2_127	RNASeq_stranded	transcript_region	732	748	14.0	+	.	
+ch.2_127	RNASeq_F_asymmetry	transcript_region	741	743	76941.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	732	739	22.0	.	.	
+ch.2_127	RNASeq_F_asymmetry	transcript_region	732	738	98583.0	.	.	
+ch.2_127	RNASeq_F_asymmetry	transcript_region	715	731	152205.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	712	731	36.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	701	731	22.0	+	.	
+ch.2_127	RNASeq_stranded	transcript_region	686	724	1.0	-	.	
+ch.2_127	RNASeq	transcription_end_site	715	715	.	-	.	
+ch.2_127	RNASeq	transcription_end_site	715	715	.	-	.	
+ch.2_127	RNASeq_F_asymmetry	transcript_region	693	714	229236.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	676	711	55.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	694	700	34.0	+	.	
+ch.2_127	RNASeq	transcription_end_site	693	693	.	-	.	
+ch.2_127	RNASeq_stranded	transcript_region	688	693	54.0	+	.	
+ch.2_127	RNASeq_stranded	transcript_region	675	687	87.0	+	.	
+ch.2_127	RNASeq	transcription_end_site	683	683	.	-	.	
+ch.2_127	RNASeq_reads	transcript_region	672	675	88.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	589	674	132.0	+	.	
+ch.2_127	RNASeq_stranded	transcript_region	653	673	1.0	-	.	
+ch.2_127	RNASeq_F_asymmetry	transcript_region	670	671	598475.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	670	671	150.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	613	669	234.0	.	.	
+ch.2_127	RNASeq_F_asymmetry	transcript_region	610	669	1033470.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	624	652	2.0	-	.	
+ch.2_127	WormBase	CDS	535	648	.	+	.	ID=CDS:C18E9.4;Parent=Transcript:C18E9.4.1
+ch.2_127	RNASeq_stranded	transcript_region	535	623	1.0	-	.	
+ch.2_127	RNASeq_reads	transcript_region	535	612	369.0	.	.	
+ch.2_127	RNASeq_splice	intron	352	612	3.0	+	.	
+ch.2_127	RNASeq_F_asymmetry	transcript_region	586	609	1557230.0	.	.	
+ch.2_127	RNASeq_splice	intron	352	598	16.0	+	.	
+ch.2_127	RNASeq_stranded	transcript_region	535	588	87.0	+	.	
+ch.2_127	RNASeq_splice	intron	333	578	3.0	-	.	
+ch.2_127	RNASeq_splice	intron	352	562	21.0	+	.	
+ch.2_127	RNASeq_reads	transcript_region	533	534	38.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	533	534	18.0	+	.	
+ch.2_127	WormBase	intron	352	534	.	+	.	Parent=Transcript:C18E9.4.1
+ch.2_127	RNASeq_splice	intron	352	534	1785830.0	+	.	
+ch.2_127	RNASeq_reads	transcript_region	532	532	1.0	.	.	
+ch.2_127	RNASeq_splice	intron	352	502	10.0	+	.	
+ch.2_127	RNASeq_reads	transcript_region	352	354	1.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	352	352	1.0	-	.	
+ch.2_127	RNASeq_stranded	transcript_region	287	351	1.0	-	.	
+ch.2_127	WormBase	CDS	285	351	.	+	.	ID=CDS:C18E9.4;Parent=Transcript:C18E9.4.1
+ch.2_127	WormBase	exon	285	351	.	+	.	Parent=Transcript:C18E9.4.1
+ch.2_127	RNASeq_reads	transcript_region	285	351	325.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	285	351	59.0	+	.	
+ch.2_127	RNASeq_splice	intron	155	295	5.0	-	.	
+ch.2_127	RNASeq_reads	transcript_region	282	284	61.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	282	284	11.0	+	.	
+ch.2_127	RNASeq_splice	intron	237	284	1313.0	+	.	
+ch.2_127	WormBase	intron	233	284	.	+	.	Parent=Transcript:C18E9.4.1
+ch.2_127	RNASeq_splice	intron	233	284	2076400.0	+	.	
+ch.2_127	RNASeq_reads	transcript_region	281	281	39.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	281	281	7.0	-	.	
+ch.2_127	RNASeq_reads	transcript_region	280	280	1.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	233	236	1.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	233	233	1.0	-	.	
+ch.2_127	RNASeq_stranded	transcript_region	222	232	41.0	+	.	
+ch.2_127	RNASeq_reads	transcript_region	115	232	408.0	.	.	
+ch.2_127	WormBase	CDS	102	232	.	+	.	ID=CDS:C18E9.4;Parent=Transcript:C18E9.4.1
+ch.2_127	WormBase	exon	101	232	.	+	.	Parent=Transcript:C18E9.4.1
+ch.2_127	RNASeq_stranded	transcript_region	149	221	74.0	+	.	
+ch.2_127	RNASeq_stranded	transcript_region	202	204	1.0	-	.	
+ch.2_127	RNASeq_splice	intron	157	187	3.0	-	.	
+ch.2_127	RNASeq_R_asymmetry	transcript_region	112	166	1753890.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	101	148	118.0	+	.	
+ch.2_127	RNASeq_reads	transcript_region	108	114	256.0	.	.	
+ch.2_127	RNASeq_R_asymmetry	transcript_region	106	111	1153000.0	.	.	
+ch.2_127	RNASeq_splice	intron	63	111	37.0	+	.	
+ch.2_127	RNASeq_reads	transcript_region	103	107	157.0	.	.	
+ch.2_127	RNASeq_R_asymmetry	transcript_region	101	105	657814.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	99	102	103.0	.	.	
+ch.2_127	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:C18E9.4.1
+ch.2_127	RNASeq_R_asymmetry	transcript_region	99	100	427665.0	.	.	
+ch.2_127	RNASeq_stranded	transcript_region	99	100	49.0	+	.	
+ch.2_127	RNASeq_splice	intron	63	100	14.0	+	.	
+ch.2_127	RNASeq_stranded	transcript_region	98	98	1.0	-	.	
+ch.2_127	RNASeq_R_asymmetry	transcript_region	95	98	4470.0	.	.	
+ch.2_127	RNASeq_reads	transcript_region	75	98	1.0	.	.	
+ch.2_127	RNASeq_R_asymmetry	transcript_region	92	94	2911.0	.	.	
+ch.2_127	RNASeq_R_asymmetry	transcript_region	80	80	2114.0	.	.	
+ch.2_127	RNASeq_R_asymmetry	transcript_region	40	78	2076.0	.	.	
+ch.2_127	RNASeq_R_asymmetry	transcript_region	35	39	1345.0	.	.	

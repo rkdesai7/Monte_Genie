@@ -1,0 +1,33 @@
+ch.1_128	RNASeq_stranded	transcript_region	571	602	2.0	+	.	
+ch.1_128	WormBase	CDS	543	602	.	+	.	ID=CDS:EEED8.13;Parent=Transcript:EEED8.13.1,Transcript:EEED8.13.2
+ch.1_128	WormBase	exon	372	602	.	+	.	Parent=Transcript:EEED8.13.1
+ch.1_128	WormBase	exon	371	602	.	+	.	Parent=Transcript:EEED8.13.2
+ch.1_128	RNASeq_reads	transcript_region	371	602	6.0	.	.	
+ch.1_128	RNASeq_stranded	transcript_region	378	570	1.0	+	.	
+ch.1_128	WormBase	five_prime_UTR	372	542	.	+	.	Parent=Transcript:EEED8.13.1
+ch.1_128	WormBase	five_prime_UTR	371	542	.	+	.	Parent=Transcript:EEED8.13.2
+ch.1_128	WormBase	three_prime_UTR	494	515	.	+	.	Parent=Transcript:EEED8.18.1
+ch.1_128	WormBase	exon	371	515	.	+	.	Parent=Transcript:EEED8.18.1
+ch.1_128	WormBase	gene	101	515	.	+	.	ID=Gene:WBGene00194696
+ch.1_128	WormBase	mRNA	101	515	.	+	.	ID=Transcript:EEED8.18.1;Parent=Gene:WBGene00194696
+ch.1_128	WormBase	CDS	371	493	.	+	.	ID=CDS:EEED8.18;Parent=Transcript:EEED8.18.1
+ch.1_128	RNASeq	transcription_end_site	489	489	.	-	.	
+ch.1_128	RNASeq	transcription_end_site	406	406	.	-	.	
+ch.1_128	RNASeq	transcription_end_site	406	406	.	-	.	
+ch.1_128	RNASeq_splice	intron	185	373	3.0	+	.	
+ch.1_128	WormBase	intron	185	371	.	+	.	Parent=Transcript:EEED8.13.1
+ch.1_128	WormBase	intron	185	370	.	+	.	Parent=Transcript:EEED8.18.1
+ch.1_128	RNASeq_splice	intron	185	370	21635.0	+	.	
+ch.1_128	RNASeq_splice	intron	293	361	4.0	-	.	
+ch.1_128	WormBase	exon	144	184	.	+	.	Parent=Transcript:EEED8.13.1
+ch.1_128	WormBase	five_prime_UTR	144	184	.	+	.	Parent=Transcript:EEED8.13.1
+ch.1_128	RNASeq_reads	transcript_region	108	184	4.0	.	.	
+ch.1_128	WormBase	CDS	104	184	.	+	.	ID=CDS:EEED8.18;Parent=Transcript:EEED8.18.1
+ch.1_128	RNASeq_stranded	transcript_region	102	184	1.0	+	.	
+ch.1_128	WormBase	exon	101	184	.	+	.	Parent=Transcript:EEED8.18.1
+ch.1_128	RNASeq_R_asymmetry	transcript_region	108	170	18206.0	.	.	
+ch.1_128	RNASeq_R_asymmetry	transcript_region	101	107	11948.0	.	.	
+ch.1_128	RNASeq_reads	transcript_region	101	107	2.0	.	.	
+ch.1_128	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:EEED8.18.1
+ch.1_128	RNASeq_R_asymmetry	transcript_region	98	100	521.0	.	.	
+ch.1_128	RNASeq_F_asymmetry	transcript_region	26	44	450.0	.	.	

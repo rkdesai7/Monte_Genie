@@ -1,0 +1,60 @@
+ch.1_248	RNASeq_F_asymmetry	transcript_region	101	102	887.0	.	.	
+ch.1_248	WormBase	five_prime_UTR	101	126	.	+	.	Parent=Transcript:F42F12.9.1
+ch.1_248	WormBase	exon	101	129	.	+	.	Parent=Transcript:F42F12.9.1
+ch.1_248	WormBase	gene	101	535	.	+	.	ID=Gene:WBGene00009640
+ch.1_248	WormBase	mRNA	101	535	.	+	.	ID=Transcript:F42F12.9.1;Parent=Gene:WBGene00009640
+ch.1_248	RNASeq_F_asymmetry	transcript_region	103	105	3757.0	.	.	
+ch.1_248	RNASeq_reads	transcript_region	103	108	1.0	.	.	
+ch.1_248	RNASeq_F_asymmetry	transcript_region	106	112	6450.0	.	.	
+ch.1_248	RNASeq_reads	transcript_region	109	113	2.0	.	.	
+ch.1_248	RNASeq_stranded	transcript_region	111	113	1.0	+	.	
+ch.1_248	RNASeq_F_asymmetry	transcript_region	113	113	10596.0	.	.	
+ch.1_248	RNASeq_F_asymmetry	transcript_region	114	114	17203.0	.	.	
+ch.1_248	RNASeq_reads	transcript_region	114	114	4.0	.	.	
+ch.1_248	RNASeq_stranded	transcript_region	114	114	4.0	+	.	
+ch.1_248	RNASeq_F_asymmetry	transcript_region	115	129	177063.0	.	.	
+ch.1_248	RNASeq_reads	transcript_region	115	129	34.0	.	.	
+ch.1_248	RNASeq_stranded	transcript_region	115	129	15.0	+	.	
+ch.1_248	WormBase	CDS	127	129	.	+	.	ID=CDS:F42F12.9;Parent=Transcript:F42F12.9.1
+ch.1_248	RNASeq_F_asymmetry	transcript_region	130	149	388.0	.	.	
+ch.1_248	WormBase	intron	130	174	.	+	.	Parent=Transcript:F42F12.9.1
+ch.1_248	RNASeq_splice	intron	130	174	244515.0	+	.	
+ch.1_248	RNASeq_F_asymmetry	transcript_region	150	173	584.0	.	.	
+ch.1_248	RNASeq_F_asymmetry	transcript_region	174	174	65442.0	.	.	
+ch.1_248	RNASeq_reads	transcript_region	174	174	13.0	.	.	
+ch.1_248	RNASeq_stranded	transcript_region	174	174	3.0	+	.	
+ch.1_248	RNASeq_reads	transcript_region	175	208	59.0	.	.	
+ch.1_248	RNASeq_F_asymmetry	transcript_region	175	243	299938.0	.	.	
+ch.1_248	RNASeq_stranded	transcript_region	175	259	19.0	+	.	
+ch.1_248	WormBase	CDS	175	477	.	+	.	ID=CDS:F42F12.9;Parent=Transcript:F42F12.9.1
+ch.1_248	WormBase	exon	175	535	.	+	.	Parent=Transcript:F42F12.9.1
+ch.1_248	RNASeq_reads	transcript_region	209	460	89.0	.	.	
+ch.1_248	RNASeq	transcription_end_site	223	223	.	+	.	
+ch.1_248	RNASeq	transcription_end_site	229	229	.	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	260	291	4.0	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	292	306	7.0	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	307	331	11.0	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	332	360	17.0	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	361	368	26.0	+	.	
+ch.1_248	RNASeq	transcription_end_site	366	366	.	+	.	
+ch.1_248	RNASeq	transcription_end_site	368	368	.	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	369	382	40.0	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	383	423	61.0	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	424	480	93.0	+	.	
+ch.1_248	RNASeq_reads	transcript_region	461	482	58.0	.	.	
+ch.1_248	RNASeq_R_asymmetry	transcript_region	468	482	212303.0	.	.	
+ch.1_248	WormBase	three_prime_UTR	478	535	.	+	.	Parent=Transcript:F42F12.9.1
+ch.1_248	RNASeq_stranded	transcript_region	481	501	61.0	+	.	
+ch.1_248	RNASeq_reads	transcript_region	483	493	35.0	.	.	
+ch.1_248	RNASeq_reads	transcript_region	494	504	23.0	.	.	
+ch.1_248	RNASeq_stranded	transcript_region	502	516	40.0	+	.	
+ch.1_248	RNASeq_reads	transcript_region	505	509	13.0	.	.	
+ch.1_248	RNASeq_reads	transcript_region	510	523	8.0	.	.	
+ch.1_248	RNASeq_stranded	transcript_region	517	525	26.0	+	.	
+ch.1_248	RNASeq_reads	transcript_region	524	531	5.0	.	.	
+ch.1_248	RNASeq_stranded	transcript_region	526	529	17.0	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	530	534	11.0	+	.	
+ch.1_248	RNASeq_reads	transcript_region	532	538	3.0	.	.	
+ch.1_248	RNASeq_stranded	transcript_region	535	537	5.0	+	.	
+ch.1_248	RNASeq_stranded	transcript_region	538	538	3.0	+	.	
+ch.1_248	RNASeq	transcription_end_site	557	557	.	+	.	

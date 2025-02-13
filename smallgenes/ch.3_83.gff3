@@ -1,0 +1,66 @@
+ch.3_83	RNASeq_splice	intron	173	916	24.0	-	.	
+ch.3_83	WormBase	three_prime_UTR	740	824	.	+	.	Parent=Transcript:C07H6.9a.1
+ch.3_83	WormBase	three_prime_UTR	740	824	.	+	.	Parent=Transcript:C07H6.9b.1
+ch.3_83	WormBase	exon	527	824	.	+	.	Parent=Transcript:C07H6.9b.1
+ch.3_83	WormBase	exon	527	824	.	+	.	Parent=Transcript:C07H6.9a.1
+ch.3_83	WormBase	mRNA	234	824	.	+	.	ID=Transcript:C07H6.9a.1;Parent=Gene:WBGene00015582
+ch.3_83	WormBase	gene	101	824	.	+	.	ID=Gene:WBGene00015582
+ch.3_83	WormBase	mRNA	101	824	.	+	.	ID=Transcript:C07H6.9b.1;Parent=Gene:WBGene00015582
+ch.3_83	RNASeq_reads	transcript_region	816	822	1.0	.	.	
+ch.3_83	RNASeq_stranded	transcript_region	816	822	1.0	+	.	
+ch.3_83	RNASeq_F_asymmetry	transcript_region	818	819	3626.0	.	.	
+ch.3_83	RNASeq_F_asymmetry	transcript_region	791	817	6390.0	.	.	
+ch.3_83	RNASeq_stranded	transcript_region	793	815	2.0	+	.	
+ch.3_83	RNASeq_reads	transcript_region	754	815	2.0	.	.	
+ch.3_83	RNASeq_stranded	transcript_region	773	792	4.0	+	.	
+ch.3_83	RNASeq_stranded	transcript_region	673	772	7.0	+	.	
+ch.3_83	RNASeq_reads	transcript_region	527	753	4.0	.	.	
+ch.3_83	WormBase	CDS	527	739	.	+	.	ID=CDS:C07H6.9a;Parent=Transcript:C07H6.9a.1
+ch.3_83	WormBase	CDS	527	739	.	+	.	ID=CDS:C07H6.9b;Parent=Transcript:C07H6.9b.1
+ch.3_83	RNASeq_stranded	transcript_region	657	672	4.0	+	.	
+ch.3_83	RNASeq_stranded	transcript_region	596	656	2.0	+	.	
+ch.3_83	RNASeq_splice	intron	173	596	7.0	-	.	
+ch.3_83	RNASeq_stranded	transcript_region	589	595	1.0	+	.	
+ch.3_83	RNASeq_stranded	transcript_region	538	588	2.0	+	.	
+ch.3_83	RNASeq_stranded	transcript_region	527	537	1.0	+	.	
+ch.3_83	WormBase	intron	485	526	.	+	.	Parent=Transcript:C07H6.9a.1
+ch.3_83	WormBase	intron	485	526	.	+	.	Parent=Transcript:C07H6.9b.1
+ch.3_83	RNASeq_splice	intron	485	526	17484.0	+	.	
+ch.3_83	RNASeq_splice	intron	298	526	12.0	+	.	
+ch.3_83	WormBase	CDS	342	484	.	+	.	ID=CDS:C07H6.9a;Parent=Transcript:C07H6.9a.1
+ch.3_83	WormBase	CDS	342	484	.	+	.	ID=CDS:C07H6.9b;Parent=Transcript:C07H6.9b.1
+ch.3_83	WormBase	exon	342	484	.	+	.	Parent=Transcript:C07H6.9a.1
+ch.3_83	WormBase	exon	342	484	.	+	.	Parent=Transcript:C07H6.9b.1
+ch.3_83	RNASeq_reads	transcript_region	342	484	3.0	.	.	
+ch.3_83	RNASeq_stranded	transcript_region	342	484	1.0	+	.	
+ch.3_83	RNASeq_splice	intron	173	477	7.0	-	.	
+ch.3_83	RNASeq_splice	intron	298	349	6.0	+	.	
+ch.3_83	WormBase	intron	298	341	.	+	.	Parent=Transcript:C07H6.9a.1
+ch.3_83	WormBase	intron	298	341	.	+	.	Parent=Transcript:C07H6.9b.1
+ch.3_83	RNASeq_splice	intron	298	341	15747.0	+	.	
+ch.3_83	RNASeq_reads	transcript_region	298	300	1.0	.	.	
+ch.3_83	RNASeq_stranded	transcript_region	297	297	1.0	-	.	
+ch.3_83	WormBase	CDS	234	297	.	+	.	ID=CDS:C07H6.9a;Parent=Transcript:C07H6.9a.1
+ch.3_83	WormBase	exon	234	297	.	+	.	Parent=Transcript:C07H6.9a.1
+ch.3_83	WormBase	CDS	207	297	.	+	.	ID=CDS:C07H6.9b;Parent=Transcript:C07H6.9b.1
+ch.3_83	WormBase	exon	207	297	.	+	.	Parent=Transcript:C07H6.9b.1
+ch.3_83	RNASeq_reads	transcript_region	207	297	4.0	.	.	
+ch.3_83	RNASeq_stranded	transcript_region	207	296	2.0	+	.	
+ch.3_83	RNASeq	transcription_end_site	285	285	.	-	.	
+ch.3_83	RNASeq	transcription_end_site	285	285	.	-	.	
+ch.3_83	RNASeq_R_asymmetry	transcript_region	207	240	14157.0	.	.	
+ch.3_83	RNASeq_R_asymmetry	transcript_region	206	206	3560.0	.	.	
+ch.3_83	RNASeq_stranded	transcript_region	206	206	1.0	-	.	
+ch.3_83	RNASeq_reads	transcript_region	201	206	1.0	.	.	
+ch.3_83	WormBase	intron	164	206	.	+	.	Parent=Transcript:C07H6.9b.1
+ch.3_83	RNASeq_splice	intron	164	206	8129.0	+	.	
+ch.3_83	RNASeq_reads	transcript_region	164	164	1.0	.	.	
+ch.3_83	RNASeq_R_asymmetry	transcript_region	137	163	8268.0	.	.	
+ch.3_83	RNASeq_reads	transcript_region	137	163	2.0	.	.	
+ch.3_83	RNASeq_stranded	transcript_region	137	163	1.0	+	.	
+ch.3_83	WormBase	CDS	125	163	.	+	.	ID=CDS:C07H6.9b;Parent=Transcript:C07H6.9b.1
+ch.3_83	WormBase	exon	101	163	.	+	.	Parent=Transcript:C07H6.9b.1
+ch.3_83	RNASeq_R_asymmetry	transcript_region	133	136	5297.0	.	.	
+ch.3_83	RNASeq_reads	transcript_region	98	136	1.0	.	.	
+ch.3_83	WormBase	five_prime_UTR	101	124	.	+	.	Parent=Transcript:C07H6.9b.1
+ch.3_83	RNASeq_R_asymmetry	transcript_region	23	44	1524.0	.	.	

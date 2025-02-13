@@ -1,0 +1,47 @@
+ch.1_492	WormBase	three_prime_UTR	661	771	.	+	.	Parent=Transcript:Y38H6C.23.1
+ch.1_492	WormBase	exon	433	771	.	+	.	Parent=Transcript:Y38H6C.23.1
+ch.1_492	WormBase	gene	101	771	.	+	.	ID=Gene:WBGene00012634
+ch.1_492	WormBase	mRNA	101	771	.	+	.	ID=Transcript:Y38H6C.23.1;Parent=Gene:WBGene00012634
+ch.1_492	RNASeq_reads	transcript_region	720	731	1.0	.	.	
+ch.1_492	RNASeq_stranded	transcript_region	709	726	1.0	+	.	
+ch.1_492	RNASeq_reads	transcript_region	694	719	2.0	.	.	
+ch.1_492	RNASeq_stranded	transcript_region	676	708	2.0	+	.	
+ch.1_492	RNASeq_reads	transcript_region	675	693	4.0	.	.	
+ch.1_492	RNASeq_stranded	transcript_region	548	675	4.0	+	.	
+ch.1_492	RNASeq_reads	transcript_region	655	674	7.0	.	.	
+ch.1_492	WormBase	CDS	433	660	.	+	.	ID=CDS:Y38H6C.23;Parent=Transcript:Y38H6C.23.1
+ch.1_492	RNASeq_reads	transcript_region	613	654	11.0	.	.	
+ch.1_492	RNASeq_F_asymmetry	transcript_region	648	652	46939.0	.	.	
+ch.1_492	RNASeq_splice	intron	481	639	4.0	-	.	
+ch.1_492	RNASeq_reads	transcript_region	433	612	17.0	.	.	
+ch.1_492	RNASeq_stranded	transcript_region	499	547	2.0	+	.	
+ch.1_492	RNASeq_stranded	transcript_region	456	498	4.0	+	.	
+ch.1_492	RNASeq_stranded	transcript_region	433	455	7.0	+	.	
+ch.1_492	RNASeq_reads	transcript_region	422	432	1.0	.	.	
+ch.1_492	WormBase	intron	373	432	.	+	.	Parent=Transcript:Y38H6C.23.1
+ch.1_492	RNASeq_splice	intron	373	432	82113.0	+	.	
+ch.1_492	RNASeq_splice	intron	373	421	1256.0	+	.	
+ch.1_492	RNASeq_splice	intron	298	410	12.0	-	.	
+ch.1_492	RNASeq_splice	intron	350	401	148.0	+	.	
+ch.1_492	RNASeq_splice	intron	298	393	5.0	-	.	
+ch.1_492	RNASeq_stranded	transcript_region	309	372	5.0	+	.	
+ch.1_492	RNASeq_reads	transcript_region	278	372	17.0	.	.	
+ch.1_492	WormBase	CDS	232	372	.	+	.	ID=CDS:Y38H6C.23;Parent=Transcript:Y38H6C.23.1
+ch.1_492	WormBase	exon	101	372	.	+	.	Parent=Transcript:Y38H6C.23.1
+ch.1_492	RNASeq_stranded	transcript_region	276	308	3.0	+	.	
+ch.1_492	RNASeq_R_asymmetry	transcript_region	259	301	56035.0	.	.	
+ch.1_492	RNASeq_reads	transcript_region	255	277	11.0	.	.	
+ch.1_492	RNASeq_stranded	transcript_region	226	275	1.0	+	.	
+ch.1_492	RNASeq_R_asymmetry	transcript_region	244	258	35032.0	.	.	
+ch.1_492	RNASeq_reads	transcript_region	240	254	7.0	.	.	
+ch.1_492	RNASeq_R_asymmetry	transcript_region	237	243	22204.0	.	.	
+ch.1_492	RNASeq_reads	transcript_region	223	239	4.0	.	.	
+ch.1_492	RNASeq_R_asymmetry	transcript_region	223	236	14617.0	.	.	
+ch.1_492	WormBase	five_prime_UTR	101	231	.	+	.	Parent=Transcript:Y38H6C.23.1
+ch.1_492	RNASeq_reads	transcript_region	207	222	2.0	.	.	
+ch.1_492	RNASeq_R_asymmetry	transcript_region	166	221	6650.0	.	.	
+ch.1_492	RNASeq_reads	transcript_region	153	206	1.0	.	.	
+ch.1_492	RNASeq_R_asymmetry	transcript_region	156	165	4196.0	.	.	
+ch.1_492	RNASeq_R_asymmetry	transcript_region	153	155	2760.0	.	.	
+ch.1_492	RNASeq_splice	intron	95	152	46.0	+	.	
+ch.1_492	RNASeq_splice	intron	95	145	10.0	+	.	

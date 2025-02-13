@@ -1,0 +1,37 @@
+ch.1_441	WormBase	five_prime_UTR	101	173	.	+	.	Parent=Transcript:F10G2.2.1
+ch.1_441	WormBase	exon	101	413	.	+	.	Parent=Transcript:F10G2.2.1
+ch.1_441	WormBase	gene	101	710	.	+	.	ID=Gene:WBGene00017363
+ch.1_441	WormBase	mRNA	101	710	.	+	.	ID=Transcript:F10G2.2.1;Parent=Gene:WBGene00017363
+ch.1_441	RNASeq_F_asymmetry	transcript_region	133	144	930.0	.	.	
+ch.1_441	RNASeq_F_asymmetry	transcript_region	145	148	1398.0	.	.	
+ch.1_441	RNASeq_F_asymmetry	transcript_region	149	162	2686.0	.	.	
+ch.1_441	RNASeq_reads	transcript_region	149	177	1.0	.	.	
+ch.1_441	RNASeq_F_asymmetry	transcript_region	163	177	4283.0	.	.	
+ch.1_441	WormBase	CDS	174	413	.	+	.	ID=CDS:F10G2.2;Parent=Transcript:F10G2.2.1
+ch.1_441	RNASeq_F_asymmetry	transcript_region	178	222	6683.0	.	.	
+ch.1_441	RNASeq_reads	transcript_region	178	269	2.0	.	.	
+ch.1_441	RNASeq_stranded	transcript_region	183	188	1.0	+	.	
+ch.1_441	RNASeq_stranded	transcript_region	190	222	1.0	+	.	
+ch.1_441	RNASeq_stranded	transcript_region	240	309	1.0	+	.	
+ch.1_441	RNASeq_reads	transcript_region	270	413	4.0	.	.	
+ch.1_441	RNASeq_stranded	transcript_region	311	413	1.0	+	.	
+ch.1_441	RNASeq_splice	intron	361	446	3.0	-	.	
+ch.1_441	RNASeq_splice	intron	411	461	12.0	+	.	
+ch.1_441	WormBase	intron	414	461	.	+	.	Parent=Transcript:F10G2.2.1
+ch.1_441	RNASeq_splice	intron	414	461	18529.0	+	.	
+ch.1_441	RNASeq_stranded	transcript_region	462	497	1.0	+	.	
+ch.1_441	WormBase	CDS	462	581	.	+	.	ID=CDS:F10G2.2;Parent=Transcript:F10G2.2.1
+ch.1_441	RNASeq_reads	transcript_region	462	585	4.0	.	.	
+ch.1_441	WormBase	exon	462	710	.	+	.	Parent=Transcript:F10G2.2.1
+ch.1_441	RNASeq_splice	intron	496	735	17.0	+	.	
+ch.1_441	RNASeq_stranded	transcript_region	527	680	1.0	+	.	
+ch.1_441	RNASeq_R_asymmetry	transcript_region	578	584	10804.0	.	.	
+ch.1_441	WormBase	three_prime_UTR	582	710	.	+	.	Parent=Transcript:F10G2.2.1
+ch.1_441	RNASeq_R_asymmetry	transcript_region	586	587	9871.0	.	.	
+ch.1_441	RNASeq_reads	transcript_region	586	634	2.0	.	.	
+ch.1_441	RNASeq_R_asymmetry	transcript_region	590	594	9658.0	.	.	
+ch.1_441	RNASeq_R_asymmetry	transcript_region	612	649	7713.0	.	.	
+ch.1_441	RNASeq_reads	transcript_region	635	684	1.0	.	.	
+ch.1_441	RNASeq_R_asymmetry	transcript_region	650	666	5089.0	.	.	
+ch.1_441	RNASeq_R_asymmetry	transcript_region	667	667	3334.0	.	.	
+ch.1_441	RNASeq	transcription_end_site	689	689	.	+	.	

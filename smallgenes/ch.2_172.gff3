@@ -1,0 +1,72 @@
+ch.2_172	RNASeq_F_asymmetry	transcript_region	6	12	1704.0	.	.	
+ch.2_172	RNASeq_stranded	transcript_region	95	98	1.0	+	.	
+ch.2_172	RNASeq_reads	transcript_region	95	99	13.0	.	.	
+ch.2_172	RNASeq_F_asymmetry	transcript_region	95	100	66750.0	.	.	
+ch.2_172	RNASeq_stranded	transcript_region	99	101	4.0	+	.	
+ch.2_172	RNASeq_reads	transcript_region	100	104	20.0	.	.	
+ch.2_172	RNASeq_F_asymmetry	transcript_region	101	104	111699.0	.	.	
+ch.2_172	WormBase	CDS	101	164	.	+	.	ID=CDS:F46E10.2;Parent=Transcript:F46E10.2.1
+ch.2_172	WormBase	exon	101	164	.	+	.	Parent=Transcript:F46E10.2.1
+ch.2_172	WormBase	gene	101	687	.	+	.	ID=Gene:WBGene00018489
+ch.2_172	WormBase	mRNA	101	687	.	+	.	ID=Transcript:F46E10.2.1;Parent=Gene:WBGene00018489
+ch.2_172	RNASeq_stranded	transcript_region	102	164	7.0	+	.	
+ch.2_172	RNASeq_F_asymmetry	transcript_region	105	164	193531.0	.	.	
+ch.2_172	RNASeq_reads	transcript_region	105	164	38.0	.	.	
+ch.2_172	RNASeq_splice	intron	151	370	10.0	-	.	
+ch.2_172	RNASeq_splice	intron	158	207	147.0	+	.	
+ch.2_172	RNASeq_F_asymmetry	transcript_region	165	166	20377.0	.	.	
+ch.2_172	RNASeq_reads	transcript_region	165	166	4.0	.	.	
+ch.2_172	WormBase	intron	165	207	.	+	.	Parent=Transcript:F46E10.2.1
+ch.2_172	RNASeq_splice	intron	165	207	300288.0	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	208	231	5.0	+	.	
+ch.2_172	RNASeq_F_asymmetry	transcript_region	208	245	258859.0	.	.	
+ch.2_172	WormBase	CDS	208	388	.	+	.	ID=CDS:F46E10.2;Parent=Transcript:F46E10.2.1
+ch.2_172	WormBase	exon	208	388	.	+	.	Parent=Transcript:F46E10.2.1
+ch.2_172	RNASeq_reads	transcript_region	208	388	55.0	.	.	
+ch.2_172	RNASeq_stranded	transcript_region	232	269	8.0	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	270	347	13.0	+	.	
+ch.2_172	RNASeq_splice	intron	283	357	3.0	+	.	
+ch.2_172	RNASeq_splice	intron	313	549	5.0	+	.	
+ch.2_172	RNASeq_splice	intron	325	357	41.0	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	348	388	20.0	+	.	
+ch.2_172	RNASeq_splice	intron	367	549	22.0	+	.	
+ch.2_172	WormBase	intron	389	439	.	+	.	Parent=Transcript:F46E10.2.1
+ch.2_172	RNASeq_splice	intron	389	439	409125.0	+	.	
+ch.2_172	RNASeq_splice	intron	389	472	42.0	+	.	
+ch.2_172	RNASeq_splice	intron	389	481	9.0	+	.	
+ch.2_172	RNASeq_reads	transcript_region	431	437	1.0	.	.	
+ch.2_172	RNASeq_reads	transcript_region	438	439	6.0	.	.	
+ch.2_172	RNASeq_stranded	transcript_region	438	439	2.0	+	.	
+ch.2_172	RNASeq	transcription_end_site	440	440	.	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	440	510	12.0	+	.	
+ch.2_172	WormBase	CDS	440	614	.	+	.	ID=CDS:F46E10.2;Parent=Transcript:F46E10.2.1
+ch.2_172	WormBase	exon	440	687	.	+	.	Parent=Transcript:F46E10.2.1
+ch.2_172	RNASeq_reads	transcript_region	440	702	66.0	.	.	
+ch.2_172	RNASeq_splice	intron	454	498	3.0	+	.	
+ch.2_172	RNASeq_splice	intron	454	507	8.0	+	.	
+ch.2_172	RNASeq_splice	intron	487	540	52.0	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	511	538	19.0	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	539	555	29.0	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	556	564	45.0	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	565	581	70.0	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	582	608	110.0	+	.	
+ch.2_172	RNASeq_stranded	transcript_region	609	722	169.0	+	.	
+ch.2_172	WormBase	three_prime_UTR	615	687	.	+	.	Parent=Transcript:F46E10.2.1
+ch.2_172	RNASeq_stranded	transcript_region	662	676	1.0	-	.	
+ch.2_172	RNASeq_stranded	transcript_region	677	707	2.0	-	.	
+ch.2_172	RNASeq_reads	transcript_region	703	723	43.0	.	.	
+ch.2_172	RNASeq_stranded	transcript_region	708	754	1.0	-	.	
+ch.2_172	RNASeq_stranded	transcript_region	723	730	109.0	+	.	
+ch.2_172	RNASeq_reads	transcript_region	724	735	28.0	.	.	
+ch.2_172	RNASeq_stranded	transcript_region	731	738	60.0	+	.	
+ch.2_172	RNASeq_reads	transcript_region	736	749	18.0	.	.	
+ch.2_172	RNASeq_stranded	transcript_region	739	749	39.0	+	.	
+ch.2_172	RNASeq_reads	transcript_region	750	752	11.0	.	.	
+ch.2_172	RNASeq_stranded	transcript_region	750	752	24.0	+	.	
+ch.2_172	RNASeq_reads	transcript_region	753	754	6.0	.	.	
+ch.2_172	RNASeq_stranded	transcript_region	753	754	13.0	+	.	
+ch.2_172	RNASeq	transcription_end_site	754	754	.	+	.	
+ch.2_172	RNASeq	transcription_end_site	755	755	.	+	.	
+ch.2_172	RNASeq_F_asymmetry	transcript_region	755	759	11712.0	.	.	
+ch.2_172	RNASeq	transcription_end_site	756	756	.	+	.	
+ch.2_172	RNASeq	transcription_end_site	767	767	.	+	.	

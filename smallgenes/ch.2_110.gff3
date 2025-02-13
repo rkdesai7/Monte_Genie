@@ -1,0 +1,65 @@
+ch.2_110	WormBase	five_prime_UTR	101	210	.	+	.	Parent=Transcript:C26B9.7.1
+ch.2_110	WormBase	exon	101	241	.	+	.	Parent=Transcript:C26B9.7.1
+ch.2_110	WormBase	gene	101	642	.	+	.	ID=Gene:WBGene00016136
+ch.2_110	WormBase	mRNA	101	642	.	+	.	ID=Transcript:C26B9.7.1;Parent=Gene:WBGene00016136
+ch.2_110	RNASeq_F_asymmetry	transcript_region	116	129	2175.0	.	.	
+ch.2_110	RNASeq_reads	transcript_region	116	140	1.0	.	.	
+ch.2_110	RNASeq_F_asymmetry	transcript_region	130	136	3477.0	.	.	
+ch.2_110	RNASeq_stranded	transcript_region	136	137	1.0	+	.	
+ch.2_110	RNASeq_F_asymmetry	transcript_region	137	142	5595.0	.	.	
+ch.2_110	RNASeq_stranded	transcript_region	138	196	2.0	+	.	
+ch.2_110	RNASeq_reads	transcript_region	141	148	2.0	.	.	
+ch.2_110	RNASeq_F_asymmetry	transcript_region	143	147	9276.0	.	.	
+ch.2_110	RNASeq_F_asymmetry	transcript_region	148	151	17001.0	.	.	
+ch.2_110	RNASeq_reads	transcript_region	149	157	4.0	.	.	
+ch.2_110	RNASeq_F_asymmetry	transcript_region	152	167	26039.0	.	.	
+ch.2_110	RNASeq_reads	transcript_region	158	213	7.0	.	.	
+ch.2_110	RNASeq_F_asymmetry	transcript_region	168	241	39776.0	.	.	
+ch.2_110	RNASeq_stranded	transcript_region	197	241	4.0	+	.	
+ch.2_110	WormBase	CDS	211	241	.	+	.	ID=CDS:C26B9.7;Parent=Transcript:C26B9.7.1
+ch.2_110	RNASeq_splice	intron	213	504	4.0	+	.	
+ch.2_110	RNASeq_reads	transcript_region	214	241	11.0	.	.	
+ch.2_110	WormBase	intron	242	288	.	+	.	Parent=Transcript:C26B9.7.1
+ch.2_110	RNASeq_splice	intron	242	288	62258.0	+	.	
+ch.2_110	RNASeq_stranded	transcript_region	289	309	6.0	+	.	
+ch.2_110	RNASeq_reads	transcript_region	289	373	11.0	.	.	
+ch.2_110	WormBase	CDS	289	377	.	+	.	ID=CDS:C26B9.7;Parent=Transcript:C26B9.7.1
+ch.2_110	WormBase	exon	289	377	.	+	.	Parent=Transcript:C26B9.7.1
+ch.2_110	RNASeq_stranded	transcript_region	310	371	10.0	+	.	
+ch.2_110	RNASeq	transcription_end_site	361	361	.	+	.	
+ch.2_110	RNASeq_stranded	transcript_region	372	373	6.0	+	.	
+ch.2_110	RNASeq_reads	transcript_region	374	377	5.0	.	.	
+ch.2_110	RNASeq_stranded	transcript_region	374	377	2.0	+	.	
+ch.2_110	RNASeq_splice	intron	374	424	2831.0	+	.	
+ch.2_110	WormBase	intron	378	424	.	+	.	Parent=Transcript:C26B9.7.1
+ch.2_110	RNASeq_splice	intron	378	424	30031.0	+	.	
+ch.2_110	RNASeq_reads	transcript_region	422	422	1.0	.	.	
+ch.2_110	RNASeq_stranded	transcript_region	422	422	3.0	+	.	
+ch.2_110	RNASeq_reads	transcript_region	423	424	3.0	.	.	
+ch.2_110	RNASeq_stranded	transcript_region	423	424	5.0	+	.	
+ch.2_110	RNASeq_stranded	transcript_region	425	471	9.0	+	.	
+ch.2_110	RNASeq_reads	transcript_region	425	528	14.0	.	.	
+ch.2_110	WormBase	CDS	425	532	.	+	.	ID=CDS:C26B9.7;Parent=Transcript:C26B9.7.1
+ch.2_110	WormBase	exon	425	642	.	+	.	Parent=Transcript:C26B9.7.1
+ch.2_110	RNASeq_stranded	transcript_region	472	481	5.0	+	.	
+ch.2_110	RNASeq_stranded	transcript_region	482	486	3.0	+	.	
+ch.2_110	RNASeq_stranded	transcript_region	487	493	1.0	+	.	
+ch.2_110	RNASeq_R_asymmetry	transcript_region	488	489	48417.0	.	.	
+ch.2_110	RNASeq_R_asymmetry	transcript_region	491	493	46232.0	.	.	
+ch.2_110	RNASeq_stranded	transcript_region	494	496	2.0	+	.	
+ch.2_110	RNASeq_R_asymmetry	transcript_region	495	495	46930.0	.	.	
+ch.2_110	RNASeq_stranded	transcript_region	497	537	1.0	+	.	
+ch.2_110	RNASeq_R_asymmetry	transcript_region	499	543	43736.0	.	.	
+ch.2_110	RNASeq_reads	transcript_region	529	546	9.0	.	.	
+ch.2_110	WormBase	three_prime_UTR	533	642	.	+	.	Parent=Transcript:C26B9.7.1
+ch.2_110	RNASeq_stranded	transcript_region	538	541	2.0	+	.	
+ch.2_110	RNASeq_stranded	transcript_region	542	587	1.0	+	.	
+ch.2_110	RNASeq_R_asymmetry	transcript_region	544	546	27162.0	.	.	
+ch.2_110	RNASeq	transcription_end_site	546	546	.	+	.	
+ch.2_110	RNASeq_reads	transcript_region	547	553	5.0	.	.	
+ch.2_110	RNASeq_reads	transcript_region	554	607	3.0	.	.	
+ch.2_110	RNASeq_R_asymmetry	transcript_region	583	610	9493.0	.	.	
+ch.2_110	RNASeq_reads	transcript_region	608	624	1.0	.	.	
+ch.2_110	RNASeq_R_asymmetry	transcript_region	611	614	6225.0	.	.	
+ch.2_110	RNASeq_R_asymmetry	transcript_region	615	616	3652.0	.	.	
+ch.2_110	RNASeq	transcription_end_site	620	620	.	+	.	

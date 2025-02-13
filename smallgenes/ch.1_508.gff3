@@ -1,0 +1,57 @@
+ch.1_508	RNASeq	transcription_end_site	813	813	.	-	.	
+ch.1_508	RNASeq	transcription_end_site	813	813	.	-	.	
+ch.1_508	RNASeq_reads	transcript_region	804	806	1.0	.	.	
+ch.1_508	RNASeq_stranded	transcript_region	803	806	1.0	+	.	
+ch.1_508	RNASeq_reads	transcript_region	785	803	2.0	.	.	
+ch.1_508	RNASeq_stranded	transcript_region	794	802	2.0	+	.	
+ch.1_508	WormBase	three_prime_UTR	731	801	.	+	.	Parent=Transcript:H29C22.1.1
+ch.1_508	WormBase	exon	489	801	.	+	.	Parent=Transcript:H29C22.1.1
+ch.1_508	WormBase	gene	101	801	.	+	.	ID=Gene:WBGene00045261
+ch.1_508	WormBase	mRNA	101	801	.	+	.	ID=Transcript:H29C22.1.1;Parent=Gene:WBGene00045261
+ch.1_508	RNASeq_stranded	transcript_region	783	793	4.0	+	.	
+ch.1_508	RNASeq_reads	transcript_region	767	784	4.0	.	.	
+ch.1_508	RNASeq_stranded	transcript_region	771	782	7.0	+	.	
+ch.1_508	RNASeq_stranded	transcript_region	720	770	11.0	+	.	
+ch.1_508	RNASeq_reads	transcript_region	738	766	7.0	.	.	
+ch.1_508	RNASeq_reads	transcript_region	726	737	11.0	.	.	
+ch.1_508	WormBase	CDS	489	730	.	+	.	ID=CDS:H29C22.1;Parent=Transcript:H29C22.1.1
+ch.1_508	RNASeq_F_asymmetry	transcript_region	707	727	66551.0	.	.	
+ch.1_508	RNASeq_reads	transcript_region	706	725	17.0	.	.	
+ch.1_508	RNASeq_stranded	transcript_region	644	719	17.0	+	.	
+ch.1_508	RNASeq_F_asymmetry	transcript_region	691	706	101071.0	.	.	
+ch.1_508	RNASeq_reads	transcript_region	687	705	26.0	.	.	
+ch.1_508	RNASeq_F_asymmetry	transcript_region	657	690	152525.0	.	.	
+ch.1_508	RNASeq_reads	transcript_region	528	686	40.0	.	.	
+ch.1_508	RNASeq_F_asymmetry	transcript_region	653	653	178468.0	.	.	
+ch.1_508	RNASeq_stranded	transcript_region	632	643	11.0	+	.	
+ch.1_508	RNASeq_stranded	transcript_region	579	631	7.0	+	.	
+ch.1_508	RNASeq_stranded	transcript_region	564	578	11.0	+	.	
+ch.1_508	RNASeq_stranded	transcript_region	504	563	17.0	+	.	
+ch.1_508	RNASeq_reads	transcript_region	489	527	63.0	.	.	
+ch.1_508	RNASeq_stranded	transcript_region	489	503	11.0	+	.	
+ch.1_508	RNASeq_reads	transcript_region	487	488	9.0	.	.	
+ch.1_508	RNASeq_stranded	transcript_region	487	488	3.0	+	.	
+ch.1_508	WormBase	intron	310	488	.	+	.	Parent=Transcript:H29C22.1.1
+ch.1_508	RNASeq_splice	intron	310	488	244182.0	+	.	
+ch.1_508	RNASeq_stranded	transcript_region	277	309	7.0	+	.	
+ch.1_508	RNASeq_reads	transcript_region	163	309	48.0	.	.	
+ch.1_508	WormBase	CDS	114	309	.	+	.	ID=CDS:H29C22.1;Parent=Transcript:H29C22.1.1
+ch.1_508	WormBase	exon	101	309	.	+	.	Parent=Transcript:H29C22.1.1
+ch.1_508	RNASeq_stranded	transcript_region	124	276	4.0	+	.	
+ch.1_508	RNASeq_R_asymmetry	transcript_region	128	199	154061.0	.	.	
+ch.1_508	RNASeq_splice	intron	151	195	156.0	+	.	
+ch.1_508	RNASeq_reads	transcript_region	129	162	31.0	.	.	
+ch.1_508	RNASeq_reads	transcript_region	122	128	20.0	.	.	
+ch.1_508	RNASeq_R_asymmetry	transcript_region	121	127	94196.0	.	.	
+ch.1_508	RNASeq_stranded	transcript_region	119	123	2.0	+	.	
+ch.1_508	RNASeq_reads	transcript_region	118	121	13.0	.	.	
+ch.1_508	RNASeq_R_asymmetry	transcript_region	118	120	55121.0	.	.	
+ch.1_508	RNASeq_stranded	transcript_region	109	118	1.0	+	.	
+ch.1_508	RNASeq_R_asymmetry	transcript_region	112	117	32714.0	.	.	
+ch.1_508	RNASeq_reads	transcript_region	112	117	7.0	.	.	
+ch.1_508	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:H29C22.1.1
+ch.1_508	RNASeq_R_asymmetry	transcript_region	108	111	14699.0	.	.	
+ch.1_508	RNASeq_reads	transcript_region	104	111	3.0	.	.	
+ch.1_508	RNASeq_R_asymmetry	transcript_region	102	107	8951.0	.	.	
+ch.1_508	RNASeq_reads	transcript_region	101	103	1.0	.	.	
+ch.1_508	RNASeq_R_asymmetry	transcript_region	101	101	5654.0	.	.	

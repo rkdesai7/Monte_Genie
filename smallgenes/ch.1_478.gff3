@@ -1,0 +1,32 @@
+ch.1_478	RNASeq_F_asymmetry	transcript_region	99	100	3586.0	.	.	
+ch.1_478	RNASeq_reads	transcript_region	99	101	1.0	.	.	
+ch.1_478	RNASeq_F_asymmetry	transcript_region	101	101	5929.0	.	.	
+ch.1_478	WormBase	five_prime_UTR	101	112	.	+	.	Parent=Transcript:C17C3.19.1
+ch.1_478	WormBase	exon	101	263	.	+	.	Parent=Transcript:C17C3.19.1
+ch.1_478	WormBase	gene	101	845	.	+	.	ID=Gene:WBGene00002095
+ch.1_478	WormBase	mRNA	101	845	.	+	.	ID=Transcript:C17C3.19.1;Parent=Gene:WBGene00002095
+ch.1_478	RNASeq_F_asymmetry	transcript_region	102	117	10268.0	.	.	
+ch.1_478	RNASeq_reads	transcript_region	102	120	2.0	.	.	
+ch.1_478	RNASeq_stranded	transcript_region	108	263	1.0	+	.	
+ch.1_478	WormBase	CDS	113	263	.	+	.	ID=CDS:C17C3.19;Parent=Transcript:C17C3.19.1
+ch.1_478	RNASeq_F_asymmetry	transcript_region	118	151	15546.0	.	.	
+ch.1_478	RNASeq_reads	transcript_region	121	263	4.0	.	.	
+ch.1_478	RNASeq_splice	intron	261	680	7.0	+	.	
+ch.1_478	WormBase	intron	264	680	.	+	.	Parent=Transcript:C17C3.19.1
+ch.1_478	RNASeq_splice	intron	264	680	16721.0	+	.	
+ch.1_478	RNASeq_splice	intron	264	690	53.0	+	.	
+ch.1_478	RNASeq_splice	intron	274	680	4.0	+	.	
+ch.1_478	RNASeq_reads	transcript_region	680	680	1.0	.	.	
+ch.1_478	RNASeq_stranded	transcript_region	681	713	1.0	+	.	
+ch.1_478	WormBase	CDS	681	790	.	+	.	ID=CDS:C17C3.19;Parent=Transcript:C17C3.19.1
+ch.1_478	RNASeq_reads	transcript_region	681	792	3.0	.	.	
+ch.1_478	WormBase	exon	681	845	.	+	.	Parent=Transcript:C17C3.19.1
+ch.1_478	RNASeq_stranded	transcript_region	714	777	2.0	+	.	
+ch.1_478	RNASeq_R_asymmetry	transcript_region	723	776	14745.0	.	.	
+ch.1_478	RNASeq_R_asymmetry	transcript_region	777	793	9657.0	.	.	
+ch.1_478	RNASeq_stranded	transcript_region	778	822	1.0	+	.	
+ch.1_478	WormBase	three_prime_UTR	791	845	.	+	.	Parent=Transcript:C17C3.19.1
+ch.1_478	RNASeq_reads	transcript_region	793	799	1.0	.	.	
+ch.1_478	RNASeq_R_asymmetry	transcript_region	794	797	4659.0	.	.	
+ch.1_478	RNASeq_R_asymmetry	transcript_region	832	842	1030.0	.	.	
+ch.1_478	RNASeq_R_asymmetry	transcript_region	843	845	666.0	.	.	

@@ -1,0 +1,86 @@
+ch.1_468	RNASeq_stranded	transcript_region	784	798	1.0	+	.	
+ch.1_468	RNASeq_reads	transcript_region	771	796	1.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	772	783	2.0	+	.	
+ch.1_468	RNASeq_stranded	transcript_region	765	771	4.0	+	.	
+ch.1_468	RNASeq_reads	transcript_region	735	770	2.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	731	764	7.0	+	.	
+ch.1_468	RNASeq	transcription_end_site	741	741	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	741	741	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	736	736	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	736	736	.	-	.	
+ch.1_468	RNASeq_reads	transcript_region	722	734	4.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	700	730	11.0	+	.	
+ch.1_468	RNASeq_reads	transcript_region	695	721	7.0	.	.	
+ch.1_468	WormBase	three_prime_UTR	584	716	.	+	.	Parent=Transcript:Y97E10AR.7.1
+ch.1_468	WormBase	exon	393	716	.	+	.	Parent=Transcript:Y97E10AR.7.1
+ch.1_468	WormBase	gene	101	716	.	+	.	ID=Gene:WBGene00022402
+ch.1_468	WormBase	mRNA	101	716	.	+	.	ID=Transcript:Y97E10AR.7.1;Parent=Gene:WBGene00022402
+ch.1_468	RNASeq	transcription_end_site	711	711	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	711	711	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	706	706	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	706	706	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	700	700	.	-	.	
+ch.1_468	RNASeq_stranded	transcript_region	687	699	17.0	+	.	
+ch.1_468	RNASeq	transcription_end_site	695	695	.	-	.	
+ch.1_468	RNASeq_reads	transcript_region	684	694	11.0	.	.	
+ch.1_468	RNASeq	transcription_end_site	693	693	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	689	689	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	689	689	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	687	687	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	687	687	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	686	686	.	-	.	
+ch.1_468	RNASeq_stranded	transcript_region	674	686	26.0	+	.	
+ch.1_468	RNASeq_stranded	transcript_region	682	685	1.0	-	.	
+ch.1_468	RNASeq_reads	transcript_region	682	683	19.0	.	.	
+ch.1_468	RNASeq_F_asymmetry	transcript_region	680	682	92774.0	.	.	
+ch.1_468	RNASeq_reads	transcript_region	673	681	31.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	602	681	2.0	-	.	
+ch.1_468	RNASeq	transcription_end_site	680	680	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	680	680	.	-	.	
+ch.1_468	RNASeq_F_asymmetry	transcript_region	673	679	150260.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	673	673	40.0	-	.	
+ch.1_468	RNASeq_reads	transcript_region	613	672	56.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	610	672	106.0	+	.	
+ch.1_468	RNASeq	transcription_end_site	629	629	.	-	.	
+ch.1_468	RNASeq	transcription_end_site	629	629	.	-	.	
+ch.1_468	RNASeq_F_asymmetry	transcript_region	603	612	345731.0	.	.	
+ch.1_468	RNASeq_reads	transcript_region	522	612	87.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	494	609	69.0	+	.	
+ch.1_468	RNASeq_stranded	transcript_region	593	601	1.0	-	.	
+ch.1_468	WormBase	CDS	393	583	.	+	.	ID=CDS:Y97E10AR.7;Parent=Transcript:Y97E10AR.7.1
+ch.1_468	RNASeq_splice	intron	199	537	3.0	-	.	
+ch.1_468	RNASeq_reads	transcript_region	393	521	131.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	472	493	44.0	+	.	
+ch.1_468	RNASeq_stranded	transcript_region	393	471	29.0	+	.	
+ch.1_468	RNASeq_splice	intron	285	427	16.0	+	.	
+ch.1_468	RNASeq_splice	intron	285	407	13.0	+	.	
+ch.1_468	RNASeq_reads	transcript_region	391	392	27.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	391	392	10.0	+	.	
+ch.1_468	WormBase	intron	285	392	.	+	.	Parent=Transcript:Y97E10AR.7.1
+ch.1_468	RNASeq_splice	intron	285	392	489775.0	+	.	
+ch.1_468	RNASeq_reads	transcript_region	381	390	16.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	381	390	6.0	+	.	
+ch.1_468	RNASeq_reads	transcript_region	379	380	2.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	379	380	1.0	+	.	
+ch.1_468	RNASeq_splice	intron	285	380	74221.0	+	.	
+ch.1_468	RNASeq_splice	intron	285	355	4.0	+	.	
+ch.1_468	RNASeq_splice	intron	285	339	18.0	+	.	
+ch.1_468	RNASeq_reads	transcript_region	285	286	1.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	240	284	33.0	+	.	
+ch.1_468	RNASeq_reads	transcript_region	108	284	114.0	.	.	
+ch.1_468	WormBase	CDS	101	284	.	+	.	ID=CDS:Y97E10AR.7;Parent=Transcript:Y97E10AR.7.1
+ch.1_468	WormBase	exon	101	284	.	+	.	Parent=Transcript:Y97E10AR.7.1
+ch.1_468	RNASeq_stranded	transcript_region	184	239	21.0	+	.	
+ch.1_468	RNASeq_stranded	transcript_region	106	183	32.0	+	.	
+ch.1_468	RNASeq_R_asymmetry	transcript_region	106	165	557842.0	.	.	
+ch.1_468	RNASeq_reads	transcript_region	104	107	75.0	.	.	
+ch.1_468	RNASeq_R_asymmetry	transcript_region	103	105	338883.0	.	.	
+ch.1_468	RNASeq_stranded	transcript_region	99	105	21.0	+	.	
+ch.1_468	RNASeq_reads	transcript_region	99	103	45.0	.	.	
+ch.1_468	RNASeq_R_asymmetry	transcript_region	99	102	195882.0	.	.	
+ch.1_468	RNASeq_R_asymmetry	transcript_region	92	98	13215.0	.	.	
+ch.1_468	RNASeq_reads	transcript_region	92	98	3.0	.	.	
+ch.1_468	RNASeq_R_asymmetry	transcript_region	91	91	5103.0	.	.	
+ch.1_468	RNASeq_reads	transcript_region	69	91	1.0	.	.	
+ch.1_468	RNASeq_R_asymmetry	transcript_region	51	90	2766.0	.	.	
+ch.1_468	RNASeq_R_asymmetry	transcript_region	43	50	1798.0	.	.	

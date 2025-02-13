@@ -1,0 +1,105 @@
+ch.3_68	RNASeq_F_asymmetry	transcript_region	903	917	484.0	.	.	
+ch.3_68	RNASeq	transcription_end_site	916	916	.	-	.	
+ch.3_68	RNASeq	transcription_end_site	916	916	.	-	.	
+ch.3_68	RNASeq	transcription_end_site	907	907	.	-	.	
+ch.3_68	RNASeq	transcription_end_site	903	903	.	-	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	901	902	790.0	.	.	
+ch.3_68	RNASeq	transcription_end_site	901	901	.	-	.	
+ch.3_68	RNASeq	transcription_end_site	900	900	.	-	.	
+ch.3_68	RNASeq	transcription_end_site	900	900	.	-	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	899	900	11445.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	899	900	3.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	891	900	1.0	+	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	895	898	21935.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	892	898	5.0	.	.	
+ch.3_68	WormBase	three_prime_UTR	804	898	.	+	.	Parent=Transcript:K07A1.17.1
+ch.3_68	WormBase	exon	697	898	.	+	.	Parent=Transcript:K07A1.17.1
+ch.3_68	WormBase	gene	101	898	.	+	.	ID=Gene:WBGene00044987
+ch.3_68	WormBase	mRNA	101	898	.	+	.	ID=Transcript:K07A1.17.1;Parent=Gene:WBGene00044987
+ch.3_68	RNASeq_F_asymmetry	transcript_region	889	894	33484.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	888	891	8.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	884	890	2.0	+	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	879	888	50452.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	877	887	13.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	876	883	4.0	+	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	853	878	81243.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	845	876	20.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	866	875	11.0	+	.	
+ch.3_68	RNASeq_stranded	transcript_region	856	865	17.0	+	.	
+ch.3_68	RNASeq_stranded	transcript_region	748	855	26.0	+	.	
+ch.3_68	RNASeq	transcription_end_site	850	850	.	-	.	
+ch.3_68	RNASeq	transcription_end_site	850	850	.	-	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	840	844	125198.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	836	844	32.0	.	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	785	839	198031.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	773	835	49.0	.	.	
+ch.3_68	WormBase	CDS	697	803	.	+	.	ID=CDS:K07A1.17;Parent=Transcript:K07A1.17.1
+ch.3_68	RNASeq_F_asymmetry	transcript_region	771	778	279339.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	697	772	74.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	697	747	17.0	+	.	
+ch.3_68	RNASeq_splice	intron	603	747	3.0	-	.	
+ch.3_68	WormBase	intron	649	696	.	+	.	Parent=Transcript:K07A1.17.1
+ch.3_68	RNASeq_splice	intron	649	696	409528.0	+	.	
+ch.3_68	RNASeq_splice	intron	636	696	33.0	+	.	
+ch.3_68	RNASeq_splice	intron	632	696	12.0	+	.	
+ch.3_68	RNASeq_splice	intron	474	696	85.0	+	.	
+ch.3_68	RNASeq_stranded	transcript_region	558	648	17.0	+	.	
+ch.3_68	WormBase	CDS	516	648	.	+	.	ID=CDS:K07A1.17;Parent=Transcript:K07A1.17.1
+ch.3_68	WormBase	exon	516	648	.	+	.	Parent=Transcript:K07A1.17.1
+ch.3_68	RNASeq_reads	transcript_region	516	648	77.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	543	557	11.0	+	.	
+ch.3_68	RNASeq_stranded	transcript_region	516	542	7.0	+	.	
+ch.3_68	RNASeq_splice	intron	483	524	3.0	-	.	
+ch.3_68	RNASeq_reads	transcript_region	515	515	9.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	515	515	2.0	-	.	
+ch.3_68	WormBase	intron	474	515	.	+	.	Parent=Transcript:K07A1.17.1
+ch.3_68	RNASeq_splice	intron	474	515	279880.0	+	.	
+ch.3_68	RNASeq_reads	transcript_region	485	514	1.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	474	500	1.0	+	.	
+ch.3_68	RNASeq_reads	transcript_region	474	484	2.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	431	473	6.0	+	.	
+ch.3_68	WormBase	CDS	273	473	.	+	.	ID=CDS:K07A1.17;Parent=Transcript:K07A1.17.1
+ch.3_68	WormBase	exon	273	473	.	+	.	Parent=Transcript:K07A1.17.1
+ch.3_68	RNASeq_reads	transcript_region	273	473	64.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	351	430	10.0	+	.	
+ch.3_68	RNASeq_splice	intron	349	396	4025.0	+	.	
+ch.3_68	RNASeq_splice	intron	346	396	21.0	+	.	
+ch.3_68	RNASeq_splice	intron	340	396	3.0	+	.	
+ch.3_68	RNASeq_splice	intron	222	396	4.0	+	.	
+ch.3_68	RNASeq_stranded	transcript_region	273	350	16.0	+	.	
+ch.3_68	RNASeq_reads	transcript_region	271	272	10.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	271	272	5.0	+	.	
+ch.3_68	WormBase	intron	222	272	.	+	.	Parent=Transcript:K07A1.17.1
+ch.3_68	RNASeq_splice	intron	222	272	271830.0	+	.	
+ch.3_68	RNASeq_splice	intron	213	272	17.0	+	.	
+ch.3_68	RNASeq_splice	intron	171	272	3.0	+	.	
+ch.3_68	RNASeq_reads	transcript_region	227	229	1.0	.	.	
+ch.3_68	RNASeq_R_asymmetry	transcript_region	222	226	9992.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	222	226	2.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	113	221	55.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	107	221	6.0	+	.	
+ch.3_68	WormBase	CDS	105	221	.	+	.	ID=CDS:K07A1.17;Parent=Transcript:K07A1.17.1
+ch.3_68	WormBase	exon	101	221	.	+	.	Parent=Transcript:K07A1.17.1
+ch.3_68	RNASeq_R_asymmetry	transcript_region	109	170	241130.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	100	112	36.0	.	.	
+ch.3_68	RNASeq_R_asymmetry	transcript_region	99	108	157638.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	99	106	3.0	+	.	
+ch.3_68	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:K07A1.17.1
+ch.3_68	RNASeq_reads	transcript_region	99	99	22.0	.	.	
+ch.3_68	RNASeq_R_asymmetry	transcript_region	96	98	5755.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	93	98	1.0	.	.	
+ch.3_68	RNASeq_R_asymmetry	transcript_region	73	95	2117.0	.	.	
+ch.3_68	RNASeq_R_asymmetry	transcript_region	56	72	1373.0	.	.	
+ch.3_68	RNASeq_R_asymmetry	transcript_region	46	55	899.0	.	.	
+ch.3_68	RNASeq_R_asymmetry	transcript_region	44	45	578.0	.	.	
+ch.3_68	RNASeq	transcription_end_site	10	10	.	-	.	
+ch.3_68	RNASeq	transcription_end_site	10	10	.	-	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	6	6	1345.0	.	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	5	5	2209.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	5	5	1.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	5	5	1.0	-	.	
+ch.3_68	RNASeq	transcription_end_site	4	4	.	-	.	
+ch.3_68	RNASeq	transcription_end_site	4	4	.	-	.	
+ch.3_68	RNASeq_F_asymmetry	transcript_region	3	4	7662.0	.	.	
+ch.3_68	RNASeq_reads	transcript_region	3	4	2.0	.	.	
+ch.3_68	RNASeq_stranded	transcript_region	3	4	2.0	+	.	

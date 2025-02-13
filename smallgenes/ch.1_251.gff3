@@ -1,0 +1,69 @@
+ch.1_251	RNASeq_reads	transcript_region	576	610	1.0	.	.	
+ch.1_251	RNASeq	transcription_end_site	590	590	.	-	.	
+ch.1_251	RNASeq	transcription_end_site	590	590	.	-	.	
+ch.1_251	RNASeq_stranded	transcript_region	568	585	1.0	+	.	
+ch.1_251	RNASeq	transcription_end_site	581	581	.	-	.	
+ch.1_251	RNASeq	transcription_end_site	581	581	.	-	.	
+ch.1_251	RNASeq_reads	transcript_region	568	575	2.0	.	.	
+ch.1_251	WormBase	three_prime_UTR	386	570	.	+	.	Parent=Transcript:C33A12.4.1
+ch.1_251	WormBase	exon	287	570	.	+	.	Parent=Transcript:C33A12.4.1
+ch.1_251	WormBase	gene	101	570	.	+	.	ID=Gene:WBGene00007883
+ch.1_251	WormBase	mRNA	101	570	.	+	.	ID=Transcript:C33A12.4.1;Parent=Gene:WBGene00007883
+ch.1_251	RNASeq_reads	transcript_region	564	567	4.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	559	567	2.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	562	563	9.0	.	.	
+ch.1_251	RNASeq_reads	transcript_region	554	561	14.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	549	558	4.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	529	553	23.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	540	548	7.0	+	.	
+ch.1_251	RNASeq_stranded	transcript_region	532	539	11.0	+	.	
+ch.1_251	RNASeq_stranded	transcript_region	522	531	17.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	452	528	35.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	492	523	1.0	-	.	
+ch.1_251	RNASeq_stranded	transcript_region	327	521	26.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	435	451	55.0	.	.	
+ch.1_251	RNASeq_reads	transcript_region	358	434	84.0	.	.	
+ch.1_251	WormBase	CDS	287	385	.	+	.	ID=CDS:C33A12.4;Parent=Transcript:C33A12.4.1
+ch.1_251	RNASeq_stranded	transcript_region	287	373	1.0	-	.	
+ch.1_251	RNASeq_splice	intron	334	360	11.0	-	.	
+ch.1_251	RNASeq_reads	transcript_region	287	357	127.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	307	326	17.0	+	.	
+ch.1_251	RNASeq_stranded	transcript_region	287	306	11.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	285	286	15.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	285	286	2.0	+	.	
+ch.1_251	WormBase	intron	210	286	.	+	.	Parent=Transcript:C33A12.4.1
+ch.1_251	RNASeq_splice	intron	210	286	518243.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	239	284	1.0	.	.	
+ch.1_251	RNASeq_reads	transcript_region	229	236	1.0	.	.	
+ch.1_251	RNASeq_reads	transcript_region	222	223	1.0	.	.	
+ch.1_251	RNASeq_reads	transcript_region	216	216	1.0	.	.	
+ch.1_251	RNASeq_reads	transcript_region	211	214	1.0	.	.	
+ch.1_251	RNASeq_reads	transcript_region	210	210	11.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	210	210	4.0	-	.	
+ch.1_251	RNASeq_stranded	transcript_region	197	209	1.0	-	.	
+ch.1_251	RNASeq_stranded	transcript_region	141	209	16.0	+	.	
+ch.1_251	WormBase	CDS	123	209	.	+	.	ID=CDS:C33A12.4;Parent=Transcript:C33A12.4.1
+ch.1_251	RNASeq_reads	transcript_region	119	209	112.0	.	.	
+ch.1_251	WormBase	exon	101	209	.	+	.	Parent=Transcript:C33A12.4.1
+ch.1_251	RNASeq_R_asymmetry	transcript_region	112	147	409823.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	108	140	26.0	+	.	
+ch.1_251	WormBase	five_prime_UTR	101	122	.	+	.	Parent=Transcript:C33A12.4.1
+ch.1_251	RNASeq_reads	transcript_region	106	118	73.0	.	.	
+ch.1_251	RNASeq_R_asymmetry	transcript_region	98	111	260788.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	98	107	17.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	94	105	48.0	.	.	
+ch.1_251	RNASeq_R_asymmetry	transcript_region	91	97	159683.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	91	97	11.0	+	.	
+ch.1_251	RNASeq_splice	intron	39	95	5.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	91	93	30.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	89	90	4.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	82	90	19.0	.	.	
+ch.1_251	RNASeq_R_asymmetry	transcript_region	81	90	82065.0	.	.	
+ch.1_251	RNASeq_splice	intron	39	89	5.0	-	.	
+ch.1_251	RNASeq_stranded	transcript_region	76	88	2.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	76	81	12.0	.	.	
+ch.1_251	RNASeq_R_asymmetry	transcript_region	76	80	53905.0	.	.	
+ch.1_251	RNASeq_R_asymmetry	transcript_region	72	75	17904.0	.	.	
+ch.1_251	RNASeq_stranded	transcript_region	72	75	1.0	+	.	
+ch.1_251	RNASeq_reads	transcript_region	65	75	4.0	.	.	
+ch.1_251	RNASeq_reads	transcript_region	58	64	2.0	.	.	

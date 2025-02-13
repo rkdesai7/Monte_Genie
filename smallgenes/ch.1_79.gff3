@@ -1,0 +1,65 @@
+ch.1_79	RNASeq_reads	transcript_region	521	558	1.0	.	.	
+ch.1_79	RNASeq_splice	intron	470	551	9.0	+	.	
+ch.1_79	RNASeq_reads	transcript_region	518	520	2.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	518	518	1.0	-	.	
+ch.1_79	WormBase	three_prime_UTR	465	518	.	+	.	Parent=Transcript:C12D8.14.1
+ch.1_79	WormBase	exon	257	518	.	+	.	Parent=Transcript:C12D8.14.1
+ch.1_79	WormBase	gene	101	518	.	+	.	ID=Gene:WBGene00007541
+ch.1_79	WormBase	mRNA	101	518	.	+	.	ID=Transcript:C12D8.14.1;Parent=Gene:WBGene00007541
+ch.1_79	RNASeq	transcription_end_site	517	517	.	-	.	
+ch.1_79	RNASeq	transcription_end_site	517	517	.	-	.	
+ch.1_79	RNASeq_reads	transcript_region	512	517	4.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	507	517	2.0	+	.	
+ch.1_79	RNASeq_reads	transcript_region	504	511	8.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	425	506	4.0	+	.	
+ch.1_79	RNASeq_reads	transcript_region	500	503	13.0	.	.	
+ch.1_79	RNASeq_reads	transcript_region	493	499	20.0	.	.	
+ch.1_79	RNASeq_reads	transcript_region	480	492	31.0	.	.	
+ch.1_79	RNASeq_reads	transcript_region	457	479	47.0	.	.	
+ch.1_79	WormBase	CDS	257	464	.	+	.	ID=CDS:C12D8.14;Parent=Transcript:C12D8.14.1
+ch.1_79	RNASeq_stranded	transcript_region	453	456	1.0	-	.	
+ch.1_79	RNASeq_reads	transcript_region	389	456	71.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	403	424	2.0	+	.	
+ch.1_79	RNASeq_stranded	transcript_region	398	402	4.0	+	.	
+ch.1_79	RNASeq_stranded	transcript_region	368	401	1.0	-	.	
+ch.1_79	RNASeq_stranded	transcript_region	384	397	7.0	+	.	
+ch.1_79	RNASeq_reads	transcript_region	272	388	107.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	355	383	11.0	+	.	
+ch.1_79	RNASeq_stranded	transcript_region	351	354	7.0	+	.	
+ch.1_79	RNASeq_stranded	transcript_region	348	350	4.0	+	.	
+ch.1_79	RNASeq_stranded	transcript_region	346	347	2.0	+	.	
+ch.1_79	RNASeq_stranded	transcript_region	344	345	1.0	+	.	
+ch.1_79	RNASeq	transcription_end_site	296	296	.	-	.	
+ch.1_79	RNASeq	transcription_end_site	296	296	.	-	.	
+ch.1_79	RNASeq_stranded	transcript_region	287	289	1.0	+	.	
+ch.1_79	RNASeq	transcription_end_site	288	288	.	-	.	
+ch.1_79	RNASeq	transcription_end_site	288	288	.	-	.	
+ch.1_79	RNASeq	transcription_end_site	287	287	.	-	.	
+ch.1_79	RNASeq	transcription_end_site	287	287	.	-	.	
+ch.1_79	RNASeq	transcription_end_site	286	286	.	-	.	
+ch.1_79	RNASeq	transcription_end_site	286	286	.	-	.	
+ch.1_79	RNASeq_stranded	transcript_region	271	286	11.0	+	.	
+ch.1_79	RNASeq_reads	transcript_region	257	271	70.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	257	270	17.0	+	.	
+ch.1_79	RNASeq_R_asymmetry	transcript_region	257	265	274341.0	.	.	
+ch.1_79	RNASeq_reads	transcript_region	254	256	1.0	.	.	
+ch.1_79	WormBase	intron	201	256	.	+	.	Parent=Transcript:C12D8.14.1
+ch.1_79	RNASeq_splice	intron	201	256	290173.0	+	.	
+ch.1_79	RNASeq_R_asymmetry	transcript_region	201	208	1215.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	192	200	1.0	-	.	
+ch.1_79	WormBase	CDS	187	200	.	+	.	ID=CDS:C12D8.14;Parent=Transcript:C12D8.14.1
+ch.1_79	RNASeq_R_asymmetry	transcript_region	180	200	297034.0	.	.	
+ch.1_79	RNASeq_reads	transcript_region	180	200	67.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	180	200	37.0	+	.	
+ch.1_79	WormBase	exon	101	200	.	+	.	Parent=Transcript:C12D8.14.1
+ch.1_79	WormBase	five_prime_UTR	101	186	.	+	.	Parent=Transcript:C12D8.14.1
+ch.1_79	RNASeq_R_asymmetry	transcript_region	171	179	188127.0	.	.	
+ch.1_79	RNASeq_reads	transcript_region	171	179	44.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	159	179	9.0	+	.	
+ch.1_79	RNASeq_R_asymmetry	transcript_region	168	170	111585.0	.	.	
+ch.1_79	RNASeq_reads	transcript_region	165	170	28.0	.	.	
+ch.1_79	RNASeq_reads	transcript_region	158	164	18.0	.	.	
+ch.1_79	RNASeq_stranded	transcript_region	158	158	5.0	-	.	
+ch.1_79	RNASeq_stranded	transcript_region	156	157	1.0	+	.	
+ch.1_79	RNASeq_reads	transcript_region	155	157	4.0	.	.	
+ch.1_79	RNASeq_reads	transcript_region	78	154	1.0	.	.	

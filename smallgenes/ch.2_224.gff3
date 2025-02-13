@@ -1,0 +1,38 @@
+ch.2_224	WormBase	exon	101	195	.	+	.	Parent=Transcript:F56F4.9.1
+ch.2_224	WormBase	five_prime_UTR	101	195	.	+	.	Parent=Transcript:F56F4.9.1
+ch.2_224	WormBase	gene	101	742	.	+	.	ID=Gene:WBGene00050896
+ch.2_224	WormBase	mRNA	101	742	.	+	.	ID=Transcript:F56F4.9.1;Parent=Gene:WBGene00050896
+ch.2_224	WormBase	intron	196	240	.	+	.	Parent=Transcript:F56F4.9.1
+ch.2_224	RNASeq_splice	intron	196	240	2510.0	+	.	
+ch.2_224	RNASeq_splice	intron	196	430	35.0	+	.	
+ch.2_224	WormBase	five_prime_UTR	231	315	.	+	.	Parent=Transcript:F56F4.9.2
+ch.2_224	WormBase	exon	231	382	.	+	.	Parent=Transcript:F56F4.9.2
+ch.2_224	WormBase	mRNA	231	742	.	+	.	ID=Transcript:F56F4.9.2;Parent=Gene:WBGene00050896
+ch.2_224	RNASeq_reads	transcript_region	241	248	1.0	.	.	
+ch.2_224	WormBase	five_prime_UTR	241	315	.	+	.	Parent=Transcript:F56F4.9.1
+ch.2_224	WormBase	exon	241	382	.	+	.	Parent=Transcript:F56F4.9.1
+ch.2_224	RNASeq_reads	transcript_region	249	382	2.0	.	.	
+ch.2_224	RNASeq_stranded	transcript_region	257	307	1.0	+	.	
+ch.2_224	RNASeq_F_asymmetry	transcript_region	262	279	7522.0	.	.	
+ch.2_224	RNASeq_stranded	transcript_region	310	356	1.0	+	.	
+ch.2_224	WormBase	CDS	316	382	.	+	.	ID=CDS:F56F4.9;Parent=Transcript:F56F4.9.1,Transcript:F56F4.9.2
+ch.2_224	WormBase	intron	383	430	.	+	.	Parent=Transcript:F56F4.9.1
+ch.2_224	WormBase	intron	383	430	.	+	.	Parent=Transcript:F56F4.9.2
+ch.2_224	RNASeq_splice	intron	383	430	11932.0	+	.	
+ch.2_224	RNASeq_reads	transcript_region	431	676	2.0	.	.	
+ch.2_224	WormBase	CDS	431	708	.	+	.	ID=CDS:F56F4.9;Parent=Transcript:F56F4.9.1,Transcript:F56F4.9.2
+ch.2_224	WormBase	exon	431	742	.	+	.	Parent=Transcript:F56F4.9.1
+ch.2_224	WormBase	exon	431	742	.	+	.	Parent=Transcript:F56F4.9.2
+ch.2_224	RNASeq_stranded	transcript_region	439	510	1.0	+	.	
+ch.2_224	RNASeq_stranded	transcript_region	511	557	2.0	+	.	
+ch.2_224	RNASeq_stranded	transcript_region	558	567	1.0	+	.	
+ch.2_224	RNASeq_stranded	transcript_region	571	624	1.0	+	.	
+ch.2_224	RNASeq_R_asymmetry	transcript_region	620	675	11268.0	.	.	
+ch.2_224	RNASeq_R_asymmetry	transcript_region	676	685	6948.0	.	.	
+ch.2_224	RNASeq_reads	transcript_region	677	696	1.0	.	.	
+ch.2_224	RNASeq_R_asymmetry	transcript_region	686	693	4239.0	.	.	
+ch.2_224	RNASeq_R_asymmetry	transcript_region	694	694	2765.0	.	.	
+ch.2_224	WormBase	three_prime_UTR	709	742	.	+	.	Parent=Transcript:F56F4.9.1
+ch.2_224	WormBase	three_prime_UTR	709	742	.	+	.	Parent=Transcript:F56F4.9.2
+ch.2_224	RNASeq_R_asymmetry	transcript_region	718	721	1137.0	.	.	
+ch.2_224	RNASeq_R_asymmetry	transcript_region	723	739	969.0	.	.	

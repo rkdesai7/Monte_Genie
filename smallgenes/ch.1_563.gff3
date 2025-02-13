@@ -1,0 +1,49 @@
+ch.1_563	RNASeq_reads	transcript_region	77	97	1.0	.	.	
+ch.1_563	RNASeq_stranded	transcript_region	95	145	1.0	+	.	
+ch.1_563	RNASeq_reads	transcript_region	98	114	2.0	.	.	
+ch.1_563	RNASeq_F_asymmetry	transcript_region	99	105	6846.0	.	.	
+ch.1_563	WormBase	five_prime_UTR	101	122	.	+	.	Parent=Transcript:Y54F10BM.22.1
+ch.1_563	WormBase	exon	101	286	.	+	.	Parent=Transcript:Y54F10BM.22.1
+ch.1_563	WormBase	gene	101	994	.	+	.	ID=Gene:WBGene00306013
+ch.1_563	WormBase	mRNA	101	994	.	+	.	ID=Transcript:Y54F10BM.22.1;Parent=Gene:WBGene00306013
+ch.1_563	RNASeq_F_asymmetry	transcript_region	106	114	10608.0	.	.	
+ch.1_563	RNASeq_F_asymmetry	transcript_region	115	172	15995.0	.	.	
+ch.1_563	RNASeq_reads	transcript_region	115	198	4.0	.	.	
+ch.1_563	WormBase	CDS	123	286	.	+	.	ID=CDS:Y54F10BM.22;Parent=Transcript:Y54F10BM.22.1
+ch.1_563	RNASeq_stranded	transcript_region	146	227	2.0	+	.	
+ch.1_563	RNASeq_reads	transcript_region	199	286	7.0	.	.	
+ch.1_563	RNASeq_stranded	transcript_region	228	282	4.0	+	.	
+ch.1_563	RNASeq_stranded	transcript_region	283	286	2.0	+	.	
+ch.1_563	RNASeq_reads	transcript_region	287	297	1.0	.	.	
+ch.1_563	RNASeq_splice	intron	287	456	543.0	+	.	
+ch.1_563	WormBase	intron	287	787	.	+	.	Parent=Transcript:Y54F10BM.22.1
+ch.1_563	RNASeq_splice	intron	287	787	33713.0	+	.	
+ch.1_563	RNASeq_splice	intron	287	790	59.0	+	.	
+ch.1_563	RNASeq_splice	intron	287	799	7.0	+	.	
+ch.1_563	RNASeq_splice	intron	287	806	33.0	+	.	
+ch.1_563	RNASeq_splice	intron	291	790	53.0	+	.	
+ch.1_563	RNASeq_reads	transcript_region	341	388	1.0	.	.	
+ch.1_563	RNASeq_reads	transcript_region	412	787	1.0	.	.	
+ch.1_563	RNASeq_splice	intron	549	787	433.0	+	.	
+ch.1_563	RNASeq_splice	intron	619	787	120.0	+	.	
+ch.1_563	RNASeq_splice	intron	727	787	8.0	+	.	
+ch.1_563	RNASeq_stranded	transcript_region	788	826	2.0	+	.	
+ch.1_563	WormBase	CDS	788	923	.	+	.	ID=CDS:Y54F10BM.22;Parent=Transcript:Y54F10BM.22.1
+ch.1_563	RNASeq_reads	transcript_region	788	955	7.0	.	.	
+ch.1_563	WormBase	exon	788	994	.	+	.	Parent=Transcript:Y54F10BM.22.1
+ch.1_563	RNASeq_stranded	transcript_region	827	835	4.0	+	.	
+ch.1_563	RNASeq_stranded	transcript_region	836	880	7.0	+	.	
+ch.1_563	RNASeq_stranded	transcript_region	881	927	11.0	+	.	
+ch.1_563	WormBase	three_prime_UTR	924	994	.	+	.	Parent=Transcript:Y54F10BM.22.1
+ch.1_563	RNASeq_stranded	transcript_region	928	950	7.0	+	.	
+ch.1_563	RNASeq_R_asymmetry	transcript_region	928	960	25762.0	.	.	
+ch.1_563	RNASeq_stranded	transcript_region	951	978	4.0	+	.	
+ch.1_563	RNASeq_reads	transcript_region	956	968	4.0	.	.	
+ch.1_563	RNASeq_R_asymmetry	transcript_region	961	965	16845.0	.	.	
+ch.1_563	RNASeq_R_asymmetry	transcript_region	966	966	10974.0	.	.	
+ch.1_563	RNASeq_reads	transcript_region	969	970	2.0	.	.	
+ch.1_563	RNASeq_reads	transcript_region	971	990	1.0	.	.	
+ch.1_563	RNASeq_stranded	transcript_region	979	985	2.0	+	.	
+ch.1_563	RNASeq_stranded	transcript_region	986	992	1.0	+	.	
+ch.1_563	RNASeq_R_asymmetry	transcript_region	991	992	1856.0	.	.	
+ch.1_563	RNASeq_R_asymmetry	transcript_region	993	995	1034.0	.	.	

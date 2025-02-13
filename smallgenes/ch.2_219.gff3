@@ -1,0 +1,72 @@
+ch.2_219	RNASeq_R_asymmetry	transcript_region	6	39	2124.0	.	.	
+ch.2_219	RNASeq_splice	intron	32	84	20.0	-	.	
+ch.2_219	RNASeq_R_asymmetry	transcript_region	40	44	1357.0	.	.	
+ch.2_219	RNASeq_R_asymmetry	transcript_region	46	50	1318.0	.	.	
+ch.2_219	WormBase	five_prime_UTR	101	182	.	+	.	Parent=Transcript:F54B8.4b.1
+ch.2_219	WormBase	exon	101	192	.	+	.	Parent=Transcript:F54B8.4b.1
+ch.2_219	WormBase	gene	101	869	.	+	.	ID=Gene:WBGene00010019
+ch.2_219	WormBase	mRNA	101	869	.	+	.	ID=Transcript:F54B8.4b.1;Parent=Gene:WBGene00010019
+ch.2_219	RNASeq_reads	transcript_region	154	192	1.0	.	.	
+ch.2_219	RNASeq_F_asymmetry	transcript_region	163	171	2347.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	178	192	1.0	+	.	
+ch.2_219	RNASeq_F_asymmetry	transcript_region	180	192	2925.0	.	.	
+ch.2_219	WormBase	CDS	183	192	.	+	.	ID=CDS:F54B8.4b;Parent=Transcript:F54B8.4b.1
+ch.2_219	WormBase	intron	193	400	.	+	.	Parent=Transcript:F54B8.4b.1
+ch.2_219	RNASeq_splice	intron	193	400	3262.0	+	.	
+ch.2_219	RNASeq_F_asymmetry	transcript_region	227	227	1357.0	.	.	
+ch.2_219	RNASeq_reads	transcript_region	297	302	1.0	.	.	
+ch.2_219	RNASeq_reads	transcript_region	393	393	1.0	.	.	
+ch.2_219	RNASeq_F_asymmetry	transcript_region	394	398	22205.0	.	.	
+ch.2_219	RNASeq_reads	transcript_region	394	398	5.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	394	398	3.0	+	.	
+ch.2_219	RNASeq_stranded	transcript_region	399	399	7.0	+	.	
+ch.2_219	RNASeq_F_asymmetry	transcript_region	399	400	39282.0	.	.	
+ch.2_219	RNASeq_reads	transcript_region	399	400	8.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	400	413	12.0	+	.	
+ch.2_219	RNASeq_F_asymmetry	transcript_region	401	411	68728.0	.	.	
+ch.2_219	RNASeq_reads	transcript_region	401	411	14.0	.	.	
+ch.2_219	WormBase	CDS	401	570	.	+	.	ID=CDS:F54B8.4b;Parent=Transcript:F54B8.4b.1
+ch.2_219	WormBase	exon	401	570	.	+	.	Parent=Transcript:F54B8.4b.1
+ch.2_219	RNASeq_reads	transcript_region	412	442	22.0	.	.	
+ch.2_219	RNASeq_F_asymmetry	transcript_region	412	465	103960.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	414	503	19.0	+	.	
+ch.2_219	WormBase	CDS	415	570	.	+	.	ID=CDS:F54B8.4a;Parent=Transcript:F54B8.4a.1
+ch.2_219	WormBase	exon	415	570	.	+	.	Parent=Transcript:F54B8.4a.1
+ch.2_219	WormBase	mRNA	415	780	.	+	.	ID=Transcript:F54B8.4a.1;Parent=Gene:WBGene00010019
+ch.2_219	RNASeq_reads	transcript_region	443	570	34.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	504	570	12.0	+	.	
+ch.2_219	WormBase	intron	571	645	.	+	.	Parent=Transcript:F54B8.4a.1
+ch.2_219	WormBase	intron	571	645	.	+	.	Parent=Transcript:F54B8.4b.1
+ch.2_219	RNASeq_splice	intron	571	645	169025.0	+	.	
+ch.2_219	RNASeq_stranded	transcript_region	644	644	1.0	+	.	
+ch.2_219	RNASeq_reads	transcript_region	644	645	4.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	645	645	2.0	+	.	
+ch.2_219	RNASeq_stranded	transcript_region	646	704	8.0	+	.	
+ch.2_219	RNASeq_reads	transcript_region	646	760	31.0	.	.	
+ch.2_219	WormBase	CDS	646	780	.	+	.	ID=CDS:F54B8.4b;Parent=Transcript:F54B8.4b.1
+ch.2_219	WormBase	CDS	646	780	.	+	.	ID=CDS:F54B8.4a;Parent=Transcript:F54B8.4a.1
+ch.2_219	WormBase	exon	646	780	.	+	.	Parent=Transcript:F54B8.4a.1
+ch.2_219	WormBase	exon	646	869	.	+	.	Parent=Transcript:F54B8.4b.1
+ch.2_219	RNASeq_stranded	transcript_region	705	733	13.0	+	.	
+ch.2_219	RNASeq_R_asymmetry	transcript_region	728	731	122478.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	734	762	20.0	+	.	
+ch.2_219	RNASeq_reads	transcript_region	761	772	20.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	763	797	32.0	+	.	
+ch.2_219	RNASeq	transcription_end_site	769	769	.	+	.	
+ch.2_219	RNASeq_reads	transcript_region	773	824	13.0	.	.	
+ch.2_219	RNASeq	transcription_end_site	777	777	.	+	.	
+ch.2_219	RNASeq	transcription_end_site	779	779	.	+	.	
+ch.2_219	WormBase	three_prime_UTR	781	869	.	+	.	Parent=Transcript:F54B8.4b.1
+ch.2_219	RNASeq_stranded	transcript_region	798	836	21.0	+	.	
+ch.2_219	RNASeq	transcription_end_site	814	814	.	+	.	
+ch.2_219	RNASeq	transcription_end_site	818	818	.	+	.	
+ch.2_219	RNASeq_reads	transcript_region	825	832	8.0	.	.	
+ch.2_219	RNASeq_reads	transcript_region	833	847	5.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	837	844	13.0	+	.	
+ch.2_219	RNASeq	transcription_end_site	840	840	.	+	.	
+ch.2_219	RNASeq_stranded	transcript_region	845	855	8.0	+	.	
+ch.2_219	RNASeq_reads	transcript_region	848	865	3.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	856	863	5.0	+	.	
+ch.2_219	RNASeq_stranded	transcript_region	864	869	3.0	+	.	
+ch.2_219	RNASeq_reads	transcript_region	866	869	1.0	.	.	
+ch.2_219	RNASeq_stranded	transcript_region	870	872	1.0	+	.	

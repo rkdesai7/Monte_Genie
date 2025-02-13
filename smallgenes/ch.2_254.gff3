@@ -1,0 +1,41 @@
+ch.2_254	RNASeq_splice	intron	865	918	287.0	-	.	
+ch.2_254	WormBase	three_prime_UTR	790	897	.	+	.	Parent=Transcript:ZK262.4.1
+ch.2_254	WormBase	exon	626	897	.	+	.	Parent=Transcript:ZK262.4.1
+ch.2_254	WormBase	gene	101	897	.	+	.	ID=Gene:WBGene00013951
+ch.2_254	WormBase	mRNA	101	897	.	+	.	ID=Transcript:ZK262.4.1;Parent=Gene:WBGene00013951
+ch.2_254	RNASeq_reads	transcript_region	822	846	1.0	.	.	
+ch.2_254	RNASeq_F_asymmetry	transcript_region	834	844	2971.0	.	.	
+ch.2_254	RNASeq_F_asymmetry	transcript_region	822	833	4529.0	.	.	
+ch.2_254	RNASeq_F_asymmetry	transcript_region	818	821	7092.0	.	.	
+ch.2_254	RNASeq_reads	transcript_region	800	821	2.0	.	.	
+ch.2_254	RNASeq_F_asymmetry	transcript_region	798	817	11283.0	.	.	
+ch.2_254	RNASeq_reads	transcript_region	626	799	4.0	.	.	
+ch.2_254	RNASeq_F_asymmetry	transcript_region	743	797	17464.0	.	.	
+ch.2_254	WormBase	CDS	626	789	.	+	.	ID=CDS:ZK262.4;Parent=Transcript:ZK262.4.1
+ch.2_254	RNASeq_splice	intron	671	721	8.0	-	.	
+ch.2_254	RNASeq_stranded	transcript_region	626	666	1.0	+	.	
+ch.2_254	RNASeq_reads	transcript_region	623	625	1.0	.	.	
+ch.2_254	WormBase	intron	581	625	.	+	.	Parent=Transcript:ZK262.4.1
+ch.2_254	RNASeq_splice	intron	581	625	22401.0	+	.	
+ch.2_254	RNASeq_stranded	transcript_region	624	624	1.0	-	.	
+ch.2_254	RNASeq	transcription_end_site	582	582	.	-	.	
+ch.2_254	WormBase	CDS	536	580	.	+	.	ID=CDS:ZK262.4;Parent=Transcript:ZK262.4.1
+ch.2_254	WormBase	exon	536	580	.	+	.	Parent=Transcript:ZK262.4.1
+ch.2_254	RNASeq_reads	transcript_region	536	580	5.0	.	.	
+ch.2_254	RNASeq_stranded	transcript_region	535	578	1.0	-	.	
+ch.2_254	RNASeq_reads	transcript_region	535	535	1.0	.	.	
+ch.2_254	WormBase	intron	487	535	.	+	.	Parent=Transcript:ZK262.4.1
+ch.2_254	RNASeq_splice	intron	487	535	17368.0	+	.	
+ch.2_254	RNASeq_R_asymmetry	transcript_region	487	487	1861.0	.	.	
+ch.2_254	WormBase	CDS	465	486	.	+	.	ID=CDS:ZK262.4;Parent=Transcript:ZK262.4.1
+ch.2_254	RNASeq_stranded	transcript_region	459	486	1.0	+	.	
+ch.2_254	RNASeq_R_asymmetry	transcript_region	457	486	15441.0	.	.	
+ch.2_254	RNASeq_reads	transcript_region	457	486	4.0	.	.	
+ch.2_254	WormBase	exon	101	486	.	+	.	Parent=Transcript:ZK262.4.1
+ch.2_254	WormBase	five_prime_UTR	101	464	.	+	.	Parent=Transcript:ZK262.4.1
+ch.2_254	RNASeq_reads	transcript_region	453	456	2.0	.	.	
+ch.2_254	RNASeq_R_asymmetry	transcript_region	449	456	8028.0	.	.	
+ch.2_254	RNASeq_reads	transcript_region	442	452	1.0	.	.	
+ch.2_254	RNASeq_R_asymmetry	transcript_region	445	448	4593.0	.	.	
+ch.2_254	RNASeq_R_asymmetry	transcript_region	442	444	2793.0	.	.	
+ch.2_254	RNASeq_R_asymmetry	transcript_region	439	440	1823.0	.	.	

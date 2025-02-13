@@ -1,0 +1,44 @@
+ch.2_59	RNASeq_splice	intron	483	748	23.0	+	.	
+ch.2_59	RNASeq_F_asymmetry	transcript_region	661	663	1663.0	.	.	
+ch.2_59	WormBase	three_prime_UTR	614	663	.	+	.	Parent=Transcript:K12H6.4.1
+ch.2_59	WormBase	exon	527	663	.	+	.	Parent=Transcript:K12H6.4.1
+ch.2_59	WormBase	gene	101	663	.	+	.	ID=Gene:WBGene00019684
+ch.2_59	WormBase	mRNA	101	663	.	+	.	ID=Transcript:K12H6.4.1;Parent=Gene:WBGene00019684
+ch.2_59	RNASeq_reads	transcript_region	661	661	1.0	.	.	
+ch.2_59	RNASeq_F_asymmetry	transcript_region	659	660	10837.0	.	.	
+ch.2_59	RNASeq_reads	transcript_region	656	660	2.0	.	.	
+ch.2_59	RNASeq_reads	transcript_region	600	655	4.0	.	.	
+ch.2_59	RNASeq_stranded	transcript_region	527	640	1.0	+	.	
+ch.2_59	WormBase	CDS	527	613	.	+	.	ID=CDS:K12H6.4;Parent=Transcript:K12H6.4.1
+ch.2_59	RNASeq_reads	transcript_region	527	599	7.0	.	.	
+ch.2_59	RNASeq_F_asymmetry	transcript_region	560	591	28606.0	.	.	
+ch.2_59	RNASeq_F_asymmetry	transcript_region	555	557	27868.0	.	.	
+ch.2_59	RNASeq	transcription_end_site	547	547	.	-	.	
+ch.2_59	RNASeq_splice	intron	483	535	8.0	+	.	
+ch.2_59	WormBase	intron	483	526	.	+	.	Parent=Transcript:K12H6.4.1
+ch.2_59	RNASeq_splice	intron	483	526	47907.0	+	.	
+ch.2_59	RNASeq_splice	intron	454	526	3.0	+	.	
+ch.2_59	RNASeq_stranded	transcript_region	438	482	1.0	+	.	
+ch.2_59	RNASeq_reads	transcript_region	406	482	5.0	.	.	
+ch.2_59	WormBase	CDS	343	482	.	+	.	ID=CDS:K12H6.4;Parent=Transcript:K12H6.4.1
+ch.2_59	WormBase	exon	343	482	.	+	.	Parent=Transcript:K12H6.4.1
+ch.2_59	RNASeq_stranded	transcript_region	395	424	1.0	+	.	
+ch.2_59	RNASeq_reads	transcript_region	343	405	8.0	.	.	
+ch.2_59	RNASeq_stranded	transcript_region	363	374	1.0	+	.	
+ch.2_59	RNASeq_stranded	transcript_region	361	361	1.0	-	.	
+ch.2_59	RNASeq_reads	transcript_region	342	342	1.0	.	.	
+ch.2_59	WormBase	intron	287	342	.	+	.	Parent=Transcript:K12H6.4.1
+ch.2_59	RNASeq_splice	intron	287	342	29163.0	+	.	
+ch.2_59	RNASeq_reads	transcript_region	185	286	6.0	.	.	
+ch.2_59	WormBase	CDS	112	286	.	+	.	ID=CDS:K12H6.4;Parent=Transcript:K12H6.4.1
+ch.2_59	WormBase	exon	101	286	.	+	.	Parent=Transcript:K12H6.4.1
+ch.2_59	RNASeq_stranded	transcript_region	218	226	1.0	+	.	
+ch.2_59	RNASeq_stranded	transcript_region	178	213	1.0	+	.	
+ch.2_59	RNASeq_reads	transcript_region	121	184	3.0	.	.	
+ch.2_59	RNASeq_stranded	transcript_region	160	171	1.0	+	.	
+ch.2_59	RNASeq_stranded	transcript_region	115	158	1.0	+	.	
+ch.2_59	RNASeq_R_asymmetry	transcript_region	122	142	12933.0	.	.	
+ch.2_59	RNASeq_R_asymmetry	transcript_region	119	121	7026.0	.	.	
+ch.2_59	RNASeq_reads	transcript_region	114	120	1.0	.	.	
+ch.2_59	RNASeq_R_asymmetry	transcript_region	114	117	3316.0	.	.	
+ch.2_59	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:K12H6.4.1

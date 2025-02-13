@@ -1,0 +1,64 @@
+ch.2_6	RNASeq_splice	intron	511	602	13.0	+	.	
+ch.2_6	RNASeq_splice	intron	507	602	40.0	-	.	
+ch.2_6	RNASeq_splice	intron	353	602	430.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	541	570	1.0	.	.	
+ch.2_6	RNASeq_R_asymmetry	transcript_region	544	551	2913.0	.	.	
+ch.2_6	RNASeq_R_asymmetry	transcript_region	540	540	10202.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	538	540	8.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	535	540	3.0	.	.	
+ch.2_6	WormBase	three_prime_UTR	417	538	.	+	.	Parent=Transcript:Y105C5A.1268.1
+ch.2_6	WormBase	exon	403	538	.	+	.	Parent=Transcript:Y105C5A.1268.1
+ch.2_6	WormBase	gene	101	538	.	+	.	ID=Gene:WBGene00185102
+ch.2_6	WormBase	mRNA	101	538	.	+	.	ID=Transcript:Y105C5A.1268.1;Parent=Gene:WBGene00185102
+ch.2_6	RNASeq_R_asymmetry	transcript_region	532	537	16839.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	509	537	17.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	485	534	5.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	506	508	8.0	+	.	
+ch.2_6	RNASeq	transcription_end_site	506	506	.	-	.	
+ch.2_6	RNASeq	transcription_end_site	506	506	.	-	.	
+ch.2_6	RNASeq_stranded	transcript_region	488	505	5.0	+	.	
+ch.2_6	RNASeq_stranded	transcript_region	481	487	9.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	476	484	8.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	473	480	14.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	460	475	13.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	468	472	24.0	+	.	
+ch.2_6	RNASeq_stranded	transcript_region	437	467	39.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	431	459	20.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	433	436	25.0	+	.	
+ch.2_6	RNASeq_stranded	transcript_region	427	432	12.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	403	430	13.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	403	426	6.0	+	.	
+ch.2_6	WormBase	CDS	403	416	.	+	.	ID=CDS:Y105C5A.1268;Parent=Transcript:Y105C5A.1268.1
+ch.2_6	WormBase	intron	353	402	.	+	.	Parent=Transcript:Y105C5A.1268.1
+ch.2_6	RNASeq_reads	transcript_region	353	402	1.0	.	.	
+ch.2_6	RNASeq_splice	intron	353	402	51588.0	+	.	
+ch.2_6	RNASeq_splice	intron	324	402	14.0	+	.	
+ch.2_6	RNASeq_stranded	transcript_region	370	392	1.0	+	.	
+ch.2_6	RNASeq_stranded	transcript_region	305	352	4.0	+	.	
+ch.2_6	WormBase	CDS	291	352	.	+	.	ID=CDS:Y105C5A.1268;Parent=Transcript:Y105C5A.1268.1
+ch.2_6	WormBase	exon	291	352	.	+	.	Parent=Transcript:Y105C5A.1268.1
+ch.2_6	RNASeq_reads	transcript_region	291	352	12.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	291	304	2.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	289	290	2.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	289	290	1.0	+	.	
+ch.2_6	RNASeq_splice	intron	243	290	39.0	+	.	
+ch.2_6	WormBase	intron	240	290	.	+	.	Parent=Transcript:Y105C5A.1268.1
+ch.2_6	RNASeq_splice	intron	240	290	58117.0	+	.	
+ch.2_6	RNASeq_stranded	transcript_region	230	239	1.0	+	.	
+ch.2_6	WormBase	CDS	136	239	.	+	.	ID=CDS:Y105C5A.1268;Parent=Transcript:Y105C5A.1268.1
+ch.2_6	RNASeq_reads	transcript_region	115	239	12.0	.	.	
+ch.2_6	WormBase	exon	101	239	.	+	.	Parent=Transcript:Y105C5A.1268.1
+ch.2_6	RNASeq_stranded	transcript_region	189	229	2.0	+	.	
+ch.2_6	RNASeq_stranded	transcript_region	96	188	4.0	+	.	
+ch.2_6	RNASeq_R_asymmetry	transcript_region	109	135	39787.0	.	.	
+ch.2_6	WormBase	five_prime_UTR	101	135	.	+	.	Parent=Transcript:Y105C5A.1268.1
+ch.2_6	RNASeq_reads	transcript_region	96	114	7.0	.	.	
+ch.2_6	RNASeq_R_asymmetry	transcript_region	96	108	26238.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	92	95	2.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	85	95	4.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	78	91	1.0	+	.	
+ch.2_6	RNASeq_reads	transcript_region	81	84	2.0	.	.	
+ch.2_6	RNASeq_reads	transcript_region	61	80	1.0	.	.	
+ch.2_6	RNASeq_reads	transcript_region	11	60	2.0	.	.	
+ch.2_6	RNASeq_stranded	transcript_region	11	55	1.0	-	.	
+ch.2_6	RNASeq_reads	transcript_region	5	10	1.0	.	.	

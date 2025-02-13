@@ -1,0 +1,194 @@
+ch.2_91	RNASeq_splice	intron	61	247	96.0	+	.	
+ch.2_91	RNASeq_splice	intron	77	356	4.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	78	108	7.0	.	.	
+ch.2_91	WormBase	five_prime_UTR	101	202	.	+	.	Parent=Transcript:C01B10.5c.1
+ch.2_91	WormBase	exon	101	283	.	+	.	Parent=Transcript:C01B10.5c.1
+ch.2_91	WormBase	gene	101	761	.	+	.	ID=Gene:WBGene00001858
+ch.2_91	WormBase	mRNA	101	761	.	+	.	ID=Transcript:C01B10.5c.1;Parent=Gene:WBGene00001858
+ch.2_91	RNASeq_reads	transcript_region	109	120	12.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	116	133	1.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	121	131	19.0	.	.	
+ch.2_91	RNASeq_reads	transcript_region	132	139	29.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	134	144	2.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	140	148	56.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	145	148	4.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	149	154	8.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	149	157	185.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	151	162	1.0	-	.	
+ch.2_91	RNASeq_stranded	transcript_region	155	158	13.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	158	168	294.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	159	169	26.0	+	.	
+ch.2_91	WormBase	five_prime_UTR	162	202	.	+	.	Parent=Transcript:C01B10.5a.1
+ch.2_91	WormBase	exon	162	283	.	+	.	Parent=Transcript:C01B10.5a.1
+ch.2_91	WormBase	mRNA	162	725	.	+	.	ID=Transcript:C01B10.5a.1;Parent=Gene:WBGene00001858
+ch.2_91	WormBase	five_prime_UTR	163	202	.	+	.	Parent=Transcript:C01B10.5b.1
+ch.2_91	RNASeq_stranded	transcript_region	163	203	2.0	-	.	
+ch.2_91	WormBase	exon	163	283	.	+	.	Parent=Transcript:C01B10.5b.1
+ch.2_91	WormBase	mRNA	163	725	.	+	.	ID=Transcript:C01B10.5b.1;Parent=Gene:WBGene00001858
+ch.2_91	RNASeq_reads	transcript_region	169	175	470.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	170	192	42.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	176	223	721.0	.	.	
+ch.2_91	RNASeq_splice	intron	178	357	3.0	+	.	
+ch.2_91	RNASeq_splice	intron	182	407	3.0	+	.	
+ch.2_91	RNASeq_splice	intron	186	219	7.0	+	.	
+ch.2_91	RNASeq_splice	intron	186	377	3.0	+	.	
+ch.2_91	RNASeq	possible_base_call_error	187	187	.	+	.	
+ch.2_91	RNASeq_splice	intron	187	371	9.0	+	.	
+ch.2_91	RNASeq_splice	intron	189	380	3.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	193	210	65.0	+	.	
+ch.2_91	RNASeq_splice	intron	197	348	3.0	-	.	
+ch.2_91	WormBase	CDS	203	283	.	+	.	ID=CDS:C01B10.5a;Parent=Transcript:C01B10.5a.1
+ch.2_91	WormBase	CDS	203	283	.	+	.	ID=CDS:C01B10.5b;Parent=Transcript:C01B10.5b.1
+ch.2_91	WormBase	CDS	203	283	.	+	.	ID=CDS:C01B10.5c;Parent=Transcript:C01B10.5c.1
+ch.2_91	WormBase	mRNA	203	322	.	+	.	ID=Transcript:C01B10.5e.1;Parent=Gene:WBGene00001858
+ch.2_91	WormBase	exon	203	322	.	+	.	Parent=Transcript:C01B10.5e.1
+ch.2_91	WormBase	CDS	203	322	.	+	.	ID=CDS:C01B10.5e;Parent=Transcript:C01B10.5e.1
+ch.2_91	RNASeq_stranded	transcript_region	204	211	4.0	-	.	
+ch.2_91	RNASeq_splice	intron	204	248	7.0	+	.	
+ch.2_91	RNASeq_splice	intron	205	392	8.0	+	.	
+ch.2_91	RNASeq_splice	intron	206	356	104.0	+	.	
+ch.2_91	RNASeq_splice	intron	206	392	852.0	+	.	
+ch.2_91	RNASeq_splice	intron	206	422	9.0	+	.	
+ch.2_91	RNASeq_splice	intron	209	392	10.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	211	283	42.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	212	234	2.0	-	.	
+ch.2_91	RNASeq_splice	intron	212	265	7.0	+	.	
+ch.2_91	RNASeq_splice	intron	212	363	3.0	+	.	
+ch.2_91	RNASeq_splice	intron	212	371	8.0	+	.	
+ch.2_91	RNASeq_splice	intron	214	372	4.0	+	.	
+ch.2_91	RNASeq_splice	intron	214	393	23.0	+	.	
+ch.2_91	RNASeq_splice	intron	219	377	20.0	+	.	
+ch.2_91	RNASeq_splice	intron	221	398	72.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	224	283	1085.0	.	.	
+ch.2_91	RNASeq_splice	intron	230	335	35.0	+	.	
+ch.2_91	RNASeq_splice	intron	230	341	68.0	+	.	
+ch.2_91	RNASeq_splice	intron	230	380	78.0	+	.	
+ch.2_91	RNASeq_splice	intron	230	392	4.0	+	.	
+ch.2_91	RNASeq_splice	intron	230	422	114.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	235	251	1.0	-	.	
+ch.2_91	RNASeq_splice	intron	237	382	3.0	+	.	
+ch.2_91	RNASeq_splice	intron	240	380	12.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	283	3.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	323	5.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	335	135.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	341	53.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	356	1335.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	380	17.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	389	3.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	392	312.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	422	477.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	524	111.0	+	.	
+ch.2_91	RNASeq_splice	intron	248	527	11.0	+	.	
+ch.2_91	RNASeq_splice	intron	251	356	73.0	+	.	
+ch.2_91	RNASeq_splice	intron	251	392	12.0	+	.	
+ch.2_91	RNASeq_splice	intron	251	395	9.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	252	283	2.0	-	.	
+ch.2_91	RNASeq_splice	intron	254	371	5.0	+	.	
+ch.2_91	RNASeq_splice	intron	254	398	5.0	+	.	
+ch.2_91	RNASeq_splice	intron	257	377	7.0	+	.	
+ch.2_91	RNASeq_splice	intron	261	360	7.0	+	.	
+ch.2_91	RNASeq_splice	intron	262	404	6.0	+	.	
+ch.2_91	RNASeq_splice	intron	262	405	3.0	+	.	
+ch.2_91	RNASeq_splice	intron	266	356	6.0	+	.	
+ch.2_91	RNASeq_splice	intron	266	371	135.0	+	.	
+ch.2_91	RNASeq_splice	intron	266	404	16.0	+	.	
+ch.2_91	RNASeq_splice	intron	275	335	65.0	+	.	
+ch.2_91	RNASeq_splice	intron	275	341	348.0	+	.	
+ch.2_91	RNASeq_splice	intron	275	371	708.0	+	.	
+ch.2_91	RNASeq_splice	intron	275	380	29.0	+	.	
+ch.2_91	RNASeq_splice	intron	275	414	30.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	284	284	99.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	284	284	10.0	+	.	
+ch.2_91	WormBase	intron	284	323	.	+	.	Parent=Transcript:C01B10.5b.1
+ch.2_91	RNASeq_splice	intron	284	323	52583.0	+	.	
+ch.2_91	WormBase	intron	284	335	.	+	.	Parent=Transcript:C01B10.5a.1
+ch.2_91	RNASeq_splice	intron	284	335	2344640.0	+	.	
+ch.2_91	WormBase	intron	284	341	.	+	.	Parent=Transcript:C01B10.5c.1
+ch.2_91	RNASeq_splice	intron	284	341	3363290.0	+	.	
+ch.2_91	RNASeq_splice	intron	284	353	21.0	+	.	
+ch.2_91	RNASeq_splice	intron	284	356	4.0	+	.	
+ch.2_91	RNASeq_splice	intron	284	380	543.0	+	.	
+ch.2_91	RNASeq_splice	intron	284	392	11.0	+	.	
+ch.2_91	RNASeq_splice	intron	284	404	52.0	+	.	
+ch.2_91	RNASeq_splice	intron	284	419	33.0	+	.	
+ch.2_91	RNASeq_splice	intron	284	422	988.0	+	.	
+ch.2_91	RNASeq_splice	intron	284	524	76.0	+	.	
+ch.2_91	RNASeq_splice	intron	284	527	35.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	285	286	30.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	285	286	1.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	287	323	6.0	.	.	
+ch.2_91	RNASeq_reads	transcript_region	324	332	19.0	.	.	
+ch.2_91	WormBase	CDS	324	437	.	+	.	ID=CDS:C01B10.5b;Parent=Transcript:C01B10.5b.1
+ch.2_91	WormBase	exon	324	437	.	+	.	Parent=Transcript:C01B10.5b.1
+ch.2_91	RNASeq_stranded	transcript_region	333	334	1.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	333	335	96.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	335	335	2.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	336	340	8.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	336	341	571.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	336	341	1.0	-	.	
+ch.2_91	WormBase	CDS	336	437	.	+	.	ID=CDS:C01B10.5a;Parent=Transcript:C01B10.5a.1
+ch.2_91	WormBase	exon	336	437	.	+	.	Parent=Transcript:C01B10.5a.1
+ch.2_91	RNASeq_stranded	transcript_region	341	341	15.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	342	359	25.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	342	362	2.0	-	.	
+ch.2_91	WormBase	CDS	342	437	.	+	.	ID=CDS:C01B10.5c;Parent=Transcript:C01B10.5c.1
+ch.2_91	WormBase	exon	342	437	.	+	.	Parent=Transcript:C01B10.5c.1
+ch.2_91	RNASeq_reads	transcript_region	342	437	1320.0	.	.	
+ch.2_91	RNASeq_splice	intron	357	392	19.0	+	.	
+ch.2_91	RNASeq_splice	intron	360	392	8.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	360	398	41.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	363	366	1.0	-	.	
+ch.2_91	RNASeq_splice	intron	366	393	8.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	367	401	2.0	-	.	
+ch.2_91	RNASeq_splice	intron	372	398	10.0	+	.	
+ch.2_91	RNASeq_splice	intron	393	422	51.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	399	405	63.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	402	415	1.0	-	.	
+ch.2_91	RNASeq_stranded	transcript_region	406	437	95.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	416	437	2.0	-	.	
+ch.2_91	RNASeq_reads	transcript_region	438	441	18.0	.	.	
+ch.2_91	RNASeq_splice	intron	438	484	295.0	+	.	
+ch.2_91	WormBase	intron	438	524	.	+	.	Parent=Transcript:C01B10.5a.1
+ch.2_91	WormBase	intron	438	524	.	+	.	Parent=Transcript:C01B10.5b.1
+ch.2_91	WormBase	intron	438	524	.	+	.	Parent=Transcript:C01B10.5c.1
+ch.2_91	RNASeq_splice	intron	438	524	5800990.0	+	.	
+ch.2_91	RNASeq_splice	intron	438	527	571.0	+	.	
+ch.2_91	RNASeq_splice	intron	438	568	10984.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	442	444	11.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	442	448	1.0	+	.	
+ch.2_91	RNASeq_splice	intron	442	527	27317.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	445	522	5.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	517	522	1.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	523	524	93.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	523	524	74.0	+	.	
+ch.2_91	WormBase	CDS	525	530	.	+	.	ID=CDS:C01B10.5a;Parent=Transcript:C01B10.5a.1
+ch.2_91	WormBase	CDS	525	530	.	+	.	ID=CDS:C01B10.5b;Parent=Transcript:C01B10.5b.1
+ch.2_91	WormBase	CDS	525	530	.	+	.	ID=CDS:C01B10.5c;Parent=Transcript:C01B10.5c.1
+ch.2_91	RNASeq_stranded	transcript_region	525	537	2.0	-	.	
+ch.2_91	RNASeq_stranded	transcript_region	525	556	122.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	525	621	1231.0	.	.	
+ch.2_91	WormBase	exon	525	725	.	+	.	Parent=Transcript:C01B10.5a.1
+ch.2_91	WormBase	exon	525	725	.	+	.	Parent=Transcript:C01B10.5b.1
+ch.2_91	WormBase	exon	525	761	.	+	.	Parent=Transcript:C01B10.5c.1
+ch.2_91	WormBase	three_prime_UTR	531	725	.	+	.	Parent=Transcript:C01B10.5a.1
+ch.2_91	WormBase	three_prime_UTR	531	725	.	+	.	Parent=Transcript:C01B10.5b.1
+ch.2_91	WormBase	three_prime_UTR	531	761	.	+	.	Parent=Transcript:C01B10.5c.1
+ch.2_91	RNASeq_stranded	transcript_region	538	634	1.0	-	.	
+ch.2_91	RNASeq_stranded	transcript_region	557	567	80.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	568	577	125.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	578	673	192.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	622	649	781.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	641	716	1.0	-	.	
+ch.2_91	RNASeq_reads	transcript_region	650	689	503.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	674	710	124.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	690	707	331.0	.	.	
+ch.2_91	RNASeq_reads	transcript_region	708	716	218.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	711	719	81.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	717	725	122.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	720	724	45.0	+	.	
+ch.2_91	RNASeq_stranded	transcript_region	725	728	26.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	726	728	77.0	.	.	
+ch.2_91	RNASeq_reads	transcript_region	729	729	50.0	.	.	
+ch.2_91	RNASeq_stranded	transcript_region	729	731	5.0	+	.	
+ch.2_91	RNASeq_reads	transcript_region	730	731	15.0	.	.	
+ch.2_91	RNASeq_reads	transcript_region	732	732	1.0	.	.	

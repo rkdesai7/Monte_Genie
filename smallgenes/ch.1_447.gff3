@@ -1,0 +1,35 @@
+ch.1_447	RNASeq_F_asymmetry	transcript_region	709	711	1203.0	.	.	
+ch.1_447	RNASeq	transcription_end_site	708	708	.	-	.	
+ch.1_447	RNASeq	transcription_end_site	708	708	.	-	.	
+ch.1_447	RNASeq_F_asymmetry	transcript_region	699	708	2480.0	.	.	
+ch.1_447	RNASeq_reads	transcript_region	630	708	1.0	.	.	
+ch.1_447	WormBase	three_prime_UTR	650	706	.	+	.	Parent=Transcript:C12D8.4.1
+ch.1_447	WormBase	exon	384	706	.	+	.	Parent=Transcript:C12D8.4.1
+ch.1_447	WormBase	gene	101	706	.	+	.	ID=Gene:WBGene00007535
+ch.1_447	WormBase	mRNA	101	706	.	+	.	ID=Transcript:C12D8.4.1;Parent=Gene:WBGene00007535
+ch.1_447	RNASeq_F_asymmetry	transcript_region	638	698	3783.0	.	.	
+ch.1_447	WormBase	CDS	384	649	.	+	.	ID=CDS:C12D8.4;Parent=Transcript:C12D8.4.1
+ch.1_447	RNASeq_F_asymmetry	transcript_region	609	637	5894.0	.	.	
+ch.1_447	RNASeq_reads	transcript_region	508	629	2.0	.	.	
+ch.1_447	RNASeq_splice	intron	479	577	3.0	+	.	
+ch.1_447	RNASeq_F_asymmetry	transcript_region	570	576	10025.0	.	.	
+ch.1_447	RNASeq_reads	transcript_region	384	507	4.0	.	.	
+ch.1_447	RNASeq_splice	intron	270	388	71.0	+	.	
+ch.1_447	WormBase	intron	270	383	.	+	.	Parent=Transcript:C12D8.4.1
+ch.1_447	RNASeq_splice	intron	270	383	14441.0	+	.	
+ch.1_447	RNASeq_splice	intron	237	383	15.0	+	.	
+ch.1_447	RNASeq_F_asymmetry	transcript_region	369	373	341.0	.	.	
+ch.1_447	RNASeq_F_asymmetry	transcript_region	367	367	340.0	.	.	
+ch.1_447	RNASeq_reads	transcript_region	270	272	2.0	.	.	
+ch.1_447	RNASeq_reads	transcript_region	263	269	5.0	.	.	
+ch.1_447	WormBase	CDS	104	269	.	+	.	ID=CDS:C12D8.4;Parent=Transcript:C12D8.4.1
+ch.1_447	WormBase	exon	101	269	.	+	.	Parent=Transcript:C12D8.4.1
+ch.1_447	RNASeq_reads	transcript_region	201	262	3.0	.	.	
+ch.1_447	RNASeq_R_asymmetry	transcript_region	201	208	14495.0	.	.	
+ch.1_447	RNASeq_reads	transcript_region	115	200	5.0	.	.	
+ch.1_447	RNASeq_R_asymmetry	transcript_region	114	200	24294.0	.	.	
+ch.1_447	RNASeq_reads	transcript_region	101	114	3.0	.	.	
+ch.1_447	RNASeq_R_asymmetry	transcript_region	104	113	14960.0	.	.	
+ch.1_447	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:C12D8.4.1
+ch.1_447	RNASeq_R_asymmetry	transcript_region	101	103	9497.0	.	.	
+ch.1_447	RNASeq_R_asymmetry	transcript_region	99	100	976.0	.	.	

@@ -1,0 +1,64 @@
+ch.2_272	RNASeq_reads	transcript_region	92	105	6.0	.	.	
+ch.2_272	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:ZK675.4.1
+ch.2_272	WormBase	exon	101	363	.	+	.	Parent=Transcript:ZK675.4.1
+ch.2_272	WormBase	gene	101	905	.	+	.	ID=Gene:WBGene00014067
+ch.2_272	WormBase	mRNA	101	905	.	+	.	ID=Transcript:ZK675.4.1;Parent=Gene:WBGene00014067
+ch.2_272	RNASeq_reads	transcript_region	106	112	10.0	.	.	
+ch.2_272	WormBase	CDS	109	363	.	+	.	ID=CDS:ZK675.4;Parent=Transcript:ZK675.4.1
+ch.2_272	RNASeq_reads	transcript_region	113	132	16.0	.	.	
+ch.2_272	RNASeq_reads	transcript_region	133	166	25.0	.	.	
+ch.2_272	RNASeq_stranded	transcript_region	139	186	1.0	+	.	
+ch.2_272	RNASeq_reads	transcript_region	167	363	38.0	.	.	
+ch.2_272	RNASeq_splice	intron	198	241	11.0	+	.	
+ch.2_272	WormBase	intron	364	410	.	+	.	Parent=Transcript:ZK675.4.1
+ch.2_272	RNASeq_splice	intron	364	410	254407.0	+	.	
+ch.2_272	RNASeq_splice	intron	368	410	42.0	+	.	
+ch.2_272	RNASeq_reads	transcript_region	409	410	1.0	.	.	
+ch.2_272	WormBase	CDS	411	579	.	+	.	ID=CDS:ZK675.4;Parent=Transcript:ZK675.4.1
+ch.2_272	WormBase	exon	411	579	.	+	.	Parent=Transcript:ZK675.4.1
+ch.2_272	RNASeq_reads	transcript_region	411	579	50.0	.	.	
+ch.2_272	RNASeq_splice	intron	453	772	5.0	+	.	
+ch.2_272	RNASeq_stranded	transcript_region	491	532	1.0	+	.	
+ch.2_272	RNASeq	transcription_end_site	535	535	.	+	.	
+ch.2_272	RNASeq_reads	transcript_region	580	580	7.0	.	.	
+ch.2_272	WormBase	intron	580	628	.	+	.	Parent=Transcript:ZK675.4.1
+ch.2_272	RNASeq_splice	intron	580	628	303051.0	+	.	
+ch.2_272	RNASeq_splice	intron	580	631	18.0	+	.	
+ch.2_272	RNASeq_reads	transcript_region	581	583	1.0	.	.	
+ch.2_272	RNASeq_splice	intron	584	628	3.0	+	.	
+ch.2_272	RNASeq_splice	intron	584	631	2938.0	+	.	
+ch.2_272	RNASeq_splice	intron	593	641	33.0	-	.	
+ch.2_272	RNASeq_reads	transcript_region	626	627	4.0	.	.	
+ch.2_272	RNASeq_reads	transcript_region	628	628	8.0	.	.	
+ch.2_272	RNASeq	transcription_end_site	629	629	.	+	.	
+ch.2_272	RNASeq_reads	transcript_region	629	656	65.0	.	.	
+ch.2_272	WormBase	CDS	629	795	.	+	.	ID=CDS:ZK675.4;Parent=Transcript:ZK675.4.1
+ch.2_272	WormBase	exon	629	905	.	+	.	Parent=Transcript:ZK675.4.1
+ch.2_272	RNASeq	transcription_end_site	651	651	.	+	.	
+ch.2_272	RNASeq_reads	transcript_region	657	784	98.0	.	.	
+ch.2_272	RNASeq_stranded	transcript_region	728	732	1.0	+	.	
+ch.2_272	RNASeq_stranded	transcript_region	736	742	1.0	+	.	
+ch.2_272	RNASeq_stranded	transcript_region	746	746	1.0	+	.	
+ch.2_272	RNASeq_stranded	transcript_region	748	748	1.0	+	.	
+ch.2_272	RNASeq_stranded	transcript_region	756	756	1.0	+	.	
+ch.2_272	RNASeq_stranded	transcript_region	761	860	1.0	+	.	
+ch.2_272	RNASeq_reads	transcript_region	785	822	64.0	.	.	
+ch.2_272	WormBase	three_prime_UTR	796	905	.	+	.	Parent=Transcript:ZK675.4.1
+ch.2_272	RNASeq	transcription_end_site	799	799	.	+	.	
+ch.2_272	RNASeq_reads	transcript_region	823	839	42.0	.	.	
+ch.2_272	RNASeq_reads	transcript_region	840	853	27.0	.	.	
+ch.2_272	RNASeq_reads	transcript_region	854	858	17.0	.	.	
+ch.2_272	RNASeq_reads	transcript_region	859	896	10.0	.	.	
+ch.2_272	RNASeq_stranded	transcript_region	868	868	1.0	+	.	
+ch.2_272	RNASeq_stranded	transcript_region	870	870	1.0	+	.	
+ch.2_272	RNASeq_stranded	transcript_region	879	879	1.0	+	.	
+ch.2_272	RNASeq	transcription_end_site	879	879	.	+	.	
+ch.2_272	RNASeq	transcription_end_site	879	879	.	+	.	
+ch.2_272	RNASeq_stranded	transcript_region	879	886	1.0	-	.	
+ch.2_272	RNASeq_stranded	transcript_region	887	899	2.0	-	.	
+ch.2_272	RNASeq_reads	transcript_region	897	910	6.0	.	.	
+ch.2_272	RNASeq_stranded	transcript_region	900	923	12.0	-	.	
+ch.2_272	RNASeq_stranded	transcript_region	924	934	19.0	-	.	
+ch.2_272	RNASeq_stranded	transcript_region	935	971	9.0	-	.	
+ch.2_272	RNASeq_F_asymmetry	transcript_region	936	948	38730.0	.	.	
+ch.2_272	RNASeq_F_asymmetry	transcript_region	969	981	44465.0	.	.	

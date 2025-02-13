@@ -1,0 +1,56 @@
+ch.1_326	RNASeq_F_asymmetry	transcript_region	771	771	718.0	.	.	
+ch.1_326	RNASeq_F_asymmetry	transcript_region	753	769	731.0	.	.	
+ch.1_326	RNASeq_F_asymmetry	transcript_region	750	750	776.0	.	.	
+ch.1_326	RNASeq_F_asymmetry	transcript_region	747	748	841.0	.	.	
+ch.1_326	RNASeq_reads	transcript_region	701	715	1.0	.	.	
+ch.1_326	WormBase	three_prime_UTR	511	713	.	+	.	Parent=Transcript:EGAP4.1.1
+ch.1_326	WormBase	exon	409	713	.	+	.	Parent=Transcript:EGAP4.1.1
+ch.1_326	WormBase	gene	101	713	.	+	.	ID=Gene:WBGene00017149
+ch.1_326	WormBase	mRNA	101	713	.	+	.	ID=Transcript:EGAP4.1.1;Parent=Gene:WBGene00017149
+ch.1_326	RNASeq_reads	transcript_region	689	700	2.0	.	.	
+ch.1_326	RNASeq_reads	transcript_region	667	688	4.0	.	.	
+ch.1_326	RNASeq_stranded	transcript_region	667	684	1.0	+	.	
+ch.1_326	RNASeq	transcription_end_site	666	666	.	-	.	
+ch.1_326	RNASeq_reads	transcript_region	654	666	7.0	.	.	
+ch.1_326	RNASeq_stranded	transcript_region	653	666	2.0	+	.	
+ch.1_326	RNASeq_reads	transcript_region	641	653	11.0	.	.	
+ch.1_326	RNASeq_stranded	transcript_region	607	652	4.0	+	.	
+ch.1_326	RNASeq_reads	transcript_region	602	640	17.0	.	.	
+ch.1_326	RNASeq_stranded	transcript_region	593	606	2.0	+	.	
+ch.1_326	RNASeq_reads	transcript_region	409	601	26.0	.	.	
+ch.1_326	RNASeq_stranded	transcript_region	592	592	1.0	-	.	
+ch.1_326	RNASeq_stranded	transcript_region	590	591	2.0	+	.	
+ch.1_326	RNASeq_stranded	transcript_region	581	589	1.0	+	.	
+ch.1_326	RNASeq_splice	intron	540	584	5.0	-	.	
+ch.1_326	RNASeq_stranded	transcript_region	568	580	2.0	+	.	
+ch.1_326	RNASeq_stranded	transcript_region	518	567	4.0	+	.	
+ch.1_326	RNASeq_stranded	transcript_region	505	517	1.0	+	.	
+ch.1_326	WormBase	CDS	409	510	.	+	.	ID=CDS:EGAP4.1;Parent=Transcript:EGAP4.1.1
+ch.1_326	RNASeq_stranded	transcript_region	494	504	2.0	+	.	
+ch.1_326	RNASeq_stranded	transcript_region	469	493	4.0	+	.	
+ch.1_326	RNASeq_stranded	transcript_region	451	468	7.0	+	.	
+ch.1_326	RNASeq_stranded	transcript_region	409	450	13.0	+	.	
+ch.1_326	RNASeq_splice	intron	361	446	3.0	+	.	
+ch.1_326	RNASeq_reads	transcript_region	404	408	2.0	.	.	
+ch.1_326	RNASeq_splice	intron	365	408	5.0	+	.	
+ch.1_326	WormBase	intron	361	408	.	+	.	Parent=Transcript:EGAP4.1.1
+ch.1_326	RNASeq_splice	intron	361	408	154712.0	+	.	
+ch.1_326	RNASeq_stranded	transcript_region	353	360	8.0	+	.	
+ch.1_326	RNASeq_reads	transcript_region	145	360	31.0	.	.	
+ch.1_326	WormBase	CDS	121	360	.	+	.	ID=CDS:EGAP4.1;Parent=Transcript:EGAP4.1.1
+ch.1_326	WormBase	exon	101	360	.	+	.	Parent=Transcript:EGAP4.1.1
+ch.1_326	RNASeq_stranded	transcript_region	276	352	3.0	+	.	
+ch.1_326	RNASeq_stranded	transcript_region	223	275	1.0	+	.	
+ch.1_326	RNASeq_stranded	transcript_region	119	222	2.0	+	.	
+ch.1_326	RNASeq_R_asymmetry	transcript_region	125	167	94400.0	.	.	
+ch.1_326	RNASeq_reads	transcript_region	125	144	20.0	.	.	
+ch.1_326	RNASeq_R_asymmetry	transcript_region	116	124	59917.0	.	.	
+ch.1_326	RNASeq_reads	transcript_region	116	124	13.0	.	.	
+ch.1_326	WormBase	five_prime_UTR	101	120	.	+	.	Parent=Transcript:EGAP4.1.1
+ch.1_326	RNASeq_stranded	transcript_region	106	118	1.0	+	.	
+ch.1_326	RNASeq_reads	transcript_region	110	115	8.0	.	.	
+ch.1_326	RNASeq_R_asymmetry	transcript_region	109	115	32572.0	.	.	
+ch.1_326	RNASeq_reads	transcript_region	101	109	5.0	.	.	
+ch.1_326	RNASeq_R_asymmetry	transcript_region	101	108	21171.0	.	.	
+ch.1_326	RNASeq_reads	transcript_region	67	100	3.0	.	.	
+ch.1_326	RNASeq_reads	transcript_region	35	66	1.0	.	.	

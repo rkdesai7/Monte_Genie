@@ -1,0 +1,57 @@
+ch.2_226	RNASeq_F_asymmetry	transcript_region	78	83	280.0	.	.	
+ch.2_226	RNASeq_F_asymmetry	transcript_region	84	100	434.0	.	.	
+ch.2_226	RNASeq_reads	transcript_region	101	102	1.0	.	.	
+ch.2_226	RNASeq_F_asymmetry	transcript_region	101	103	5581.0	.	.	
+ch.2_226	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:T20D4.7.1
+ch.2_226	RNASeq_stranded	transcript_region	101	116	1.0	+	.	
+ch.2_226	WormBase	exon	101	254	.	+	.	Parent=Transcript:T20D4.7.1
+ch.2_226	WormBase	gene	101	727	.	+	.	ID=Gene:WBGene00020613
+ch.2_226	WormBase	mRNA	101	727	.	+	.	ID=Transcript:T20D4.7.1;Parent=Gene:WBGene00020613
+ch.2_226	RNASeq_reads	transcript_region	103	109	2.0	.	.	
+ch.2_226	RNASeq_F_asymmetry	transcript_region	104	115	12977.0	.	.	
+ch.2_226	RNASeq_reads	transcript_region	110	159	4.0	.	.	
+ch.2_226	WormBase	CDS	111	254	.	+	.	ID=CDS:T20D4.7;Parent=Transcript:T20D4.7.1
+ch.2_226	RNASeq_F_asymmetry	transcript_region	116	161	19556.0	.	.	
+ch.2_226	RNASeq_stranded	transcript_region	117	145	2.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	146	173	4.0	+	.	
+ch.2_226	RNASeq_reads	transcript_region	160	254	7.0	.	.	
+ch.2_226	RNASeq_stranded	transcript_region	174	213	2.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	214	216	1.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	217	217	2.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	218	218	1.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	219	229	2.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	230	254	1.0	+	.	
+ch.2_226	RNASeq_reads	transcript_region	255	255	1.0	.	.	
+ch.2_226	RNASeq_splice	intron	255	292	11.0	+	.	
+ch.2_226	WormBase	intron	255	298	.	+	.	Parent=Transcript:T20D4.7.1
+ch.2_226	RNASeq_splice	intron	255	298	29014.0	+	.	
+ch.2_226	RNASeq_splice	intron	263	307	4.0	-	.	
+ch.2_226	RNASeq_reads	transcript_region	297	298	1.0	.	.	
+ch.2_226	RNASeq_stranded	transcript_region	298	298	1.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	299	316	2.0	+	.	
+ch.2_226	WormBase	CDS	299	435	.	+	.	ID=CDS:T20D4.7;Parent=Transcript:T20D4.7.1
+ch.2_226	WormBase	exon	299	435	.	+	.	Parent=Transcript:T20D4.7.1
+ch.2_226	RNASeq_reads	transcript_region	299	435	5.0	.	.	
+ch.2_226	RNASeq_stranded	transcript_region	317	377	4.0	+	.	
+ch.2_226	RNASeq	transcription_end_site	340	340	.	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	378	385	2.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	386	435	1.0	+	.	
+ch.2_226	WormBase	intron	436	479	.	+	.	Parent=Transcript:T20D4.7.1
+ch.2_226	RNASeq_splice	intron	436	479	33076.0	+	.	
+ch.2_226	RNASeq_splice	intron	436	483	59.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	480	519	1.0	+	.	
+ch.2_226	WormBase	CDS	480	624	.	+	.	ID=CDS:T20D4.7;Parent=Transcript:T20D4.7.1
+ch.2_226	RNASeq_reads	transcript_region	480	652	6.0	.	.	
+ch.2_226	WormBase	exon	480	727	.	+	.	Parent=Transcript:T20D4.7.1
+ch.2_226	RNASeq_stranded	transcript_region	520	605	2.0	+	.	
+ch.2_226	RNASeq_stranded	transcript_region	606	664	4.0	+	.	
+ch.2_226	WormBase	three_prime_UTR	625	727	.	+	.	Parent=Transcript:T20D4.7.1
+ch.2_226	RNASeq_R_asymmetry	transcript_region	629	663	17601.0	.	.	
+ch.2_226	RNASeq_reads	transcript_region	653	676	3.0	.	.	
+ch.2_226	RNASeq_R_asymmetry	transcript_region	664	676	11577.0	.	.	
+ch.2_226	RNASeq_stranded	transcript_region	665	691	2.0	+	.	
+ch.2_226	RNASeq	transcription_end_site	677	677	.	+	.	
+ch.2_226	RNASeq_reads	transcript_region	677	702	1.0	.	.	
+ch.2_226	RNASeq_stranded	transcript_region	692	717	1.0	+	.	
+ch.2_226	RNASeq_R_asymmetry	transcript_region	719	719	1098.0	.	.	
+ch.2_226	RNASeq_R_asymmetry	transcript_region	722	723	315.0	.	.	

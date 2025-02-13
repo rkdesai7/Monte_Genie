@@ -1,0 +1,72 @@
+ch.1_247	RNASeq	transcription_end_site	5	5	.	+	.	
+ch.1_247	RNASeq_F_asymmetry	transcript_region	43	59	2055.0	.	.	
+ch.1_247	RNASeq_reads	transcript_region	43	94	1.0	.	.	
+ch.1_247	RNASeq_F_asymmetry	transcript_region	60	93	3222.0	.	.	
+ch.1_247	RNASeq_stranded	transcript_region	60	98	1.0	+	.	
+ch.1_247	RNASeq_F_asymmetry	transcript_region	95	98	9812.0	.	.	
+ch.1_247	RNASeq_reads	transcript_region	95	98	2.0	.	.	
+ch.1_247	RNASeq_F_asymmetry	transcript_region	99	100	116721.0	.	.	
+ch.1_247	RNASeq_reads	transcript_region	99	100	23.0	.	.	
+ch.1_247	RNASeq_stranded	transcript_region	99	115	12.0	+	.	
+ch.1_247	WormBase	five_prime_UTR	101	105	.	+	.	Parent=Transcript:ZK1127.13.1
+ch.1_247	RNASeq_reads	transcript_region	101	116	43.0	.	.	
+ch.1_247	RNASeq_F_asymmetry	transcript_region	101	119	216475.0	.	.	
+ch.1_247	WormBase	exon	101	337	.	+	.	Parent=Transcript:ZK1127.13.1
+ch.1_247	WormBase	gene	101	636	.	+	.	ID=Gene:WBGene00195239
+ch.1_247	WormBase	mRNA	101	636	.	+	.	ID=Transcript:ZK1127.13.1;Parent=Gene:WBGene00195239
+ch.1_247	WormBase	CDS	106	337	.	+	.	ID=CDS:ZK1127.13;Parent=Transcript:ZK1127.13.1
+ch.1_247	RNASeq_stranded	transcript_region	116	213	19.0	+	.	
+ch.1_247	RNASeq_reads	transcript_region	117	177	65.0	.	.	
+ch.1_247	RNASeq_F_asymmetry	transcript_region	120	166	324992.0	.	.	
+ch.1_247	RNASeq_reads	transcript_region	178	337	99.0	.	.	
+ch.1_247	RNASeq_stranded	transcript_region	214	336	29.0	+	.	
+ch.1_247	RNASeq_splice	intron	221	263	10.0	+	.	
+ch.1_247	RNASeq_stranded	transcript_region	337	337	19.0	+	.	
+ch.1_247	RNASeq_reads	transcript_region	338	339	8.0	.	.	
+ch.1_247	RNASeq_stranded	transcript_region	338	339	4.0	+	.	
+ch.1_247	WormBase	intron	338	382	.	+	.	Parent=Transcript:ZK1127.13.1
+ch.1_247	RNASeq_splice	intron	338	382	417122.0	+	.	
+ch.1_247	RNASeq_splice	intron	338	391	92.0	+	.	
+ch.1_247	RNASeq_splice	intron	338	409	153.0	+	.	
+ch.1_247	RNASeq_splice	intron	338	731	5.0	+	.	
+ch.1_247	RNASeq_reads	transcript_region	340	380	1.0	.	.	
+ch.1_247	RNASeq_reads	transcript_region	381	382	10.0	.	.	
+ch.1_247	RNASeq_stranded	transcript_region	381	382	2.0	+	.	
+ch.1_247	RNASeq_stranded	transcript_region	383	408	19.0	+	.	
+ch.1_247	RNASeq_reads	transcript_region	383	525	83.0	.	.	
+ch.1_247	WormBase	CDS	383	537	.	+	.	ID=CDS:ZK1127.13;Parent=Transcript:ZK1127.13.1
+ch.1_247	WormBase	exon	383	636	.	+	.	Parent=Transcript:ZK1127.13.1
+ch.1_247	RNASeq_stranded	transcript_region	409	449	30.0	+	.	
+ch.1_247	RNASeq_stranded	transcript_region	450	475	19.0	+	.	
+ch.1_247	RNASeq_stranded	transcript_region	476	604	29.0	+	.	
+ch.1_247	RNASeq_reads	transcript_region	526	591	54.0	.	.	
+ch.1_247	WormBase	three_prime_UTR	538	636	.	+	.	Parent=Transcript:ZK1127.13.1
+ch.1_247	RNASeq_R_asymmetry	transcript_region	556	605	176743.0	.	.	
+ch.1_247	RNASeq	transcription_end_site	566	566	.	+	.	
+ch.1_247	RNASeq_reads	transcript_region	592	608	35.0	.	.	
+ch.1_247	RNASeq_stranded	transcript_region	605	616	19.0	+	.	
+ch.1_247	RNASeq_R_asymmetry	transcript_region	606	614	108930.0	.	.	
+ch.1_247	RNASeq_reads	transcript_region	609	618	23.0	.	.	
+ch.1_247	RNASeq	transcription_end_site	613	613	.	+	.	
+ch.1_247	RNASeq_R_asymmetry	transcript_region	615	636	71836.0	.	.	
+ch.1_247	RNASeq_stranded	transcript_region	617	623	12.0	+	.	
+ch.1_247	RNASeq_reads	transcript_region	619	636	15.0	.	.	
+ch.1_247	RNASeq_stranded	transcript_region	624	633	7.0	+	.	
+ch.1_247	RNASeq	transcription_end_site	630	630	.	+	.	
+ch.1_247	RNASeq_stranded	transcript_region	634	638	4.0	+	.	
+ch.1_247	RNASeq_R_asymmetry	transcript_region	637	637	43543.0	.	.	
+ch.1_247	RNASeq_reads	transcript_region	637	638	9.0	.	.	
+ch.1_247	RNASeq_R_asymmetry	transcript_region	638	639	27379.0	.	.	
+ch.1_247	RNASeq_reads	transcript_region	639	642	4.0	.	.	
+ch.1_247	RNASeq_stranded	transcript_region	639	643	2.0	+	.	
+ch.1_247	RNASeq_R_asymmetry	transcript_region	640	641	16623.0	.	.	
+ch.1_247	RNASeq	transcription_end_site	641	641	.	+	.	
+ch.1_247	RNASeq_R_asymmetry	transcript_region	642	643	10933.0	.	.	
+ch.1_247	RNASeq	transcription_end_site	643	643	.	+	.	
+ch.1_247	RNASeq_reads	transcript_region	643	644	2.0	.	.	
+ch.1_247	RNASeq	transcription_end_site	644	644	.	+	.	
+ch.1_247	RNASeq_stranded	transcript_region	644	646	1.0	+	.	
+ch.1_247	RNASeq_reads	transcript_region	645	649	1.0	.	.	
+ch.1_247	RNASeq	transcription_end_site	653	653	.	+	.	
+ch.1_247	RNASeq_F_asymmetry	transcript_region	687	703	1195.0	.	.	
+ch.1_247	RNASeq_F_asymmetry	transcript_region	720	720	1689.0	.	.	

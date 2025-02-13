@@ -1,0 +1,40 @@
+ch.2_13	WormBase	CDS	101	277	.	+	.	ID=CDS:C06E2.9;Parent=Transcript:C06E2.9.1
+ch.2_13	WormBase	exon	101	277	.	+	.	Parent=Transcript:C06E2.9.1
+ch.2_13	WormBase	gene	101	548	.	+	.	ID=Gene:WBGene00044579
+ch.2_13	WormBase	mRNA	101	548	.	+	.	ID=Transcript:C06E2.9.1;Parent=Gene:WBGene00044579
+ch.2_13	RNASeq_F_asymmetry	transcript_region	127	130	1449.0	.	.	
+ch.2_13	RNASeq_F_asymmetry	transcript_region	131	142	2176.0	.	.	
+ch.2_13	RNASeq_reads	transcript_region	133	194	1.0	.	.	
+ch.2_13	RNASeq_F_asymmetry	transcript_region	143	169	3284.0	.	.	
+ch.2_13	RNASeq_reads	transcript_region	195	277	2.0	.	.	
+ch.2_13	RNASeq_stranded	transcript_region	229	253	1.0	+	.	
+ch.2_13	RNASeq_stranded	transcript_region	254	263	2.0	+	.	
+ch.2_13	RNASeq_stranded	transcript_region	264	266	1.0	+	.	
+ch.2_13	RNASeq_stranded	transcript_region	267	277	2.0	+	.	
+ch.2_13	WormBase	intron	278	323	.	+	.	Parent=Transcript:C06E2.9.1
+ch.2_13	RNASeq_splice	intron	278	323	17390.0	+	.	
+ch.2_13	RNASeq_F_asymmetry	transcript_region	279	292	857.0	.	.	
+ch.2_13	RNASeq_stranded	transcript_region	285	322	1.0	+	.	
+ch.2_13	RNASeq_F_asymmetry	transcript_region	293	322	1321.0	.	.	
+ch.2_13	RNASeq_F_asymmetry	transcript_region	323	323	1984.0	.	.	
+ch.2_13	RNASeq_stranded	transcript_region	323	323	2.0	+	.	
+ch.2_13	RNASeq_stranded	transcript_region	324	359	4.0	+	.	
+ch.2_13	WormBase	CDS	324	377	.	+	.	ID=CDS:C06E2.9;Parent=Transcript:C06E2.9.1
+ch.2_13	WormBase	exon	324	377	.	+	.	Parent=Transcript:C06E2.9.1
+ch.2_13	RNASeq_reads	transcript_region	324	377	3.0	.	.	
+ch.2_13	RNASeq_stranded	transcript_region	360	377	7.0	+	.	
+ch.2_13	RNASeq_R_asymmetry	transcript_region	378	378	2605.0	.	.	
+ch.2_13	RNASeq_reads	transcript_region	378	378	1.0	.	.	
+ch.2_13	WormBase	intron	378	439	.	+	.	Parent=Transcript:C06E2.9.1
+ch.2_13	RNASeq_splice	intron	378	439	11941.0	+	.	
+ch.2_13	RNASeq_stranded	transcript_region	440	481	7.0	+	.	
+ch.2_13	RNASeq_reads	transcript_region	440	486	3.0	.	.	
+ch.2_13	WormBase	CDS	440	493	.	+	.	ID=CDS:C06E2.9;Parent=Transcript:C06E2.9.1
+ch.2_13	WormBase	exon	440	548	.	+	.	Parent=Transcript:C06E2.9.1
+ch.2_13	RNASeq_stranded	transcript_region	482	513	4.0	+	.	
+ch.2_13	RNASeq_reads	transcript_region	487	533	1.0	.	.	
+ch.2_13	WormBase	three_prime_UTR	494	548	.	+	.	Parent=Transcript:C06E2.9.1
+ch.2_13	RNASeq_stranded	transcript_region	514	521	2.0	+	.	
+ch.2_13	RNASeq_R_asymmetry	transcript_region	522	530	3941.0	.	.	
+ch.2_13	RNASeq_stranded	transcript_region	522	534	1.0	+	.	
+ch.2_13	RNASeq_R_asymmetry	transcript_region	531	531	2593.0	.	.	

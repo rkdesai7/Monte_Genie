@@ -1,0 +1,48 @@
+ch.1_241	RNASeq_F_asymmetry	transcript_region	101	107	4195.0	.	.	
+ch.1_241	RNASeq_reads	transcript_region	101	110	1.0	.	.	
+ch.1_241	WormBase	five_prime_UTR	101	162	.	+	.	Parent=Transcript:F14D7.12.1
+ch.1_241	WormBase	exon	101	178	.	+	.	Parent=Transcript:F14D7.12.1
+ch.1_241	WormBase	gene	101	648	.	+	.	ID=Gene:WBGene00045331
+ch.1_241	WormBase	mRNA	101	648	.	+	.	ID=Transcript:F14D7.12.1;Parent=Gene:WBGene00045331
+ch.1_241	RNASeq_F_asymmetry	transcript_region	108	113	6352.0	.	.	
+ch.1_241	RNASeq_stranded	transcript_region	110	152	1.0	+	.	
+ch.1_241	RNASeq_reads	transcript_region	111	126	2.0	.	.	
+ch.1_241	RNASeq_F_asymmetry	transcript_region	114	128	11449.0	.	.	
+ch.1_241	RNASeq_reads	transcript_region	127	178	4.0	.	.	
+ch.1_241	RNASeq_F_asymmetry	transcript_region	129	178	17236.0	.	.	
+ch.1_241	RNASeq_stranded	transcript_region	153	156	2.0	+	.	
+ch.1_241	RNASeq_stranded	transcript_region	157	178	1.0	+	.	
+ch.1_241	WormBase	CDS	163	178	.	+	.	ID=CDS:F14D7.12;Parent=Transcript:F14D7.12.1
+ch.1_241	WormBase	intron	179	317	.	+	.	Parent=Transcript:F14D7.12.1
+ch.1_241	RNASeq_splice	intron	179	317	26347.0	+	.	
+ch.1_241	RNASeq_splice	intron	179	320	3.0	+	.	
+ch.1_241	RNASeq_splice	intron	183	320	58.0	+	.	
+ch.1_241	RNASeq_splice	intron	183	323	4.0	+	.	
+ch.1_241	RNASeq_splice	intron	188	696	6.0	-	.	
+ch.1_241	RNASeq_reads	transcript_region	317	317	1.0	.	.	
+ch.1_241	RNASeq_stranded	transcript_region	317	317	1.0	+	.	
+ch.1_241	RNASeq	transcription_end_site	318	318	.	+	.	
+ch.1_241	RNASeq_F_asymmetry	transcript_region	318	324	23645.0	.	.	
+ch.1_241	RNASeq_stranded	transcript_region	318	361	2.0	+	.	
+ch.1_241	RNASeq_reads	transcript_region	318	466	6.0	.	.	
+ch.1_241	WormBase	CDS	318	556	.	+	.	ID=CDS:F14D7.12;Parent=Transcript:F14D7.12.1
+ch.1_241	WormBase	exon	318	648	.	+	.	Parent=Transcript:F14D7.12.1
+ch.1_241	RNASeq_stranded	transcript_region	362	421	1.0	+	.	
+ch.1_241	RNASeq_stranded	transcript_region	422	474	2.0	+	.	
+ch.1_241	RNASeq_splice	intron	425	470	97.0	+	.	
+ch.1_241	RNASeq_reads	transcript_region	467	570	10.0	.	.	
+ch.1_241	RNASeq_stranded	transcript_region	475	484	1.0	+	.	
+ch.1_241	RNASeq_stranded	transcript_region	485	487	2.0	+	.	
+ch.1_241	RNASeq_stranded	transcript_region	488	493	1.0	+	.	
+ch.1_241	RNASeq_stranded	transcript_region	494	564	2.0	+	.	
+ch.1_241	RNASeq_splice	intron	517	696	4.0	-	.	
+ch.1_241	WormBase	three_prime_UTR	557	648	.	+	.	Parent=Transcript:F14D7.12.1
+ch.1_241	RNASeq_stranded	transcript_region	565	608	4.0	+	.	
+ch.1_241	RNASeq_reads	transcript_region	571	608	6.0	.	.	
+ch.1_241	RNASeq_stranded	transcript_region	609	621	2.0	+	.	
+ch.1_241	RNASeq_reads	transcript_region	609	624	3.0	.	.	
+ch.1_241	RNASeq_stranded	transcript_region	622	638	1.0	+	.	
+ch.1_241	RNASeq_reads	transcript_region	625	645	1.0	.	.	
+ch.1_241	RNASeq_splice	intron	626	696	10.0	-	.	
+ch.1_241	RNASeq	transcription_end_site	645	645	.	+	.	
+ch.1_241	RNASeq	transcription_end_site	646	646	.	+	.	

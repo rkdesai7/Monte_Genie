@@ -1,0 +1,66 @@
+ch.1_540	RNASeq_splice	intron	43	100	93.0	+	.	
+ch.1_540	RNASeq_F_asymmetry	transcript_region	55	55	310.0	.	.	
+ch.1_540	RNASeq_F_asymmetry	transcript_region	56	56	503.0	.	.	
+ch.1_540	RNASeq_F_asymmetry	transcript_region	57	59	1403.0	.	.	
+ch.1_540	RNASeq_F_asymmetry	transcript_region	60	76	2217.0	.	.	
+ch.1_540	RNASeq_reads	transcript_region	64	94	1.0	.	.	
+ch.1_540	RNASeq_F_asymmetry	transcript_region	77	94	3388.0	.	.	
+ch.1_540	RNASeq_F_asymmetry	transcript_region	95	98	35330.0	.	.	
+ch.1_540	RNASeq_reads	transcript_region	95	98	7.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	95	99	2.0	+	.	
+ch.1_540	RNASeq_F_asymmetry	transcript_region	99	102	57927.0	.	.	
+ch.1_540	RNASeq_reads	transcript_region	99	102	12.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	100	104	4.0	+	.	
+ch.1_540	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:F28D1.5.1
+ch.1_540	WormBase	exon	101	360	.	+	.	Parent=Transcript:F28D1.5.1
+ch.1_540	WormBase	gene	101	905	.	+	.	ID=Gene:WBGene00009215
+ch.1_540	WormBase	mRNA	101	905	.	+	.	ID=Transcript:F28D1.5.1;Parent=Gene:WBGene00009215
+ch.1_540	RNASeq_F_asymmetry	transcript_region	103	106	91021.0	.	.	
+ch.1_540	RNASeq_reads	transcript_region	103	106	19.0	.	.	
+ch.1_540	WormBase	CDS	103	360	.	+	.	ID=CDS:F28D1.5;Parent=Transcript:F28D1.5.1
+ch.1_540	RNASeq_stranded	transcript_region	105	125	7.0	+	.	
+ch.1_540	RNASeq_reads	transcript_region	107	125	32.0	.	.	
+ch.1_540	RNASeq_F_asymmetry	transcript_region	107	132	159226.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	126	177	11.0	+	.	
+ch.1_540	RNASeq_reads	transcript_region	126	248	49.0	.	.	
+ch.1_540	RNASeq_F_asymmetry	transcript_region	133	166	240915.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	178	360	17.0	+	.	
+ch.1_540	RNASeq_reads	transcript_region	249	360	74.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	294	331	1.0	-	.	
+ch.1_540	RNASeq_splice	intron	361	394	11.0	+	.	
+ch.1_540	WormBase	intron	361	407	.	+	.	Parent=Transcript:F28D1.5.1
+ch.1_540	RNASeq_splice	intron	361	407	384652.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	408	452	34.0	+	.	
+ch.1_540	RNASeq_reads	transcript_region	408	819	115.0	.	.	
+ch.1_540	WormBase	CDS	408	851	.	+	.	ID=CDS:F28D1.5;Parent=Transcript:F28D1.5.1
+ch.1_540	WormBase	exon	408	905	.	+	.	Parent=Transcript:F28D1.5.1
+ch.1_540	RNASeq_stranded	transcript_region	453	520	22.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	521	557	14.0	+	.	
+ch.1_540	RNASeq_splice	intron	525	677	4.0	-	.	
+ch.1_540	RNASeq_stranded	transcript_region	558	714	22.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	715	728	34.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	729	743	53.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	744	761	80.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	762	787	125.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	788	868	189.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	817	906	1.0	-	.	
+ch.1_540	RNASeq_reads	transcript_region	820	836	72.0	.	.	
+ch.1_540	RNASeq_reads	transcript_region	837	865	47.0	.	.	
+ch.1_540	WormBase	three_prime_UTR	852	905	.	+	.	Parent=Transcript:F28D1.5.1
+ch.1_540	RNASeq_reads	transcript_region	866	877	31.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	869	887	122.0	+	.	
+ch.1_540	RNASeq_reads	transcript_region	878	891	20.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	888	891	66.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	892	897	43.0	+	.	
+ch.1_540	RNASeq_reads	transcript_region	892	899	13.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	898	901	28.0	+	.	
+ch.1_540	RNASeq_reads	transcript_region	900	905	8.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	902	906	18.0	+	.	
+ch.1_540	RNASeq_reads	transcript_region	906	906	5.0	.	.	
+ch.1_540	RNASeq_reads	transcript_region	907	910	2.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	907	922	5.0	+	.	
+ch.1_540	RNASeq_reads	transcript_region	911	944	1.0	.	.	
+ch.1_540	RNASeq_stranded	transcript_region	923	939	3.0	+	.	
+ch.1_540	RNASeq_stranded	transcript_region	940	952	1.0	+	.	
+ch.1_540	RNASeq_R_asymmetry	transcript_region	950	950	1418.0	.	.	
+ch.1_540	RNASeq_R_asymmetry	transcript_region	953	953	779.0	.	.	

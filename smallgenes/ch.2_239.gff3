@@ -1,0 +1,46 @@
+ch.2_239	RNASeq_F_asymmetry	transcript_region	96	98	6623.0	.	.	
+ch.2_239	RNASeq_reads	transcript_region	96	98	1.0	.	.	
+ch.2_239	RNASeq_F_asymmetry	transcript_region	99	103	9966.0	.	.	
+ch.2_239	RNASeq_reads	transcript_region	99	105	2.0	.	.	
+ch.2_239	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:F49H12.3.1
+ch.2_239	WormBase	exon	101	274	.	+	.	Parent=Transcript:F49H12.3.1
+ch.2_239	WormBase	gene	101	783	.	+	.	ID=Gene:WBGene00018654
+ch.2_239	WormBase	mRNA	101	783	.	+	.	ID=Transcript:F49H12.3.1;Parent=Gene:WBGene00018654
+ch.2_239	WormBase	CDS	102	274	.	+	.	ID=CDS:F49H12.3;Parent=Transcript:F49H12.3.1
+ch.2_239	RNASeq_F_asymmetry	transcript_region	104	107	16357.0	.	.	
+ch.2_239	RNASeq_stranded	transcript_region	104	274	1.0	+	.	
+ch.2_239	RNASeq_reads	transcript_region	106	124	4.0	.	.	
+ch.2_239	RNASeq_F_asymmetry	transcript_region	108	174	24879.0	.	.	
+ch.2_239	RNASeq_reads	transcript_region	125	274	7.0	.	.	
+ch.2_239	RNASeq_splice	intron	197	408	4.0	+	.	
+ch.2_239	WormBase	intron	275	408	.	+	.	Parent=Transcript:F49H12.3.1
+ch.2_239	RNASeq_splice	intron	275	408	36261.0	+	.	
+ch.2_239	RNASeq_splice	intron	292	408	30.0	+	.	
+ch.2_239	RNASeq_splice	intron	366	408	27.0	+	.	
+ch.2_239	RNASeq_stranded	transcript_region	409	471	1.0	+	.	
+ch.2_239	WormBase	CDS	409	604	.	+	.	ID=CDS:F49H12.3;Parent=Transcript:F49H12.3.1
+ch.2_239	WormBase	exon	409	604	.	+	.	Parent=Transcript:F49H12.3.1
+ch.2_239	RNASeq_reads	transcript_region	409	604	7.0	.	.	
+ch.2_239	RNASeq_stranded	transcript_region	472	501	2.0	+	.	
+ch.2_239	RNASeq_stranded	transcript_region	502	532	4.0	+	.	
+ch.2_239	RNASeq_stranded	transcript_region	533	546	2.0	+	.	
+ch.2_239	RNASeq_stranded	transcript_region	547	554	1.0	+	.	
+ch.2_239	RNASeq_stranded	transcript_region	555	590	2.0	+	.	
+ch.2_239	RNASeq_stranded	transcript_region	591	604	5.0	+	.	
+ch.2_239	RNASeq	transcription_end_site	594	594	.	+	.	
+ch.2_239	WormBase	intron	605	650	.	+	.	Parent=Transcript:F49H12.3.1
+ch.2_239	RNASeq_splice	intron	605	650	34350.0	+	.	
+ch.2_239	RNASeq_stranded	transcript_region	649	650	1.0	+	.	
+ch.2_239	RNASeq_reads	transcript_region	650	650	1.0	.	.	
+ch.2_239	RNASeq_reads	transcript_region	651	696	6.0	.	.	
+ch.2_239	WormBase	CDS	651	722	.	+	.	ID=CDS:F49H12.3;Parent=Transcript:F49H12.3.1
+ch.2_239	RNASeq_stranded	transcript_region	651	738	4.0	+	.	
+ch.2_239	WormBase	exon	651	783	.	+	.	Parent=Transcript:F49H12.3.1
+ch.2_239	RNASeq_R_asymmetry	transcript_region	672	677	23630.0	.	.	
+ch.2_239	RNASeq_reads	transcript_region	697	723	3.0	.	.	
+ch.2_239	RNASeq	transcription_end_site	710	710	.	+	.	
+ch.2_239	WormBase	three_prime_UTR	723	783	.	+	.	Parent=Transcript:F49H12.3.1
+ch.2_239	RNASeq_reads	transcript_region	724	778	1.0	.	.	
+ch.2_239	RNASeq_stranded	transcript_region	739	759	2.0	+	.	
+ch.2_239	RNASeq_stranded	transcript_region	760	779	1.0	+	.	
+ch.2_239	RNASeq_F_asymmetry	transcript_region	780	813	1322.0	.	.	

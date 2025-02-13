@@ -1,0 +1,65 @@
+ch.1_536	RNASeq_F_asymmetry	transcript_region	37	46	936.0	.	.	
+ch.1_536	RNASeq_F_asymmetry	transcript_region	47	58	1534.0	.	.	
+ch.1_536	RNASeq_reads	transcript_region	53	55	1.0	.	.	
+ch.1_536	RNASeq_reads	transcript_region	57	132	1.0	.	.	
+ch.1_536	RNASeq_F_asymmetry	transcript_region	59	89	2306.0	.	.	
+ch.1_536	RNASeq_F_asymmetry	transcript_region	91	92	3570.0	.	.	
+ch.1_536	RNASeq_F_asymmetry	transcript_region	94	118	3690.0	.	.	
+ch.1_536	WormBase	five_prime_UTR	101	415	.	+	.	Parent=Transcript:C15H11.11a.1
+ch.1_536	WormBase	exon	101	564	.	+	.	Parent=Transcript:C15H11.11a.1
+ch.1_536	WormBase	gene	101	784	.	+	.	ID=Gene:WBGene00007619
+ch.1_536	WormBase	mRNA	101	784	.	+	.	ID=Transcript:C15H11.11a.1;Parent=Gene:WBGene00007619
+ch.1_536	RNASeq_F_asymmetry	transcript_region	119	141	5567.0	.	.	
+ch.1_536	RNASeq_reads	transcript_region	133	191	2.0	.	.	
+ch.1_536	RNASeq_F_asymmetry	transcript_region	155	164	8910.0	.	.	
+ch.1_536	RNASeq_stranded	transcript_region	180	227	1.0	+	.	
+ch.1_536	RNASeq_reads	transcript_region	192	390	4.0	.	.	
+ch.1_536	RNASeq_splice	intron	213	273	6.0	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	264	313	1.0	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	348	564	1.0	+	.	
+ch.1_536	RNASeq_reads	transcript_region	391	564	7.0	.	.	
+ch.1_536	WormBase	CDS	416	564	.	+	.	ID=CDS:C15H11.11a;Parent=Transcript:C15H11.11a.1
+ch.1_536	WormBase	CDS	488	564	.	+	.	ID=CDS:C15H11.11b;Parent=Transcript:C15H11.11b.1
+ch.1_536	WormBase	exon	488	564	.	+	.	Parent=Transcript:C15H11.11b.1
+ch.1_536	WormBase	mRNA	488	748	.	+	.	ID=Transcript:C15H11.11b.1;Parent=Gene:WBGene00007619
+ch.1_536	RNASeq_reads	transcript_region	565	589	1.0	.	.	
+ch.1_536	WormBase	intron	565	609	.	+	.	Parent=Transcript:C15H11.11a.1
+ch.1_536	WormBase	intron	565	609	.	+	.	Parent=Transcript:C15H11.11b.1
+ch.1_536	RNASeq_splice	intron	565	609	28969.0	+	.	
+ch.1_536	RNASeq_splice	intron	569	609	138.0	+	.	
+ch.1_536	RNASeq_splice	intron	569	615	9.0	+	.	
+ch.1_536	RNASeq_splice	intron	588	631	420.0	-	.	
+ch.1_536	RNASeq_reads	transcript_region	591	595	1.0	.	.	
+ch.1_536	RNASeq_reads	transcript_region	603	609	1.0	.	.	
+ch.1_536	RNASeq_stranded	transcript_region	610	619	1.0	+	.	
+ch.1_536	WormBase	CDS	610	748	.	+	.	ID=CDS:C15H11.11a;Parent=Transcript:C15H11.11a.1
+ch.1_536	WormBase	CDS	610	748	.	+	.	ID=CDS:C15H11.11b;Parent=Transcript:C15H11.11b.1
+ch.1_536	WormBase	exon	610	748	.	+	.	Parent=Transcript:C15H11.11b.1
+ch.1_536	WormBase	exon	610	784	.	+	.	Parent=Transcript:C15H11.11a.1
+ch.1_536	RNASeq_reads	transcript_region	610	784	6.0	.	.	
+ch.1_536	RNASeq_stranded	transcript_region	620	620	2.0	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	621	630	4.0	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	631	672	7.0	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	673	720	11.0	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	715	723	1.0	-	.	
+ch.1_536	RNASeq	transcription_end_site	717	717	.	+	.	
+ch.1_536	RNASeq	transcription_end_site	717	717	.	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	721	732	7.0	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	724	731	2.0	-	.	
+ch.1_536	RNASeq_stranded	transcript_region	732	742	5.0	-	.	
+ch.1_536	RNASeq_stranded	transcript_region	733	752	4.0	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	743	757	8.0	-	.	
+ch.1_536	WormBase	three_prime_UTR	749	784	.	+	.	Parent=Transcript:C15H11.11a.1
+ch.1_536	RNASeq_stranded	transcript_region	753	767	2.0	+	.	
+ch.1_536	RNASeq_stranded	transcript_region	758	766	13.0	-	.	
+ch.1_536	RNASeq_stranded	transcript_region	767	797	20.0	-	.	
+ch.1_536	RNASeq_stranded	transcript_region	768	776	1.0	+	.	
+ch.1_536	RNASeq	transcription_end_site	769	769	.	+	.	
+ch.1_536	RNASeq	transcription_end_site	776	776	.	+	.	
+ch.1_536	RNASeq	transcription_end_site	776	776	.	+	.	
+ch.1_536	RNASeq	transcription_end_site	783	783	.	+	.	
+ch.1_536	RNASeq	transcription_end_site	783	783	.	+	.	
+ch.1_536	RNASeq_reads	transcript_region	785	807	11.0	.	.	
+ch.1_536	RNASeq_stranded	transcript_region	798	882	31.0	-	.	
+ch.1_536	RNASeq_reads	transcript_region	808	862	17.0	.	.	
+ch.1_536	RNASeq	transcription_end_site	856	856	.	+	.	

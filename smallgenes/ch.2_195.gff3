@@ -1,0 +1,103 @@
+ch.2_195	RNASeq_F_asymmetry	transcript_region	5	16	1781.0	.	.	
+ch.2_195	RNASeq_reads	transcript_region	12	40	1.0	.	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	17	34	3138.0	.	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	35	44	5705.0	.	.	
+ch.2_195	RNASeq_reads	transcript_region	41	102	2.0	.	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	45	86	8762.0	.	.	
+ch.2_195	RNASeq_splice	intron	50	108	977.0	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	79	102	1.0	+	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	87	102	13428.0	.	.	
+ch.2_195	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:F43E2.2.1
+ch.2_195	WormBase	exon	101	187	.	+	.	Parent=Transcript:F43E2.2.1
+ch.2_195	WormBase	gene	101	843	.	+	.	ID=Gene:WBGene00018391
+ch.2_195	WormBase	mRNA	101	843	.	+	.	ID=Transcript:F43E2.2.1;Parent=Gene:WBGene00018391
+ch.2_195	RNASeq_F_asymmetry	transcript_region	103	106	107166.0	.	.	
+ch.2_195	RNASeq_reads	transcript_region	103	106	22.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	103	106	4.0	+	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	107	108	208528.0	.	.	
+ch.2_195	RNASeq_reads	transcript_region	107	108	41.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	107	111	17.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	109	123	77.0	.	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	109	124	382392.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	112	132	26.0	+	.	
+ch.2_195	WormBase	CDS	112	187	.	+	.	ID=CDS:F43E2.2;Parent=Transcript:F43E2.2.1
+ch.2_195	RNASeq_reads	transcript_region	124	133	117.0	.	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	125	139	586049.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	133	187	40.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	134	187	178.0	.	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	140	177	887595.0	.	.	
+ch.2_195	WormBase	intron	188	250	.	+	.	Parent=Transcript:F43E2.2.1
+ch.2_195	RNASeq_splice	intron	188	250	1058410.0	+	.	
+ch.2_195	RNASeq_splice	intron	188	432	16.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	249	250	16.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	249	250	4.0	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	251	281	32.0	+	.	
+ch.2_195	WormBase	CDS	251	360	.	+	.	ID=CDS:F43E2.2;Parent=Transcript:F43E2.2.1
+ch.2_195	WormBase	exon	251	360	.	+	.	Parent=Transcript:F43E2.2.1
+ch.2_195	RNASeq_reads	transcript_region	251	360	218.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	282	332	54.0	+	.	
+ch.2_195	RNASeq_splice	intron	292	432	3.0	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	293	335	1.0	-	.	
+ch.2_195	RNASeq_stranded	transcript_region	333	359	26.0	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	360	360	17.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	361	361	24.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	361	362	3.0	+	.	
+ch.2_195	WormBase	intron	361	432	.	+	.	Parent=Transcript:F43E2.2.1
+ch.2_195	RNASeq_splice	intron	361	432	946716.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	362	362	15.0	.	.	
+ch.2_195	RNASeq_reads	transcript_region	363	363	1.0	.	.	
+ch.2_195	RNASeq_splice	intron	364	432	342.0	+	.	
+ch.2_195	RNASeq_splice	intron	373	446	4.0	-	.	
+ch.2_195	RNASeq_splice	intron	381	432	5.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	430	430	1.0	.	.	
+ch.2_195	RNASeq_reads	transcript_region	431	432	18.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	431	432	3.0	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	433	496	18.0	+	.	
+ch.2_195	WormBase	CDS	433	681	.	+	.	ID=CDS:F43E2.2;Parent=Transcript:F43E2.2.1
+ch.2_195	RNASeq_reads	transcript_region	433	699	181.0	.	.	
+ch.2_195	WormBase	exon	433	843	.	+	.	Parent=Transcript:F43E2.2.1
+ch.2_195	RNASeq_stranded	transcript_region	497	563	28.0	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	528	625	1.0	-	.	
+ch.2_195	RNASeq_stranded	transcript_region	564	612	50.0	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	613	654	76.0	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	644	674	1.0	-	.	
+ch.2_195	RNASeq_stranded	transcript_region	655	702	115.0	+	.	
+ch.2_195	RNASeq_R_asymmetry	transcript_region	671	699	716952.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	676	677	1.0	-	.	
+ch.2_195	RNASeq_stranded	transcript_region	680	789	1.0	-	.	
+ch.2_195	WormBase	three_prime_UTR	682	843	.	+	.	Parent=Transcript:F43E2.2.1
+ch.2_195	RNASeq_reads	transcript_region	700	736	119.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	703	742	176.0	+	.	
+ch.2_195	RNASeq	transcription_end_site	711	711	.	+	.	
+ch.2_195	RNASeq_reads	transcript_region	737	757	73.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	743	766	116.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	758	768	47.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	767	772	71.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	769	781	28.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	773	780	43.0	+	.	
+ch.2_195	RNASeq	transcription_end_site	775	775	.	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	781	788	27.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	782	789	18.0	.	.	
+ch.2_195	RNASeq	transcription_end_site	786	786	.	+	.	
+ch.2_195	RNASeq_stranded	transcript_region	789	789	17.0	+	.	
+ch.2_195	RNASeq	transcription_end_site	789	789	.	+	.	
+ch.2_195	RNASeq	transcription_end_site	790	790	.	+	.	
+ch.2_195	RNASeq_reads	transcript_region	790	793	9.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	790	794	9.0	+	.	
+ch.2_195	RNASeq	transcription_end_site	792	792	.	+	.	
+ch.2_195	RNASeq	transcription_end_site	794	794	.	+	.	
+ch.2_195	RNASeq_reads	transcript_region	794	795	5.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	795	795	5.0	+	.	
+ch.2_195	RNASeq	transcription_end_site	795	795	.	+	.	
+ch.2_195	RNASeq_reads	transcript_region	796	830	2.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	796	838	3.0	+	.	
+ch.2_195	RNASeq	transcription_end_site	812	812	.	+	.	
+ch.2_195	RNASeq_reads	transcript_region	831	845	1.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	839	846	1.0	+	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	877	877	1626.0	.	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	879	879	1696.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	884	884	1.0	+	.	
+ch.2_195	RNASeq_F_asymmetry	transcript_region	884	891	15943.0	.	.	
+ch.2_195	RNASeq_reads	transcript_region	884	891	3.0	.	.	
+ch.2_195	RNASeq_stranded	transcript_region	885	912	2.0	+	.	
+ch.2_195	RNASeq_reads	transcript_region	892	921	7.0	.	.	

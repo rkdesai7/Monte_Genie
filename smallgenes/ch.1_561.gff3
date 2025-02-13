@@ -1,0 +1,28 @@
+ch.1_561	WormBase	five_prime_UTR	101	164	.	+	.	Parent=Transcript:K07E12.2.1
+ch.1_561	WormBase	exon	101	181	.	+	.	Parent=Transcript:K07E12.2.1
+ch.1_561	WormBase	gene	101	636	.	+	.	ID=Gene:WBGene00019501
+ch.1_561	WormBase	mRNA	101	636	.	+	.	ID=Transcript:K07E12.2.1;Parent=Gene:WBGene00019501
+ch.1_561	RNASeq_F_asymmetry	transcript_region	155	160	2874.0	.	.	
+ch.1_561	RNASeq_reads	transcript_region	155	166	1.0	.	.	
+ch.1_561	RNASeq_stranded	transcript_region	159	181	1.0	+	.	
+ch.1_561	RNASeq_F_asymmetry	transcript_region	161	166	4781.0	.	.	
+ch.1_561	WormBase	CDS	165	181	.	+	.	ID=CDS:K07E12.2;Parent=Transcript:K07E12.2.1
+ch.1_561	RNASeq_F_asymmetry	transcript_region	167	181	7595.0	.	.	
+ch.1_561	RNASeq_reads	transcript_region	167	181	2.0	.	.	
+ch.1_561	WormBase	intron	182	231	.	+	.	Parent=Transcript:K07E12.2.1
+ch.1_561	RNASeq_splice	intron	182	231	11273.0	+	.	
+ch.1_561	RNASeq_reads	transcript_region	232	249	3.0	.	.	
+ch.1_561	RNASeq_F_asymmetry	transcript_region	232	267	13846.0	.	.	
+ch.1_561	RNASeq_stranded	transcript_region	232	467	1.0	+	.	
+ch.1_561	WormBase	CDS	232	577	.	+	.	ID=CDS:K07E12.2;Parent=Transcript:K07E12.2.1
+ch.1_561	WormBase	exon	232	636	.	+	.	Parent=Transcript:K07E12.2.1
+ch.1_561	RNASeq_reads	transcript_region	250	579	5.0	.	.	
+ch.1_561	RNASeq_stranded	transcript_region	468	497	2.0	+	.	
+ch.1_561	RNASeq_stranded	transcript_region	498	591	1.0	+	.	
+ch.1_561	WormBase	three_prime_UTR	578	636	.	+	.	Parent=Transcript:K07E12.2.1
+ch.1_561	RNASeq_reads	transcript_region	580	619	3.0	.	.	
+ch.1_561	RNASeq_R_asymmetry	transcript_region	587	588	12808.0	.	.	
+ch.1_561	RNASeq_R_asymmetry	transcript_region	590	590	11849.0	.	.	
+ch.1_561	RNASeq_R_asymmetry	transcript_region	592	618	11566.0	.	.	
+ch.1_561	RNASeq_reads	transcript_region	620	642	1.0	.	.	
+ch.1_561	RNASeq_R_asymmetry	transcript_region	627	634	5380.0	.	.	

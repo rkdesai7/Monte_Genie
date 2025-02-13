@@ -1,0 +1,64 @@
+ch.1_594	RNASeq_F_asymmetry	transcript_region	96	100	989.0	.	.	
+ch.1_594	RNASeq_F_asymmetry	transcript_region	101	106	7743.0	.	.	
+ch.1_594	RNASeq_reads	transcript_region	101	111	2.0	.	.	
+ch.1_594	WormBase	five_prime_UTR	101	209	.	+	.	Parent=Transcript:Y43C5A.7.1
+ch.1_594	WormBase	exon	101	273	.	+	.	Parent=Transcript:Y43C5A.7.1
+ch.1_594	WormBase	gene	101	850	.	+	.	ID=Gene:WBGene00044922
+ch.1_594	WormBase	mRNA	101	850	.	+	.	ID=Transcript:Y43C5A.7.1;Parent=Gene:WBGene00044922
+ch.1_594	RNASeq_stranded	transcript_region	106	155	1.0	+	.	
+ch.1_594	RNASeq_F_asymmetry	transcript_region	107	113	13292.0	.	.	
+ch.1_594	RNASeq_reads	transcript_region	112	127	4.0	.	.	
+ch.1_594	RNASeq_F_asymmetry	transcript_region	114	134	22846.0	.	.	
+ch.1_594	RNASeq_reads	transcript_region	128	187	7.0	.	.	
+ch.1_594	RNASeq_F_asymmetry	transcript_region	135	175	34602.0	.	.	
+ch.1_594	RNASeq_splice	intron	155	200	83.0	+	.	
+ch.1_594	RNASeq_stranded	transcript_region	177	196	1.0	+	.	
+ch.1_594	RNASeq_reads	transcript_region	188	208	11.0	.	.	
+ch.1_594	RNASeq_stranded	transcript_region	197	273	2.0	+	.	
+ch.1_594	RNASeq_reads	transcript_region	209	273	17.0	.	.	
+ch.1_594	WormBase	CDS	210	273	.	+	.	ID=CDS:Y43C5A.7;Parent=Transcript:Y43C5A.7.1
+ch.1_594	RNASeq_reads	transcript_region	274	274	2.0	.	.	
+ch.1_594	WormBase	intron	274	567	.	+	.	Parent=Transcript:Y43C5A.7.1
+ch.1_594	RNASeq_splice	intron	274	567	120937.0	+	.	
+ch.1_594	RNASeq_R_asymmetry	transcript_region	484	521	816.0	.	.	
+ch.1_594	RNASeq_R_asymmetry	transcript_region	525	527	730.0	.	.	
+ch.1_594	RNASeq_R_asymmetry	transcript_region	533	534	714.0	.	.	
+ch.1_594	RNASeq_reads	transcript_region	568	642	22.0	.	.	
+ch.1_594	RNASeq_stranded	transcript_region	568	686	2.0	+	.	
+ch.1_594	WormBase	CDS	568	743	.	+	.	ID=CDS:Y43C5A.7;Parent=Transcript:Y43C5A.7.1
+ch.1_594	WormBase	exon	568	850	.	+	.	Parent=Transcript:Y43C5A.7.1
+ch.1_594	RNASeq_splice	intron	610	705	3.0	+	.	
+ch.1_594	RNASeq_splice	intron	614	703	4.0	+	.	
+ch.1_594	RNASeq_splice	intron	615	704	15.0	+	.	
+ch.1_594	RNASeq_splice	intron	637	675	8.0	+	.	
+ch.1_594	RNASeq_reads	transcript_region	643	775	14.0	.	.	
+ch.1_594	RNASeq_splice	intron	649	705	14.0	+	.	
+ch.1_594	RNASeq_stranded	transcript_region	687	806	4.0	+	.	
+ch.1_594	RNASeq	transcription_end_site	743	743	.	+	.	
+ch.1_594	WormBase	three_prime_UTR	744	850	.	+	.	Parent=Transcript:Y43C5A.7.1
+ch.1_594	RNASeq_R_asymmetry	transcript_region	771	774	40875.0	.	.	
+ch.1_594	RNASeq_reads	transcript_region	776	815	9.0	.	.	
+ch.1_594	RNASeq_R_asymmetry	transcript_region	781	816	34107.0	.	.	
+ch.1_594	RNASeq_stranded	transcript_region	807	822	2.0	+	.	
+ch.1_594	RNASeq_reads	transcript_region	816	823	5.0	.	.	
+ch.1_594	RNASeq_R_asymmetry	transcript_region	817	823	22207.0	.	.	
+ch.1_594	RNASeq_stranded	transcript_region	823	845	1.0	+	.	
+ch.1_594	RNASeq_R_asymmetry	transcript_region	824	827	14215.0	.	.	
+ch.1_594	RNASeq_reads	transcript_region	824	833	3.0	.	.	
+ch.1_594	RNASeq	transcription_end_site	827	827	.	+	.	
+ch.1_594	RNASeq_reads	transcript_region	834	849	1.0	.	.	
+ch.1_594	RNASeq	transcription_end_site	850	850	.	+	.	
+ch.1_594	WormBase	five_prime_UTR	857	863	.	+	.	Parent=Transcript:Y43C5A.4.1
+ch.1_594	WormBase	exon	857	915	.	+	.	Parent=Transcript:Y43C5A.4.1
+ch.1_594	RNASeq_F_asymmetry	transcript_region	858	858	1256.0	.	.	
+ch.1_594	RNASeq_F_asymmetry	transcript_region	859	861	2325.0	.	.	
+ch.1_594	RNASeq_reads	transcript_region	859	870	1.0	.	.	
+ch.1_594	RNASeq_F_asymmetry	transcript_region	862	868	4134.0	.	.	
+ch.1_594	WormBase	CDS	864	915	.	+	.	ID=CDS:Y43C5A.4;Parent=Transcript:Y43C5A.4.1
+ch.1_594	RNASeq_F_asymmetry	transcript_region	869	881	6987.0	.	.	
+ch.1_594	RNASeq_reads	transcript_region	871	898	2.0	.	.	
+ch.1_594	RNASeq_stranded	transcript_region	880	898	1.0	+	.	
+ch.1_594	RNASeq_F_asymmetry	transcript_region	882	898	10712.0	.	.	
+ch.1_594	RNASeq_F_asymmetry	transcript_region	899	915	17101.0	.	.	
+ch.1_594	RNASeq_reads	transcript_region	899	915	4.0	.	.	
+ch.1_594	RNASeq_stranded	transcript_region	899	915	2.0	+	.	

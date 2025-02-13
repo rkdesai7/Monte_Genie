@@ -1,0 +1,24 @@
+ch.1_8	RNASeq_stranded	transcript_region	387	399	1.0	+	.	
+ch.1_8	RNASeq_stranded	transcript_region	360	386	2.0	+	.	
+ch.1_8	RNASeq_reads	transcript_region	313	377	1.0	.	.	
+ch.1_8	RNASeq_stranded	transcript_region	250	359	4.0	+	.	
+ch.1_8	WormBase	exon	210	337	.	+	.	Parent=Transcript:R09B5.2.1
+ch.1_8	WormBase	CDS	210	337	.	+	.	ID=CDS:R09B5.2;Parent=Transcript:R09B5.2.1
+ch.1_8	WormBase	gene	101	337	.	+	.	ID=Gene:WBGene00000555
+ch.1_8	WormBase	mRNA	101	337	.	+	.	ID=Transcript:R09B5.2.1;Parent=Gene:WBGene00000555
+ch.1_8	RNASeq_reads	transcript_region	210	312	2.0	.	.	
+ch.1_8	RNASeq_stranded	transcript_region	210	249	2.0	+	.	
+ch.1_8	WormBase	intron	162	209	.	+	.	Parent=Transcript:R09B5.2.1
+ch.1_8	RNASeq_splice	intron	162	209	10018.0	+	.	
+ch.1_8	RNASeq_R_asymmetry	transcript_region	163	165	339.0	.	.	
+ch.1_8	RNASeq_R_asymmetry	transcript_region	162	162	759.0	.	.	
+ch.1_8	RNASeq_reads	transcript_region	102	161	3.0	.	.	
+ch.1_8	WormBase	CDS	101	161	.	+	.	ID=CDS:R09B5.2;Parent=Transcript:R09B5.2.1
+ch.1_8	WormBase	exon	101	161	.	+	.	Parent=Transcript:R09B5.2.1
+ch.1_8	RNASeq_stranded	transcript_region	94	161	1.0	+	.	
+ch.1_8	RNASeq_R_asymmetry	transcript_region	103	138	11113.0	.	.	
+ch.1_8	RNASeq_R_asymmetry	transcript_region	96	102	6870.0	.	.	
+ch.1_8	RNASeq_reads	transcript_region	90	101	1.0	.	.	
+ch.1_8	RNASeq_R_asymmetry	transcript_region	94	95	4268.0	.	.	
+ch.1_8	RNASeq_R_asymmetry	transcript_region	88	93	2625.0	.	.	
+ch.1_8	RNASeq_R_asymmetry	transcript_region	87	87	1718.0	.	.	

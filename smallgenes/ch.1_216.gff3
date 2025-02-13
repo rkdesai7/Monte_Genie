@@ -1,0 +1,43 @@
+ch.1_216	RNASeq_splice	intron	3	120	7.0	+	.	
+ch.1_216	RNASeq_stranded	transcript_region	27	41	2.0	+	.	
+ch.1_216	RNASeq_stranded	transcript_region	42	136	1.0	+	.	
+ch.1_216	RNASeq_reads	transcript_region	46	132	4.0	.	.	
+ch.1_216	RNASeq_splice	intron	65	116	6.0	-	.	
+ch.1_216	RNASeq_splice	intron	73	120	178.0	+	.	
+ch.1_216	RNASeq_splice	intron	75	120	1405.0	+	.	
+ch.1_216	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:C39B10.6a.1
+ch.1_216	WormBase	exon	101	214	.	+	.	Parent=Transcript:C39B10.6a.1
+ch.1_216	WormBase	gene	101	533	.	+	.	ID=Gene:WBGene00001252
+ch.1_216	WormBase	mRNA	101	533	.	+	.	ID=Transcript:C39B10.6a.1;Parent=Gene:WBGene00001252
+ch.1_216	WormBase	CDS	102	214	.	+	.	ID=CDS:C39B10.6a;Parent=Transcript:C39B10.6a.1
+ch.1_216	WormBase	CDS	121	214	.	+	.	ID=CDS:C39B10.6b;Parent=Transcript:C39B10.6b.1
+ch.1_216	WormBase	exon	121	214	.	+	.	Parent=Transcript:C39B10.6b.1
+ch.1_216	WormBase	mRNA	121	312	.	+	.	ID=Transcript:C39B10.6b.1;Parent=Gene:WBGene00001252
+ch.1_216	RNASeq_reads	transcript_region	133	214	7.0	.	.	
+ch.1_216	RNASeq_stranded	transcript_region	137	150	2.0	+	.	
+ch.1_216	RNASeq_stranded	transcript_region	151	151	1.0	+	.	
+ch.1_216	RNASeq_stranded	transcript_region	152	213	2.0	+	.	
+ch.1_216	RNASeq_splice	intron	207	259	15.0	+	.	
+ch.1_216	RNASeq_splice	intron	211	259	3.0	+	.	
+ch.1_216	RNASeq_stranded	transcript_region	214	214	1.0	+	.	
+ch.1_216	WormBase	intron	215	259	.	+	.	Parent=Transcript:C39B10.6a.1
+ch.1_216	WormBase	intron	215	259	.	+	.	Parent=Transcript:C39B10.6b.1
+ch.1_216	RNASeq_splice	intron	215	259	37061.0	+	.	
+ch.1_216	RNASeq_splice	intron	215	281	3.0	+	.	
+ch.1_216	RNASeq_stranded	transcript_region	260	302	1.0	+	.	
+ch.1_216	WormBase	CDS	260	312	.	+	.	ID=CDS:C39B10.6b;Parent=Transcript:C39B10.6b.1
+ch.1_216	WormBase	exon	260	312	.	+	.	Parent=Transcript:C39B10.6b.1
+ch.1_216	RNASeq_reads	transcript_region	260	324	8.0	.	.	
+ch.1_216	WormBase	CDS	260	365	.	+	.	ID=CDS:C39B10.6a;Parent=Transcript:C39B10.6a.1
+ch.1_216	WormBase	exon	260	533	.	+	.	Parent=Transcript:C39B10.6a.1
+ch.1_216	RNASeq_stranded	transcript_region	303	354	2.0	+	.	
+ch.1_216	RNASeq_reads	transcript_region	325	405	5.0	.	.	
+ch.1_216	RNASeq_stranded	transcript_region	355	400	4.0	+	.	
+ch.1_216	WormBase	three_prime_UTR	366	533	.	+	.	Parent=Transcript:C39B10.6a.1
+ch.1_216	RNASeq_stranded	transcript_region	401	469	7.0	+	.	
+ch.1_216	RNASeq_reads	transcript_region	406	487	3.0	.	.	
+ch.1_216	RNASeq	transcription_end_site	446	446	.	+	.	
+ch.1_216	RNASeq_stranded	transcript_region	470	492	4.0	+	.	
+ch.1_216	RNASeq_reads	transcript_region	488	509	1.0	.	.	
+ch.1_216	RNASeq_stranded	transcript_region	493	503	2.0	+	.	
+ch.1_216	RNASeq_stranded	transcript_region	504	516	1.0	+	.	

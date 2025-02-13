@@ -1,0 +1,96 @@
+ch.1_19	RNASeq_reads	transcript_region	446	514	13.0	.	.	
+ch.1_19	RNASeq_R_asymmetry	transcript_region	483	493	42074.0	.	.	
+ch.1_19	WormBase	three_prime_UTR	421	493	.	-	.	Parent=Transcript:C26F1.5.1
+ch.1_19	RNASeq	transcription_end_site	484	484	.	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	481	481	1.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	480	480	2.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	456	480	1.0	+	.	
+ch.1_19	RNASeq_stranded	transcript_region	443	479	1.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	443	455	2.0	+	.	
+ch.1_19	RNASeq_reads	transcript_region	443	445	7.0	.	.	
+ch.1_19	RNASeq	transcription_end_site	442	442	.	-	.	
+ch.1_19	RNASeq	transcription_end_site	442	442	.	-	.	
+ch.1_19	RNASeq_reads	transcript_region	439	442	48.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	436	442	67.0	+	.	
+ch.1_19	RNASeq_stranded	transcript_region	430	442	2.0	-	.	
+ch.1_19	RNASeq_reads	transcript_region	434	438	77.0	.	.	
+ch.1_19	WormBase	three_prime_UTR	362	438	.	+	.	Parent=Transcript:C26F1.9.1
+ch.1_19	WormBase	exon	308	438	.	+	.	Parent=Transcript:C26F1.9.1
+ch.1_19	WormBase	gene	101	438	.	+	.	ID=Gene:WBGene00004453
+ch.1_19	WormBase	mRNA	101	438	.	+	.	ID=Transcript:C26F1.9.1;Parent=Gene:WBGene00004453
+ch.1_19	RNASeq_stranded	transcript_region	429	435	103.0	+	.	
+ch.1_19	RNASeq_reads	transcript_region	422	433	124.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	368	429	1.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	421	428	155.0	+	.	
+ch.1_19	RNASeq_reads	transcript_region	412	421	189.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	410	420	238.0	+	.	
+ch.1_19	RNASeq_F_asymmetry	transcript_region	404	411	1396440.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	404	411	346.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	396	409	366.0	+	.	
+ch.1_19	RNASeq_F_asymmetry	transcript_region	402	403	2193670.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	401	403	525.0	.	.	
+ch.1_19	RNASeq_F_asymmetry	transcript_region	400	401	3424250.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	392	400	979.0	.	.	
+ch.1_19	RNASeq_F_asymmetry	transcript_region	391	399	5724900.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	377	395	552.0	+	.	
+ch.1_19	RNASeq_reads	transcript_region	388	391	1752.0	.	.	
+ch.1_19	RNASeq_F_asymmetry	transcript_region	386	390	8642060.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	360	387	2657.0	.	.	
+ch.1_19	RNASeq_F_asymmetry	transcript_region	344	385	13032700.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	337	376	834.0	+	.	
+ch.1_19	RNASeq_stranded	transcript_region	340	367	2.0	-	.	
+ch.1_19	WormBase	CDS	308	361	.	+	.	ID=CDS:C26F1.9;Parent=Transcript:C26F1.9.1
+ch.1_19	RNASeq_reads	transcript_region	321	359	3992.0	.	.	
+ch.1_19	RNASeq_F_asymmetry	transcript_region	330	343	19869900.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	333	339	4.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	308	336	1269.0	+	.	
+ch.1_19	RNASeq_stranded	transcript_region	324	332	7.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	308	323	11.0	-	.	
+ch.1_19	RNASeq_reads	transcript_region	308	320	6000.0	.	.	
+ch.1_19	RNASeq_splice	intron	210	313	45.0	+	.	
+ch.1_19	RNASeq_splice	intron	206	313	2726.0	+	.	
+ch.1_19	RNASeq_stranded	transcript_region	306	307	1.0	+	.	
+ch.1_19	RNASeq_reads	transcript_region	305	307	3.0	.	.	
+ch.1_19	RNASeq_splice	intron	243	307	4.0	+	.	
+ch.1_19	RNASeq_splice	intron	216	307	14.0	+	.	
+ch.1_19	RNASeq_splice	intron	210	307	12.0	+	.	
+ch.1_19	WormBase	intron	206	307	.	+	.	Parent=Transcript:C26F1.9.1
+ch.1_19	RNASeq_splice	intron	206	307	29018400.0	+	.	
+ch.1_19	RNASeq_reads	transcript_region	211	304	1.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	231	241	1.0	+	.	
+ch.1_19	RNASeq_stranded	transcript_region	230	230	2.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	229	229	1.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	206	228	2.0	+	.	
+ch.1_19	RNASeq_R_asymmetry	transcript_region	210	210	8052.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	208	210	2.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	206	207	4.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	171	205	13.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	169	205	1312.0	+	.	
+ch.1_19	RNASeq_reads	transcript_region	111	205	5998.0	.	.	
+ch.1_19	WormBase	CDS	104	205	.	+	.	ID=CDS:C26F1.9;Parent=Transcript:C26F1.9.1
+ch.1_19	WormBase	exon	101	205	.	+	.	Parent=Transcript:C26F1.9.1
+ch.1_19	RNASeq_stranded	transcript_region	142	170	8.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	100	168	779.0	+	.	
+ch.1_19	RNASeq_R_asymmetry	transcript_region	106	150	20941800.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	138	141	5.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	131	137	3.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	124	130	1.0	-	.	
+ch.1_19	RNASeq_reads	transcript_region	106	110	3935.0	.	.	
+ch.1_19	RNASeq_R_asymmetry	transcript_region	101	105	12479800.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	101	105	2549.0	.	.	
+ch.1_19	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:C26F1.9.1
+ch.1_19	RNASeq_R_asymmetry	transcript_region	99	100	8133640.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	99	100	1622.0	.	.	
+ch.1_19	RNASeq_splice	intron	44	100	1337.0	+	.	
+ch.1_19	RNASeq_stranded	transcript_region	99	99	509.0	-	.	
+ch.1_19	RNASeq_stranded	transcript_region	96	98	44.0	+	.	
+ch.1_19	RNASeq_R_asymmetry	transcript_region	95	98	3915740.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	95	98	792.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	95	95	28.0	-	.	
+ch.1_19	RNASeq_reads	transcript_region	92	94	4.0	.	.	
+ch.1_19	RNASeq_stranded	transcript_region	58	94	1.0	+	.	
+ch.1_19	RNASeq_reads	transcript_region	69	91	2.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	66	68	1.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	61	65	2.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	44	60	1.0	.	.	
+ch.1_19	RNASeq_reads	transcript_region	7	43	2.0	.	.	

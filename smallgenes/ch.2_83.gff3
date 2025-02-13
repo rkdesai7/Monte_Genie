@@ -1,0 +1,98 @@
+ch.2_83	RNASeq_F_asymmetry	transcript_region	95	98	211011.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	95	98	43.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	95	98	1.0	+	.	
+ch.2_83	RNASeq_F_asymmetry	transcript_region	99	102	457304.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	99	102	92.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	99	107	42.0	+	.	
+ch.2_83	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:ZK652.1.1
+ch.2_83	WormBase	exon	101	199	.	+	.	Parent=Transcript:ZK652.1.1
+ch.2_83	WormBase	gene	101	605	.	+	.	ID=Gene:WBGene00004918
+ch.2_83	WormBase	mRNA	101	605	.	+	.	ID=Transcript:ZK652.1.1;Parent=Gene:WBGene00004918
+ch.2_83	RNASeq_F_asymmetry	transcript_region	103	106	692581.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	103	106	140.0	.	.	
+ch.2_83	WormBase	CDS	103	199	.	+	.	ID=CDS:ZK652.1;Parent=Transcript:ZK652.1.1
+ch.2_83	RNASeq_reads	transcript_region	107	126	225.0	.	.	
+ch.2_83	RNASeq_F_asymmetry	transcript_region	107	127	1129980.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	108	149	64.0	+	.	
+ch.2_83	RNASeq_reads	transcript_region	127	199	342.0	.	.	
+ch.2_83	RNASeq_F_asymmetry	transcript_region	128	171	1707380.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	150	199	112.0	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	200	200	28.0	+	.	
+ch.2_83	RNASeq_F_asymmetry	transcript_region	200	201	359641.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	200	201	76.0	.	.	
+ch.2_83	WormBase	intron	200	249	.	+	.	Parent=Transcript:ZK652.1.1
+ch.2_83	RNASeq_splice	intron	200	249	1912090.0	+	.	
+ch.2_83	RNASeq_splice	intron	200	287	3.0	+	.	
+ch.2_83	RNASeq_splice	intron	200	459	137.0	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	201	201	5.0	+	.	
+ch.2_83	RNASeq_reads	transcript_region	202	246	1.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	247	249	51.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	247	249	10.0	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	250	305	94.0	+	.	
+ch.2_83	WormBase	CDS	250	352	.	+	.	ID=CDS:ZK652.1;Parent=Transcript:ZK652.1.1
+ch.2_83	WormBase	exon	250	352	.	+	.	Parent=Transcript:ZK652.1.1
+ch.2_83	RNASeq_reads	transcript_region	250	352	375.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	297	307	1.0	-	.	
+ch.2_83	RNASeq_stranded	transcript_region	306	312	142.0	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	313	328	217.0	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	329	349	327.0	+	.	
+ch.2_83	RNASeq_splice	intron	345	454	16.0	-	.	
+ch.2_83	RNASeq_stranded	transcript_region	350	352	208.0	+	.	
+ch.2_83	RNASeq_reads	transcript_region	353	353	2.0	.	.	
+ch.2_83	RNASeq_splice	intron	353	431	241.0	+	.	
+ch.2_83	WormBase	intron	353	459	.	+	.	Parent=Transcript:ZK652.1.1
+ch.2_83	RNASeq_splice	intron	353	459	1814730.0	+	.	
+ch.2_83	RNASeq_reads	transcript_region	354	458	1.0	.	.	
+ch.2_83	RNASeq_splice	intron	357	459	34.0	+	.	
+ch.2_83	RNASeq_splice	intron	399	459	7.0	+	.	
+ch.2_83	RNASeq	transcription_end_site	402	402	.	+	.	
+ch.2_83	RNASeq_reads	transcript_region	459	459	32.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	459	459	30.0	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	460	515	133.0	+	.	
+ch.2_83	WormBase	CDS	460	517	.	+	.	ID=CDS:ZK652.1;Parent=Transcript:ZK652.1.1
+ch.2_83	RNASeq_reads	transcript_region	460	550	323.0	.	.	
+ch.2_83	WormBase	exon	460	605	.	+	.	Parent=Transcript:ZK652.1.1
+ch.2_83	RNASeq_stranded	transcript_region	466	503	1.0	-	.	
+ch.2_83	RNASeq_R_asymmetry	transcript_region	476	516	1459440.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	516	554	230.0	+	.	
+ch.2_83	WormBase	three_prime_UTR	518	605	.	+	.	Parent=Transcript:ZK652.1.1
+ch.2_83	RNASeq_R_asymmetry	transcript_region	520	530	1129380.0	.	.	
+ch.2_83	RNASeq_R_asymmetry	transcript_region	539	572	945414.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	551	572	213.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	555	568	148.0	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	569	585	95.0	+	.	
+ch.2_83	RNASeq_R_asymmetry	transcript_region	573	576	620980.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	573	576	137.0	.	.	
+ch.2_83	RNASeq_R_asymmetry	transcript_region	577	578	317821.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	577	582	79.0	.	.	
+ch.2_83	RNASeq	transcription_end_site	582	582	.	+	.	
+ch.2_83	RNASeq_reads	transcript_region	583	588	52.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	586	591	61.0	+	.	
+ch.2_83	RNASeq_reads	transcript_region	589	599	34.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	592	598	40.0	+	.	
+ch.2_83	RNASeq	transcription_end_site	595	595	.	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	599	602	25.0	+	.	
+ch.2_83	RNASeq_reads	transcript_region	600	605	22.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	603	606	16.0	+	.	
+ch.2_83	RNASeq	transcription_end_site	605	605	.	+	.	
+ch.2_83	RNASeq_reads	transcript_region	606	608	13.0	.	.	
+ch.2_83	RNASeq	transcription_end_site	607	607	.	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	607	608	10.0	+	.	
+ch.2_83	RNASeq	transcription_end_site	608	608	.	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	609	610	2.0	+	.	
+ch.2_83	RNASeq_R_asymmetry	transcript_region	609	613	17436.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	609	613	4.0	.	.	
+ch.2_83	RNASeq_stranded	transcript_region	611	616	1.0	+	.	
+ch.2_83	WormBase	three_prime_UTR	611	672	.	-	.	Parent=Transcript:C02C2.4.1
+ch.2_83	RNASeq	transcription_end_site	612	612	.	+	.	
+ch.2_83	RNASeq	transcription_end_site	613	613	.	+	.	
+ch.2_83	RNASeq	transcription_end_site	614	614	.	+	.	
+ch.2_83	RNASeq_R_asymmetry	transcript_region	614	616	7077.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	614	616	2.0	.	.	
+ch.2_83	RNASeq	transcription_end_site	615	615	.	+	.	
+ch.2_83	RNASeq_reads	transcript_region	617	664	1.0	.	.	
+ch.2_83	RNASeq	transcription_end_site	638	638	.	+	.	
+ch.2_83	RNASeq_stranded	transcript_region	646	682	1.0	-	.	
+ch.2_83	RNASeq_F_asymmetry	transcript_region	658	675	5694.0	.	.	
+ch.2_83	RNASeq_reads	transcript_region	665	692	2.0	.	.	
+ch.2_83	RNASeq_F_asymmetry	transcript_region	682	689	8753.0	.	.	

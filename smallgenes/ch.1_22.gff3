@@ -1,0 +1,29 @@
+ch.1_22	RNASeq_reads	transcript_region	101	101	1.0	.	.	
+ch.1_22	RNASeq_F_asymmetry	transcript_region	101	102	5068.0	.	.	
+ch.1_22	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:F09C6.12.1
+ch.1_22	WormBase	exon	101	212	.	+	.	Parent=Transcript:F09C6.12.1
+ch.1_22	WormBase	gene	101	487	.	+	.	ID=Gene:WBGene00044182
+ch.1_22	WormBase	mRNA	101	487	.	+	.	ID=Transcript:F09C6.12.1;Parent=Gene:WBGene00044182
+ch.1_22	RNASeq_reads	transcript_region	102	118	2.0	.	.	
+ch.1_22	RNASeq_F_asymmetry	transcript_region	103	119	11098.0	.	.	
+ch.1_22	RNASeq_stranded	transcript_region	109	128	1.0	+	.	
+ch.1_22	WormBase	CDS	111	212	.	+	.	ID=CDS:F09C6.12;Parent=Transcript:F09C6.12.1
+ch.1_22	RNASeq_reads	transcript_region	119	212	4.0	.	.	
+ch.1_22	RNASeq_F_asymmetry	transcript_region	120	157	16698.0	.	.	
+ch.1_22	RNASeq_stranded	transcript_region	129	162	2.0	+	.	
+ch.1_22	RNASeq_stranded	transcript_region	163	212	1.0	+	.	
+ch.1_22	WormBase	intron	213	258	.	+	.	Parent=Transcript:F09C6.12.1
+ch.1_22	RNASeq_splice	intron	213	258	21572.0	+	.	
+ch.1_22	RNASeq_reads	transcript_region	256	258	1.0	.	.	
+ch.1_22	RNASeq_reads	transcript_region	259	365	6.0	.	.	
+ch.1_22	WormBase	CDS	259	375	.	+	.	ID=CDS:F09C6.12;Parent=Transcript:F09C6.12.1
+ch.1_22	RNASeq_stranded	transcript_region	259	456	1.0	+	.	
+ch.1_22	WormBase	exon	259	487	.	+	.	Parent=Transcript:F09C6.12.1
+ch.1_22	RNASeq_reads	transcript_region	366	409	3.0	.	.	
+ch.1_22	WormBase	three_prime_UTR	376	487	.	+	.	Parent=Transcript:F09C6.12.1
+ch.1_22	RNASeq_R_asymmetry	transcript_region	385	406	12621.0	.	.	
+ch.1_22	RNASeq	transcription_end_site	403	403	.	+	.	
+ch.1_22	RNASeq	transcription_end_site	410	410	.	+	.	
+ch.1_22	RNASeq_reads	transcript_region	410	472	1.0	.	.	
+ch.1_22	RNASeq	transcription_end_site	411	411	.	+	.	
+ch.1_22	RNASeq	transcription_end_site	495	495	.	+	.	

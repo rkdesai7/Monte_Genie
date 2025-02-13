@@ -1,0 +1,47 @@
+ch.1_80	WormBase	three_prime_UTR	471	517	.	+	.	Parent=Transcript:F49D11.14.1
+ch.1_80	WormBase	exon	450	517	.	+	.	Parent=Transcript:F49D11.14.1
+ch.1_80	WormBase	gene	101	517	.	+	.	ID=Gene:WBGene00235254
+ch.1_80	WormBase	mRNA	101	517	.	+	.	ID=Transcript:F49D11.14.1;Parent=Gene:WBGene00235254
+ch.1_80	RNASeq_reads	transcript_region	478	512	1.0	.	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	477	479	4677.0	.	.	
+ch.1_80	RNASeq_reads	transcript_region	450	477	2.0	.	.	
+ch.1_80	RNASeq_stranded	transcript_region	472	476	1.0	+	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	459	476	8912.0	.	.	
+ch.1_80	WormBase	CDS	450	470	.	+	.	ID=CDS:F49D11.14;Parent=Transcript:F49D11.14.1
+ch.1_80	RNASeq_stranded	transcript_region	460	463	1.0	+	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	450	458	13635.0	.	.	
+ch.1_80	WormBase	intron	395	449	.	+	.	Parent=Transcript:F49D11.14.1
+ch.1_80	RNASeq_splice	intron	395	449	17355.0	+	.	
+ch.1_80	RNASeq_stranded	transcript_region	377	394	1.0	+	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	364	394	15287.0	.	.	
+ch.1_80	WormBase	CDS	137	394	.	+	.	ID=CDS:F49D11.14;Parent=Transcript:F49D11.14.1
+ch.1_80	RNASeq_reads	transcript_region	135	394	4.0	.	.	
+ch.1_80	WormBase	exon	101	394	.	+	.	Parent=Transcript:F49D11.14.1
+ch.1_80	RNASeq_stranded	transcript_region	260	376	2.0	+	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	356	363	22991.0	.	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	351	352	22792.0	.	.	
+ch.1_80	RNASeq_stranded	transcript_region	253	259	1.0	+	.	
+ch.1_80	RNASeq_stranded	transcript_region	225	251	1.0	+	.	
+ch.1_80	RNASeq_stranded	transcript_region	168	224	2.0	+	.	
+ch.1_80	RNASeq_R_asymmetry	transcript_region	134	222	16854.0	.	.	
+ch.1_80	RNASeq_splice	intron	22	208	6.0	-	.	
+ch.1_80	RNASeq_stranded	transcript_region	138	167	1.0	+	.	
+ch.1_80	WormBase	five_prime_UTR	101	136	.	+	.	Parent=Transcript:F49D11.14.1
+ch.1_80	RNASeq_reads	transcript_region	122	134	2.0	.	.	
+ch.1_80	RNASeq_R_asymmetry	transcript_region	125	133	10981.0	.	.	
+ch.1_80	RNASeq_R_asymmetry	transcript_region	120	124	7185.0	.	.	
+ch.1_80	RNASeq_reads	transcript_region	118	121	1.0	.	.	
+ch.1_80	RNASeq_R_asymmetry	transcript_region	119	119	4539.0	.	.	
+ch.1_80	RNASeq_R_asymmetry	transcript_region	118	118	2678.0	.	.	
+ch.1_80	RNASeq_R_asymmetry	transcript_region	117	117	1595.0	.	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	34	35	1064.0	.	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	28	33	1806.0	.	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	24	27	22774.0	.	.	
+ch.1_80	RNASeq_reads	transcript_region	24	27	5.0	.	.	
+ch.1_80	WormBase	five_prime_UTR	3	27	.	-	.	Parent=Transcript:F49D11.1.1
+ch.1_80	RNASeq_stranded	transcript_region	24	26	1.0	-	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	19	23	53867.0	.	.	
+ch.1_80	RNASeq_reads	transcript_region	19	23	11.0	.	.	
+ch.1_80	RNASeq_stranded	transcript_region	17	23	5.0	-	.	
+ch.1_80	RNASeq_F_asymmetry	transcript_region	8	18	107688.0	.	.	
+ch.1_80	RNASeq_reads	transcript_region	6	18	22.0	.	.	

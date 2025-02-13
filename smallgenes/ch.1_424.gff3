@@ -1,0 +1,74 @@
+ch.1_424	RNASeq_stranded	transcript_region	808	842	1.0	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	803	805	1.0	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	731	775	1.0	-	.	
+ch.1_424	WormBase	three_prime_UTR	674	750	.	+	.	Parent=Transcript:ZK512.7.1
+ch.1_424	WormBase	exon	368	750	.	+	.	Parent=Transcript:ZK512.7.1
+ch.1_424	WormBase	gene	101	750	.	+	.	ID=Gene:WBGene00013986
+ch.1_424	WormBase	mRNA	101	750	.	+	.	ID=Transcript:ZK512.7.1;Parent=Gene:WBGene00013986
+ch.1_424	RNASeq	transcription_end_site	738	738	.	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	731	738	1.0	+	.	
+ch.1_424	RNASeq_reads	transcript_region	729	733	12.0	.	.	
+ch.1_424	RNASeq	transcription_end_site	730	730	.	-	.	
+ch.1_424	RNASeq	transcription_end_site	730	730	.	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	725	730	4.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	639	730	3.0	-	.	
+ch.1_424	RNASeq_reads	transcript_region	713	728	23.0	.	.	
+ch.1_424	RNASeq_F_asymmetry	transcript_region	712	728	95739.0	.	.	
+ch.1_424	RNASeq_stranded	transcript_region	719	724	7.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	714	718	11.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	698	713	17.0	+	.	
+ch.1_424	RNASeq_reads	transcript_region	663	712	35.0	.	.	
+ch.1_424	RNASeq_F_asymmetry	transcript_region	680	711	145511.0	.	.	
+ch.1_424	RNASeq_splice	intron	663	710	12.0	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	685	697	26.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	666	684	40.0	+	.	
+ch.1_424	WormBase	CDS	368	673	.	+	.	ID=CDS:ZK512.7;Parent=Transcript:ZK512.7.1
+ch.1_424	RNASeq_stranded	transcript_region	612	665	61.0	+	.	
+ch.1_424	RNASeq_reads	transcript_region	644	662	54.0	.	.	
+ch.1_424	RNASeq_reads	transcript_region	611	643	84.0	.	.	
+ch.1_424	RNASeq_stranded	transcript_region	577	638	1.0	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	610	611	113.0	+	.	
+ch.1_424	RNASeq_reads	transcript_region	368	610	135.0	.	.	
+ch.1_424	RNASeq_stranded	transcript_region	559	609	171.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	571	571	1.0	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	538	564	1.0	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	531	558	89.0	+	.	
+ch.1_424	RNASeq_splice	intron	431	554	23.0	+	.	
+ch.1_424	RNASeq_splice	intron	422	554	8.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	514	537	2.0	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	511	530	58.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	487	513	1.0	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	487	510	36.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	446	486	23.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	387	445	15.0	+	.	
+ch.1_424	RNASeq_stranded	transcript_region	368	386	23.0	+	.	
+ch.1_424	RNASeq_splice	intron	255	371	12.0	+	.	
+ch.1_424	RNASeq_reads	transcript_region	367	367	10.0	.	.	
+ch.1_424	RNASeq_stranded	transcript_region	367	367	3.0	-	.	
+ch.1_424	WormBase	intron	251	367	.	+	.	Parent=Transcript:ZK512.7.1
+ch.1_424	RNASeq_splice	intron	251	367	511706.0	+	.	
+ch.1_424	RNASeq_reads	transcript_region	158	250	100.0	.	.	
+ch.1_424	RNASeq_stranded	transcript_region	152	250	29.0	+	.	
+ch.1_424	WormBase	CDS	131	250	.	+	.	ID=CDS:ZK512.7;Parent=Transcript:ZK512.7.1
+ch.1_424	WormBase	exon	101	250	.	+	.	Parent=Transcript:ZK512.7.1
+ch.1_424	RNASeq_R_asymmetry	transcript_region	129	182	293310.0	.	.	
+ch.1_424	RNASeq_reads	transcript_region	133	157	63.0	.	.	
+ch.1_424	RNASeq_stranded	transcript_region	132	151	12.0	+	.	
+ch.1_424	RNASeq_reads	transcript_region	125	132	40.0	.	.	
+ch.1_424	RNASeq_stranded	transcript_region	124	131	7.0	+	.	
+ch.1_424	WormBase	five_prime_UTR	101	130	.	+	.	Parent=Transcript:ZK512.7.1
+ch.1_424	RNASeq_R_asymmetry	transcript_region	125	128	192875.0	.	.	
+ch.1_424	RNASeq_R_asymmetry	transcript_region	124	124	109022.0	.	.	
+ch.1_424	RNASeq_reads	transcript_region	124	124	22.0	.	.	
+ch.1_424	RNASeq_stranded	transcript_region	118	123	4.0	+	.	
+ch.1_424	RNASeq_R_asymmetry	transcript_region	117	123	68220.0	.	.	
+ch.1_424	RNASeq_reads	transcript_region	117	123	14.0	.	.	
+ch.1_424	RNASeq_stranded	transcript_region	117	117	2.0	-	.	
+ch.1_424	RNASeq_stranded	transcript_region	113	116	1.0	+	.	
+ch.1_424	RNASeq_R_asymmetry	transcript_region	111	116	25627.0	.	.	
+ch.1_424	RNASeq_reads	transcript_region	111	116	5.0	.	.	
+ch.1_424	RNASeq_R_asymmetry	transcript_region	107	110	10785.0	.	.	
+ch.1_424	RNASeq_reads	transcript_region	107	110	2.0	.	.	
+ch.1_424	RNASeq_R_asymmetry	transcript_region	101	106	6654.0	.	.	
+ch.1_424	RNASeq_reads	transcript_region	101	106	1.0	.	.	
+ch.1_424	RNASeq_R_asymmetry	transcript_region	99	100	1792.0	.	.	

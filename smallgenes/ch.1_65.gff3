@@ -1,0 +1,51 @@
+ch.1_65	WormBase	five_prime_UTR	101	153	.	+	.	Parent=Transcript:F57A8.8.1
+ch.1_65	WormBase	exon	101	167	.	+	.	Parent=Transcript:F57A8.8.1
+ch.1_65	WormBase	gene	101	522	.	+	.	ID=Gene:WBGene00010183
+ch.1_65	WormBase	mRNA	101	522	.	+	.	ID=Transcript:F57A8.8.1;Parent=Gene:WBGene00010183
+ch.1_65	RNASeq_reads	transcript_region	102	103	1.0	.	.	
+ch.1_65	RNASeq_F_asymmetry	transcript_region	103	115	5937.0	.	.	
+ch.1_65	RNASeq_reads	transcript_region	104	117	2.0	.	.	
+ch.1_65	RNASeq_stranded	transcript_region	109	117	1.0	+	.	
+ch.1_65	RNASeq_F_asymmetry	transcript_region	116	117	10995.0	.	.	
+ch.1_65	RNASeq_F_asymmetry	transcript_region	118	120	16799.0	.	.	
+ch.1_65	RNASeq_reads	transcript_region	118	120	4.0	.	.	
+ch.1_65	RNASeq_stranded	transcript_region	118	129	2.0	+	.	
+ch.1_65	RNASeq_F_asymmetry	transcript_region	121	126	30781.0	.	.	
+ch.1_65	RNASeq_reads	transcript_region	121	126	7.0	.	.	
+ch.1_65	RNASeq_F_asymmetry	transcript_region	127	137	51349.0	.	.	
+ch.1_65	RNASeq_reads	transcript_region	127	138	11.0	.	.	
+ch.1_65	RNASeq_stranded	transcript_region	130	156	4.0	+	.	
+ch.1_65	RNASeq_F_asymmetry	transcript_region	138	167	77068.0	.	.	
+ch.1_65	RNASeq_reads	transcript_region	139	167	17.0	.	.	
+ch.1_65	WormBase	CDS	154	167	.	+	.	ID=CDS:F57A8.8;Parent=Transcript:F57A8.8.1
+ch.1_65	RNASeq_stranded	transcript_region	157	167	7.0	+	.	
+ch.1_65	RNASeq_splice	intron	168	204	24.0	+	.	
+ch.1_65	WormBase	intron	168	215	.	+	.	Parent=Transcript:F57A8.8.1
+ch.1_65	RNASeq_splice	intron	168	215	116826.0	+	.	
+ch.1_65	RNASeq_splice	intron	168	258	3.0	+	.	
+ch.1_65	RNASeq_reads	transcript_region	199	201	1.0	.	.	
+ch.1_65	RNASeq_reads	transcript_region	204	215	1.0	.	.	
+ch.1_65	RNASeq_F_asymmetry	transcript_region	216	232	107328.0	.	.	
+ch.1_65	RNASeq_stranded	transcript_region	216	302	7.0	+	.	
+ch.1_65	RNASeq_reads	transcript_region	216	429	25.0	.	.	
+ch.1_65	WormBase	CDS	216	438	.	+	.	ID=CDS:F57A8.8;Parent=Transcript:F57A8.8.1
+ch.1_65	WormBase	exon	216	522	.	+	.	Parent=Transcript:F57A8.8.1
+ch.1_65	RNASeq_splice	intron	286	311	3.0	+	.	
+ch.1_65	RNASeq_stranded	transcript_region	303	375	4.0	+	.	
+ch.1_65	RNASeq_stranded	transcript_region	376	490	7.0	+	.	
+ch.1_65	RNASeq_reads	transcript_region	430	477	16.0	.	.	
+ch.1_65	RNASeq_R_asymmetry	transcript_region	431	477	65599.0	.	.	
+ch.1_65	WormBase	three_prime_UTR	439	522	.	+	.	Parent=Transcript:F57A8.8.1
+ch.1_65	RNASeq	transcription_end_site	457	457	.	+	.	
+ch.1_65	RNASeq_R_asymmetry	transcript_region	478	481	42644.0	.	.	
+ch.1_65	RNASeq_reads	transcript_region	478	481	10.0	.	.	
+ch.1_65	RNASeq	transcription_end_site	480	480	.	+	.	
+ch.1_65	RNASeq_R_asymmetry	transcript_region	482	483	25850.0	.	.	
+ch.1_65	RNASeq_reads	transcript_region	482	499	6.0	.	.	
+ch.1_65	RNASeq	transcription_end_site	484	484	.	+	.	
+ch.1_65	RNASeq_stranded	transcript_region	491	504	4.0	+	.	
+ch.1_65	RNASeq_reads	transcript_region	500	519	3.0	.	.	
+ch.1_65	RNASeq_stranded	transcript_region	505	515	2.0	+	.	
+ch.1_65	RNASeq_stranded	transcript_region	516	522	1.0	+	.	
+ch.1_65	RNASeq_reads	transcript_region	520	522	1.0	.	.	
+ch.1_65	RNASeq	transcription_end_site	528	528	.	+	.	

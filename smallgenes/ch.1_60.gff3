@@ -1,0 +1,34 @@
+ch.1_60	RNASeq_reads	transcript_region	442	495	4.0	.	.	
+ch.1_60	RNASeq_stranded	transcript_region	470	473	1.0	-	.	
+ch.1_60	RNASeq_stranded	transcript_region	458	469	2.0	-	.	
+ch.1_60	RNASeq_stranded	transcript_region	442	457	4.0	-	.	
+ch.1_60	RNASeq_reads	transcript_region	440	441	1.0	.	.	
+ch.1_60	RNASeq_splice	intron	393	441	55.0	-	.	
+ch.1_60	WormBase	three_prime_UTR	415	428	.	+	.	Parent=Transcript:F56H9.9.1
+ch.1_60	WormBase	exon	253	428	.	+	.	Parent=Transcript:F56H9.9.1
+ch.1_60	WormBase	gene	101	428	.	+	.	ID=Gene:WBGene00206460
+ch.1_60	WormBase	mRNA	101	428	.	+	.	ID=Transcript:F56H9.9.1;Parent=Gene:WBGene00206460
+ch.1_60	RNASeq_reads	transcript_region	391	415	1.0	.	.	
+ch.1_60	WormBase	CDS	253	414	.	+	.	ID=CDS:F56H9.9;Parent=Transcript:F56H9.9.1
+ch.1_60	RNASeq_reads	transcript_region	365	390	2.0	.	.	
+ch.1_60	RNASeq_F_asymmetry	transcript_region	383	389	7715.0	.	.	
+ch.1_60	RNASeq_F_asymmetry	transcript_region	351	382	11577.0	.	.	
+ch.1_60	RNASeq_stranded	transcript_region	253	376	1.0	+	.	
+ch.1_60	RNASeq_splice	intron	324	373	7.0	-	.	
+ch.1_60	RNASeq_reads	transcript_region	253	364	4.0	.	.	
+ch.1_60	RNASeq	transcription_end_site	321	321	.	-	.	
+ch.1_60	RNASeq	transcription_end_site	284	284	.	-	.	
+ch.1_60	WormBase	intron	178	252	.	+	.	Parent=Transcript:F56H9.9.1
+ch.1_60	RNASeq_splice	intron	178	252	16985.0	+	.	
+ch.1_60	RNASeq_reads	transcript_region	122	177	4.0	.	.	
+ch.1_60	WormBase	CDS	109	177	.	+	.	ID=CDS:F56H9.9;Parent=Transcript:F56H9.9.1
+ch.1_60	WormBase	exon	101	177	.	+	.	Parent=Transcript:F56H9.9.1
+ch.1_60	RNASeq_R_asymmetry	transcript_region	91	126	10530.0	.	.	
+ch.1_60	RNASeq_stranded	transcript_region	118	123	1.0	+	.	
+ch.1_60	RNASeq_reads	transcript_region	93	121	2.0	.	.	
+ch.1_60	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:F56H9.9.1
+ch.1_60	RNASeq_reads	transcript_region	89	92	1.0	.	.	
+ch.1_60	RNASeq_R_asymmetry	transcript_region	89	90	5345.0	.	.	
+ch.1_60	RNASeq_R_asymmetry	transcript_region	88	88	1909.0	.	.	
+ch.1_60	RNASeq_R_asymmetry	transcript_region	71	87	796.0	.	.	
+ch.1_60	RNASeq_R_asymmetry	transcript_region	70	70	521.0	.	.	

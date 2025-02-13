@@ -1,0 +1,125 @@
+ch.3_67	RNASeq	transcription_end_site	824	824	.	-	.	
+ch.3_67	RNASeq	transcription_end_site	824	824	.	-	.	
+ch.3_67	RNASeq_reads	transcript_region	822	822	1.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	822	822	1.0	-	.	
+ch.3_67	RNASeq	transcription_end_site	822	822	.	-	.	
+ch.3_67	RNASeq	transcription_end_site	822	822	.	-	.	
+ch.3_67	RNASeq	transcription_end_site	821	821	.	-	.	
+ch.3_67	RNASeq	transcription_end_site	821	821	.	-	.	
+ch.3_67	RNASeq_reads	transcript_region	816	821	2.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	816	821	2.0	+	.	
+ch.3_67	WormBase	three_prime_UTR	739	821	.	+	.	Parent=Transcript:F44E2.6a.1
+ch.3_67	WormBase	three_prime_UTR	739	821	.	+	.	Parent=Transcript:F44E2.6b.1
+ch.3_67	WormBase	three_prime_UTR	739	821	.	+	.	Parent=Transcript:F44E2.6a.2
+ch.3_67	WormBase	exon	634	821	.	+	.	Parent=Transcript:F44E2.6a.1
+ch.3_67	WormBase	exon	634	821	.	+	.	Parent=Transcript:F44E2.6b.1
+ch.3_67	WormBase	exon	634	821	.	+	.	Parent=Transcript:F44E2.6a.2
+ch.3_67	WormBase	mRNA	160	821	.	+	.	ID=Transcript:F44E2.6b.1;Parent=Gene:WBGene00018419
+ch.3_67	WormBase	mRNA	129	821	.	+	.	ID=Transcript:F44E2.6a.2;Parent=Gene:WBGene00018419
+ch.3_67	WormBase	gene	101	821	.	+	.	ID=Gene:WBGene00018419
+ch.3_67	WormBase	mRNA	101	821	.	+	.	ID=Transcript:F44E2.6a.1;Parent=Gene:WBGene00018419
+ch.3_67	RNASeq	transcription_end_site	820	820	.	-	.	
+ch.3_67	RNASeq	transcription_end_site	820	820	.	-	.	
+ch.3_67	RNASeq_F_asymmetry	transcript_region	815	815	17537.0	.	.	
+ch.3_67	RNASeq_reads	transcript_region	808	815	4.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	807	815	4.0	+	.	
+ch.3_67	RNASeq_F_asymmetry	transcript_region	810	812	22332.0	.	.	
+ch.3_67	RNASeq_F_asymmetry	transcript_region	807	807	26965.0	.	.	
+ch.3_67	RNASeq_reads	transcript_region	786	807	7.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	799	806	7.0	+	.	
+ch.3_67	RNASeq_stranded	transcript_region	790	798	11.0	+	.	
+ch.3_67	RNASeq	transcription_end_site	792	792	.	-	.	
+ch.3_67	RNASeq_stranded	transcript_region	760	789	18.0	+	.	
+ch.3_67	RNASeq	transcription_end_site	788	788	.	-	.	
+ch.3_67	RNASeq_reads	transcript_region	774	785	11.0	.	.	
+ch.3_67	RNASeq	transcription_end_site	783	783	.	-	.	
+ch.3_67	RNASeq	transcription_end_site	783	783	.	-	.	
+ch.3_67	RNASeq_reads	transcript_region	734	773	18.0	.	.	
+ch.3_67	RNASeq_F_asymmetry	transcript_region	761	772	79413.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	726	759	28.0	+	.	
+ch.3_67	WormBase	CDS	634	738	.	+	.	ID=CDS:F44E2.6a;Parent=Transcript:F44E2.6a.1,Transcript:F44E2.6a.2
+ch.3_67	WormBase	CDS	634	738	.	+	.	ID=CDS:F44E2.6b;Parent=Transcript:F44E2.6b.1
+ch.3_67	RNASeq_reads	transcript_region	708	733	28.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	661	725	43.0	+	.	
+ch.3_67	RNASeq_reads	transcript_region	634	707	44.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	647	660	28.0	+	.	
+ch.3_67	RNASeq_stranded	transcript_region	637	646	18.0	+	.	
+ch.3_67	RNASeq_stranded	transcript_region	634	636	10.0	+	.	
+ch.3_67	RNASeq_reads	transcript_region	633	633	8.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	633	633	2.0	-	.	
+ch.3_67	WormBase	intron	592	633	.	+	.	Parent=Transcript:F44E2.6a.1
+ch.3_67	WormBase	intron	592	633	.	+	.	Parent=Transcript:F44E2.6a.2
+ch.3_67	WormBase	intron	592	633	.	+	.	Parent=Transcript:F44E2.6b.1
+ch.3_67	RNASeq_splice	intron	592	633	248620.0	+	.	
+ch.3_67	RNASeq_splice	intron	584	633	246.0	+	.	
+ch.3_67	RNASeq_splice	intron	577	633	73.0	+	.	
+ch.3_67	RNASeq_splice	intron	544	633	3.0	+	.	
+ch.3_67	RNASeq_splice	intron	535	633	180.0	+	.	
+ch.3_67	RNASeq_splice	intron	410	633	3.0	+	.	
+ch.3_67	RNASeq_reads	transcript_region	592	632	2.0	.	.	
+ch.3_67	RNASeq_reads	transcript_region	515	591	49.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	486	591	12.0	+	.	
+ch.3_67	WormBase	CDS	462	591	.	+	.	ID=CDS:F44E2.6a;Parent=Transcript:F44E2.6a.1,Transcript:F44E2.6a.2
+ch.3_67	WormBase	CDS	462	591	.	+	.	ID=CDS:F44E2.6b;Parent=Transcript:F44E2.6b.1
+ch.3_67	WormBase	exon	462	591	.	+	.	Parent=Transcript:F44E2.6a.1
+ch.3_67	WormBase	exon	462	591	.	+	.	Parent=Transcript:F44E2.6a.2
+ch.3_67	WormBase	exon	462	591	.	+	.	Parent=Transcript:F44E2.6b.1
+ch.3_67	RNASeq_reads	transcript_region	462	514	74.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	471	503	1.0	-	.	
+ch.3_67	RNASeq_stranded	transcript_region	462	485	19.0	+	.	
+ch.3_67	RNASeq_splice	intron	410	484	34.0	+	.	
+ch.3_67	RNASeq_splice	intron	388	484	5.0	+	.	
+ch.3_67	RNASeq_reads	transcript_region	457	461	4.0	.	.	
+ch.3_67	RNASeq_splice	intron	414	461	58.0	+	.	
+ch.3_67	WormBase	intron	410	461	.	+	.	Parent=Transcript:F44E2.6a.1
+ch.3_67	WormBase	intron	410	461	.	+	.	Parent=Transcript:F44E2.6a.2
+ch.3_67	WormBase	intron	410	461	.	+	.	Parent=Transcript:F44E2.6b.1
+ch.3_67	RNASeq_splice	intron	410	461	379858.0	+	.	
+ch.3_67	WormBase	CDS	322	409	.	+	.	ID=CDS:F44E2.6a;Parent=Transcript:F44E2.6a.1,Transcript:F44E2.6a.2
+ch.3_67	WormBase	CDS	322	409	.	+	.	ID=CDS:F44E2.6b;Parent=Transcript:F44E2.6b.1
+ch.3_67	WormBase	exon	322	409	.	+	.	Parent=Transcript:F44E2.6a.1
+ch.3_67	WormBase	exon	322	409	.	+	.	Parent=Transcript:F44E2.6a.2
+ch.3_67	WormBase	exon	322	409	.	+	.	Parent=Transcript:F44E2.6b.1
+ch.3_67	RNASeq_reads	transcript_region	322	409	74.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	322	409	32.0	+	.	
+ch.3_67	RNASeq_stranded	transcript_region	367	396	1.0	-	.	
+ch.3_67	RNASeq_reads	transcript_region	319	321	18.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	319	321	11.0	+	.	
+ch.3_67	WormBase	intron	276	321	.	+	.	Parent=Transcript:F44E2.6a.1
+ch.3_67	WormBase	intron	276	321	.	+	.	Parent=Transcript:F44E2.6a.2
+ch.3_67	WormBase	intron	276	321	.	+	.	Parent=Transcript:F44E2.6b.1
+ch.3_67	RNASeq_splice	intron	276	321	369356.0	+	.	
+ch.3_67	RNASeq_reads	transcript_region	318	318	11.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	318	318	7.0	-	.	
+ch.3_67	RNASeq_reads	transcript_region	276	276	8.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	276	276	1.0	-	.	
+ch.3_67	RNASeq_stranded	transcript_region	185	275	22.0	+	.	
+ch.3_67	WormBase	CDS	161	275	.	+	.	ID=CDS:F44E2.6b;Parent=Transcript:F44E2.6b.1
+ch.3_67	WormBase	exon	160	275	.	+	.	Parent=Transcript:F44E2.6b.1
+ch.3_67	RNASeq_reads	transcript_region	142	275	69.0	.	.	
+ch.3_67	WormBase	CDS	140	275	.	+	.	ID=CDS:F44E2.6a;Parent=Transcript:F44E2.6a.1,Transcript:F44E2.6a.2
+ch.3_67	WormBase	exon	129	275	.	+	.	Parent=Transcript:F44E2.6a.2
+ch.3_67	WormBase	exon	101	275	.	+	.	Parent=Transcript:F44E2.6a.1
+ch.3_67	RNASeq_stranded	transcript_region	261	267	1.0	-	.	
+ch.3_67	RNASeq_stranded	transcript_region	215	260	2.0	-	.	
+ch.3_67	RNASeq_stranded	transcript_region	179	214	1.0	-	.	
+ch.3_67	RNASeq_R_asymmetry	transcript_region	140	192	301047.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	140	184	34.0	+	.	
+ch.3_67	WormBase	five_prime_UTR	160	160	.	+	.	Parent=Transcript:F44E2.6b.1
+ch.3_67	RNASeq_reads	transcript_region	110	141	45.0	.	.	
+ch.3_67	WormBase	five_prime_UTR	129	139	.	+	.	Parent=Transcript:F44E2.6a.2
+ch.3_67	RNASeq_R_asymmetry	transcript_region	107	139	195271.0	.	.	
+ch.3_67	WormBase	five_prime_UTR	101	139	.	+	.	Parent=Transcript:F44E2.6a.1
+ch.3_67	RNASeq_stranded	transcript_region	101	139	14.0	+	.	
+ch.3_67	RNASeq_reads	transcript_region	100	109	28.0	.	.	
+ch.3_67	RNASeq_R_asymmetry	transcript_region	100	106	127507.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	99	100	9.0	+	.	
+ch.3_67	RNASeq_R_asymmetry	transcript_region	99	99	73491.0	.	.	
+ch.3_67	RNASeq_reads	transcript_region	99	99	14.0	.	.	
+ch.3_67	RNASeq_R_asymmetry	transcript_region	96	98	15193.0	.	.	
+ch.3_67	RNASeq_reads	transcript_region	96	98	3.0	.	.	
+ch.3_67	RNASeq_stranded	transcript_region	96	98	1.0	+	.	
+ch.3_67	RNASeq_reads	transcript_region	53	95	1.0	.	.	
+ch.3_67	RNASeq_R_asymmetry	transcript_region	93	94	4295.0	.	.	
+ch.3_67	RNASeq_reads	transcript_region	19	51	1.0	.	.	
+ch.3_67	RNASeq_reads	transcript_region	11	17	1.0	.	.	

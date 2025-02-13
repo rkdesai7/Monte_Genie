@@ -1,0 +1,40 @@
+ch.1_598	WormBase	three_prime_UTR	917	988	.	+	.	Parent=Transcript:F57G9.3.1
+ch.1_598	WormBase	exon	491	988	.	+	.	Parent=Transcript:F57G9.3.1
+ch.1_598	WormBase	gene	101	988	.	+	.	ID=Gene:WBGene00010219
+ch.1_598	WormBase	mRNA	101	988	.	+	.	ID=Transcript:F57G9.3.1;Parent=Gene:WBGene00010219
+ch.1_598	RNASeq_reads	transcript_region	980	985	1.0	.	.	
+ch.1_598	RNASeq_F_asymmetry	transcript_region	978	985	4781.0	.	.	
+ch.1_598	RNASeq_reads	transcript_region	959	979	2.0	.	.	
+ch.1_598	RNASeq_stranded	transcript_region	929	979	1.0	+	.	
+ch.1_598	RNASeq_F_asymmetry	transcript_region	961	977	8360.0	.	.	
+ch.1_598	RNASeq_F_asymmetry	transcript_region	923	960	15036.0	.	.	
+ch.1_598	RNASeq_reads	transcript_region	823	958	4.0	.	.	
+ch.1_598	RNASeq_stranded	transcript_region	913	928	2.0	+	.	
+ch.1_598	WormBase	CDS	491	916	.	+	.	ID=CDS:F57G9.3;Parent=Transcript:F57G9.3.1
+ch.1_598	RNASeq_stranded	transcript_region	884	912	4.0	+	.	
+ch.1_598	RNASeq_F_asymmetry	transcript_region	861	885	21233.0	.	.	
+ch.1_598	RNASeq_stranded	transcript_region	851	883	2.0	+	.	
+ch.1_598	RNASeq_stranded	transcript_region	774	850	4.0	+	.	
+ch.1_598	RNASeq_reads	transcript_region	491	822	7.0	.	.	
+ch.1_598	RNASeq_stranded	transcript_region	764	773	2.0	+	.	
+ch.1_598	RNASeq_stranded	transcript_region	760	763	1.0	+	.	
+ch.1_598	RNASeq_stranded	transcript_region	745	759	2.0	+	.	
+ch.1_598	RNASeq_stranded	transcript_region	632	744	1.0	+	.	
+ch.1_598	RNASeq_stranded	transcript_region	595	620	1.0	+	.	
+ch.1_598	RNASeq_reads	transcript_region	490	490	1.0	.	.	
+ch.1_598	WormBase	intron	437	490	.	+	.	Parent=Transcript:F57G9.3.1
+ch.1_598	RNASeq_splice	intron	437	490	32652.0	+	.	
+ch.1_598	RNASeq_splice	intron	428	490	7.0	+	.	
+ch.1_598	RNASeq_reads	transcript_region	437	446	1.0	.	.	
+ch.1_598	RNASeq_reads	transcript_region	166	436	6.0	.	.	
+ch.1_598	WormBase	CDS	119	436	.	+	.	ID=CDS:F57G9.3;Parent=Transcript:F57G9.3.1
+ch.1_598	WormBase	exon	101	436	.	+	.	Parent=Transcript:F57G9.3.1
+ch.1_598	RNASeq_R_asymmetry	transcript_region	156	218	19560.0	.	.	
+ch.1_598	RNASeq_reads	transcript_region	117	165	3.0	.	.	
+ch.1_598	RNASeq_R_asymmetry	transcript_region	127	155	12580.0	.	.	
+ch.1_598	RNASeq_R_asymmetry	transcript_region	108	126	7707.0	.	.	
+ch.1_598	WormBase	five_prime_UTR	101	118	.	+	.	Parent=Transcript:F57G9.3.1
+ch.1_598	RNASeq_reads	transcript_region	91	116	1.0	.	.	
+ch.1_598	RNASeq_R_asymmetry	transcript_region	100	107	5030.0	.	.	
+ch.1_598	RNASeq_R_asymmetry	transcript_region	97	99	3298.0	.	.	
+ch.1_598	RNASeq_reads	transcript_region	89	89	1.0	.	.	

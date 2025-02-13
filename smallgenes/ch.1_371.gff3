@@ -1,0 +1,92 @@
+ch.1_371	RNASeq_splice	intron	33	79	4.0	+	.	
+ch.1_371	RNASeq_splice	intron	33	155	12.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	87	109	2.0	.	.	
+ch.1_371	WormBase	five_prime_UTR	101	140	.	+	.	Parent=Transcript:T20G5.7.1
+ch.1_371	WormBase	exon	101	231	.	+	.	Parent=Transcript:T20G5.7.1
+ch.1_371	WormBase	gene	101	737	.	+	.	ID=Gene:WBGene00011869
+ch.1_371	WormBase	mRNA	101	737	.	+	.	ID=Transcript:T20G5.7.1;Parent=Gene:WBGene00011869
+ch.1_371	RNASeq_reads	transcript_region	110	110	5.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	110	110	1.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	111	122	93.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	111	123	10.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	123	130	146.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	124	129	16.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	130	146	28.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	131	145	229.0	.	.	
+ch.1_371	RNASeq_splice	intron	131	456	9.0	-	.	
+ch.1_371	RNASeq_splice	intron	131	518	24.0	-	.	
+ch.1_371	RNASeq_splice	intron	131	612	3.0	-	.	
+ch.1_371	RNASeq_splice	intron	131	618	3.0	-	.	
+ch.1_371	WormBase	CDS	141	231	.	+	.	ID=CDS:T20G5.7;Parent=Transcript:T20G5.7.1
+ch.1_371	RNASeq_reads	transcript_region	146	166	344.0	.	.	
+ch.1_371	RNASeq_splice	intron	146	612	10.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	147	174	43.0	+	.	
+ch.1_371	RNASeq_splice	intron	150	612	19.0	-	.	
+ch.1_371	RNASeq_splice	intron	150	618	4.0	-	.	
+ch.1_371	RNASeq_reads	transcript_region	167	231	524.0	.	.	
+ch.1_371	RNASeq_splice	intron	167	618	20.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	175	190	71.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	191	224	107.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	225	229	58.0	+	.	
+ch.1_371	RNASeq_splice	intron	226	274	23.0	-	.	
+ch.1_371	RNASeq_splice	intron	226	282	7965.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	230	231	35.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	232	282	1.0	.	.	
+ch.1_371	WormBase	intron	232	287	.	+	.	Parent=Transcript:T20G5.7.1
+ch.1_371	RNASeq_splice	intron	232	287	3375380.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	283	285	3.0	.	.	
+ch.1_371	RNASeq_reads	transcript_region	286	287	100.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	286	287	4.0	+	.	
+ch.1_371	WormBase	CDS	288	379	.	+	.	ID=CDS:T20G5.7;Parent=Transcript:T20G5.7.1
+ch.1_371	RNASeq_stranded	transcript_region	288	388	31.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	288	499	779.0	.	.	
+ch.1_371	WormBase	exon	288	737	.	+	.	Parent=Transcript:T20G5.7.1
+ch.1_371	RNASeq_stranded	transcript_region	292	350	1.0	-	.	
+ch.1_371	RNASeq_splice	intron	318	361	3.0	+	.	
+ch.1_371	RNASeq_splice	intron	330	516	5.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	361	454	1.0	-	.	
+ch.1_371	WormBase	three_prime_UTR	380	737	.	+	.	Parent=Transcript:T20G5.7.1
+ch.1_371	RNASeq_splice	intron	387	612	4.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	389	493	47.0	+	.	
+ch.1_371	RNASeq_splice	intron	399	456	5.0	-	.	
+ch.1_371	RNASeq_splice	intron	407	612	9.0	-	.	
+ch.1_371	RNASeq_splice	intron	407	635	3.0	-	.	
+ch.1_371	RNASeq_splice	intron	431	595	3.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	455	468	2.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	469	512	4.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	494	528	154.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	500	642	1170.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	513	551	1.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	529	554	69.0	+	.	
+ch.1_371	RNASeq_splice	intron	531	612	3.0	-	.	
+ch.1_371	RNASeq_splice	intron	546	578	5.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	555	573	104.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	567	573	1.0	-	.	
+ch.1_371	RNASeq_splice	intron	567	612	17.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	574	611	157.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	574	619	2.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	612	621	237.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	620	640	1.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	622	717	387.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	641	643	2.0	-	.	
+ch.1_371	RNASeq_reads	transcript_region	643	683	750.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	644	682	4.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	683	732	8.0	-	.	
+ch.1_371	RNASeq_reads	transcript_region	684	714	494.0	.	.	
+ch.1_371	RNASeq_reads	transcript_region	715	722	326.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	718	721	230.0	+	.	
+ch.1_371	RNASeq_stranded	transcript_region	722	730	122.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	723	725	201.0	.	.	
+ch.1_371	RNASeq_reads	transcript_region	726	729	127.0	.	.	
+ch.1_371	RNASeq_reads	transcript_region	730	732	59.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	731	733	60.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	733	735	31.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	733	737	5.0	-	.	
+ch.1_371	RNASeq_stranded	transcript_region	734	735	34.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	736	737	20.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	736	738	18.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	738	738	13.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	738	738	3.0	+	.	
+ch.1_371	RNASeq_reads	transcript_region	739	739	2.0	.	.	
+ch.1_371	RNASeq_stranded	transcript_region	739	740	1.0	+	.	
+ch.1_371	RNASeq	transcription_end_site	749	749	.	+	.	

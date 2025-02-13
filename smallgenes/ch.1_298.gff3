@@ -1,0 +1,41 @@
+ch.1_298	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:K10G6.9.1
+ch.1_298	WormBase	exon	101	225	.	+	.	Parent=Transcript:K10G6.9.1
+ch.1_298	WormBase	gene	101	598	.	+	.	ID=Gene:WBGene00206374
+ch.1_298	WormBase	mRNA	101	598	.	+	.	ID=Transcript:K10G6.9.1;Parent=Gene:WBGene00206374
+ch.1_298	RNASeq_F_asymmetry	transcript_region	105	110	13359.0	.	.	
+ch.1_298	RNASeq_reads	transcript_region	105	111	3.0	.	.	
+ch.1_298	RNASeq_stranded	transcript_region	105	116	3.0	+	.	
+ch.1_298	WormBase	CDS	107	225	.	+	.	ID=CDS:K10G6.9;Parent=Transcript:K10G6.9.1
+ch.1_298	RNASeq_F_asymmetry	transcript_region	111	147	20425.0	.	.	
+ch.1_298	RNASeq_reads	transcript_region	112	147	5.0	.	.	
+ch.1_298	RNASeq_stranded	transcript_region	117	147	5.0	+	.	
+ch.1_298	RNASeq_F_asymmetry	transcript_region	148	152	31659.0	.	.	
+ch.1_298	RNASeq_reads	transcript_region	148	225	8.0	.	.	
+ch.1_298	RNASeq_stranded	transcript_region	148	225	8.0	+	.	
+ch.1_298	RNASeq_reads	transcript_region	226	226	2.0	.	.	
+ch.1_298	RNASeq_stranded	transcript_region	226	227	2.0	+	.	
+ch.1_298	WormBase	intron	226	491	.	+	.	Parent=Transcript:K10G6.9.1
+ch.1_298	RNASeq_splice	intron	226	491	27417.0	+	.	
+ch.1_298	RNASeq_splice	intron	226	501	4.0	+	.	
+ch.1_298	RNASeq_reads	transcript_region	227	255	1.0	.	.	
+ch.1_298	RNASeq_reads	transcript_region	420	420	1.0	.	.	
+ch.1_298	RNASeq_reads	transcript_region	422	425	1.0	.	.	
+ch.1_298	RNASeq_reads	transcript_region	490	491	1.0	.	.	
+ch.1_298	RNASeq_stranded	transcript_region	490	491	2.0	+	.	
+ch.1_298	RNASeq_reads	transcript_region	492	543	5.0	.	.	
+ch.1_298	RNASeq_stranded	transcript_region	492	552	8.0	+	.	
+ch.1_298	WormBase	CDS	492	558	.	+	.	ID=CDS:K10G6.9;Parent=Transcript:K10G6.9.1
+ch.1_298	WormBase	exon	492	598	.	+	.	Parent=Transcript:K10G6.9.1
+ch.1_298	RNASeq_reads	transcript_region	544	569	3.0	.	.	
+ch.1_298	RNASeq_stranded	transcript_region	553	571	5.0	+	.	
+ch.1_298	RNASeq	transcription_end_site	554	554	.	+	.	
+ch.1_298	RNASeq	transcription_end_site	556	556	.	+	.	
+ch.1_298	WormBase	three_prime_UTR	559	598	.	+	.	Parent=Transcript:K10G6.9.1
+ch.1_298	RNASeq	transcription_end_site	568	568	.	+	.	
+ch.1_298	RNASeq_reads	transcript_region	570	617	1.0	.	.	
+ch.1_298	RNASeq	transcription_end_site	572	572	.	+	.	
+ch.1_298	RNASeq_stranded	transcript_region	572	586	3.0	+	.	
+ch.1_298	RNASeq_splice	intron	572	621	154.0	+	.	
+ch.1_298	WormBase	three_prime_UTR	581	667	.	-	.	Parent=Transcript:K10G6.4.1
+ch.1_298	RNASeq_stranded	transcript_region	587	592	1.0	+	.	
+ch.1_298	RNASeq_stranded	transcript_region	591	606	1.0	-	.	

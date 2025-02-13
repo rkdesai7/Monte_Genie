@@ -1,0 +1,71 @@
+ch.1_432	RNASeq_splice	intron	60	280	3.0	+	.	
+ch.1_432	RNASeq_F_asymmetry	transcript_region	98	100	3617.0	.	.	
+ch.1_432	RNASeq_reads	transcript_region	98	100	1.0	.	.	
+ch.1_432	RNASeq_F_asymmetry	transcript_region	101	101	8315.0	.	.	
+ch.1_432	RNASeq_reads	transcript_region	101	101	2.0	.	.	
+ch.1_432	WormBase	five_prime_UTR	101	130	.	+	.	Parent=Transcript:ZK970.7.1
+ch.1_432	WormBase	exon	101	439	.	+	.	Parent=Transcript:ZK970.7.1
+ch.1_432	WormBase	gene	101	751	.	+	.	ID=Gene:WBGene00014173
+ch.1_432	WormBase	mRNA	101	751	.	+	.	ID=Transcript:ZK970.7.1;Parent=Gene:WBGene00014173
+ch.1_432	RNASeq_reads	transcript_region	102	103	4.0	.	.	
+ch.1_432	RNASeq_reads	transcript_region	104	107	7.0	.	.	
+ch.1_432	RNASeq_reads	transcript_region	108	115	14.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	111	111	1.0	+	.	
+ch.1_432	RNASeq_stranded	transcript_region	112	123	2.0	+	.	
+ch.1_432	RNASeq_reads	transcript_region	116	122	22.0	.	.	
+ch.1_432	RNASeq_F_asymmetry	transcript_region	121	125	127466.0	.	.	
+ch.1_432	RNASeq_reads	transcript_region	123	127	35.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	124	134	4.0	+	.	
+ch.1_432	RNASeq_F_asymmetry	transcript_region	126	136	207534.0	.	.	
+ch.1_432	RNASeq_reads	transcript_region	128	141	54.0	.	.	
+ch.1_432	WormBase	CDS	131	439	.	+	.	ID=CDS:ZK970.7;Parent=Transcript:ZK970.7.1
+ch.1_432	RNASeq_stranded	transcript_region	135	165	7.0	+	.	
+ch.1_432	RNASeq_F_asymmetry	transcript_region	137	174	314540.0	.	.	
+ch.1_432	RNASeq_reads	transcript_region	142	184	86.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	166	347	11.0	+	.	
+ch.1_432	RNASeq_F_asymmetry	transcript_region	175	175	472338.0	.	.	
+ch.1_432	RNASeq_reads	transcript_region	185	439	131.0	.	.	
+ch.1_432	RNASeq_splice	intron	261	304	46.0	+	.	
+ch.1_432	RNASeq_stranded	transcript_region	348	380	17.0	+	.	
+ch.1_432	RNASeq_stranded	transcript_region	381	439	26.0	+	.	
+ch.1_432	RNASeq_reads	transcript_region	440	440	12.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	440	440	3.0	+	.	
+ch.1_432	RNASeq_splice	intron	440	501	4.0	+	.	
+ch.1_432	WormBase	intron	440	522	.	+	.	Parent=Transcript:ZK970.7.1
+ch.1_432	RNASeq_splice	intron	440	522	633316.0	+	.	
+ch.1_432	RNASeq_splice	intron	440	573	8.0	+	.	
+ch.1_432	RNASeq_reads	transcript_region	441	479	1.0	.	.	
+ch.1_432	RNASeq_splice	intron	444	522	17.0	+	.	
+ch.1_432	RNASeq_reads	transcript_region	480	522	2.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	523	574	26.0	+	.	
+ch.1_432	WormBase	CDS	523	657	.	+	.	ID=CDS:ZK970.7;Parent=Transcript:ZK970.7.1
+ch.1_432	RNASeq_reads	transcript_region	523	660	133.0	.	.	
+ch.1_432	WormBase	exon	523	751	.	+	.	Parent=Transcript:ZK970.7.1
+ch.1_432	RNASeq_stranded	transcript_region	569	577	1.0	-	.	
+ch.1_432	RNASeq_stranded	transcript_region	575	578	40.0	+	.	
+ch.1_432	RNASeq_stranded	transcript_region	579	600	61.0	+	.	
+ch.1_432	RNASeq_stranded	transcript_region	601	619	93.0	+	.	
+ch.1_432	RNASeq_stranded	transcript_region	620	642	140.0	+	.	
+ch.1_432	RNASeq_stranded	transcript_region	643	697	211.0	+	.	
+ch.1_432	WormBase	three_prime_UTR	658	751	.	+	.	Parent=Transcript:ZK970.7.1
+ch.1_432	RNASeq_reads	transcript_region	661	691	86.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	670	749	1.0	-	.	
+ch.1_432	RNASeq_reads	transcript_region	692	715	56.0	.	.	
+ch.1_432	RNASeq_splice	intron	696	750	7.0	-	.	
+ch.1_432	RNASeq_stranded	transcript_region	698	719	134.0	+	.	
+ch.1_432	RNASeq_reads	transcript_region	716	728	36.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	720	728	88.0	+	.	
+ch.1_432	RNASeq_stranded	transcript_region	729	735	57.0	+	.	
+ch.1_432	RNASeq_reads	transcript_region	729	742	23.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	736	743	36.0	+	.	
+ch.1_432	RNASeq_reads	transcript_region	743	746	15.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	744	748	23.0	+	.	
+ch.1_432	RNASeq_reads	transcript_region	747	748	9.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	749	749	11.0	+	.	
+ch.1_432	RNASeq_reads	transcript_region	749	751	5.0	.	.	
+ch.1_432	RNASeq_stranded	transcript_region	750	752	6.0	+	.	
+ch.1_432	RNASeq	transcription_end_site	751	751	.	+	.	
+ch.1_432	RNASeq_reads	transcript_region	752	752	3.0	.	.	
+ch.1_432	RNASeq	transcription_end_site	752	752	.	+	.	
+ch.1_432	RNASeq	transcription_end_site	753	753	.	+	.	
+ch.1_432	RNASeq_stranded	transcript_region	753	754	1.0	+	.	

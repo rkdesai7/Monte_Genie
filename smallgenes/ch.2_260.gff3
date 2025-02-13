@@ -1,0 +1,39 @@
+ch.2_260	RNASeq_splice	intron	721	779	8.0	+	.	
+ch.2_260	RNASeq_splice	intron	587	779	8.0	+	.	
+ch.2_260	RNASeq_F_asymmetry	transcript_region	733	733	728.0	.	.	
+ch.2_260	RNASeq_F_asymmetry	transcript_region	732	732	1291.0	.	.	
+ch.2_260	RNASeq_F_asymmetry	transcript_region	722	731	2948.0	.	.	
+ch.2_260	RNASeq_reads	transcript_region	694	731	1.0	.	.	
+ch.2_260	WormBase	three_prime_UTR	682	730	.	+	.	Parent=Transcript:Y110A2AL.7.1
+ch.2_260	WormBase	exon	523	730	.	+	.	Parent=Transcript:Y110A2AL.7.1
+ch.2_260	WormBase	gene	101	730	.	+	.	ID=Gene:WBGene00022444
+ch.2_260	WormBase	mRNA	101	730	.	+	.	ID=Transcript:Y110A2AL.7.1;Parent=Gene:WBGene00022444
+ch.2_260	RNASeq_F_asymmetry	transcript_region	664	721	4820.0	.	.	
+ch.2_260	RNASeq_reads	transcript_region	643	693	2.0	.	.	
+ch.2_260	WormBase	CDS	523	681	.	+	.	ID=CDS:Y110A2AL.7;Parent=Transcript:Y110A2AL.7.1
+ch.2_260	RNASeq_F_asymmetry	transcript_region	657	663	7383.0	.	.	
+ch.2_260	RNASeq_F_asymmetry	transcript_region	648	652	8861.0	.	.	
+ch.2_260	RNASeq_F_asymmetry	transcript_region	612	647	13412.0	.	.	
+ch.2_260	RNASeq_reads	transcript_region	523	642	4.0	.	.	
+ch.2_260	RNASeq_F_asymmetry	transcript_region	606	606	12031.0	.	.	
+ch.2_260	RNASeq	transcription_end_site	591	591	.	-	.	
+ch.2_260	RNASeq_reads	transcript_region	521	522	1.0	.	.	
+ch.2_260	WormBase	intron	474	522	.	+	.	Parent=Transcript:Y110A2AL.7.1
+ch.2_260	RNASeq_splice	intron	474	522	15065.0	+	.	
+ch.2_260	RNASeq_splice	intron	462	522	4.0	+	.	
+ch.2_260	WormBase	CDS	307	473	.	+	.	ID=CDS:Y110A2AL.7;Parent=Transcript:Y110A2AL.7.1
+ch.2_260	WormBase	exon	307	473	.	+	.	Parent=Transcript:Y110A2AL.7.1
+ch.2_260	RNASeq_reads	transcript_region	307	473	3.0	.	.	
+ch.2_260	RNASeq_splice	intron	264	318	8.0	+	.	
+ch.2_260	WormBase	intron	264	306	.	+	.	Parent=Transcript:Y110A2AL.7.1
+ch.2_260	RNASeq_splice	intron	264	306	13614.0	+	.	
+ch.2_260	RNASeq_reads	transcript_region	117	263	3.0	.	.	
+ch.2_260	WormBase	CDS	101	263	.	+	.	ID=CDS:Y110A2AL.7;Parent=Transcript:Y110A2AL.7.1
+ch.2_260	WormBase	exon	101	263	.	+	.	Parent=Transcript:Y110A2AL.7.1
+ch.2_260	RNASeq_R_asymmetry	transcript_region	115	141	9450.0	.	.	
+ch.2_260	RNASeq_reads	transcript_region	103	116	1.0	.	.	
+ch.2_260	RNASeq_R_asymmetry	transcript_region	109	114	6208.0	.	.	
+ch.2_260	RNASeq_R_asymmetry	transcript_region	103	108	3956.0	.	.	
+ch.2_260	RNASeq_R_asymmetry	transcript_region	102	102	2209.0	.	.	
+ch.2_260	RNASeq_R_asymmetry	transcript_region	101	101	1036.0	.	.	
+ch.2_260	RNASeq_R_asymmetry	transcript_region	100	100	626.0	.	.	

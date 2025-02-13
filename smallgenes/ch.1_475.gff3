@@ -1,0 +1,110 @@
+ch.1_475	RNASeq_stranded	transcript_region	860	867	2.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	758	862	61.0	-	.	
+ch.1_475	WormBase	three_prime_UTR	725	862	.	-	.	Parent=Transcript:R09B3.4.1
+ch.1_475	RNASeq_stranded	transcript_region	782	859	1.0	+	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	788	843	527886.0	.	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	782	787	303119.0	.	.	
+ch.1_475	RNASeq_reads	transcript_region	776	787	72.0	.	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	778	779	205643.0	.	.	
+ch.1_475	RNASeq	transcription_end_site	776	776	.	-	.	
+ch.1_475	RNASeq_reads	transcript_region	767	775	46.0	.	.	
+ch.1_475	RNASeq	transcription_end_site	773	773	.	-	.	
+ch.1_475	WormBase	three_prime_UTR	632	773	.	+	.	Parent=Transcript:R09B3.5.1
+ch.1_475	WormBase	exon	233	773	.	+	.	Parent=Transcript:R09B3.5.1
+ch.1_475	WormBase	gene	101	773	.	+	.	ID=Gene:WBGene00003123
+ch.1_475	WormBase	mRNA	101	773	.	+	.	ID=Transcript:R09B3.5.1;Parent=Gene:WBGene00003123
+ch.1_475	RNASeq_reads	transcript_region	750	766	29.0	.	.	
+ch.1_475	RNASeq	transcription_end_site	761	761	.	-	.	
+ch.1_475	RNASeq	transcription_end_site	759	759	.	-	.	
+ch.1_475	RNASeq	transcription_end_site	758	758	.	-	.	
+ch.1_475	RNASeq	transcription_end_site	758	758	.	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	756	758	9.0	+	.	
+ch.1_475	RNASeq	transcription_end_site	757	757	.	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	752	757	39.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	751	755	17.0	+	.	
+ch.1_475	RNASeq	transcription_end_site	752	752	.	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	746	751	25.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	747	750	31.0	+	.	
+ch.1_475	RNASeq_reads	transcript_region	722	749	44.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	733	746	66.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	736	745	16.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	730	735	10.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	725	732	101.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	726	729	6.0	-	.	
+ch.1_475	RNASeq	transcription_end_site	726	726	.	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	674	725	2.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	707	724	153.0	+	.	
+ch.1_475	RNASeq_reads	transcript_region	704	721	67.0	.	.	
+ch.1_475	RNASeq	transcription_end_site	706	706	.	-	.	
+ch.1_475	RNASeq	transcription_end_site	706	706	.	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	696	706	230.0	+	.	
+ch.1_475	RNASeq_reads	transcript_region	684	703	103.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	685	695	349.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	645	684	536.0	+	.	
+ch.1_475	RNASeq_reads	transcript_region	664	683	155.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	670	673	1.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	669	669	2.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	668	668	5.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	618	667	9.0	-	.	
+ch.1_475	RNASeq_reads	transcript_region	624	663	233.0	.	.	
+ch.1_475	RNASeq_F_asymmetry	transcript_region	634	646	1194370.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	549	644	345.0	+	.	
+ch.1_475	WormBase	CDS	233	631	.	+	.	ID=CDS:R09B3.5;Parent=Transcript:R09B3.5.1
+ch.1_475	RNASeq_reads	transcript_region	233	623	354.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	617	617	4.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	615	616	1.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	599	614	2.0	-	.	
+ch.1_475	RNASeq_splice	intron	526	610	7.0	-	.	
+ch.1_475	RNASeq_splice	intron	424	605	14.0	-	.	
+ch.1_475	RNASeq_splice	intron	442	603	6.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	432	598	1.0	-	.	
+ch.1_475	RNASeq_splice	intron	534	571	3.0	-	.	
+ch.1_475	RNASeq_splice	intron	518	571	3.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	510	548	221.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	407	509	142.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	374	431	2.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	397	406	93.0	+	.	
+ch.1_475	RNASeq_splice	intron	356	403	30.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	376	396	55.0	+	.	
+ch.1_475	RNASeq_splice	intron	315	387	11.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	326	375	84.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	257	373	1.0	-	.	
+ch.1_475	RNASeq_splice	intron	329	361	17.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	303	325	55.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	243	302	32.0	+	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	233	257	1745110.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	233	242	51.0	+	.	
+ch.1_475	RNASeq	transcription_end_site	233	233	.	-	.	
+ch.1_475	RNASeq_reads	transcript_region	231	232	28.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	231	232	9.0	+	.	
+ch.1_475	WormBase	intron	162	232	.	+	.	Parent=Transcript:R09B3.5.1
+ch.1_475	RNASeq_splice	intron	162	232	1923500.0	+	.	
+ch.1_475	RNASeq	transcription_end_site	231	231	.	-	.	
+ch.1_475	RNASeq	transcription_end_site	230	230	.	-	.	
+ch.1_475	RNASeq_reads	transcript_region	163	230	1.0	.	.	
+ch.1_475	RNASeq_splice	intron	162	213	92.0	+	.	
+ch.1_475	RNASeq	transcription_end_site	208	208	.	-	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	163	165	3469.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	163	163	1.0	-	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	162	162	124736.0	.	.	
+ch.1_475	RNASeq_reads	transcript_region	162	162	24.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	162	162	20.0	-	.	
+ch.1_475	RNASeq_stranded	transcript_region	151	161	65.0	+	.	
+ch.1_475	RNASeq_reads	transcript_region	113	161	375.0	.	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	111	161	1710230.0	.	.	
+ch.1_475	WormBase	CDS	102	161	.	+	.	ID=CDS:R09B3.5;Parent=Transcript:R09B3.5.1
+ch.1_475	WormBase	exon	101	161	.	+	.	Parent=Transcript:R09B3.5.1
+ch.1_475	RNASeq_stranded	transcript_region	104	150	98.0	+	.	
+ch.1_475	RNASeq_stranded	transcript_region	124	124	1.0	-	.	
+ch.1_475	RNASeq_reads	transcript_region	107	112	240.0	.	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	106	110	1100120.0	.	.	
+ch.1_475	RNASeq_reads	transcript_region	100	106	146.0	.	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	99	105	672140.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	99	103	64.0	+	.	
+ch.1_475	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:R09B3.5.1
+ch.1_475	RNASeq_splice	intron	52	100	19.0	+	.	
+ch.1_475	RNASeq_splice	intron	19	100	206.0	+	.	
+ch.1_475	RNASeq_reads	transcript_region	99	99	96.0	.	.	
+ch.1_475	RNASeq_R_asymmetry	transcript_region	95	98	165443.0	.	.	
+ch.1_475	RNASeq_reads	transcript_region	95	98	32.0	.	.	
+ch.1_475	RNASeq_stranded	transcript_region	95	98	6.0	+	.	

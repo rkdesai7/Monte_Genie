@@ -1,0 +1,25 @@
+ch.1_48	WormBase	five_prime_UTR	101	114	.	+	.	Parent=Transcript:W04H10.1.1
+ch.1_48	WormBase	exon	101	160	.	+	.	Parent=Transcript:W04H10.1.1
+ch.1_48	WormBase	gene	101	419	.	+	.	ID=Gene:WBGene00021030
+ch.1_48	WormBase	mRNA	101	419	.	+	.	ID=Transcript:W04H10.1.1;Parent=Gene:WBGene00021030
+ch.1_48	RNASeq_F_asymmetry	transcript_region	104	108	2328.0	.	.	
+ch.1_48	RNASeq_reads	transcript_region	104	122	1.0	.	.	
+ch.1_48	RNASeq_F_asymmetry	transcript_region	109	118	4079.0	.	.	
+ch.1_48	WormBase	CDS	115	160	.	+	.	ID=CDS:W04H10.1;Parent=Transcript:W04H10.1.1
+ch.1_48	RNASeq_F_asymmetry	transcript_region	119	146	6526.0	.	.	
+ch.1_48	RNASeq_reads	transcript_region	123	160	2.0	.	.	
+ch.1_48	RNASeq_stranded	transcript_region	130	160	1.0	+	.	
+ch.1_48	RNASeq_F_asymmetry	transcript_region	147	160	9816.0	.	.	
+ch.1_48	WormBase	intron	161	209	.	+	.	Parent=Transcript:W04H10.1.1
+ch.1_48	RNASeq_splice	intron	161	209	11438.0	+	.	
+ch.1_48	RNASeq_reads	transcript_region	209	209	1.0	.	.	
+ch.1_48	RNASeq_F_asymmetry	transcript_region	210	214	10419.0	.	.	
+ch.1_48	RNASeq_stranded	transcript_region	210	358	1.0	+	.	
+ch.1_48	RNASeq_reads	transcript_region	210	361	3.0	.	.	
+ch.1_48	WormBase	CDS	210	376	.	+	.	ID=CDS:W04H10.1;Parent=Transcript:W04H10.1.1
+ch.1_48	WormBase	exon	210	419	.	+	.	Parent=Transcript:W04H10.1.1
+ch.1_48	RNASeq_R_asymmetry	transcript_region	311	356	12890.0	.	.	
+ch.1_48	RNASeq_R_asymmetry	transcript_region	357	358	8450.0	.	.	
+ch.1_48	RNASeq_reads	transcript_region	362	417	1.0	.	.	
+ch.1_48	WormBase	three_prime_UTR	377	419	.	+	.	Parent=Transcript:W04H10.1.1
+ch.1_48	RNASeq	transcription_end_site	419	419	.	+	.	

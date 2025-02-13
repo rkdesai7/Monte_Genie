@@ -1,0 +1,33 @@
+ch.1_154	WormBase	three_prime_UTR	519	581	.	+	.	Parent=Transcript:Y46E12A.5.1
+ch.1_154	WormBase	exon	422	581	.	+	.	Parent=Transcript:Y46E12A.5.1
+ch.1_154	WormBase	gene	101	581	.	+	.	ID=Gene:WBGene00194738
+ch.1_154	WormBase	mRNA	101	581	.	+	.	ID=Transcript:Y46E12A.5.1;Parent=Gene:WBGene00194738
+ch.1_154	RNASeq_F_asymmetry	transcript_region	576	579	2146.0	.	.	
+ch.1_154	RNASeq_reads	transcript_region	534	578	1.0	.	.	
+ch.1_154	RNASeq_F_asymmetry	transcript_region	549	575	3223.0	.	.	
+ch.1_154	RNASeq_stranded	transcript_region	506	542	1.0	+	.	
+ch.1_154	RNASeq_F_asymmetry	transcript_region	519	534	5835.0	.	.	
+ch.1_154	RNASeq_reads	transcript_region	506	533	2.0	.	.	
+ch.1_154	RNASeq_F_asymmetry	transcript_region	507	518	8872.0	.	.	
+ch.1_154	WormBase	CDS	422	518	.	+	.	ID=CDS:Y46E12A.5;Parent=Transcript:Y46E12A.5.1
+ch.1_154	RNASeq_F_asymmetry	transcript_region	505	506	13730.0	.	.	
+ch.1_154	RNASeq_reads	transcript_region	491	505	4.0	.	.	
+ch.1_154	RNASeq_stranded	transcript_region	422	505	2.0	+	.	
+ch.1_154	RNASeq_F_asymmetry	transcript_region	473	504	20658.0	.	.	
+ch.1_154	RNASeq_reads	transcript_region	422	490	7.0	.	.	
+ch.1_154	RNASeq_F_asymmetry	transcript_region	472	472	31192.0	.	.	
+ch.1_154	WormBase	intron	181	421	.	+	.	Parent=Transcript:Y46E12A.5.1
+ch.1_154	RNASeq_splice	intron	181	421	31000.0	+	.	
+ch.1_154	RNASeq_stranded	transcript_region	150	180	2.0	+	.	
+ch.1_154	RNASeq_reads	transcript_region	121	180	7.0	.	.	
+ch.1_154	WormBase	CDS	101	180	.	+	.	ID=CDS:Y46E12A.5;Parent=Transcript:Y46E12A.5.1
+ch.1_154	WormBase	exon	101	180	.	+	.	Parent=Transcript:Y46E12A.5.1
+ch.1_154	RNASeq_R_asymmetry	transcript_region	114	162	25857.0	.	.	
+ch.1_154	RNASeq_stranded	transcript_region	140	149	1.0	+	.	
+ch.1_154	RNASeq_reads	transcript_region	112	120	4.0	.	.	
+ch.1_154	RNASeq_R_asymmetry	transcript_region	106	113	12218.0	.	.	
+ch.1_154	RNASeq_reads	transcript_region	106	111	2.0	.	.	
+ch.1_154	RNASeq_R_asymmetry	transcript_region	104	105	4977.0	.	.	
+ch.1_154	RNASeq_reads	transcript_region	100	105	1.0	.	.	
+ch.1_154	RNASeq_R_asymmetry	transcript_region	103	103	2476.0	.	.	
+ch.1_154	RNASeq_R_asymmetry	transcript_region	96	97	1920.0	.	.	

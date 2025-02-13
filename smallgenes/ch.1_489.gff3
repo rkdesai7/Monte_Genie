@@ -1,0 +1,105 @@
+ch.1_489	RNASeq_reads	transcript_region	101	101	15.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	101	101	5.0	+	.	
+ch.1_489	WormBase	five_prime_UTR	101	358	.	+	.	Parent=Transcript:Y70G10A.4.1
+ch.1_489	WormBase	exon	101	479	.	+	.	Parent=Transcript:Y70G10A.4.1
+ch.1_489	WormBase	gene	101	817	.	+	.	ID=Gene:WBGene00303019
+ch.1_489	WormBase	mRNA	101	817	.	+	.	ID=Transcript:Y70G10A.4.1;Parent=Gene:WBGene00303019
+ch.1_489	RNASeq_stranded	transcript_region	102	115	23.0	+	.	
+ch.1_489	WormBase	CDS	102	177	.	+	.	ID=CDS:T20G5.14;Parent=Transcript:T20G5.14.1
+ch.1_489	WormBase	exon	102	177	.	+	.	Parent=Transcript:T20G5.14.1
+ch.1_489	RNASeq_reads	transcript_region	102	177	157.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	116	166	65.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	139	148	1.0	-	.	
+ch.1_489	RNASeq_splice	intron	148	563	3.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	149	177	2.0	-	.	
+ch.1_489	RNASeq_stranded	transcript_region	167	177	19.0	+	.	
+ch.1_489	RNASeq_reads	transcript_region	178	179	27.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	178	179	2.0	+	.	
+ch.1_489	WormBase	intron	178	228	.	+	.	Parent=Transcript:T20G5.14.1
+ch.1_489	RNASeq_splice	intron	178	228	949099.0	+	.	
+ch.1_489	RNASeq_R_asymmetry	transcript_region	179	179	101247.0	.	.	
+ch.1_489	RNASeq_reads	transcript_region	226	228	13.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	226	228	5.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	229	243	37.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	229	273	3.0	-	.	
+ch.1_489	WormBase	CDS	229	315	.	+	.	ID=CDS:T20G5.14;Parent=Transcript:T20G5.14.1
+ch.1_489	WormBase	exon	229	315	.	+	.	Parent=Transcript:T20G5.14.1
+ch.1_489	RNASeq_reads	transcript_region	229	315	170.0	.	.	
+ch.1_489	RNASeq_splice	intron	229	358	6.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	244	305	56.0	+	.	
+ch.1_489	RNASeq_splice	intron	266	434	3.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	274	288	1.0	-	.	
+ch.1_489	RNASeq_stranded	transcript_region	306	315	36.0	+	.	
+ch.1_489	RNASeq_splice	intron	307	358	49.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	316	318	2.0	+	.	
+ch.1_489	RNASeq_reads	transcript_region	316	319	6.0	.	.	
+ch.1_489	WormBase	intron	316	358	.	+	.	Parent=Transcript:T20G5.14.1
+ch.1_489	RNASeq_splice	intron	316	358	780189.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	319	319	1.0	+	.	
+ch.1_489	WormBase	CDS	359	362	.	+	.	ID=CDS:T20G5.14;Parent=Transcript:T20G5.14.1
+ch.1_489	RNASeq_stranded	transcript_region	359	428	25.0	+	.	
+ch.1_489	WormBase	CDS	359	479	.	+	.	ID=CDS:Y70G10A.4;Parent=Transcript:Y70G10A.4.1
+ch.1_489	RNASeq_reads	transcript_region	359	479	143.0	.	.	
+ch.1_489	WormBase	exon	359	766	.	+	.	Parent=Transcript:T20G5.14.1
+ch.1_489	WormBase	three_prime_UTR	363	766	.	+	.	Parent=Transcript:T20G5.14.1
+ch.1_489	RNASeq_stranded	transcript_region	388	438	1.0	-	.	
+ch.1_489	RNASeq_stranded	transcript_region	429	475	38.0	+	.	
+ch.1_489	RNASeq_splice	intron	444	547	20.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	463	479	1.0	-	.	
+ch.1_489	RNASeq_stranded	transcript_region	476	479	25.0	+	.	
+ch.1_489	RNASeq_reads	transcript_region	480	481	21.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	480	481	12.0	+	.	
+ch.1_489	RNASeq_splice	intron	480	514	63.0	+	.	
+ch.1_489	WormBase	intron	480	531	.	+	.	Parent=Transcript:Y70G10A.4.1
+ch.1_489	RNASeq_splice	intron	480	531	714052.0	+	.	
+ch.1_489	RNASeq_splice	intron	480	547	450.0	+	.	
+ch.1_489	RNASeq_reads	transcript_region	529	530	1.0	.	.	
+ch.1_489	RNASeq_reads	transcript_region	531	531	18.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	531	531	3.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	532	554	13.0	+	.	
+ch.1_489	WormBase	CDS	532	650	.	+	.	ID=CDS:Y70G10A.4;Parent=Transcript:Y70G10A.4.1
+ch.1_489	RNASeq_reads	transcript_region	532	724	138.0	.	.	
+ch.1_489	WormBase	exon	532	817	.	+	.	Parent=Transcript:Y70G10A.4.1
+ch.1_489	RNASeq_stranded	transcript_region	538	565	1.0	-	.	
+ch.1_489	RNASeq_stranded	transcript_region	555	573	20.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	568	602	1.0	-	.	
+ch.1_489	RNASeq_stranded	transcript_region	574	621	31.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	604	613	1.0	-	.	
+ch.1_489	RNASeq_stranded	transcript_region	622	694	47.0	+	.	
+ch.1_489	WormBase	three_prime_UTR	651	817	.	+	.	Parent=Transcript:Y70G10A.4.1
+ch.1_489	RNASeq_stranded	transcript_region	660	725	1.0	-	.	
+ch.1_489	RNASeq_R_asymmetry	transcript_region	673	722	535795.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	695	707	73.0	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	708	736	111.0	+	.	
+ch.1_489	RNASeq_reads	transcript_region	725	741	80.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	737	751	72.0	+	.	
+ch.1_489	RNASeq	transcription_end_site	742	742	.	+	.	
+ch.1_489	RNASeq_reads	transcript_region	742	763	51.0	.	.	
+ch.1_489	RNASeq_R_asymmetry	transcript_region	745	764	191301.0	.	.	
+ch.1_489	RNASeq	transcription_end_site	748	748	.	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	751	771	1.0	-	.	
+ch.1_489	RNASeq_stranded	transcript_region	752	768	47.0	+	.	
+ch.1_489	RNASeq	transcription_end_site	757	757	.	+	.	
+ch.1_489	RNASeq_reads	transcript_region	764	771	32.0	.	.	
+ch.1_489	RNASeq	transcription_end_site	769	769	.	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	769	785	31.0	+	.	
+ch.1_489	RNASeq_reads	transcript_region	772	790	21.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	786	791	20.0	+	.	
+ch.1_489	RNASeq_reads	transcript_region	791	800	13.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	792	798	13.0	+	.	
+ch.1_489	RNASeq	transcription_end_site	796	796	.	+	.	
+ch.1_489	RNASeq_R_asymmetry	transcript_region	796	804	41378.0	.	.	
+ch.1_489	RNASeq	transcription_end_site	798	798	.	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	799	805	8.0	+	.	
+ch.1_489	RNASeq	transcription_end_site	801	801	.	+	.	
+ch.1_489	RNASeq_reads	transcript_region	801	807	8.0	.	.	
+ch.1_489	RNASeq	transcription_end_site	804	804	.	+	.	
+ch.1_489	RNASeq_R_asymmetry	transcript_region	805	807	25154.0	.	.	
+ch.1_489	RNASeq	transcription_end_site	806	806	.	+	.	
+ch.1_489	RNASeq_stranded	transcript_region	806	810	5.0	+	.	
+ch.1_489	RNASeq_reads	transcript_region	808	813	4.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	811	826	3.0	+	.	
+ch.1_489	RNASeq_reads	transcript_region	814	823	2.0	.	.	
+ch.1_489	RNASeq_reads	transcript_region	824	852	1.0	.	.	
+ch.1_489	RNASeq_stranded	transcript_region	827	853	1.0	+	.	
+ch.1_489	RNASeq	transcription_end_site	841	841	.	+	.	

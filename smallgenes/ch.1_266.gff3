@@ -1,0 +1,21 @@
+ch.1_266	RNASeq_splice	intron	30	243	20.0	-	.	
+ch.1_266	WormBase	five_prime_UTR	101	258	.	+	.	Parent=Transcript:F38A5.9.1
+ch.1_266	WormBase	exon	101	450	.	+	.	Parent=Transcript:F38A5.9.1
+ch.1_266	WormBase	gene	101	671	.	+	.	ID=Gene:WBGene00018166
+ch.1_266	WormBase	mRNA	101	671	.	+	.	ID=Transcript:F38A5.9.1;Parent=Gene:WBGene00018166
+ch.1_266	RNASeq_reads	transcript_region	154	193	1.0	.	.	
+ch.1_266	RNASeq_reads	transcript_region	194	390	2.0	.	.	
+ch.1_266	WormBase	CDS	259	450	.	+	.	ID=CDS:F38A5.9;Parent=Transcript:F38A5.9.1
+ch.1_266	RNASeq_reads	transcript_region	391	450	4.0	.	.	
+ch.1_266	RNASeq_stranded	transcript_region	405	450	1.0	+	.	
+ch.1_266	RNASeq_reads	transcript_region	451	451	1.0	.	.	
+ch.1_266	WormBase	intron	451	499	.	+	.	Parent=Transcript:F38A5.9.1
+ch.1_266	RNASeq_splice	intron	451	499	10086.0	+	.	
+ch.1_266	RNASeq_stranded	transcript_region	500	508	1.0	+	.	
+ch.1_266	RNASeq_R_asymmetry	transcript_region	500	512	20315.0	.	.	
+ch.1_266	RNASeq_reads	transcript_region	500	520	5.0	.	.	
+ch.1_266	WormBase	CDS	500	553	.	+	.	ID=CDS:F38A5.9;Parent=Transcript:F38A5.9.1
+ch.1_266	WormBase	exon	500	671	.	+	.	Parent=Transcript:F38A5.9.1
+ch.1_266	RNASeq_reads	transcript_region	521	559	3.0	.	.	
+ch.1_266	WormBase	three_prime_UTR	554	671	.	+	.	Parent=Transcript:F38A5.9.1
+ch.1_266	RNASeq_reads	transcript_region	560	632	1.0	.	.	

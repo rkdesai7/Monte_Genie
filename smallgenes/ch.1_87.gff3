@@ -1,0 +1,64 @@
+ch.1_87	RNASeq_F_asymmetry	transcript_region	19	26	1063.0	.	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	27	36	1608.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	29	84	1.0	.	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	37	42	2515.0	.	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	45	52	2944.0	.	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	57	81	3739.0	.	.	
+ch.1_87	RNASeq_stranded	transcript_region	72	103	1.0	+	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	82	88	5695.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	85	90	2.0	.	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	89	96	12659.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	91	100	4.0	.	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	97	101	23324.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	101	103	7.0	.	.	
+ch.1_87	WormBase	five_prime_UTR	101	135	.	+	.	Parent=Transcript:C32E8.4.1
+ch.1_87	WormBase	exon	101	303	.	+	.	Parent=Transcript:C32E8.4.1
+ch.1_87	WormBase	gene	101	420	.	+	.	ID=Gene:WBGene00016322
+ch.1_87	WormBase	mRNA	101	420	.	+	.	ID=Transcript:C32E8.4.1;Parent=Gene:WBGene00016322
+ch.1_87	RNASeq_F_asymmetry	transcript_region	102	107	38891.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	104	109	11.0	.	.	
+ch.1_87	RNASeq_stranded	transcript_region	104	121	2.0	+	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	108	112	75581.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	110	118	21.0	.	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	113	121	116113.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	119	155	32.0	.	.	
+ch.1_87	RNASeq_stranded	transcript_region	122	122	4.0	+	.	
+ch.1_87	RNASeq_F_asymmetry	transcript_region	122	160	174445.0	.	.	
+ch.1_87	RNASeq_stranded	transcript_region	123	125	9.0	+	.	
+ch.1_87	RNASeq_stranded	transcript_region	126	198	16.0	+	.	
+ch.1_87	WormBase	CDS	136	303	.	+	.	ID=CDS:C32E8.4;Parent=Transcript:C32E8.4.1
+ch.1_87	RNASeq_reads	transcript_region	156	303	49.0	.	.	
+ch.1_87	RNASeq_stranded	transcript_region	199	246	28.0	+	.	
+ch.1_87	RNASeq_stranded	transcript_region	247	249	17.0	+	.	
+ch.1_87	RNASeq_stranded	transcript_region	250	262	9.0	+	.	
+ch.1_87	RNASeq_stranded	transcript_region	263	303	5.0	+	.	
+ch.1_87	RNASeq_stranded	transcript_region	287	303	1.0	-	.	
+ch.1_87	RNASeq_R_asymmetry	transcript_region	294	303	173623.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	304	304	3.0	.	.	
+ch.1_87	RNASeq_splice	intron	304	344	46.0	+	.	
+ch.1_87	WormBase	intron	304	354	.	+	.	Parent=Transcript:C32E8.4.1
+ch.1_87	RNASeq_splice	intron	304	354	221986.0	+	.	
+ch.1_87	RNASeq_splice	intron	308	354	60.0	+	.	
+ch.1_87	RNASeq_splice	intron	308	360	4.0	+	.	
+ch.1_87	WormBase	CDS	355	369	.	+	.	ID=CDS:C32E8.4;Parent=Transcript:C32E8.4.1
+ch.1_87	RNASeq_R_asymmetry	transcript_region	355	392	173946.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	355	392	40.0	.	.	
+ch.1_87	RNASeq_stranded	transcript_region	355	392	1.0	-	.	
+ch.1_87	RNASeq_stranded	transcript_region	355	402	4.0	+	.	
+ch.1_87	WormBase	exon	355	420	.	+	.	Parent=Transcript:C32E8.4.1
+ch.1_87	WormBase	three_prime_UTR	370	420	.	+	.	Parent=Transcript:C32E8.4.1
+ch.1_87	RNASeq_R_asymmetry	transcript_region	393	401	105106.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	393	401	24.0	.	.	
+ch.1_87	RNASeq_R_asymmetry	transcript_region	402	419	65085.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	402	420	15.0	.	.	
+ch.1_87	RNASeq_stranded	transcript_region	403	415	2.0	+	.	
+ch.1_87	RNASeq_stranded	transcript_region	416	428	1.0	+	.	
+ch.1_87	RNASeq_R_asymmetry	transcript_region	420	420	42897.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	421	422	5.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	423	459	3.0	.	.	
+ch.1_87	RNASeq_R_asymmetry	transcript_region	426	456	9875.0	.	.	
+ch.1_87	RNASeq_R_asymmetry	transcript_region	457	463	6512.0	.	.	
+ch.1_87	RNASeq_reads	transcript_region	460	490	1.0	.	.	
+ch.1_87	RNASeq_R_asymmetry	transcript_region	472	472	4241.0	.	.	
+ch.1_87	RNASeq_R_asymmetry	transcript_region	474	474	3993.0	.	.	
+ch.1_87	RNASeq_R_asymmetry	transcript_region	477	479	3886.0	.	.	

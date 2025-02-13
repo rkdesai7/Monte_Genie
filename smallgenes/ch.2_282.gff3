@@ -1,0 +1,50 @@
+ch.2_282	WormBase	exon	101	319	.	+	.	Parent=Transcript:M163.8.2
+ch.2_282	WormBase	five_prime_UTR	101	319	.	+	.	Parent=Transcript:M163.8.2
+ch.2_282	WormBase	mRNA	101	928	.	+	.	ID=Transcript:M163.8.2;Parent=Gene:WBGene00010940
+ch.2_282	WormBase	gene	101	929	.	+	.	ID=Gene:WBGene00010940
+ch.2_282	RNASeq_reads	transcript_region	104	359	1.0	.	.	
+ch.2_282	WormBase	five_prime_UTR	312	394	.	+	.	Parent=Transcript:M163.8.1
+ch.2_282	WormBase	exon	312	474	.	+	.	Parent=Transcript:M163.8.1
+ch.2_282	WormBase	mRNA	312	929	.	+	.	ID=Transcript:M163.8.1;Parent=Gene:WBGene00010940
+ch.2_282	WormBase	intron	320	364	.	+	.	Parent=Transcript:M163.8.2
+ch.2_282	RNASeq_splice	intron	320	364	69.0	+	.	
+ch.2_282	RNASeq_splice	intron	320	375	28.0	+	.	
+ch.2_282	RNASeq_reads	transcript_region	360	362	2.0	.	.	
+ch.2_282	RNASeq_reads	transcript_region	363	380	5.0	.	.	
+ch.2_282	WormBase	five_prime_UTR	365	394	.	+	.	Parent=Transcript:M163.8.2
+ch.2_282	WormBase	exon	365	474	.	+	.	Parent=Transcript:M163.8.2
+ch.2_282	RNASeq_reads	transcript_region	381	398	8.0	.	.	
+ch.2_282	RNASeq_stranded	transcript_region	383	403	1.0	+	.	
+ch.2_282	WormBase	CDS	395	474	.	+	.	ID=CDS:M163.8;Parent=Transcript:M163.8.1,Transcript:M163.8.2
+ch.2_282	RNASeq_reads	transcript_region	399	421	13.0	.	.	
+ch.2_282	RNASeq_stranded	transcript_region	404	442	2.0	+	.	
+ch.2_282	RNASeq_reads	transcript_region	422	474	20.0	.	.	
+ch.2_282	RNASeq_stranded	transcript_region	443	470	4.0	+	.	
+ch.2_282	RNASeq_stranded	transcript_region	471	474	2.0	+	.	
+ch.2_282	WormBase	intron	475	533	.	+	.	Parent=Transcript:M163.8.1
+ch.2_282	WormBase	intron	475	533	.	+	.	Parent=Transcript:M163.8.2
+ch.2_282	RNASeq_splice	intron	475	533	144646.0	+	.	
+ch.2_282	RNASeq_splice	intron	479	533	6.0	+	.	
+ch.2_282	RNASeq_stranded	transcript_region	534	703	2.0	+	.	
+ch.2_282	RNASeq_reads	transcript_region	534	855	31.0	.	.	
+ch.2_282	WormBase	CDS	534	867	.	+	.	ID=CDS:M163.8;Parent=Transcript:M163.8.1,Transcript:M163.8.2
+ch.2_282	WormBase	exon	534	928	.	+	.	Parent=Transcript:M163.8.2
+ch.2_282	WormBase	exon	534	929	.	+	.	Parent=Transcript:M163.8.1
+ch.2_282	RNASeq	transcription_end_site	569	569	.	+	.	
+ch.2_282	RNASeq_splice	intron	653	779	3.0	-	.	
+ch.2_282	RNASeq_stranded	transcript_region	704	704	1.0	+	.	
+ch.2_282	RNASeq_stranded	transcript_region	705	706	2.0	+	.	
+ch.2_282	RNASeq_stranded	transcript_region	707	781	1.0	+	.	
+ch.2_282	RNASeq	transcription_end_site	767	767	.	+	.	
+ch.2_282	RNASeq_stranded	transcript_region	782	873	2.0	+	.	
+ch.2_282	RNASeq_splice	intron	787	836	6.0	-	.	
+ch.2_282	RNASeq_reads	transcript_region	856	885	20.0	.	.	
+ch.2_282	WormBase	three_prime_UTR	868	928	.	+	.	Parent=Transcript:M163.8.2
+ch.2_282	WormBase	three_prime_UTR	868	929	.	+	.	Parent=Transcript:M163.8.1
+ch.2_282	RNASeq_stranded	transcript_region	874	916	1.0	+	.	
+ch.2_282	RNASeq_reads	transcript_region	886	908	13.0	.	.	
+ch.2_282	RNASeq_reads	transcript_region	909	916	8.0	.	.	
+ch.2_282	RNASeq_reads	transcript_region	917	925	4.0	.	.	
+ch.2_282	RNASeq_reads	transcript_region	926	928	2.0	.	.	
+ch.2_282	RNASeq_reads	transcript_region	929	931	1.0	.	.	
+ch.2_282	RNASeq	transcription_end_site	952	952	.	+	.	

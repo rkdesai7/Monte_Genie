@@ -1,0 +1,53 @@
+ch.1_429	RNASeq_reads	transcript_region	100	104	1.0	.	.	
+ch.1_429	WormBase	five_prime_UTR	101	123	.	+	.	Parent=Transcript:F53H2.2.1
+ch.1_429	WormBase	exon	101	181	.	+	.	Parent=Transcript:F53H2.2.1
+ch.1_429	WormBase	gene	101	763	.	+	.	ID=Gene:WBGene00010005
+ch.1_429	WormBase	mRNA	101	763	.	+	.	ID=Transcript:F53H2.2.1;Parent=Gene:WBGene00010005
+ch.1_429	RNASeq_reads	transcript_region	105	113	2.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	112	113	1.0	+	.	
+ch.1_429	RNASeq_stranded	transcript_region	114	115	2.0	+	.	
+ch.1_429	RNASeq_reads	transcript_region	114	118	4.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	116	120	5.0	+	.	
+ch.1_429	RNASeq_reads	transcript_region	119	124	7.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	121	127	8.0	+	.	
+ch.1_429	RNASeq_F_asymmetry	transcript_region	123	130	38858.0	.	.	
+ch.1_429	WormBase	CDS	124	181	.	+	.	ID=CDS:F53H2.2;Parent=Transcript:F53H2.2.1
+ch.1_429	RNASeq_reads	transcript_region	125	132	11.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	128	163	13.0	+	.	
+ch.1_429	RNASeq_F_asymmetry	transcript_region	131	160	65450.0	.	.	
+ch.1_429	RNASeq_reads	transcript_region	133	181	17.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	164	181	20.0	+	.	
+ch.1_429	RNASeq_splice	intron	177	566	5.0	+	.	
+ch.1_429	RNASeq_F_asymmetry	transcript_region	182	182	8938.0	.	.	
+ch.1_429	RNASeq_reads	transcript_region	182	182	2.0	.	.	
+ch.1_429	WormBase	intron	182	566	.	+	.	Parent=Transcript:F53H2.2.1
+ch.1_429	RNASeq_splice	intron	182	566	121829.0	+	.	
+ch.1_429	RNASeq_F_asymmetry	transcript_region	183	210	1616.0	.	.	
+ch.1_429	RNASeq_splice	intron	441	566	7.0	+	.	
+ch.1_429	RNASeq_reads	transcript_region	566	566	3.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	566	566	4.0	+	.	
+ch.1_429	RNASeq_stranded	transcript_region	567	586	33.0	+	.	
+ch.1_429	RNASeq_reads	transcript_region	567	683	25.0	.	.	
+ch.1_429	WormBase	CDS	567	712	.	+	.	ID=CDS:F53H2.2;Parent=Transcript:F53H2.2.1
+ch.1_429	WormBase	exon	567	763	.	+	.	Parent=Transcript:F53H2.2.1
+ch.1_429	RNASeq_stranded	transcript_region	587	633	50.0	+	.	
+ch.1_429	RNASeq_splice	intron	599	649	5.0	+	.	
+ch.1_429	RNASeq_splice	intron	616	666	4.0	+	.	
+ch.1_429	RNASeq_stranded	transcript_region	634	713	77.0	+	.	
+ch.1_429	RNASeq_stranded	transcript_region	671	763	1.0	-	.	
+ch.1_429	RNASeq_reads	transcript_region	684	705	16.0	.	.	
+ch.1_429	RNASeq_reads	transcript_region	706	719	10.0	.	.	
+ch.1_429	RNASeq_F_asymmetry	transcript_region	709	724	35083.0	.	.	
+ch.1_429	RNASeq	transcription_end_site	711	711	.	+	.	
+ch.1_429	WormBase	three_prime_UTR	713	763	.	+	.	Parent=Transcript:F53H2.2.1
+ch.1_429	RNASeq_stranded	transcript_region	714	726	50.0	+	.	
+ch.1_429	RNASeq_reads	transcript_region	720	740	6.0	.	.	
+ch.1_429	RNASeq_F_asymmetry	transcript_region	725	739	23089.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	727	740	32.0	+	.	
+ch.1_429	RNASeq_F_asymmetry	transcript_region	740	741	14622.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	741	747	20.0	+	.	
+ch.1_429	RNASeq_reads	transcript_region	741	755	3.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	748	754	13.0	+	.	
+ch.1_429	RNASeq_stranded	transcript_region	755	758	8.0	+	.	
+ch.1_429	RNASeq_reads	transcript_region	756	763	1.0	.	.	
+ch.1_429	RNASeq_stranded	transcript_region	759	763	4.0	+	.	

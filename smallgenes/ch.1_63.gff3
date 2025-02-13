@@ -1,0 +1,78 @@
+ch.1_63	RNASeq_F_asymmetry	transcript_region	95	98	172543.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	95	98	3.0	+	.	
+ch.1_63	RNASeq_reads	transcript_region	95	99	36.0	.	.	
+ch.1_63	RNASeq_F_asymmetry	transcript_region	99	101	261044.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	99	102	30.0	+	.	
+ch.1_63	RNASeq_reads	transcript_region	100	106	72.0	.	.	
+ch.1_63	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:Y111B2A.2.1
+ch.1_63	WormBase	exon	101	239	.	+	.	Parent=Transcript:Y111B2A.2.1
+ch.1_63	WormBase	gene	101	445	.	+	.	ID=Gene:WBGene00013728
+ch.1_63	WormBase	mRNA	101	445	.	+	.	ID=Transcript:Y111B2A.2.1;Parent=Gene:WBGene00013728
+ch.1_63	RNASeq_F_asymmetry	transcript_region	102	109	398659.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	103	108	46.0	+	.	
+ch.1_63	WormBase	CDS	103	239	.	+	.	ID=CDS:Y111B2A.2;Parent=Transcript:Y111B2A.2.1
+ch.1_63	RNASeq_stranded	transcript_region	104	139	1.0	-	.	
+ch.1_63	RNASeq_reads	transcript_region	107	116	109.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	109	125	70.0	+	.	
+ch.1_63	RNASeq_F_asymmetry	transcript_region	110	125	604639.0	.	.	
+ch.1_63	RNASeq_reads	transcript_region	117	175	164.0	.	.	
+ch.1_63	RNASeq_F_asymmetry	transcript_region	126	160	913307.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	126	160	148.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	161	205	65.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	171	218	1.0	-	.	
+ch.1_63	RNASeq_reads	transcript_region	176	239	248.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	206	239	107.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	219	239	2.0	-	.	
+ch.1_63	RNASeq_stranded	transcript_region	240	240	2.0	+	.	
+ch.1_63	WormBase	intron	240	284	.	+	.	Parent=Transcript:Y111B2A.2.1
+ch.1_63	RNASeq_reads	transcript_region	240	284	5.0	.	.	
+ch.1_63	RNASeq_splice	intron	240	284	1372690.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	241	243	1.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	244	255	2.0	+	.	
+ch.1_63	RNASeq_splice	intron	244	284	55.0	+	.	
+ch.1_63	RNASeq_splice	intron	246	291	11.0	-	.	
+ch.1_63	RNASeq_stranded	transcript_region	256	279	1.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	280	284	2.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	285	296	111.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	285	379	3.0	-	.	
+ch.1_63	RNASeq_reads	transcript_region	285	382	250.0	.	.	
+ch.1_63	WormBase	CDS	285	408	.	+	.	ID=CDS:Y111B2A.2;Parent=Transcript:Y111B2A.2.1
+ch.1_63	WormBase	exon	285	445	.	+	.	Parent=Transcript:Y111B2A.2.1
+ch.1_63	RNASeq_stranded	transcript_region	297	407	176.0	+	.	
+ch.1_63	RNASeq_R_asymmetry	transcript_region	372	379	814174.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	380	442	1.0	-	.	
+ch.1_63	RNASeq_R_asymmetry	transcript_region	381	402	669702.0	.	.	
+ch.1_63	RNASeq_reads	transcript_region	383	402	164.0	.	.	
+ch.1_63	RNASeq_reads	transcript_region	403	415	97.0	.	.	
+ch.1_63	RNASeq	transcription_end_site	405	405	.	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	408	418	116.0	+	.	
+ch.1_63	WormBase	three_prime_UTR	409	445	.	+	.	Parent=Transcript:Y111B2A.2.1
+ch.1_63	RNASeq_R_asymmetry	transcript_region	414	415	301234.0	.	.	
+ch.1_63	RNASeq_reads	transcript_region	416	435	61.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	419	431	75.0	+	.	
+ch.1_63	RNASeq	transcription_end_site	422	422	.	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	432	438	47.0	+	.	
+ch.1_63	RNASeq_R_asymmetry	transcript_region	435	435	163754.0	.	.	
+ch.1_63	RNASeq_reads	transcript_region	436	443	35.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	439	441	29.0	+	.	
+ch.1_63	RNASeq_R_asymmetry	transcript_region	442	446	110623.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	442	447	18.0	+	.	
+ch.1_63	RNASeq_reads	transcript_region	444	447	23.0	.	.	
+ch.1_63	RNASeq	transcription_end_site	447	447	.	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	448	448	10.0	+	.	
+ch.1_63	RNASeq	transcription_end_site	448	448	.	+	.	
+ch.1_63	RNASeq_reads	transcript_region	448	449	15.0	.	.	
+ch.1_63	RNASeq	transcription_end_site	449	449	.	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	449	450	6.0	+	.	
+ch.1_63	RNASeq	transcription_end_site	450	450	.	+	.	
+ch.1_63	RNASeq_reads	transcript_region	450	451	8.0	.	.	
+ch.1_63	RNASeq_stranded	transcript_region	451	451	2.0	+	.	
+ch.1_63	RNASeq	transcription_end_site	451	451	.	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	452	493	1.0	+	.	
+ch.1_63	RNASeq	transcription_end_site	459	459	.	+	.	
+ch.1_63	RNASeq	transcription_end_site	465	465	.	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	494	496	2.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	497	497	1.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	498	507	2.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	508	532	1.0	+	.	
+ch.1_63	RNASeq_stranded	transcript_region	533	538	2.0	+	.	

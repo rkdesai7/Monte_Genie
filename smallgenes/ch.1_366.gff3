@@ -1,0 +1,28 @@
+ch.1_366	RNASeq_F_asymmetry	transcript_region	777	780	2090.0	.	.	
+ch.1_366	RNASeq_reads	transcript_region	740	779	1.0	.	.	
+ch.1_366	RNASeq_F_asymmetry	transcript_region	763	776	3196.0	.	.	
+ch.1_366	WormBase	three_prime_UTR	716	776	.	+	.	Parent=Transcript:Y71F9AM.8.1
+ch.1_366	WormBase	exon	557	776	.	+	.	Parent=Transcript:Y71F9AM.8.1
+ch.1_366	WormBase	gene	101	776	.	+	.	ID=Gene:WBGene00045398
+ch.1_366	WormBase	mRNA	101	776	.	+	.	ID=Transcript:Y71F9AM.8.1;Parent=Gene:WBGene00045398
+ch.1_366	RNASeq_F_asymmetry	transcript_region	732	762	5330.0	.	.	
+ch.1_366	RNASeq_reads	transcript_region	693	739	2.0	.	.	
+ch.1_366	RNASeq_F_asymmetry	transcript_region	703	731	8052.0	.	.	
+ch.1_366	WormBase	CDS	557	715	.	+	.	ID=CDS:Y71F9AM.8;Parent=Transcript:Y71F9AM.8.1
+ch.1_366	RNASeq_F_asymmetry	transcript_region	670	702	12096.0	.	.	
+ch.1_366	RNASeq_reads	transcript_region	557	692	4.0	.	.	
+ch.1_366	RNASeq_F_asymmetry	transcript_region	598	669	18208.0	.	.	
+ch.1_366	RNASeq_splice	intron	201	624	70.0	+	.	
+ch.1_366	WormBase	intron	201	556	.	+	.	Parent=Transcript:Y71F9AM.8.1
+ch.1_366	RNASeq_splice	intron	201	556	25118.0	+	.	
+ch.1_366	RNASeq_reads	transcript_region	110	200	7.0	.	.	
+ch.1_366	WormBase	CDS	105	200	.	+	.	ID=CDS:Y71F9AM.8;Parent=Transcript:Y71F9AM.8.1
+ch.1_366	WormBase	exon	101	200	.	+	.	Parent=Transcript:Y71F9AM.8.1
+ch.1_366	RNASeq_R_asymmetry	transcript_region	110	177	29044.0	.	.	
+ch.1_366	RNASeq_R_asymmetry	transcript_region	106	109	16555.0	.	.	
+ch.1_366	RNASeq_reads	transcript_region	104	109	3.0	.	.	
+ch.1_366	RNASeq_R_asymmetry	transcript_region	104	105	10498.0	.	.	
+ch.1_366	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:Y71F9AM.8.1
+ch.1_366	RNASeq_R_asymmetry	transcript_region	102	103	6191.0	.	.	
+ch.1_366	RNASeq_reads	transcript_region	99	103	1.0	.	.	
+ch.1_366	RNASeq_R_asymmetry	transcript_region	101	101	2921.0	.	.	

@@ -1,0 +1,118 @@
+ch.3_51	RNASeq_reads	transcript_region	874	874	1.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	870	874	3.0	+	.	
+ch.3_51	RNASeq	transcription_end_site	873	873	.	-	.	
+ch.3_51	RNASeq	transcription_end_site	873	873	.	-	.	
+ch.3_51	RNASeq_reads	transcript_region	870	873	2.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	869	869	4.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	864	869	6.0	+	.	
+ch.3_51	WormBase	three_prime_UTR	775	869	.	+	.	Parent=Transcript:Y39B6A.3b.1
+ch.3_51	WormBase	three_prime_UTR	775	869	.	+	.	Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	exon	622	869	.	+	.	Parent=Transcript:Y39B6A.3b.1
+ch.3_51	WormBase	exon	622	869	.	+	.	Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	mRNA	107	869	.	+	.	ID=Transcript:Y39B6A.3a.1;Parent=Gene:WBGene00012666
+ch.3_51	WormBase	gene	101	869	.	+	.	ID=Gene:WBGene00012666
+ch.3_51	WormBase	mRNA	101	869	.	+	.	ID=Transcript:Y39B6A.3b.1;Parent=Gene:WBGene00012666
+ch.3_51	RNASeq_F_asymmetry	transcript_region	866	868	30719.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	866	868	7.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	786	868	1.0	-	.	
+ch.3_51	RNASeq_F_asymmetry	transcript_region	860	865	47430.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	859	865	11.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	860	863	10.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	854	859	22.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	846	858	17.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	849	853	35.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	839	848	54.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	826	845	27.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	793	838	83.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	758	825	44.0	.	.	
+ch.3_51	RNASeq_splice	intron	90	825	8.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	731	792	125.0	+	.	
+ch.3_51	WormBase	CDS	622	774	.	+	.	ID=CDS:Y39B6A.3a;Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	CDS	622	774	.	+	.	ID=CDS:Y39B6A.3b;Parent=Transcript:Y39B6A.3b.1
+ch.3_51	RNASeq_reads	transcript_region	622	757	67.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	705	730	82.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	690	704	53.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	622	689	34.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	620	621	8.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	619	621	11.0	.	.	
+ch.3_51	WormBase	intron	517	621	.	+	.	Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	intron	517	621	.	+	.	Parent=Transcript:Y39B6A.3b.1
+ch.3_51	RNASeq_splice	intron	517	621	435469.0	+	.	
+ch.3_51	RNASeq_splice	intron	508	621	50.0	+	.	
+ch.3_51	RNASeq_splice	intron	351	621	44.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	619	619	5.0	-	.	
+ch.3_51	RNASeq_reads	transcript_region	519	618	1.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	518	518	2.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	517	517	13.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	517	517	5.0	-	.	
+ch.3_51	RNASeq_stranded	transcript_region	492	516	29.0	+	.	
+ch.3_51	WormBase	CDS	427	516	.	+	.	ID=CDS:Y39B6A.3a;Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	CDS	427	516	.	+	.	ID=CDS:Y39B6A.3b;Parent=Transcript:Y39B6A.3b.1
+ch.3_51	WormBase	exon	427	516	.	+	.	Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	exon	427	516	.	+	.	Parent=Transcript:Y39B6A.3b.1
+ch.3_51	RNASeq_reads	transcript_region	427	516	84.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	427	501	1.0	-	.	
+ch.3_51	RNASeq_stranded	transcript_region	444	491	45.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	427	443	28.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	426	426	2.0	-	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	425	426	5724.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	421	426	1.0	.	.	
+ch.3_51	WormBase	intron	351	426	.	+	.	Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	intron	351	426	.	+	.	Parent=Transcript:Y39B6A.3b.1
+ch.3_51	RNASeq_splice	intron	351	426	502463.0	+	.	
+ch.3_51	RNASeq_splice	intron	215	426	4.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	425	425	1.0	-	.	
+ch.3_51	RNASeq_stranded	transcript_region	328	350	17.0	+	.	
+ch.3_51	WormBase	CDS	269	350	.	+	.	ID=CDS:Y39B6A.3a;Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	exon	269	350	.	+	.	Parent=Transcript:Y39B6A.3a.1
+ch.3_51	RNASeq_reads	transcript_region	269	350	95.0	.	.	
+ch.3_51	WormBase	CDS	263	350	.	+	.	ID=CDS:Y39B6A.3b;Parent=Transcript:Y39B6A.3b.1
+ch.3_51	WormBase	exon	263	350	.	+	.	Parent=Transcript:Y39B6A.3b.1
+ch.3_51	RNASeq_stranded	transcript_region	269	327	26.0	+	.	
+ch.3_51	RNASeq_stranded	transcript_region	272	276	1.0	-	.	
+ch.3_51	RNASeq_splice	intron	215	270	34.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	263	268	40.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	263	268	12.0	+	.	
+ch.3_51	WormBase	intron	215	268	.	+	.	Parent=Transcript:Y39B6A.3a.1
+ch.3_51	RNASeq_splice	intron	215	268	283521.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	261	262	5.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	261	262	1.0	+	.	
+ch.3_51	WormBase	intron	215	262	.	+	.	Parent=Transcript:Y39B6A.3b.1
+ch.3_51	RNASeq_splice	intron	215	262	150551.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	256	260	1.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	183	214	1.0	-	.	
+ch.3_51	RNASeq_reads	transcript_region	167	214	84.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	161	214	30.0	+	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	158	214	351827.0	.	.	
+ch.3_51	WormBase	CDS	150	214	.	+	.	ID=CDS:Y39B6A.3a;Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	CDS	150	214	.	+	.	ID=CDS:Y39B6A.3b;Parent=Transcript:Y39B6A.3b.1
+ch.3_51	WormBase	exon	107	214	.	+	.	Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	exon	101	214	.	+	.	Parent=Transcript:Y39B6A.3b.1
+ch.3_51	RNASeq_stranded	transcript_region	162	176	1.0	-	.	
+ch.3_51	RNASeq_reads	transcript_region	152	166	55.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	152	160	19.0	+	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	152	157	229059.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	149	151	12.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	143	151	32.0	.	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	142	151	148723.0	.	.	
+ch.3_51	WormBase	five_prime_UTR	107	149	.	+	.	Parent=Transcript:Y39B6A.3a.1
+ch.3_51	WormBase	five_prime_UTR	101	149	.	+	.	Parent=Transcript:Y39B6A.3b.1
+ch.3_51	RNASeq_stranded	transcript_region	131	148	4.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	133	142	21.0	.	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	133	141	96294.0	.	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	121	132	56561.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	119	132	12.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	121	130	2.0	+	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	113	120	36324.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	104	120	1.0	+	.	
+ch.3_51	RNASeq_reads	transcript_region	113	118	7.0	.	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	109	112	19811.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	109	112	4.0	.	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	103	108	10532.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	102	108	2.0	.	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	99	102	6841.0	.	.	
+ch.3_51	RNASeq_reads	transcript_region	79	101	1.0	.	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	95	98	4439.0	.	.	
+ch.3_51	RNASeq_stranded	transcript_region	74	95	1.0	-	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	92	93	3459.0	.	.	
+ch.3_51	RNASeq_R_asymmetry	transcript_region	66	73	805.0	.	.	

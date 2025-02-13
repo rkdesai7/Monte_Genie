@@ -1,0 +1,101 @@
+ch.1_486	RNASeq_R_asymmetry	transcript_region	1010	1010	984958.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	1010	1010	66.0	-	.	
+ch.1_486	RNASeq_stranded	transcript_region	1009	1009	2.0	-	.	
+ch.1_486	RNASeq_reads	transcript_region	1007	1009	4.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	963	1008	1.0	+	.	
+ch.1_486	RNASeq_reads	transcript_region	964	1006	2.0	.	.	
+ch.1_486	RNASeq_R_asymmetry	transcript_region	963	1006	9814.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	936	963	1.0	.	.	
+ch.1_486	RNASeq_splice	intron	781	963	61.0	-	.	
+ch.1_486	RNASeq_splice	intron	779	963	7.0	-	.	
+ch.1_486	RNASeq_R_asymmetry	transcript_region	952	962	6243.0	.	.	
+ch.1_486	RNASeq_R_asymmetry	transcript_region	936	951	3138.0	.	.	
+ch.1_486	RNASeq_R_asymmetry	transcript_region	931	935	2061.0	.	.	
+ch.1_486	RNASeq_R_asymmetry	transcript_region	929	929	1506.0	.	.	
+ch.1_486	RNASeq_splice	intron	313	926	34.0	+	.	
+ch.1_486	RNASeq	transcription_end_site	915	915	.	-	.	
+ch.1_486	RNASeq	transcription_end_site	915	915	.	-	.	
+ch.1_486	RNASeq	transcription_end_site	914	914	.	-	.	
+ch.1_486	RNASeq	transcription_end_site	914	914	.	-	.	
+ch.1_486	RNASeq	transcription_end_site	912	912	.	-	.	
+ch.1_486	RNASeq	transcription_end_site	912	912	.	-	.	
+ch.1_486	RNASeq_F_asymmetry	transcript_region	910	912	39974.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	910	912	10.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	909	912	8.0	+	.	
+ch.1_486	WormBase	three_prime_UTR	778	910	.	+	.	Parent=Transcript:F57B10.10.1
+ch.1_486	WormBase	exon	647	910	.	+	.	Parent=Transcript:F57B10.10.1
+ch.1_486	WormBase	gene	101	910	.	+	.	ID=Gene:WBGene00000896
+ch.1_486	WormBase	mRNA	101	910	.	+	.	ID=Transcript:F57B10.10.1;Parent=Gene:WBGene00000896
+ch.1_486	RNASeq_F_asymmetry	transcript_region	903	909	65433.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	903	909	16.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	900	908	14.0	+	.	
+ch.1_486	RNASeq_F_asymmetry	transcript_region	901	902	99468.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	889	902	25.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	895	899	24.0	+	.	
+ch.1_486	RNASeq_stranded	transcript_region	888	894	37.0	+	.	
+ch.1_486	RNASeq_stranded	transcript_region	858	892	1.0	-	.	
+ch.1_486	RNASeq_reads	transcript_region	883	888	39.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	879	887	56.0	+	.	
+ch.1_486	RNASeq_F_asymmetry	transcript_region	875	882	291328.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	875	882	71.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	859	878	88.0	+	.	
+ch.1_486	RNASeq_F_asymmetry	transcript_region	859	874	475260.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	858	874	112.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	824	858	207.0	+	.	
+ch.1_486	RNASeq_stranded	transcript_region	856	857	2.0	-	.	
+ch.1_486	RNASeq_F_asymmetry	transcript_region	816	857	706052.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	790	857	178.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	842	855	4.0	-	.	
+ch.1_486	RNASeq_splice	intron	739	851	20.0	-	.	
+ch.1_486	RNASeq_stranded	transcript_region	807	841	7.0	-	.	
+ch.1_486	RNASeq_stranded	transcript_region	785	823	76.0	+	.	
+ch.1_486	RNASeq_F_asymmetry	transcript_region	800	815	1073020.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	805	806	4.0	-	.	
+ch.1_486	RNASeq_stranded	transcript_region	801	804	2.0	-	.	
+ch.1_486	RNASeq_stranded	transcript_region	776	800	1.0	-	.	
+ch.1_486	RNASeq_reads	transcript_region	735	789	269.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	697	784	118.0	+	.	
+ch.1_486	WormBase	CDS	647	777	.	+	.	ID=CDS:F57B10.10;Parent=Transcript:F57B10.10.1
+ch.1_486	RNASeq_stranded	transcript_region	724	775	2.0	-	.	
+ch.1_486	RNASeq_splice	intron	408	738	71.0	-	.	
+ch.1_486	RNASeq_reads	transcript_region	647	734	409.0	.	.	
+ch.1_486	RNASeq_stranded	transcript_region	688	723	1.0	-	.	
+ch.1_486	RNASeq_splice	intron	313	706	5.0	+	.	
+ch.1_486	RNASeq_stranded	transcript_region	674	696	72.0	+	.	
+ch.1_486	RNASeq_stranded	transcript_region	685	685	1.0	-	.	
+ch.1_486	RNASeq_stranded	transcript_region	666	681	1.0	-	.	
+ch.1_486	RNASeq_stranded	transcript_region	647	673	47.0	+	.	
+ch.1_486	RNASeq_splice	intron	603	656	4.0	+	.	
+ch.1_486	RNASeq_splice	intron	313	656	7463.0	+	.	
+ch.1_486	RNASeq_splice	intron	299	656	22.0	+	.	
+ch.1_486	RNASeq_splice	intron	277	656	4.0	+	.	
+ch.1_486	RNASeq_reads	transcript_region	637	646	2.0	.	.	
+ch.1_486	RNASeq_splice	intron	603	646	678.0	+	.	
+ch.1_486	RNASeq_splice	intron	384	646	3.0	+	.	
+ch.1_486	WormBase	intron	313	646	.	+	.	Parent=Transcript:F57B10.10.1
+ch.1_486	RNASeq_splice	intron	313	646	1894270.0	+	.	
+ch.1_486	RNASeq_splice	intron	299	646	529.0	+	.	
+ch.1_486	RNASeq_reads	transcript_region	577	636	1.0	.	.	
+ch.1_486	RNASeq_splice	intron	313	613	51.0	+	.	
+ch.1_486	RNASeq_reads	transcript_region	481	576	2.0	.	.	
+ch.1_486	RNASeq_splice	intron	313	506	809.0	+	.	
+ch.1_486	RNASeq_reads	transcript_region	472	480	1.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	313	471	2.0	.	.	
+ch.1_486	RNASeq_splice	intron	313	374	3.0	+	.	
+ch.1_486	RNASeq_stranded	transcript_region	313	372	1.0	+	.	
+ch.1_486	RNASeq_stranded	transcript_region	292	312	46.0	+	.	
+ch.1_486	RNASeq_reads	transcript_region	113	312	350.0	.	.	
+ch.1_486	WormBase	CDS	102	312	.	+	.	ID=CDS:F57B10.10;Parent=Transcript:F57B10.10.1
+ch.1_486	WormBase	exon	101	312	.	+	.	Parent=Transcript:F57B10.10.1
+ch.1_486	RNASeq_stranded	transcript_region	228	291	70.0	+	.	
+ch.1_486	RNASeq_splice	intron	189	264	4.0	-	.	
+ch.1_486	RNASeq_stranded	transcript_region	102	227	46.0	+	.	
+ch.1_486	RNASeq_R_asymmetry	transcript_region	111	167	1680580.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	105	112	226.0	.	.	
+ch.1_486	RNASeq_R_asymmetry	transcript_region	104	110	1049050.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	104	104	139.0	.	.	
+ch.1_486	RNASeq_R_asymmetry	transcript_region	99	103	445879.0	.	.	
+ch.1_486	RNASeq_reads	transcript_region	99	103	90.0	.	.	
+ch.1_486	WormBase	five_prime_UTR	101	101	.	+	.	Parent=Transcript:F57B10.10.1
+ch.1_486	RNASeq_stranded	transcript_region	99	101	29.0	+	.	
+ch.1_486	RNASeq_reads	transcript_region	57	98	1.0	.	.	

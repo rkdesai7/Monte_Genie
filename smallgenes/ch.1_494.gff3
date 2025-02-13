@@ -1,0 +1,60 @@
+ch.1_494	RNASeq_splice	intron	722	767	47.0	+	.	
+ch.1_494	RNASeq_splice	intron	688	767	33.0	+	.	
+ch.1_494	RNASeq_splice	intron	441	767	25.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	745	751	1.0	.	.	
+ch.1_494	RNASeq_stranded	transcript_region	733	749	1.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	720	744	2.0	.	.	
+ch.1_494	RNASeq_stranded	transcript_region	700	732	2.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	697	719	4.0	.	.	
+ch.1_494	WormBase	three_prime_UTR	531	713	.	+	.	Parent=Transcript:M02D8.6.1
+ch.1_494	WormBase	exon	420	713	.	+	.	Parent=Transcript:M02D8.6.1
+ch.1_494	WormBase	gene	101	713	.	+	.	ID=Gene:WBGene00019732
+ch.1_494	WormBase	mRNA	101	713	.	+	.	ID=Transcript:M02D8.6.1;Parent=Gene:WBGene00019732
+ch.1_494	RNASeq_stranded	transcript_region	693	699	4.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	684	696	7.0	.	.	
+ch.1_494	RNASeq_stranded	transcript_region	682	692	7.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	670	683	11.0	.	.	
+ch.1_494	RNASeq_stranded	transcript_region	654	681	11.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	651	669	17.0	.	.	
+ch.1_494	RNASeq_stranded	transcript_region	622	656	1.0	-	.	
+ch.1_494	RNASeq_stranded	transcript_region	583	653	17.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	635	650	26.0	.	.	
+ch.1_494	RNASeq_F_asymmetry	transcript_region	626	643	139335.0	.	.	
+ch.1_494	RNASeq_reads	transcript_region	525	634	40.0	.	.	
+ch.1_494	RNASeq_splice	intron	250	615	6.0	-	.	
+ch.1_494	RNASeq_stranded	transcript_region	605	611	1.0	-	.	
+ch.1_494	RNASeq_stranded	transcript_region	482	582	11.0	+	.	
+ch.1_494	WormBase	CDS	420	530	.	+	.	ID=CDS:M02D8.6;Parent=Transcript:M02D8.6.1
+ch.1_494	RNASeq_reads	transcript_region	420	524	61.0	.	.	
+ch.1_494	RNASeq_stranded	transcript_region	420	481	7.0	+	.	
+ch.1_494	RNASeq_splice	intron	374	422	516.0	+	.	
+ch.1_494	RNASeq_splice	intron	370	422	138.0	+	.	
+ch.1_494	RNASeq_splice	intron	374	419	85.0	+	.	
+ch.1_494	WormBase	intron	370	419	.	+	.	Parent=Transcript:M02D8.6.1
+ch.1_494	RNASeq_splice	intron	370	419	333507.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	370	370	1.0	.	.	
+ch.1_494	RNASeq_stranded	transcript_region	300	369	8.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	170	369	68.0	.	.	
+ch.1_494	WormBase	CDS	127	369	.	+	.	ID=CDS:M02D8.6;Parent=Transcript:M02D8.6.1
+ch.1_494	WormBase	exon	101	369	.	+	.	Parent=Transcript:M02D8.6.1
+ch.1_494	RNASeq_stranded	transcript_region	248	299	5.0	+	.	
+ch.1_494	RNASeq_splice	intron	189	288	4.0	-	.	
+ch.1_494	RNASeq_stranded	transcript_region	142	247	8.0	+	.	
+ch.1_494	RNASeq_R_asymmetry	transcript_region	153	193	234032.0	.	.	
+ch.1_494	RNASeq_reads	transcript_region	150	169	44.0	.	.	
+ch.1_494	RNASeq_R_asymmetry	transcript_region	140	152	149546.0	.	.	
+ch.1_494	RNASeq_reads	transcript_region	136	149	28.0	.	.	
+ch.1_494	RNASeq_stranded	transcript_region	133	141	4.0	+	.	
+ch.1_494	RNASeq_R_asymmetry	transcript_region	133	139	96246.0	.	.	
+ch.1_494	RNASeq_reads	transcript_region	133	135	18.0	.	.	
+ch.1_494	RNASeq_stranded	transcript_region	125	132	2.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	124	132	11.0	.	.	
+ch.1_494	RNASeq_R_asymmetry	transcript_region	123	132	48320.0	.	.	
+ch.1_494	WormBase	five_prime_UTR	101	126	.	+	.	Parent=Transcript:M02D8.6.1
+ch.1_494	RNASeq_stranded	transcript_region	118	124	1.0	+	.	
+ch.1_494	RNASeq_reads	transcript_region	118	123	7.0	.	.	
+ch.1_494	RNASeq_R_asymmetry	transcript_region	118	122	31541.0	.	.	
+ch.1_494	RNASeq_reads	transcript_region	117	117	2.0	.	.	
+ch.1_494	RNASeq_R_asymmetry	transcript_region	115	117	6780.0	.	.	
+ch.1_494	RNASeq_reads	transcript_region	112	116	1.0	.	.	
+ch.1_494	RNASeq_R_asymmetry	transcript_region	112	114	3583.0	.	.	

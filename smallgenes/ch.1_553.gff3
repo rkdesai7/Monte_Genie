@@ -1,0 +1,56 @@
+ch.1_553	WormBase	CDS	101	571	.	+	.	ID=CDS:F23D12.3;Parent=Transcript:F23D12.3.1
+ch.1_553	WormBase	exon	101	571	.	+	.	Parent=Transcript:F23D12.3.1
+ch.1_553	WormBase	gene	101	930	.	+	.	ID=Gene:WBGene00009087
+ch.1_553	WormBase	mRNA	101	930	.	+	.	ID=Transcript:F23D12.3.1;Parent=Gene:WBGene00009087
+ch.1_553	RNASeq_F_asymmetry	transcript_region	130	144	87.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	145	164	131.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	217	218	543.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	219	219	859.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	220	228	2368.0	.	.	
+ch.1_553	RNASeq_reads	transcript_region	220	236	1.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	229	232	3657.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	233	240	5921.0	.	.	
+ch.1_553	RNASeq_reads	transcript_region	237	243	2.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	241	243	9808.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	244	259	17736.0	.	.	
+ch.1_553	RNASeq_reads	transcript_region	244	276	4.0	.	.	
+ch.1_553	RNASeq_stranded	transcript_region	246	307	1.0	+	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	260	311	27271.0	.	.	
+ch.1_553	RNASeq_reads	transcript_region	277	378	7.0	.	.	
+ch.1_553	RNASeq_stranded	transcript_region	308	330	2.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	331	333	1.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	334	340	2.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	341	380	1.0	+	.	
+ch.1_553	RNASeq_reads	transcript_region	379	571	11.0	.	.	
+ch.1_553	RNASeq_stranded	transcript_region	381	385	2.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	386	391	1.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	392	412	2.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	413	435	1.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	436	456	2.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	457	539	1.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	540	549	2.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	550	571	1.0	+	.	
+ch.1_553	RNASeq_splice	intron	557	618	9.0	+	.	
+ch.1_553	RNASeq_reads	transcript_region	572	572	1.0	.	.	
+ch.1_553	WormBase	intron	572	618	.	+	.	Parent=Transcript:F23D12.3.1
+ch.1_553	RNASeq_splice	intron	572	618	42078.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	619	630	1.0	+	.	
+ch.1_553	WormBase	CDS	619	759	.	+	.	ID=CDS:F23D12.3;Parent=Transcript:F23D12.3.1
+ch.1_553	RNASeq_reads	transcript_region	619	851	8.0	.	.	
+ch.1_553	WormBase	exon	619	930	.	+	.	Parent=Transcript:F23D12.3.1
+ch.1_553	RNASeq_stranded	transcript_region	631	673	2.0	+	.	
+ch.1_553	RNASeq_splice	intron	672	714	3.0	-	.	
+ch.1_553	RNASeq_stranded	transcript_region	674	686	4.0	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	687	797	2.0	+	.	
+ch.1_553	WormBase	three_prime_UTR	760	930	.	+	.	Parent=Transcript:F23D12.3.1
+ch.1_553	RNASeq	transcription_end_site	780	780	.	+	.	
+ch.1_553	RNASeq_stranded	transcript_region	798	878	4.0	+	.	
+ch.1_553	RNASeq	transcription_end_site	799	799	.	+	.	
+ch.1_553	RNASeq	transcription_end_site	804	804	.	+	.	
+ch.1_553	RNASeq_reads	transcript_region	852	891	5.0	.	.	
+ch.1_553	RNASeq_stranded	transcript_region	879	897	2.0	+	.	
+ch.1_553	RNASeq_reads	transcript_region	892	910	3.0	.	.	
+ch.1_553	RNASeq_stranded	transcript_region	898	916	1.0	+	.	
+ch.1_553	RNASeq_reads	transcript_region	911	930	1.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	926	930	3460.0	.	.	
+ch.1_553	RNASeq_F_asymmetry	transcript_region	931	932	913.0	.	.	

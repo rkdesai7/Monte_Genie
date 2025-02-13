@@ -1,0 +1,57 @@
+ch.1_356	RNASeq_stranded	transcript_region	7	35	1.0	-	.	
+ch.1_356	RNASeq_splice	intron	37	436	5.0	-	.	
+ch.1_356	RNASeq_splice	intron	37	605	154.0	-	.	
+ch.1_356	RNASeq_splice	intron	39	373	14.0	-	.	
+ch.1_356	RNASeq_splice	intron	39	436	12.0	-	.	
+ch.1_356	WormBase	intron	39	605	.	-	.	Parent=Transcript:F41G3.12.1
+ch.1_356	RNASeq_splice	intron	39	605	30555.0	-	.	
+ch.1_356	RNASeq_F_asymmetry	transcript_region	71	77	1391.0	.	.	
+ch.1_356	RNASeq_F_asymmetry	transcript_region	78	81	2601.0	.	.	
+ch.1_356	RNASeq_reads	transcript_region	78	88	1.0	.	.	
+ch.1_356	RNASeq_F_asymmetry	transcript_region	89	92	6631.0	.	.	
+ch.1_356	RNASeq_reads	transcript_region	89	95	2.0	.	.	
+ch.1_356	RNASeq_stranded	transcript_region	91	114	1.0	+	.	
+ch.1_356	RNASeq_F_asymmetry	transcript_region	93	96	12020.0	.	.	
+ch.1_356	RNASeq_reads	transcript_region	96	105	4.0	.	.	
+ch.1_356	RNASeq_F_asymmetry	transcript_region	97	105	18571.0	.	.	
+ch.1_356	WormBase	five_prime_UTR	101	117	.	+	.	Parent=Transcript:F41G3.18.1
+ch.1_356	WormBase	exon	101	213	.	+	.	Parent=Transcript:F41G3.18.1
+ch.1_356	WormBase	gene	101	614	.	+	.	ID=Gene:WBGene00044221
+ch.1_356	WormBase	mRNA	101	614	.	+	.	ID=Transcript:F41G3.18.1;Parent=Gene:WBGene00044221
+ch.1_356	RNASeq_reads	transcript_region	106	121	7.0	.	.	
+ch.1_356	RNASeq_F_asymmetry	transcript_region	106	122	30172.0	.	.	
+ch.1_356	RNASeq_stranded	transcript_region	115	164	2.0	+	.	
+ch.1_356	WormBase	CDS	118	213	.	+	.	ID=CDS:F41G3.18;Parent=Transcript:F41G3.18.1
+ch.1_356	RNASeq_reads	transcript_region	122	136	11.0	.	.	
+ch.1_356	RNASeq_F_asymmetry	transcript_region	123	141	46421.0	.	.	
+ch.1_356	RNASeq_reads	transcript_region	137	201	17.0	.	.	
+ch.1_356	RNASeq_F_asymmetry	transcript_region	142	144	70026.0	.	.	
+ch.1_356	RNASeq_stranded	transcript_region	165	213	4.0	+	.	
+ch.1_356	RNASeq_reads	transcript_region	202	213	26.0	.	.	
+ch.1_356	RNASeq_splice	intron	209	605	14.0	-	.	
+ch.1_356	RNASeq_F_asymmetry	transcript_region	214	216	4764.0	.	.	
+ch.1_356	RNASeq_reads	transcript_region	214	216	1.0	.	.	
+ch.1_356	RNASeq_splice	intron	214	386	46.0	+	.	
+ch.1_356	WormBase	intron	214	396	.	+	.	Parent=Transcript:F41G3.18.1
+ch.1_356	RNASeq_splice	intron	214	396	120067.0	+	.	
+ch.1_356	RNASeq_splice	intron	340	396	5.0	+	.	
+ch.1_356	RNASeq_reads	transcript_region	389	395	1.0	.	.	
+ch.1_356	RNASeq_reads	transcript_region	396	396	3.0	.	.	
+ch.1_356	RNASeq_stranded	transcript_region	397	450	2.0	+	.	
+ch.1_356	RNASeq_reads	transcript_region	397	529	25.0	.	.	
+ch.1_356	WormBase	CDS	397	567	.	+	.	ID=CDS:F41G3.18;Parent=Transcript:F41G3.18.1
+ch.1_356	WormBase	exon	397	614	.	+	.	Parent=Transcript:F41G3.18.1
+ch.1_356	RNASeq_stranded	transcript_region	451	599	4.0	+	.	
+ch.1_356	RNASeq_splice	intron	461	605	97.0	-	.	
+ch.1_356	RNASeq_reads	transcript_region	530	700	16.0	.	.	
+ch.1_356	RNASeq	transcription_end_site	564	564	.	+	.	
+ch.1_356	WormBase	three_prime_UTR	568	614	.	+	.	Parent=Transcript:F41G3.18.1
+ch.1_356	RNASeq_stranded	transcript_region	600	628	7.0	+	.	
+ch.1_356	RNASeq_stranded	transcript_region	606	675	1.0	-	.	
+ch.1_356	WormBase	CDS	606	706	.	-	.	ID=CDS:F41G3.12;Parent=Transcript:F41G3.12.1
+ch.1_356	WormBase	exon	606	706	.	-	.	Parent=Transcript:F41G3.12.1
+ch.1_356	RNASeq_stranded	transcript_region	629	685	11.0	+	.	
+ch.1_356	RNASeq_stranded	transcript_region	679	681	1.0	-	.	
+ch.1_356	RNASeq_stranded	transcript_region	684	684	1.0	+	.	
+ch.1_356	RNASeq_stranded	transcript_region	686	703	7.0	+	.	
+ch.1_356	RNASeq_reads	transcript_region	701	706	10.0	.	.	

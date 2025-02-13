@@ -1,0 +1,42 @@
+ch.2_156	RNASeq_F_asymmetry	transcript_region	94	100	489.0	.	.	
+ch.2_156	RNASeq_F_asymmetry	transcript_region	101	105	5001.0	.	.	
+ch.2_156	RNASeq_reads	transcript_region	101	105	1.0	.	.	
+ch.2_156	WormBase	five_prime_UTR	101	115	.	+	.	Parent=Transcript:F37D6.3.1
+ch.2_156	WormBase	exon	101	154	.	+	.	Parent=Transcript:F37D6.3.1
+ch.2_156	WormBase	gene	101	743	.	+	.	ID=Gene:WBGene00009509
+ch.2_156	WormBase	mRNA	101	743	.	+	.	ID=Transcript:F37D6.3.1;Parent=Gene:WBGene00009509
+ch.2_156	RNASeq_stranded	transcript_region	102	122	1.0	+	.	
+ch.2_156	RNASeq_F_asymmetry	transcript_region	106	121	9181.0	.	.	
+ch.2_156	RNASeq_reads	transcript_region	106	154	2.0	.	.	
+ch.2_156	WormBase	CDS	116	154	.	+	.	ID=CDS:F37D6.3;Parent=Transcript:F37D6.3.1
+ch.2_156	RNASeq_F_asymmetry	transcript_region	122	154	14496.0	.	.	
+ch.2_156	RNASeq_stranded	transcript_region	123	124	2.0	+	.	
+ch.2_156	RNASeq_stranded	transcript_region	125	126	1.0	+	.	
+ch.2_156	RNASeq_stranded	transcript_region	127	138	2.0	+	.	
+ch.2_156	RNASeq_stranded	transcript_region	139	154	1.0	+	.	
+ch.2_156	RNASeq_splice	intron	146	204	20.0	+	.	
+ch.2_156	RNASeq_F_asymmetry	transcript_region	155	160	320.0	.	.	
+ch.2_156	WormBase	intron	155	204	.	+	.	Parent=Transcript:F37D6.3.1
+ch.2_156	RNASeq_splice	intron	155	204	17741.0	+	.	
+ch.2_156	RNASeq_F_asymmetry	transcript_region	205	227	13287.0	.	.	
+ch.2_156	WormBase	CDS	205	507	.	+	.	ID=CDS:F37D6.3;Parent=Transcript:F37D6.3.1
+ch.2_156	WormBase	exon	205	507	.	+	.	Parent=Transcript:F37D6.3.1
+ch.2_156	RNASeq_reads	transcript_region	205	507	3.0	.	.	
+ch.2_156	RNASeq_stranded	transcript_region	205	507	1.0	+	.	
+ch.2_156	RNASeq	transcription_end_site	241	241	.	+	.	
+ch.2_156	RNASeq_F_asymmetry	transcript_region	508	508	1451.0	.	.	
+ch.2_156	WormBase	intron	508	556	.	+	.	Parent=Transcript:F37D6.3.1
+ch.2_156	RNASeq_splice	intron	508	556	11425.0	+	.	
+ch.2_156	RNASeq_splice	intron	512	556	19.0	+	.	
+ch.2_156	RNASeq_stranded	transcript_region	557	567	1.0	+	.	
+ch.2_156	RNASeq_reads	transcript_region	557	671	2.0	.	.	
+ch.2_156	WormBase	CDS	557	724	.	+	.	ID=CDS:F37D6.3;Parent=Transcript:F37D6.3.1
+ch.2_156	WormBase	exon	557	743	.	+	.	Parent=Transcript:F37D6.3.1
+ch.2_156	RNASeq_stranded	transcript_region	568	600	2.0	+	.	
+ch.2_156	RNASeq_stranded	transcript_region	601	633	4.0	+	.	
+ch.2_156	RNASeq_stranded	transcript_region	634	699	7.0	+	.	
+ch.2_156	RNASeq_reads	transcript_region	672	733	1.0	.	.	
+ch.2_156	RNASeq_stranded	transcript_region	700	712	4.0	+	.	
+ch.2_156	RNASeq_stranded	transcript_region	713	720	2.0	+	.	
+ch.2_156	RNASeq_stranded	transcript_region	721	737	1.0	+	.	
+ch.2_156	WormBase	three_prime_UTR	725	743	.	+	.	Parent=Transcript:F37D6.3.1

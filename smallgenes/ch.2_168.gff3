@@ -1,0 +1,100 @@
+ch.2_168	RNASeq_F_asymmetry	transcript_region	101	104	111168.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	101	104	22.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	101	104	1.0	+	.	
+ch.2_168	WormBase	five_prime_UTR	101	107	.	+	.	Parent=Transcript:F28D1.11.1
+ch.2_168	WormBase	exon	101	236	.	+	.	Parent=Transcript:F28D1.11.1
+ch.2_168	WormBase	gene	101	634	.	+	.	ID=Gene:WBGene00009219
+ch.2_168	WormBase	mRNA	101	634	.	+	.	ID=Transcript:F28D1.11.1;Parent=Gene:WBGene00009219
+ch.2_168	RNASeq_F_asymmetry	transcript_region	105	109	200401.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	105	109	39.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	105	109	7.0	+	.	
+ch.2_168	WormBase	CDS	108	236	.	+	.	ID=CDS:F28D1.11;Parent=Transcript:F28D1.11.1
+ch.2_168	RNASeq_F_asymmetry	transcript_region	110	114	350818.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	110	114	69.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	110	123	13.0	+	.	
+ch.2_168	RNASeq_F_asymmetry	transcript_region	115	165	544514.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	115	173	108.0	.	.	
+ch.2_168	RNASeq_splice	intron	123	159	6.0	+	.	
+ch.2_168	RNASeq_splice	intron	123	171	436.0	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	124	179	20.0	+	.	
+ch.2_168	RNASeq_reads	transcript_region	174	236	163.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	180	201	31.0	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	202	235	47.0	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	236	236	30.0	+	.	
+ch.2_168	RNASeq_R_asymmetry	transcript_region	237	237	205265.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	237	237	49.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	237	237	4.0	+	.	
+ch.2_168	WormBase	intron	237	283	.	+	.	Parent=Transcript:F28D1.11.1
+ch.2_168	RNASeq_splice	intron	237	283	636447.0	+	.	
+ch.2_168	RNASeq_splice	intron	237	299	139.0	+	.	
+ch.2_168	RNASeq_splice	intron	237	418	591.0	+	.	
+ch.2_168	RNASeq_reads	transcript_region	238	283	2.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	281	283	1.0	+	.	
+ch.2_168	WormBase	CDS	284	313	.	+	.	ID=CDS:F28D1.11;Parent=Transcript:F28D1.11.1
+ch.2_168	WormBase	exon	284	313	.	+	.	Parent=Transcript:F28D1.11.1
+ch.2_168	RNASeq_reads	transcript_region	284	313	116.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	284	313	39.0	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	296	313	1.0	-	.	
+ch.2_168	RNASeq_splice	intron	308	411	3.0	-	.	
+ch.2_168	RNASeq_splice	intron	312	418	27.0	+	.	
+ch.2_168	RNASeq_reads	transcript_region	314	316	2.0	.	.	
+ch.2_168	RNASeq_splice	intron	314	365	28.0	+	.	
+ch.2_168	RNASeq_splice	intron	314	402	15.0	+	.	
+ch.2_168	WormBase	intron	314	418	.	+	.	Parent=Transcript:F28D1.11.1
+ch.2_168	RNASeq_splice	intron	314	418	596158.0	+	.	
+ch.2_168	RNASeq_reads	transcript_region	317	317	1.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	318	318	2.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	319	319	1.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	320	329	2.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	330	416	1.0	.	.	
+ch.2_168	RNASeq_splice	intron	366	418	471.0	+	.	
+ch.2_168	RNASeq	transcription_end_site	385	385	.	+	.	
+ch.2_168	RNASeq	transcription_end_site	396	396	.	+	.	
+ch.2_168	RNASeq_reads	transcript_region	417	418	2.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	417	418	1.0	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	419	449	33.0	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	419	465	1.0	-	.	
+ch.2_168	WormBase	CDS	419	547	.	+	.	ID=CDS:F28D1.11;Parent=Transcript:F28D1.11.1
+ch.2_168	RNASeq_reads	transcript_region	419	562	113.0	.	.	
+ch.2_168	WormBase	exon	419	634	.	+	.	Parent=Transcript:F28D1.11.1
+ch.2_168	RNASeq_stranded	transcript_region	450	502	50.0	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	466	471	2.0	-	.	
+ch.2_168	RNASeq_stranded	transcript_region	472	513	1.0	-	.	
+ch.2_168	RNASeq_stranded	transcript_region	503	569	76.0	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	515	556	1.0	-	.	
+ch.2_168	RNASeq_R_asymmetry	transcript_region	546	565	390820.0	.	.	
+ch.2_168	WormBase	three_prime_UTR	548	634	.	+	.	Parent=Transcript:F28D1.11.1
+ch.2_168	RNASeq_stranded	transcript_region	557	565	2.0	-	.	
+ch.2_168	RNASeq_reads	transcript_region	563	575	74.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	566	606	1.0	-	.	
+ch.2_168	RNASeq_R_asymmetry	transcript_region	569	594	235366.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	570	586	49.0	+	.	
+ch.2_168	RNASeq_reads	transcript_region	576	598	48.0	.	.	
+ch.2_168	RNASeq	transcription_end_site	578	578	.	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	587	601	32.0	+	.	
+ch.2_168	RNASeq_R_asymmetry	transcript_region	595	604	152300.0	.	.	
+ch.2_168	RNASeq	transcription_end_site	599	599	.	+	.	
+ch.2_168	RNASeq_reads	transcript_region	599	605	31.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	602	613	21.0	+	.	
+ch.2_168	RNASeq_R_asymmetry	transcript_region	605	606	94867.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	606	612	19.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	613	627	12.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	614	624	13.0	+	.	
+ch.2_168	RNASeq_R_asymmetry	transcript_region	619	632	41398.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	625	629	8.0	+	.	
+ch.2_168	RNASeq_reads	transcript_region	628	667	7.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	630	633	5.0	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	633	633	1.0	+	.	
+ch.2_168	RNASeq	transcription_end_site	633	633	.	+	.	
+ch.2_168	RNASeq	transcription_end_site	633	633	.	+	.	
+ch.2_168	RNASeq	transcription_end_site	634	634	.	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	634	635	6.0	-	.	
+ch.2_168	RNASeq_stranded	transcript_region	634	636	3.0	+	.	
+ch.2_168	RNASeq_R_asymmetry	transcript_region	634	640	33804.0	.	.	
+ch.2_168	RNASeq_stranded	transcript_region	636	669	12.0	-	.	
+ch.2_168	RNASeq_stranded	transcript_region	637	637	1.0	+	.	
+ch.2_168	RNASeq_reads	transcript_region	668	692	11.0	.	.	
+ch.2_168	RNASeq	transcription_end_site	680	680	.	+	.	
+ch.2_168	RNASeq_stranded	transcript_region	689	723	1.0	+	.	
+ch.2_168	RNASeq_F_asymmetry	transcript_region	691	696	59554.0	.	.	
+ch.2_168	RNASeq_reads	transcript_region	693	716	17.0	.	.	

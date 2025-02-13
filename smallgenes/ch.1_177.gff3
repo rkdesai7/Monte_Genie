@@ -1,0 +1,55 @@
+ch.1_177	RNASeq_stranded	transcript_region	582	619	3.0	+	.	
+ch.1_177	RNASeq_stranded	transcript_region	530	616	309.0	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	581	581	7.0	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	534	580	29.0	+	.	
+ch.1_177	RNASeq_reads	transcript_region	493	556	112.0	.	.	
+ch.1_177	WormBase	three_prime_UTR	411	539	.	+	.	Parent=Transcript:ZK742.6.1
+ch.1_177	WormBase	exon	279	539	.	+	.	Parent=Transcript:ZK742.6.1
+ch.1_177	WormBase	gene	101	539	.	+	.	ID=Gene:WBGene00045277
+ch.1_177	WormBase	mRNA	101	539	.	+	.	ID=Transcript:ZK742.6.1;Parent=Gene:WBGene00045277
+ch.1_177	RNASeq	transcription_end_site	536	536	.	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	481	533	44.0	+	.	
+ch.1_177	RNASeq_stranded	transcript_region	505	529	203.0	-	.	
+ch.1_177	RNASeq	transcription_end_site	508	508	.	-	.	
+ch.1_177	RNASeq	transcription_end_site	508	508	.	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	503	504	114.0	-	.	
+ch.1_177	RNASeq_R_asymmetry	transcript_region	492	504	327857.0	.	.	
+ch.1_177	RNASeq_stranded	transcript_region	472	502	75.0	-	.	
+ch.1_177	RNASeq_reads	transcript_region	479	492	69.0	.	.	
+ch.1_177	RNASeq_stranded	transcript_region	480	480	15.0	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	458	479	6.0	+	.	
+ch.1_177	RNASeq_reads	transcript_region	458	478	45.0	.	.	
+ch.1_177	RNASeq_stranded	transcript_region	459	471	49.0	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	455	458	31.0	-	.	
+ch.1_177	RNASeq	transcription_end_site	457	457	.	-	.	
+ch.1_177	RNASeq_reads	transcript_region	419	457	28.0	.	.	
+ch.1_177	RNASeq_stranded	transcript_region	279	457	3.0	+	.	
+ch.1_177	RNASeq_stranded	transcript_region	441	454	20.0	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	425	440	12.0	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	405	424	7.0	-	.	
+ch.1_177	RNASeq_reads	transcript_region	279	418	18.0	.	.	
+ch.1_177	WormBase	CDS	279	410	.	+	.	ID=CDS:ZK742.6;Parent=Transcript:ZK742.6.1
+ch.1_177	RNASeq_stranded	transcript_region	392	404	4.0	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	390	391	2.0	-	.	
+ch.1_177	RNASeq_stranded	transcript_region	387	389	1.0	-	.	
+ch.1_177	RNASeq	transcription_end_site	279	279	.	-	.	
+ch.1_177	RNASeq_reads	transcript_region	277	278	2.0	.	.	
+ch.1_177	WormBase	intron	227	278	.	+	.	Parent=Transcript:ZK742.6.1
+ch.1_177	RNASeq_splice	intron	227	278	66464.0	+	.	
+ch.1_177	RNASeq	transcription_end_site	277	277	.	-	.	
+ch.1_177	RNASeq	transcription_end_site	270	270	.	-	.	
+ch.1_177	RNASeq_reads	transcript_region	227	227	1.0	.	.	
+ch.1_177	RNASeq_stranded	transcript_region	217	226	1.0	+	.	
+ch.1_177	WormBase	CDS	194	226	.	+	.	ID=CDS:ZK742.6;Parent=Transcript:ZK742.6.1
+ch.1_177	RNASeq_reads	transcript_region	166	226	12.0	.	.	
+ch.1_177	WormBase	exon	101	226	.	+	.	Parent=Transcript:ZK742.6.1
+ch.1_177	RNASeq_stranded	transcript_region	166	216	2.0	+	.	
+ch.1_177	RNASeq_R_asymmetry	transcript_region	166	211	52001.0	.	.	
+ch.1_177	WormBase	five_prime_UTR	101	193	.	+	.	Parent=Transcript:ZK742.6.1
+ch.1_177	RNASeq_R_asymmetry	transcript_region	161	165	33464.0	.	.	
+ch.1_177	RNASeq_reads	transcript_region	160	165	7.0	.	.	
+ch.1_177	RNASeq_stranded	transcript_region	157	165	1.0	+	.	
+ch.1_177	RNASeq_R_asymmetry	transcript_region	157	160	21284.0	.	.	
+ch.1_177	RNASeq_reads	transcript_region	157	159	4.0	.	.	
+ch.1_177	RNASeq_splice	intron	115	158	13.0	+	.	
+ch.1_177	RNASeq_reads	transcript_region	102	156	1.0	.	.	

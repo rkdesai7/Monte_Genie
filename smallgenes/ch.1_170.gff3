@@ -1,0 +1,39 @@
+ch.1_170	WormBase	three_prime_UTR	393	520	.	+	.	Parent=Transcript:R13D7.11.1
+ch.1_170	WormBase	exon	211	520	.	+	.	Parent=Transcript:R13D7.11.1
+ch.1_170	WormBase	gene	101	520	.	+	.	ID=Gene:WBGene00044548
+ch.1_170	WormBase	mRNA	101	520	.	+	.	ID=Transcript:R13D7.11.1;Parent=Gene:WBGene00044548
+ch.1_170	RNASeq_F_asymmetry	transcript_region	518	519	185.0	.	.	
+ch.1_170	RNASeq_F_asymmetry	transcript_region	511	517	319.0	.	.	
+ch.1_170	RNASeq_F_asymmetry	transcript_region	490	496	1258.0	.	.	
+ch.1_170	RNASeq_F_asymmetry	transcript_region	479	489	2780.0	.	.	
+ch.1_170	RNASeq_reads	transcript_region	465	489	1.0	.	.	
+ch.1_170	RNASeq_F_asymmetry	transcript_region	466	478	4182.0	.	.	
+ch.1_170	RNASeq	transcription_end_site	474	474	.	-	.	
+ch.1_170	RNASeq	transcription_end_site	474	474	.	-	.	
+ch.1_170	RNASeq_F_asymmetry	transcript_region	462	465	6355.0	.	.	
+ch.1_170	RNASeq_reads	transcript_region	384	464	2.0	.	.	
+ch.1_170	RNASeq_F_asymmetry	transcript_region	399	461	9591.0	.	.	
+ch.1_170	WormBase	CDS	211	392	.	+	.	ID=CDS:R13D7.11;Parent=Transcript:R13D7.11.1
+ch.1_170	RNASeq_reads	transcript_region	341	383	4.0	.	.	
+ch.1_170	RNASeq_reads	transcript_region	215	340	7.0	.	.	
+ch.1_170	RNASeq_splice	intron	304	330	44.0	+	.	
+ch.1_170	RNASeq_R_asymmetry	transcript_region	211	233	20260.0	.	.	
+ch.1_170	RNASeq_reads	transcript_region	211	214	4.0	.	.	
+ch.1_170	RNASeq_reads	transcript_region	210	210	1.0	.	.	
+ch.1_170	WormBase	intron	166	210	.	+	.	Parent=Transcript:R13D7.11.1
+ch.1_170	RNASeq_splice	intron	166	210	19598.0	+	.	
+ch.1_170	RNASeq_R_asymmetry	transcript_region	167	191	315.0	.	.	
+ch.1_170	RNASeq_R_asymmetry	transcript_region	166	166	4737.0	.	.	
+ch.1_170	RNASeq_reads	transcript_region	166	166	1.0	.	.	
+ch.1_170	RNASeq_reads	transcript_region	119	165	5.0	.	.	
+ch.1_170	RNASeq_R_asymmetry	transcript_region	117	165	22976.0	.	.	
+ch.1_170	WormBase	CDS	111	165	.	+	.	ID=CDS:R13D7.11;Parent=Transcript:R13D7.11.1
+ch.1_170	WormBase	exon	101	165	.	+	.	Parent=Transcript:R13D7.11.1
+ch.1_170	RNASeq_reads	transcript_region	112	118	3.0	.	.	
+ch.1_170	RNASeq_R_asymmetry	transcript_region	114	116	14176.0	.	.	
+ch.1_170	RNASeq_R_asymmetry	transcript_region	110	113	8523.0	.	.	
+ch.1_170	RNASeq_reads	transcript_region	108	111	1.0	.	.	
+ch.1_170	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:R13D7.11.1
+ch.1_170	RNASeq_R_asymmetry	transcript_region	109	109	5390.0	.	.	
+ch.1_170	RNASeq_R_asymmetry	transcript_region	98	108	2157.0	.	.	
+ch.1_170	RNASeq_R_asymmetry	transcript_region	97	97	1160.0	.	.	

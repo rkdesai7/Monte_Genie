@@ -1,0 +1,42 @@
+ch.1_423	RNASeq_F_asymmetry	transcript_region	87	92	2524.0	.	.	
+ch.1_423	RNASeq_reads	transcript_region	87	99	1.0	.	.	
+ch.1_423	RNASeq_F_asymmetry	transcript_region	93	99	4205.0	.	.	
+ch.1_423	RNASeq_F_asymmetry	transcript_region	100	108	9341.0	.	.	
+ch.1_423	RNASeq_reads	transcript_region	100	113	2.0	.	.	
+ch.1_423	WormBase	five_prime_UTR	101	157	.	+	.	Parent=Transcript:ZK84.6.1
+ch.1_423	WormBase	exon	101	416	.	+	.	Parent=Transcript:ZK84.6.1
+ch.1_423	WormBase	gene	101	674	.	+	.	ID=Gene:WBGene00002089
+ch.1_423	WormBase	mRNA	101	674	.	+	.	ID=Transcript:ZK84.6.1;Parent=Gene:WBGene00002089
+ch.1_423	RNASeq_F_asymmetry	transcript_region	109	115	14043.0	.	.	
+ch.1_423	RNASeq_reads	transcript_region	114	138	4.0	.	.	
+ch.1_423	RNASeq_stranded	transcript_region	116	122	1.0	+	.	
+ch.1_423	RNASeq_F_asymmetry	transcript_region	116	152	21342.0	.	.	
+ch.1_423	RNASeq_stranded	transcript_region	123	167	2.0	+	.	
+ch.1_423	RNASeq_reads	transcript_region	139	245	7.0	.	.	
+ch.1_423	RNASeq_F_asymmetry	transcript_region	153	184	32041.0	.	.	
+ch.1_423	WormBase	CDS	158	416	.	+	.	ID=CDS:ZK84.6;Parent=Transcript:ZK84.6.1
+ch.1_423	RNASeq_stranded	transcript_region	168	405	1.0	+	.	
+ch.1_423	RNASeq_reads	transcript_region	246	416	11.0	.	.	
+ch.1_423	RNASeq_stranded	transcript_region	406	416	2.0	+	.	
+ch.1_423	WormBase	intron	417	470	.	+	.	Parent=Transcript:ZK84.6.1
+ch.1_423	RNASeq_splice	intron	417	470	46810.0	+	.	
+ch.1_423	RNASeq_splice	intron	421	470	6.0	+	.	
+ch.1_423	RNASeq_splice	intron	421	473	36.0	+	.	
+ch.1_423	RNASeq_splice	intron	421	476	3.0	+	.	
+ch.1_423	RNASeq_reads	transcript_region	468	470	1.0	.	.	
+ch.1_423	WormBase	CDS	471	550	.	+	.	ID=CDS:ZK84.6;Parent=Transcript:ZK84.6.1
+ch.1_423	RNASeq_stranded	transcript_region	471	573	2.0	+	.	
+ch.1_423	RNASeq_reads	transcript_region	471	622	10.0	.	.	
+ch.1_423	WormBase	exon	471	674	.	+	.	Parent=Transcript:ZK84.6.1
+ch.1_423	WormBase	three_prime_UTR	551	674	.	+	.	Parent=Transcript:ZK84.6.1
+ch.1_423	RNASeq	transcription_end_site	570	570	.	+	.	
+ch.1_423	RNASeq_stranded	transcript_region	574	629	4.0	+	.	
+ch.1_423	RNASeq_reads	transcript_region	623	648	6.0	.	.	
+ch.1_423	RNASeq_stranded	transcript_region	630	651	2.0	+	.	
+ch.1_423	RNASeq_R_asymmetry	transcript_region	632	642	23942.0	.	.	
+ch.1_423	RNASeq	transcription_end_site	647	647	.	+	.	
+ch.1_423	RNASeq_reads	transcript_region	649	663	3.0	.	.	
+ch.1_423	RNASeq_stranded	transcript_region	652	669	1.0	+	.	
+ch.1_423	RNASeq_reads	transcript_region	664	678	1.0	.	.	
+ch.1_423	RNASeq	transcription_end_site	670	670	.	+	.	
+ch.1_423	RNASeq	transcription_end_site	678	678	.	+	.	

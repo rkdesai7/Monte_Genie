@@ -1,0 +1,51 @@
+ch.1_378	RNASeq_F_asymmetry	transcript_region	737	737	871.0	.	.	
+ch.1_378	RNASeq_reads	transcript_region	657	694	1.0	.	.	
+ch.1_378	RNASeq_F_asymmetry	transcript_region	686	691	2707.0	.	.	
+ch.1_378	RNASeq_F_asymmetry	transcript_region	659	685	4098.0	.	.	
+ch.1_378	RNASeq_stranded	transcript_region	642	657	1.0	+	.	
+ch.1_378	RNASeq_F_asymmetry	transcript_region	653	656	6278.0	.	.	
+ch.1_378	RNASeq_reads	transcript_region	628	656	2.0	.	.	
+ch.1_378	WormBase	three_prime_UTR	388	656	.	+	.	Parent=Transcript:T16A1.10.1
+ch.1_378	WormBase	exon	224	656	.	+	.	Parent=Transcript:T16A1.10.1
+ch.1_378	WormBase	gene	101	656	.	+	.	ID=Gene:WBGene00269431
+ch.1_378	WormBase	mRNA	101	656	.	+	.	ID=Transcript:T16A1.10.1;Parent=Gene:WBGene00269431
+ch.1_378	RNASeq_stranded	transcript_region	625	641	2.0	+	.	
+ch.1_378	RNASeq_reads	transcript_region	600	627	4.0	.	.	
+ch.1_378	RNASeq_stranded	transcript_region	550	624	4.0	+	.	
+ch.1_378	RNASeq_reads	transcript_region	529	599	7.0	.	.	
+ch.1_378	RNASeq_F_asymmetry	transcript_region	578	578	32768.0	.	.	
+ch.1_378	RNASeq_F_asymmetry	transcript_region	562	572	35403.0	.	.	
+ch.1_378	RNASeq_F_asymmetry	transcript_region	558	560	38379.0	.	.	
+ch.1_378	RNASeq_stranded	transcript_region	475	549	2.0	+	.	
+ch.1_378	RNASeq_F_asymmetry	transcript_region	544	547	39742.0	.	.	
+ch.1_378	RNASeq_reads	transcript_region	476	528	11.0	.	.	
+ch.1_378	RNASeq_reads	transcript_region	224	475	17.0	.	.	
+ch.1_378	RNASeq_stranded	transcript_region	474	474	1.0	-	.	
+ch.1_378	RNASeq_stranded	transcript_region	469	473	2.0	+	.	
+ch.1_378	RNASeq_stranded	transcript_region	350	468	1.0	+	.	
+ch.1_378	WormBase	CDS	224	387	.	+	.	ID=CDS:T16A1.10;Parent=Transcript:T16A1.10.1
+ch.1_378	RNASeq_stranded	transcript_region	341	348	1.0	+	.	
+ch.1_378	RNASeq_R_asymmetry	transcript_region	224	246	70322.0	.	.	
+ch.1_378	RNASeq_splice	intron	173	241	39.0	+	.	
+ch.1_378	RNASeq_reads	transcript_region	223	223	1.0	.	.	
+ch.1_378	RNASeq_splice	intron	177	223	11.0	+	.	
+ch.1_378	WormBase	intron	173	223	.	+	.	Parent=Transcript:T16A1.10.1
+ch.1_378	RNASeq_splice	intron	173	223	61998.0	+	.	
+ch.1_378	RNASeq_splice	intron	170	223	19.0	+	.	
+ch.1_378	RNASeq_splice	intron	173	210	3.0	+	.	
+ch.1_378	RNASeq_R_asymmetry	transcript_region	173	199	754.0	.	.	
+ch.1_378	WormBase	CDS	166	172	.	+	.	ID=CDS:T16A1.10;Parent=Transcript:T16A1.10.1
+ch.1_378	RNASeq_reads	transcript_region	108	172	15.0	.	.	
+ch.1_378	RNASeq_R_asymmetry	transcript_region	107	172	67673.0	.	.	
+ch.1_378	WormBase	exon	101	172	.	+	.	Parent=Transcript:T16A1.10.1
+ch.1_378	WormBase	five_prime_UTR	101	165	.	+	.	Parent=Transcript:T16A1.10.1
+ch.1_378	RNASeq_reads	transcript_region	102	107	9.0	.	.	
+ch.1_378	RNASeq_R_asymmetry	transcript_region	102	106	42769.0	.	.	
+ch.1_378	RNASeq_R_asymmetry	transcript_region	100	101	25162.0	.	.	
+ch.1_378	RNASeq_reads	transcript_region	100	101	5.0	.	.	
+ch.1_378	RNASeq_R_asymmetry	transcript_region	96	99	11825.0	.	.	
+ch.1_378	RNASeq_reads	transcript_region	96	99	2.0	.	.	
+ch.1_378	RNASeq_R_asymmetry	transcript_region	91	95	7246.0	.	.	
+ch.1_378	RNASeq_reads	transcript_region	88	95	1.0	.	.	
+ch.1_378	RNASeq_R_asymmetry	transcript_region	87	90	3175.0	.	.	
+ch.1_378	RNASeq_R_asymmetry	transcript_region	58	86	1777.0	.	.	

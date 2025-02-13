@@ -1,0 +1,55 @@
+ch.1_385	WormBase	three_prime_UTR	564	770	.	+	.	Parent=Transcript:ZK75.3.1
+ch.1_385	WormBase	exon	478	770	.	+	.	Parent=Transcript:ZK75.3.1
+ch.1_385	WormBase	gene	101	770	.	+	.	ID=Gene:WBGene00002086
+ch.1_385	WormBase	mRNA	101	770	.	+	.	ID=Transcript:ZK75.3.1;Parent=Gene:WBGene00002086
+ch.1_385	RNASeq_reads	transcript_region	743	768	1.0	.	.	
+ch.1_385	RNASeq_stranded	transcript_region	726	744	1.0	+	.	
+ch.1_385	RNASeq_reads	transcript_region	721	742	2.0	.	.	
+ch.1_385	RNASeq_stranded	transcript_region	710	725	2.0	+	.	
+ch.1_385	RNASeq_reads	transcript_region	708	720	4.0	.	.	
+ch.1_385	RNASeq_stranded	transcript_region	706	709	1.0	+	.	
+ch.1_385	RNASeq_F_asymmetry	transcript_region	683	708	24602.0	.	.	
+ch.1_385	RNASeq_reads	transcript_region	534	707	7.0	.	.	
+ch.1_385	RNASeq_stranded	transcript_region	703	705	2.0	+	.	
+ch.1_385	RNASeq_stranded	transcript_region	659	702	1.0	+	.	
+ch.1_385	RNASeq_splice	intron	357	698	17.0	-	.	
+ch.1_385	RNASeq_stranded	transcript_region	656	658	2.0	+	.	
+ch.1_385	RNASeq_stranded	transcript_region	518	655	1.0	+	.	
+ch.1_385	RNASeq	transcription_end_site	604	604	.	-	.	
+ch.1_385	RNASeq	transcription_end_site	604	604	.	-	.	
+ch.1_385	WormBase	CDS	478	563	.	+	.	ID=CDS:ZK75.3;Parent=Transcript:ZK75.3.1
+ch.1_385	RNASeq_reads	transcript_region	478	533	11.0	.	.	
+ch.1_385	RNASeq_stranded	transcript_region	478	505	1.0	+	.	
+ch.1_385	RNASeq_reads	transcript_region	473	477	1.0	.	.	
+ch.1_385	RNASeq_splice	intron	401	477	46.0	+	.	
+ch.1_385	WormBase	intron	397	477	.	+	.	Parent=Transcript:ZK75.3.1
+ch.1_385	RNASeq_splice	intron	397	477	41069.0	+	.	
+ch.1_385	RNASeq_stranded	transcript_region	355	396	1.0	+	.	
+ch.1_385	RNASeq_reads	transcript_region	161	396	9.0	.	.	
+ch.1_385	WormBase	CDS	159	396	.	+	.	ID=CDS:ZK75.3;Parent=Transcript:ZK75.3.1
+ch.1_385	WormBase	exon	101	396	.	+	.	Parent=Transcript:ZK75.3.1
+ch.1_385	RNASeq_stranded	transcript_region	344	354	2.0	+	.	
+ch.1_385	RNASeq_stranded	transcript_region	335	343	1.0	+	.	
+ch.1_385	RNASeq_stranded	transcript_region	326	334	2.0	+	.	
+ch.1_385	RNASeq_stranded	transcript_region	325	325	1.0	-	.	
+ch.1_385	RNASeq_stranded	transcript_region	316	324	2.0	+	.	
+ch.1_385	RNASeq_stranded	transcript_region	267	315	1.0	+	.	
+ch.1_385	RNASeq_stranded	transcript_region	258	266	2.0	+	.	
+ch.1_385	RNASeq_stranded	transcript_region	210	257	4.0	+	.	
+ch.1_385	RNASeq_R_asymmetry	transcript_region	210	211	32010.0	.	.	
+ch.1_385	RNASeq_stranded	transcript_region	190	209	2.0	+	.	
+ch.1_385	RNASeq_R_asymmetry	transcript_region	154	207	30570.0	.	.	
+ch.1_385	RNASeq_stranded	transcript_region	125	189	1.0	+	.	
+ch.1_385	RNASeq_reads	transcript_region	143	160	5.0	.	.	
+ch.1_385	WormBase	five_prime_UTR	101	158	.	+	.	Parent=Transcript:ZK75.3.1
+ch.1_385	RNASeq_R_asymmetry	transcript_region	133	153	19945.0	.	.	
+ch.1_385	RNASeq_reads	transcript_region	113	142	3.0	.	.	
+ch.1_385	RNASeq_R_asymmetry	transcript_region	115	132	12824.0	.	.	
+ch.1_385	RNASeq_R_asymmetry	transcript_region	109	114	8176.0	.	.	
+ch.1_385	RNASeq_reads	transcript_region	99	112	1.0	.	.	
+ch.1_385	RNASeq_R_asymmetry	transcript_region	102	108	4414.0	.	.	
+ch.1_385	RNASeq_R_asymmetry	transcript_region	94	101	2858.0	.	.	
+ch.1_385	RNASeq_R_asymmetry	transcript_region	75	93	1847.0	.	.	
+ch.1_385	RNASeq_R_asymmetry	transcript_region	56	74	1204.0	.	.	
+ch.1_385	RNASeq	base_call_error_correction	73	73	.	-	.	
+ch.1_385	RNASeq_R_asymmetry	transcript_region	51	55	701.0	.	.	

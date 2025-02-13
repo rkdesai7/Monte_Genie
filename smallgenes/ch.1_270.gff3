@@ -1,0 +1,41 @@
+ch.1_270	RNASeq_R_asymmetry	transcript_region	25	26	43.0	.	.	
+ch.1_270	RNASeq_R_asymmetry	transcript_region	33	37	42.0	.	.	
+ch.1_270	RNASeq_F_asymmetry	transcript_region	101	106	699.0	.	.	
+ch.1_270	WormBase	five_prime_UTR	101	139	.	+	.	Parent=Transcript:Y69A2AR.46.1
+ch.1_270	WormBase	exon	101	146	.	+	.	Parent=Transcript:Y69A2AR.46.1
+ch.1_270	WormBase	gene	101	577	.	+	.	ID=Gene:WBGene00235288
+ch.1_270	WormBase	mRNA	101	577	.	+	.	ID=Transcript:Y69A2AR.46.1;Parent=Gene:WBGene00235288
+ch.1_270	RNASeq_F_asymmetry	transcript_region	107	113	1246.0	.	.	
+ch.1_270	RNASeq_F_asymmetry	transcript_region	114	115	2929.0	.	.	
+ch.1_270	RNASeq_reads	transcript_region	114	118	1.0	.	.	
+ch.1_270	RNASeq_F_asymmetry	transcript_region	116	118	4634.0	.	.	
+ch.1_270	RNASeq_F_asymmetry	transcript_region	119	121	7317.0	.	.	
+ch.1_270	RNASeq_reads	transcript_region	119	132	2.0	.	.	
+ch.1_270	RNASeq_F_asymmetry	transcript_region	122	146	11482.0	.	.	
+ch.1_270	RNASeq_stranded	transcript_region	122	146	1.0	+	.	
+ch.1_270	RNASeq_reads	transcript_region	133	146	4.0	.	.	
+ch.1_270	WormBase	CDS	140	146	.	+	.	ID=CDS:Y69A2AR.46;Parent=Transcript:Y69A2AR.46.1
+ch.1_270	RNASeq_F_asymmetry	transcript_region	147	158	548.0	.	.	
+ch.1_270	WormBase	intron	147	378	.	+	.	Parent=Transcript:Y69A2AR.46.1
+ch.1_270	RNASeq_splice	intron	147	378	16351.0	+	.	
+ch.1_270	RNASeq_reads	transcript_region	376	378	1.0	.	.	
+ch.1_270	RNASeq_F_asymmetry	transcript_region	379	382	15858.0	.	.	
+ch.1_270	RNASeq_stranded	transcript_region	379	397	1.0	+	.	
+ch.1_270	WormBase	CDS	379	473	.	+	.	ID=CDS:Y69A2AR.46;Parent=Transcript:Y69A2AR.46.1
+ch.1_270	RNASeq_reads	transcript_region	379	501	4.0	.	.	
+ch.1_270	WormBase	exon	379	577	.	+	.	Parent=Transcript:Y69A2AR.46.1
+ch.1_270	RNASeq_stranded	transcript_region	398	402	2.0	+	.	
+ch.1_270	RNASeq_stranded	transcript_region	403	431	1.0	+	.	
+ch.1_270	RNASeq_stranded	transcript_region	432	489	2.0	+	.	
+ch.1_270	WormBase	three_prime_UTR	474	577	.	+	.	Parent=Transcript:Y69A2AR.46.1
+ch.1_270	RNASeq_R_asymmetry	transcript_region	479	499	17588.0	.	.	
+ch.1_270	RNASeq_stranded	transcript_region	490	513	1.0	+	.	
+ch.1_270	RNASeq_R_asymmetry	transcript_region	500	513	11607.0	.	.	
+ch.1_270	RNASeq_reads	transcript_region	502	525	2.0	.	.	
+ch.1_270	RNASeq_R_asymmetry	transcript_region	514	530	7183.0	.	.	
+ch.1_270	RNASeq_reads	transcript_region	526	555	1.0	.	.	
+ch.1_270	RNASeq_R_asymmetry	transcript_region	531	535	4591.0	.	.	
+ch.1_270	RNASeq_R_asymmetry	transcript_region	536	557	2826.0	.	.	
+ch.1_270	RNASeq_R_asymmetry	transcript_region	558	565	1532.0	.	.	
+ch.1_270	RNASeq_R_asymmetry	transcript_region	566	573	973.0	.	.	
+ch.1_270	RNASeq_R_asymmetry	transcript_region	578	578	451.0	.	.	

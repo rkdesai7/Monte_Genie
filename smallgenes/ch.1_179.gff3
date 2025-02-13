@@ -1,0 +1,41 @@
+ch.1_179	WormBase	three_prime_UTR	552	657	.	+	.	Parent=Transcript:F14H12.6.1
+ch.1_179	WormBase	exon	312	657	.	+	.	Parent=Transcript:F14H12.6.1
+ch.1_179	WormBase	gene	101	657	.	+	.	ID=Gene:WBGene00017473
+ch.1_179	WormBase	mRNA	101	657	.	+	.	ID=Transcript:F14H12.6.1;Parent=Gene:WBGene00017473
+ch.1_179	RNASeq_reads	transcript_region	626	651	1.0	.	.	
+ch.1_179	RNASeq_stranded	transcript_region	623	647	1.0	+	.	
+ch.1_179	RNASeq_reads	transcript_region	596	625	2.0	.	.	
+ch.1_179	RNASeq_stranded	transcript_region	614	622	2.0	+	.	
+ch.1_179	RNASeq_stranded	transcript_region	604	613	4.0	+	.	
+ch.1_179	RNASeq_stranded	transcript_region	594	603	7.0	+	.	
+ch.1_179	RNASeq_reads	transcript_region	550	595	4.0	.	.	
+ch.1_179	RNASeq_stranded	transcript_region	559	593	11.0	+	.	
+ch.1_179	RNASeq_stranded	transcript_region	470	558	7.0	+	.	
+ch.1_179	WormBase	CDS	312	551	.	+	.	ID=CDS:F14H12.6;Parent=Transcript:F14H12.6.1
+ch.1_179	RNASeq_reads	transcript_region	312	549	7.0	.	.	
+ch.1_179	RNASeq_splice	intron	361	492	17.0	-	.	
+ch.1_179	RNASeq_stranded	transcript_region	420	469	4.0	+	.	
+ch.1_179	RNASeq_stranded	transcript_region	396	419	2.0	+	.	
+ch.1_179	RNASeq_stranded	transcript_region	386	395	1.0	+	.	
+ch.1_179	RNASeq_stranded	transcript_region	346	385	2.0	+	.	
+ch.1_179	RNASeq_stranded	transcript_region	312	345	1.0	+	.	
+ch.1_179	RNASeq_reads	transcript_region	311	311	1.0	.	.	
+ch.1_179	RNASeq_splice	intron	258	311	15.0	+	.	
+ch.1_179	WormBase	intron	254	311	.	+	.	Parent=Transcript:F14H12.6.1
+ch.1_179	RNASeq_splice	intron	254	311	28859.0	+	.	
+ch.1_179	RNASeq_reads	transcript_region	254	254	1.0	.	.	
+ch.1_179	RNASeq_stranded	transcript_region	212	253	1.0	+	.	
+ch.1_179	WormBase	CDS	176	253	.	+	.	ID=CDS:F14H12.6;Parent=Transcript:F14H12.6.1
+ch.1_179	RNASeq_reads	transcript_region	172	253	7.0	.	.	
+ch.1_179	WormBase	exon	101	253	.	+	.	Parent=Transcript:F14H12.6.1
+ch.1_179	RNASeq_stranded	transcript_region	173	211	2.0	+	.	
+ch.1_179	RNASeq_R_asymmetry	transcript_region	162	211	24298.0	.	.	
+ch.1_179	WormBase	five_prime_UTR	101	175	.	+	.	Parent=Transcript:F14H12.6.1
+ch.1_179	RNASeq_stranded	transcript_region	151	172	1.0	+	.	
+ch.1_179	RNASeq_reads	transcript_region	157	171	4.0	.	.	
+ch.1_179	RNASeq_R_asymmetry	transcript_region	148	161	13882.0	.	.	
+ch.1_179	RNASeq_reads	transcript_region	148	156	2.0	.	.	
+ch.1_179	RNASeq_R_asymmetry	transcript_region	144	147	6556.0	.	.	
+ch.1_179	RNASeq_reads	transcript_region	132	147	1.0	.	.	
+ch.1_179	RNASeq_R_asymmetry	transcript_region	137	143	4172.0	.	.	
+ch.1_179	RNASeq_R_asymmetry	transcript_region	134	136	2724.0	.	.	

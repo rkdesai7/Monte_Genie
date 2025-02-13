@@ -1,0 +1,100 @@
+ch.2_265	WormBase	three_prime_UTR	653	797	.	+	.	Parent=Transcript:T28B4.3.1
+ch.2_265	WormBase	exon	381	797	.	+	.	Parent=Transcript:T28B4.3.1
+ch.2_265	WormBase	gene	101	797	.	+	.	ID=Gene:WBGene00020886
+ch.2_265	WormBase	mRNA	101	797	.	+	.	ID=Transcript:T28B4.3.1;Parent=Gene:WBGene00020886
+ch.2_265	RNASeq_stranded	transcript_region	791	793	1.0	+	.	
+ch.2_265	RNASeq_stranded	transcript_region	775	790	2.0	+	.	
+ch.2_265	RNASeq	transcription_end_site	785	785	.	-	.	
+ch.2_265	RNASeq	transcription_end_site	785	785	.	-	.	
+ch.2_265	RNASeq_stranded	transcript_region	770	774	4.0	+	.	
+ch.2_265	RNASeq_stranded	transcript_region	749	770	1.0	-	.	
+ch.2_265	RNASeq_reads	transcript_region	748	770	4.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	763	769	7.0	+	.	
+ch.2_265	RNASeq_stranded	transcript_region	750	762	11.0	+	.	
+ch.2_265	RNASeq_stranded	transcript_region	740	749	17.0	+	.	
+ch.2_265	RNASeq_stranded	transcript_region	746	748	2.0	-	.	
+ch.2_265	RNASeq_reads	transcript_region	732	747	7.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	717	745	1.0	-	.	
+ch.2_265	RNASeq_stranded	transcript_region	735	739	27.0	+	.	
+ch.2_265	RNASeq_stranded	transcript_region	724	734	41.0	+	.	
+ch.2_265	RNASeq_reads	transcript_region	715	731	11.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	704	723	66.0	+	.	
+ch.2_265	RNASeq	transcription_end_site	720	720	.	-	.	
+ch.2_265	RNASeq	transcription_end_site	719	719	.	-	.	
+ch.2_265	RNASeq	transcription_end_site	716	716	.	-	.	
+ch.2_265	RNASeq	transcription_end_site	716	716	.	-	.	
+ch.2_265	RNASeq_stranded	transcript_region	684	716	2.0	-	.	
+ch.2_265	RNASeq_reads	transcript_region	702	714	17.0	.	.	
+ch.2_265	RNASeq	transcription_end_site	712	712	.	-	.	
+ch.2_265	RNASeq	transcription_end_site	711	711	.	-	.	
+ch.2_265	RNASeq	transcription_end_site	711	711	.	-	.	
+ch.2_265	RNASeq	transcription_end_site	710	710	.	-	.	
+ch.2_265	RNASeq	transcription_end_site	710	710	.	-	.	
+ch.2_265	RNASeq_stranded	transcript_region	672	703	100.0	+	.	
+ch.2_265	RNASeq_reads	transcript_region	686	701	26.0	.	.	
+ch.2_265	RNASeq_reads	transcript_region	678	685	41.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	674	683	1.0	-	.	
+ch.2_265	RNASeq_reads	transcript_region	641	677	62.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	584	671	153.0	+	.	
+ch.2_265	RNASeq	transcription_end_site	652	652	.	-	.	
+ch.2_265	WormBase	CDS	381	652	.	+	.	ID=CDS:T28B4.3;Parent=Transcript:T28B4.3.1
+ch.2_265	RNASeq_reads	transcript_region	629	640	97.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	625	629	1.0	-	.	
+ch.2_265	RNASeq_reads	transcript_region	542	628	146.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	577	624	2.0	-	.	
+ch.2_265	RNASeq_F_asymmetry	transcript_region	606	622	634069.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	381	583	100.0	+	.	
+ch.2_265	RNASeq	transcription_end_site	578	578	.	-	.	
+ch.2_265	RNASeq	transcription_end_site	578	578	.	-	.	
+ch.2_265	RNASeq_stranded	transcript_region	570	576	1.0	-	.	
+ch.2_265	RNASeq_stranded	transcript_region	522	569	2.0	-	.	
+ch.2_265	RNASeq_splice	intron	123	548	11.0	+	.	
+ch.2_265	RNASeq_reads	transcript_region	381	541	221.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	474	521	4.0	-	.	
+ch.2_265	RNASeq_splice	intron	117	515	4.0	-	.	
+ch.2_265	RNASeq_stranded	transcript_region	472	473	2.0	-	.	
+ch.2_265	RNASeq_stranded	transcript_region	444	471	1.0	-	.	
+ch.2_265	RNASeq_splice	intron	149	430	15.0	-	.	
+ch.2_265	RNASeq_splice	intron	330	380	1044.0	+	.	
+ch.2_265	WormBase	intron	316	380	.	+	.	Parent=Transcript:T28B4.3.1
+ch.2_265	RNASeq_reads	transcript_region	316	380	1.0	.	.	
+ch.2_265	RNASeq_splice	intron	316	380	920612.0	+	.	
+ch.2_265	RNASeq_splice	intron	186	380	1313.0	+	.	
+ch.2_265	RNASeq_stranded	transcript_region	316	316	1.0	-	.	
+ch.2_265	RNASeq_stranded	transcript_region	245	315	69.0	+	.	
+ch.2_265	WormBase	CDS	243	315	.	+	.	ID=CDS:T28B4.3;Parent=Transcript:T28B4.3.1
+ch.2_265	WormBase	exon	243	315	.	+	.	Parent=Transcript:T28B4.3.1
+ch.2_265	RNASeq_reads	transcript_region	243	315	154.0	.	.	
+ch.2_265	RNASeq_splice	intron	139	271	9.0	-	.	
+ch.2_265	RNASeq_splice	intron	186	254	3.0	+	.	
+ch.2_265	RNASeq_R_asymmetry	transcript_region	243	250	694798.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	243	244	45.0	+	.	
+ch.2_265	RNASeq_reads	transcript_region	232	242	1.0	.	.	
+ch.2_265	RNASeq_splice	intron	190	242	27.0	+	.	
+ch.2_265	WormBase	intron	186	242	.	+	.	Parent=Transcript:T28B4.3.1
+ch.2_265	RNASeq_splice	intron	186	242	954741.0	+	.	
+ch.2_265	RNASeq_splice	intron	190	231	4.0	+	.	
+ch.2_265	RNASeq_splice	intron	186	231	3108.0	+	.	
+ch.2_265	RNASeq_stranded	transcript_region	188	189	1.0	+	.	
+ch.2_265	RNASeq_R_asymmetry	transcript_region	186	187	55389.0	.	.	
+ch.2_265	RNASeq_reads	transcript_region	186	187	11.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	186	187	6.0	+	.	
+ch.2_265	RNASeq_reads	transcript_region	120	185	159.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	120	185	47.0	+	.	
+ch.2_265	RNASeq_R_asymmetry	transcript_region	114	185	672658.0	.	.	
+ch.2_265	WormBase	CDS	105	185	.	+	.	ID=CDS:T28B4.3;Parent=Transcript:T28B4.3.1
+ch.2_265	WormBase	exon	101	185	.	+	.	Parent=Transcript:T28B4.3.1
+ch.2_265	RNASeq_reads	transcript_region	109	119	102.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	107	119	30.0	+	.	
+ch.2_265	RNASeq_R_asymmetry	transcript_region	109	113	431724.0	.	.	
+ch.2_265	RNASeq_R_asymmetry	transcript_region	104	108	283062.0	.	.	
+ch.2_265	RNASeq_reads	transcript_region	104	108	56.0	.	.	
+ch.2_265	RNASeq_stranded	transcript_region	102	106	19.0	+	.	
+ch.2_265	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:T28B4.3.1
+ch.2_265	RNASeq_R_asymmetry	transcript_region	101	103	177405.0	.	.	
+ch.2_265	RNASeq_reads	transcript_region	101	103	36.0	.	.	
+ch.2_265	RNASeq_splice	intron	41	102	35.0	+	.	
+ch.2_265	RNASeq_splice	intron	12	102	9.0	+	.	
+ch.2_265	RNASeq_stranded	transcript_region	101	101	11.0	-	.	
+ch.2_265	RNASeq_splice	intron	39	100	13.0	-	.	
+ch.2_265	RNASeq_reads	transcript_region	18	100	3.0	.	.	

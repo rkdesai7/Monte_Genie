@@ -1,0 +1,67 @@
+ch.1_495	WormBase	three_prime_UTR	601	701	.	+	.	Parent=Transcript:F41G3.21.1
+ch.1_495	WormBase	exon	407	701	.	+	.	Parent=Transcript:F41G3.21.1
+ch.1_495	WormBase	gene	101	701	.	+	.	ID=Gene:WBGene00044316
+ch.1_495	WormBase	mRNA	101	701	.	+	.	ID=Transcript:F41G3.21.1;Parent=Gene:WBGene00044316
+ch.1_495	RNASeq_reads	transcript_region	698	699	1.0	.	.	
+ch.1_495	RNASeq_reads	transcript_region	691	697	2.0	.	.	
+ch.1_495	RNASeq_stranded	transcript_region	675	695	1.0	+	.	
+ch.1_495	RNASeq_reads	transcript_region	682	690	4.0	.	.	
+ch.1_495	RNASeq_reads	transcript_region	674	681	7.0	.	.	
+ch.1_495	RNASeq_stranded	transcript_region	638	674	2.0	+	.	
+ch.1_495	RNASeq_reads	transcript_region	667	673	11.0	.	.	
+ch.1_495	RNASeq	transcription_end_site	668	668	.	-	.	
+ch.1_495	RNASeq	transcription_end_site	668	668	.	-	.	
+ch.1_495	RNASeq_reads	transcript_region	662	666	17.0	.	.	
+ch.1_495	RNASeq_reads	transcript_region	654	661	28.0	.	.	
+ch.1_495	RNASeq_reads	transcript_region	645	653	47.0	.	.	
+ch.1_495	RNASeq_reads	transcript_region	637	644	72.0	.	.	
+ch.1_495	RNASeq_stranded	transcript_region	421	637	6.0	+	.	
+ch.1_495	RNASeq_reads	transcript_region	601	636	113.0	.	.	
+ch.1_495	RNASeq	transcription_end_site	633	633	.	-	.	
+ch.1_495	RNASeq	transcription_end_site	633	633	.	-	.	
+ch.1_495	RNASeq	transcription_end_site	624	624	.	-	.	
+ch.1_495	RNASeq	transcription_end_site	624	624	.	-	.	
+ch.1_495	RNASeq	transcription_end_site	615	615	.	-	.	
+ch.1_495	RNASeq	transcription_end_site	615	615	.	-	.	
+ch.1_495	RNASeq	transcription_end_site	609	609	.	-	.	
+ch.1_495	RNASeq	transcription_end_site	609	609	.	-	.	
+ch.1_495	RNASeq	transcription_end_site	608	608	.	-	.	
+ch.1_495	RNASeq_reads	transcript_region	563	600	173.0	.	.	
+ch.1_495	WormBase	CDS	407	600	.	+	.	ID=CDS:F41G3.21;Parent=Transcript:F41G3.21.1
+ch.1_495	RNASeq_splice	intron	437	595	3.0	-	.	
+ch.1_495	RNASeq_reads	transcript_region	407	562	261.0	.	.	
+ch.1_495	RNASeq_splice	intron	274	547	9.0	-	.	
+ch.1_495	RNASeq_splice	intron	270	543	19.0	-	.	
+ch.1_495	RNASeq_splice	intron	240	514	135.0	-	.	
+ch.1_495	RNASeq_splice	intron	235	509	750.0	-	.	
+ch.1_495	RNASeq_splice	intron	230	504	697.0	-	.	
+ch.1_495	RNASeq_splice	intron	226	500	251.0	+	.	
+ch.1_495	RNASeq_splice	intron	217	491	267.0	-	.	
+ch.1_495	RNASeq_splice	intron	195	472	7.0	+	.	
+ch.1_495	RNASeq_stranded	transcript_region	421	469	1.0	-	.	
+ch.1_495	RNASeq_splice	intron	313	427	117.0	+	.	
+ch.1_495	RNASeq_stranded	transcript_region	407	420	3.0	+	.	
+ch.1_495	RNASeq_reads	transcript_region	399	406	9.0	.	.	
+ch.1_495	RNASeq_splice	intron	320	406	3.0	+	.	
+ch.1_495	RNASeq_splice	intron	317	406	8.0	+	.	
+ch.1_495	WormBase	intron	313	406	.	+	.	Parent=Transcript:F41G3.21.1
+ch.1_495	RNASeq_splice	intron	313	406	990833.0	+	.	
+ch.1_495	RNASeq_reads	transcript_region	317	398	5.0	.	.	
+ch.1_495	RNASeq_reads	transcript_region	313	316	16.0	.	.	
+ch.1_495	RNASeq_reads	transcript_region	193	312	238.0	.	.	
+ch.1_495	RNASeq_stranded	transcript_region	186	312	5.0	+	.	
+ch.1_495	WormBase	CDS	138	312	.	+	.	ID=CDS:F41G3.21;Parent=Transcript:F41G3.21.1
+ch.1_495	WormBase	exon	101	312	.	+	.	Parent=Transcript:F41G3.21.1
+ch.1_495	RNASeq_reads	transcript_region	159	192	157.0	.	.	
+ch.1_495	RNASeq_stranded	transcript_region	142	185	3.0	+	.	
+ch.1_495	RNASeq_reads	transcript_region	135	158	100.0	.	.	
+ch.1_495	RNASeq_stranded	transcript_region	141	141	1.0	-	.	
+ch.1_495	RNASeq_stranded	transcript_region	140	140	2.0	-	.	
+ch.1_495	RNASeq_stranded	transcript_region	139	139	1.0	-	.	
+ch.1_495	RNASeq_stranded	transcript_region	137	138	2.0	+	.	
+ch.1_495	WormBase	five_prime_UTR	101	137	.	+	.	Parent=Transcript:F41G3.21.1
+ch.1_495	RNASeq_stranded	transcript_region	107	136	1.0	+	.	
+ch.1_495	RNASeq_reads	transcript_region	117	134	65.0	.	.	
+ch.1_495	RNASeq_splice	intron	74	127	6.0	+	.	
+ch.1_495	RNASeq_reads	transcript_region	106	116	38.0	.	.	
+ch.1_495	RNASeq_reads	transcript_region	101	105	8.0	.	.	

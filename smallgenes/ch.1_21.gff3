@@ -1,0 +1,65 @@
+ch.1_21	RNASeq_R_asymmetry	transcript_region	696	716	3392.0	.	.	
+ch.1_21	RNASeq_stranded	transcript_region	690	694	1.0	+	.	
+ch.1_21	RNASeq	transcription_end_site	691	691	.	-	.	
+ch.1_21	RNASeq	transcription_end_site	691	691	.	-	.	
+ch.1_21	RNASeq_stranded	transcript_region	677	689	2.0	+	.	
+ch.1_21	RNASeq_reads	transcript_region	638	689	2.0	.	.	
+ch.1_21	RNASeq	transcription_end_site	688	688	.	-	.	
+ch.1_21	RNASeq	transcription_end_site	688	688	.	-	.	
+ch.1_21	RNASeq_stranded	transcript_region	667	676	4.0	+	.	
+ch.1_21	RNASeq_stranded	transcript_region	644	666	8.0	+	.	
+ch.1_21	RNASeq_stranded	transcript_region	616	643	13.0	+	.	
+ch.1_21	RNASeq	transcription_end_site	641	641	.	-	.	
+ch.1_21	RNASeq	transcription_end_site	641	641	.	-	.	
+ch.1_21	RNASeq_reads	transcript_region	617	637	4.0	.	.	
+ch.1_21	RNASeq	transcription_end_site	618	618	.	-	.	
+ch.1_21	RNASeq	transcription_end_site	618	618	.	-	.	
+ch.1_21	RNASeq_reads	transcript_region	600	616	7.0	.	.	
+ch.1_21	WormBase	three_prime_UTR	510	616	.	+	.	Parent=Transcript:Y59A8B.12.1
+ch.1_21	WormBase	exon	278	616	.	+	.	Parent=Transcript:Y59A8B.12.1
+ch.1_21	WormBase	gene	101	616	.	+	.	ID=Gene:WBGene00013349
+ch.1_21	WormBase	mRNA	101	616	.	+	.	ID=Transcript:Y59A8B.12.1;Parent=Gene:WBGene00013349
+ch.1_21	RNASeq_stranded	transcript_region	493	615	20.0	+	.	
+ch.1_21	RNASeq	transcription_end_site	612	612	.	-	.	
+ch.1_21	RNASeq_reads	transcript_region	586	599	12.0	.	.	
+ch.1_21	RNASeq_F_asymmetry	transcript_region	563	591	66974.0	.	.	
+ch.1_21	RNASeq_reads	transcript_region	538	585	19.0	.	.	
+ch.1_21	RNASeq_F_asymmetry	transcript_region	544	562	101110.0	.	.	
+ch.1_21	RNASeq	transcription_end_site	543	543	.	-	.	
+ch.1_21	RNASeq_reads	transcript_region	495	537	29.0	.	.	
+ch.1_21	WormBase	CDS	278	509	.	+	.	ID=CDS:Y59A8B.12;Parent=Transcript:Y59A8B.12.1
+ch.1_21	RNASeq	transcription_end_site	505	505	.	-	.	
+ch.1_21	RNASeq	transcription_end_site	505	505	.	-	.	
+ch.1_21	RNASeq_reads	transcript_region	478	494	44.0	.	.	
+ch.1_21	RNASeq_stranded	transcript_region	346	492	31.0	+	.	
+ch.1_21	RNASeq_reads	transcript_region	278	477	71.0	.	.	
+ch.1_21	RNASeq_F_asymmetry	transcript_region	457	474	294316.0	.	.	
+ch.1_21	RNASeq_stranded	transcript_region	310	345	20.0	+	.	
+ch.1_21	RNASeq_splice	intron	256	318	3.0	-	.	
+ch.1_21	RNASeq_stranded	transcript_region	284	309	13.0	+	.	
+ch.1_21	RNASeq_stranded	transcript_region	278	283	8.0	+	.	
+ch.1_21	RNASeq_reads	transcript_region	277	277	9.0	.	.	
+ch.1_21	RNASeq_stranded	transcript_region	277	277	1.0	-	.	
+ch.1_21	WormBase	intron	232	277	.	+	.	Parent=Transcript:Y59A8B.12.1
+ch.1_21	RNASeq_splice	intron	232	277	436152.0	+	.	
+ch.1_21	RNASeq_reads	transcript_region	232	232	11.0	.	.	
+ch.1_21	RNASeq_stranded	transcript_region	232	232	2.0	-	.	
+ch.1_21	RNASeq_stranded	transcript_region	216	231	9.0	+	.	
+ch.1_21	RNASeq_reads	transcript_region	120	231	82.0	.	.	
+ch.1_21	WormBase	CDS	107	231	.	+	.	ID=CDS:Y59A8B.12;Parent=Transcript:Y59A8B.12.1
+ch.1_21	WormBase	exon	101	231	.	+	.	Parent=Transcript:Y59A8B.12.1
+ch.1_21	RNASeq_stranded	transcript_region	157	215	14.0	+	.	
+ch.1_21	RNASeq_R_asymmetry	transcript_region	109	162	312733.0	.	.	
+ch.1_21	RNASeq_stranded	transcript_region	116	156	22.0	+	.	
+ch.1_21	RNASeq_reads	transcript_region	103	119	53.0	.	.	
+ch.1_21	RNASeq_stranded	transcript_region	107	115	14.0	+	.	
+ch.1_21	RNASeq_R_asymmetry	transcript_region	102	108	196018.0	.	.	
+ch.1_21	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:Y59A8B.12.1
+ch.1_21	RNASeq_stranded	transcript_region	101	106	8.0	+	.	
+ch.1_21	RNASeq_reads	transcript_region	101	102	34.0	.	.	
+ch.1_21	RNASeq_R_asymmetry	transcript_region	101	101	117748.0	.	.	
+ch.1_21	RNASeq_splice	intron	52	101	3642.0	+	.	
+ch.1_21	RNASeq_stranded	transcript_region	100	100	4.0	-	.	
+ch.1_21	RNASeq_R_asymmetry	transcript_region	96	100	73330.0	.	.	
+ch.1_21	RNASeq_reads	transcript_region	96	100	15.0	.	.	
+ch.1_21	RNASeq_stranded	transcript_region	96	99	1.0	+	.	

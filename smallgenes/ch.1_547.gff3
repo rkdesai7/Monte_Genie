@@ -1,0 +1,35 @@
+ch.1_547	WormBase	three_prime_UTR	669	719	.	+	.	Parent=Transcript:Y6G8.15.1
+ch.1_547	WormBase	exon	543	719	.	+	.	Parent=Transcript:Y6G8.15.1
+ch.1_547	WormBase	gene	101	719	.	+	.	ID=Gene:WBGene00189937
+ch.1_547	WormBase	mRNA	101	719	.	+	.	ID=Transcript:Y6G8.15.1;Parent=Gene:WBGene00189937
+ch.1_547	RNASeq_F_asymmetry	transcript_region	697	703	2236.0	.	.	
+ch.1_547	RNASeq_reads	transcript_region	666	703	1.0	.	.	
+ch.1_547	RNASeq_F_asymmetry	transcript_region	685	696	3365.0	.	.	
+ch.1_547	RNASeq_F_asymmetry	transcript_region	672	681	4594.0	.	.	
+ch.1_547	RNASeq_F_asymmetry	transcript_region	669	670	5207.0	.	.	
+ch.1_547	WormBase	CDS	543	668	.	+	.	ID=CDS:Y6G8.15;Parent=Transcript:Y6G8.15.1
+ch.1_547	RNASeq_reads	transcript_region	633	665	2.0	.	.	
+ch.1_547	RNASeq_F_asymmetry	transcript_region	660	664	6273.0	.	.	
+ch.1_547	RNASeq_F_asymmetry	transcript_region	648	659	9636.0	.	.	
+ch.1_547	RNASeq_F_asymmetry	transcript_region	646	646	10782.0	.	.	
+ch.1_547	RNASeq_F_asymmetry	transcript_region	641	644	11277.0	.	.	
+ch.1_547	RNASeq_F_asymmetry	transcript_region	638	639	12270.0	.	.	
+ch.1_547	RNASeq_reads	transcript_region	543	632	4.0	.	.	
+ch.1_547	RNASeq_F_asymmetry	transcript_region	620	627	16239.0	.	.	
+ch.1_547	RNASeq_reads	transcript_region	541	542	1.0	.	.	
+ch.1_547	WormBase	intron	438	542	.	+	.	Parent=Transcript:Y6G8.15.1
+ch.1_547	RNASeq_splice	intron	438	542	22873.0	+	.	
+ch.1_547	RNASeq_reads	transcript_region	307	437	4.0	.	.	
+ch.1_547	WormBase	CDS	108	437	.	+	.	ID=CDS:Y6G8.15;Parent=Transcript:Y6G8.15.1
+ch.1_547	WormBase	exon	101	437	.	+	.	Parent=Transcript:Y6G8.15.1
+ch.1_547	RNASeq_stranded	transcript_region	343	378	1.0	+	.	
+ch.1_547	RNASeq_reads	transcript_region	143	306	7.0	.	.	
+ch.1_547	RNASeq_reads	transcript_region	122	142	4.0	.	.	
+ch.1_547	RNASeq_R_asymmetry	transcript_region	120	139	16270.0	.	.	
+ch.1_547	RNASeq_reads	transcript_region	114	121	2.0	.	.	
+ch.1_547	RNASeq_R_asymmetry	transcript_region	113	119	10723.0	.	.	
+ch.1_547	RNASeq_reads	transcript_region	106	113	1.0	.	.	
+ch.1_547	RNASeq_R_asymmetry	transcript_region	109	112	5545.0	.	.	
+ch.1_547	RNASeq_R_asymmetry	transcript_region	106	108	3585.0	.	.	
+ch.1_547	WormBase	five_prime_UTR	101	107	.	+	.	Parent=Transcript:Y6G8.15.1
+ch.1_547	RNASeq_R_asymmetry	transcript_region	105	105	992.0	.	.	

@@ -1,0 +1,25 @@
+ch.1_73	RNASeq_splice	intron	12	106	4.0	+	.	
+ch.1_73	RNASeq_F_asymmetry	transcript_region	101	106	2274.0	.	.	
+ch.1_73	WormBase	five_prime_UTR	101	122	.	+	.	Parent=Transcript:Y39A3B.8.1
+ch.1_73	WormBase	exon	101	190	.	+	.	Parent=Transcript:Y39A3B.8.1
+ch.1_73	WormBase	gene	101	562	.	+	.	ID=Gene:WBGene00306005
+ch.1_73	WormBase	mRNA	101	562	.	+	.	ID=Transcript:Y39A3B.8.1;Parent=Gene:WBGene00306005
+ch.1_73	RNASeq_reads	transcript_region	105	112	1.0	.	.	
+ch.1_73	RNASeq_stranded	transcript_region	106	190	1.0	+	.	
+ch.1_73	RNASeq_F_asymmetry	transcript_region	107	108	3684.0	.	.	
+ch.1_73	RNASeq_F_asymmetry	transcript_region	109	121	5598.0	.	.	
+ch.1_73	RNASeq_reads	transcript_region	113	190	2.0	.	.	
+ch.1_73	RNASeq_F_asymmetry	transcript_region	122	177	8515.0	.	.	
+ch.1_73	WormBase	CDS	123	190	.	+	.	ID=CDS:Y39A3B.8;Parent=Transcript:Y39A3B.8.1
+ch.1_73	WormBase	intron	191	362	.	+	.	Parent=Transcript:Y39A3B.8.1
+ch.1_73	RNASeq_splice	intron	191	362	11607.0	+	.	
+ch.1_73	RNASeq_stranded	transcript_region	363	426	1.0	+	.	
+ch.1_73	RNASeq_reads	transcript_region	363	489	2.0	.	.	
+ch.1_73	WormBase	CDS	363	513	.	+	.	ID=CDS:Y39A3B.8;Parent=Transcript:Y39A3B.8.1
+ch.1_73	WormBase	exon	363	562	.	+	.	Parent=Transcript:Y39A3B.8.1
+ch.1_73	RNASeq_stranded	transcript_region	427	526	2.0	+	.	
+ch.1_73	RNASeq_R_asymmetry	transcript_region	438	470	11422.0	.	.	
+ch.1_73	RNASeq_R_asymmetry	transcript_region	473	483	7818.0	.	.	
+ch.1_73	RNASeq_reads	transcript_region	490	527	1.0	.	.	
+ch.1_73	WormBase	three_prime_UTR	514	562	.	+	.	Parent=Transcript:Y39A3B.8.1
+ch.1_73	RNASeq_stranded	transcript_region	527	555	1.0	+	.	

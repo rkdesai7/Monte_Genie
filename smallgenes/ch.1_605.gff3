@@ -1,0 +1,52 @@
+ch.1_605	RNASeq_splice	intron	283	949	3.0	-	.	
+ch.1_605	RNASeq_reads	transcript_region	923	923	2.0	.	.	
+ch.1_605	RNASeq_reads	transcript_region	922	922	1.0	.	.	
+ch.1_605	RNASeq_reads	transcript_region	866	921	2.0	.	.	
+ch.1_605	RNASeq_stranded	transcript_region	902	920	1.0	+	.	
+ch.1_605	RNASeq	transcription_end_site	867	867	.	-	.	
+ch.1_605	RNASeq	transcription_end_site	867	867	.	-	.	
+ch.1_605	RNASeq_stranded	transcript_region	852	867	1.0	+	.	
+ch.1_605	WormBase	three_prime_UTR	767	866	.	+	.	Parent=Transcript:F48G7.5.1
+ch.1_605	WormBase	exon	432	866	.	+	.	Parent=Transcript:F48G7.5.1
+ch.1_605	WormBase	gene	101	866	.	+	.	ID=Gene:WBGene00018616
+ch.1_605	WormBase	mRNA	101	866	.	+	.	ID=Transcript:F48G7.5.1;Parent=Gene:WBGene00018616
+ch.1_605	RNASeq_reads	transcript_region	848	865	4.0	.	.	
+ch.1_605	RNASeq_stranded	transcript_region	824	851	2.0	+	.	
+ch.1_605	RNASeq_reads	transcript_region	837	847	7.0	.	.	
+ch.1_605	RNASeq_reads	transcript_region	821	836	11.0	.	.	
+ch.1_605	RNASeq_stranded	transcript_region	785	823	1.0	+	.	
+ch.1_605	RNASeq_reads	transcript_region	757	820	17.0	.	.	
+ch.1_605	RNASeq_stranded	transcript_region	764	784	2.0	+	.	
+ch.1_605	WormBase	CDS	432	766	.	+	.	ID=CDS:F48G7.5;Parent=Transcript:F48G7.5.1
+ch.1_605	RNASeq_stranded	transcript_region	676	763	4.0	+	.	
+ch.1_605	RNASeq_reads	transcript_region	432	756	26.0	.	.	
+ch.1_605	RNASeq_stranded	transcript_region	626	675	7.0	+	.	
+ch.1_605	RNASeq_stranded	transcript_region	559	625	4.0	+	.	
+ch.1_605	RNASeq_stranded	transcript_region	534	558	2.0	+	.	
+ch.1_605	RNASeq_stranded	transcript_region	458	533	4.0	+	.	
+ch.1_605	RNASeq	transcription_end_site	529	529	.	-	.	
+ch.1_605	RNASeq_splice	intron	288	515	3.0	+	.	
+ch.1_605	RNASeq_stranded	transcript_region	461	491	1.0	-	.	
+ch.1_605	RNASeq_stranded	transcript_region	444	457	2.0	+	.	
+ch.1_605	RNASeq_stranded	transcript_region	432	443	1.0	+	.	
+ch.1_605	WormBase	intron	288	431	.	+	.	Parent=Transcript:F48G7.5.1
+ch.1_605	RNASeq_splice	intron	288	431	117022.0	+	.	
+ch.1_605	RNASeq_splice	intron	216	431	7.0	+	.	
+ch.1_605	RNASeq_stranded	transcript_region	280	287	1.0	+	.	
+ch.1_605	RNASeq_reads	transcript_region	143	287	25.0	.	.	
+ch.1_605	WormBase	CDS	128	287	.	+	.	ID=CDS:F48G7.5;Parent=Transcript:F48G7.5.1
+ch.1_605	WormBase	exon	101	287	.	+	.	Parent=Transcript:F48G7.5.1
+ch.1_605	RNASeq_stranded	transcript_region	215	279	2.0	+	.	
+ch.1_605	RNASeq_stranded	transcript_region	163	214	4.0	+	.	
+ch.1_605	RNASeq_stranded	transcript_region	154	162	2.0	+	.	
+ch.1_605	RNASeq_stranded	transcript_region	113	153	1.0	+	.	
+ch.1_605	RNASeq_R_asymmetry	transcript_region	115	143	67124.0	.	.	
+ch.1_605	RNASeq_reads	transcript_region	115	142	16.0	.	.	
+ch.1_605	WormBase	five_prime_UTR	101	127	.	+	.	Parent=Transcript:F48G7.5.1
+ch.1_605	RNASeq_R_asymmetry	transcript_region	105	114	41353.0	.	.	
+ch.1_605	RNASeq_reads	transcript_region	104	114	9.0	.	.	
+ch.1_605	RNASeq_R_asymmetry	transcript_region	98	104	23816.0	.	.	
+ch.1_605	RNASeq_reads	transcript_region	98	103	5.0	.	.	
+ch.1_605	RNASeq_R_asymmetry	transcript_region	86	97	14325.0	.	.	
+ch.1_605	RNASeq_reads	transcript_region	86	97	3.0	.	.	
+ch.1_605	RNASeq_reads	transcript_region	85	85	1.0	.	.	

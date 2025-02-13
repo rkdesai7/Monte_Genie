@@ -1,0 +1,42 @@
+ch.2_137	RNASeq_F_asymmetry	transcript_region	97	97	739.0	.	.	
+ch.2_137	RNASeq_F_asymmetry	transcript_region	99	103	856.0	.	.	
+ch.2_137	WormBase	five_prime_UTR	101	114	.	+	.	Parent=Transcript:T18D3.5.1
+ch.2_137	WormBase	exon	101	209	.	+	.	Parent=Transcript:T18D3.5.1
+ch.2_137	WormBase	gene	101	741	.	+	.	ID=Gene:WBGene00011822
+ch.2_137	WormBase	mRNA	101	741	.	+	.	ID=Transcript:T18D3.5.1;Parent=Gene:WBGene00011822
+ch.2_137	RNASeq_F_asymmetry	transcript_region	104	106	1345.0	.	.	
+ch.2_137	RNASeq_F_asymmetry	transcript_region	108	116	1734.0	.	.	
+ch.2_137	RNASeq_reads	transcript_region	111	133	1.0	.	.	
+ch.2_137	WormBase	CDS	115	209	.	+	.	ID=CDS:T18D3.5;Parent=Transcript:T18D3.5.1
+ch.2_137	RNASeq_F_asymmetry	transcript_region	117	119	2680.0	.	.	
+ch.2_137	RNASeq_F_asymmetry	transcript_region	120	132	4024.0	.	.	
+ch.2_137	RNASeq_F_asymmetry	transcript_region	133	151	6040.0	.	.	
+ch.2_137	RNASeq_reads	transcript_region	134	209	2.0	.	.	
+ch.2_137	RNASeq_stranded	transcript_region	138	142	1.0	+	.	
+ch.2_137	RNASeq_stranded	transcript_region	143	188	2.0	+	.	
+ch.2_137	RNASeq_F_asymmetry	transcript_region	152	154	9145.0	.	.	
+ch.2_137	RNASeq_stranded	transcript_region	189	209	1.0	+	.	
+ch.2_137	WormBase	intron	210	324	.	+	.	Parent=Transcript:T18D3.5.1
+ch.2_137	RNASeq_splice	intron	210	324	13873.0	+	.	
+ch.2_137	RNASeq_splice	intron	210	326	11.0	+	.	
+ch.2_137	RNASeq_splice	intron	229	324	231.0	+	.	
+ch.2_137	RNASeq_F_asymmetry	transcript_region	318	322	445.0	.	.	
+ch.2_137	RNASeq_reads	transcript_region	323	324	1.0	.	.	
+ch.2_137	RNASeq_reads	transcript_region	325	365	3.0	.	.	
+ch.2_137	RNASeq_stranded	transcript_region	325	408	1.0	+	.	
+ch.2_137	WormBase	CDS	325	433	.	+	.	ID=CDS:T18D3.5;Parent=Transcript:T18D3.5.1
+ch.2_137	WormBase	exon	325	433	.	+	.	Parent=Transcript:T18D3.5.1
+ch.2_137	RNASeq_reads	transcript_region	366	433	5.0	.	.	
+ch.2_137	RNASeq_splice	intron	426	482	13.0	+	.	
+ch.2_137	WormBase	intron	434	482	.	+	.	Parent=Transcript:T18D3.5.1
+ch.2_137	RNASeq_splice	intron	434	482	20767.0	+	.	
+ch.2_137	RNASeq_splice	intron	434	498	4.0	+	.	
+ch.2_137	RNASeq_reads	transcript_region	482	482	1.0	.	.	
+ch.2_137	RNASeq_reads	transcript_region	483	660	4.0	.	.	
+ch.2_137	WormBase	CDS	483	674	.	+	.	ID=CDS:T18D3.5;Parent=Transcript:T18D3.5.1
+ch.2_137	WormBase	exon	483	741	.	+	.	Parent=Transcript:T18D3.5.1
+ch.2_137	RNASeq_stranded	transcript_region	490	547	1.0	+	.	
+ch.2_137	RNASeq_stranded	transcript_region	578	681	1.0	+	.	
+ch.2_137	RNASeq_reads	transcript_region	661	703	2.0	.	.	
+ch.2_137	WormBase	three_prime_UTR	675	741	.	+	.	Parent=Transcript:T18D3.5.1
+ch.2_137	RNASeq_reads	transcript_region	704	725	1.0	.	.	

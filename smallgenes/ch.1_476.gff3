@@ -1,0 +1,76 @@
+ch.1_476	RNASeq_F_asymmetry	transcript_region	18	29	199.0	.	.	
+ch.1_476	RNASeq_F_asymmetry	transcript_region	30	61	325.0	.	.	
+ch.1_476	RNASeq_F_asymmetry	transcript_region	62	70	488.0	.	.	
+ch.1_476	RNASeq_F_asymmetry	transcript_region	98	98	1159.0	.	.	
+ch.1_476	RNASeq_F_asymmetry	transcript_region	99	99	74880.0	.	.	
+ch.1_476	RNASeq_reads	transcript_region	99	99	15.0	.	.	
+ch.1_476	RNASeq_stranded	transcript_region	99	99	4.0	+	.	
+ch.1_476	RNASeq_reads	transcript_region	100	100	23.0	.	.	
+ch.1_476	RNASeq_F_asymmetry	transcript_region	100	101	117567.0	.	.	
+ch.1_476	RNASeq_stranded	transcript_region	100	111	15.0	+	.	
+ch.1_476	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:Y51H4A.15.1
+ch.1_476	RNASeq_reads	transcript_region	101	114	35.0	.	.	
+ch.1_476	WormBase	exon	101	434	.	+	.	Parent=Transcript:Y51H4A.15.1
+ch.1_476	WormBase	gene	101	847	.	+	.	ID=Gene:WBGene00013109
+ch.1_476	WormBase	mRNA	101	847	.	+	.	ID=Transcript:Y51H4A.15.1;Parent=Gene:WBGene00013109
+ch.1_476	RNASeq_F_asymmetry	transcript_region	102	118	179602.0	.	.	
+ch.1_476	WormBase	CDS	107	434	.	+	.	ID=CDS:Y51H4A.15;Parent=Transcript:Y51H4A.15.1
+ch.1_476	RNASeq_stranded	transcript_region	112	170	23.0	+	.	
+ch.1_476	RNASeq_reads	transcript_region	115	158	53.0	.	.	
+ch.1_476	RNASeq_F_asymmetry	transcript_region	119	170	271867.0	.	.	
+ch.1_476	RNASeq_reads	transcript_region	159	434	80.0	.	.	
+ch.1_476	RNASeq_stranded	transcript_region	168	267	1.0	-	.	
+ch.1_476	RNASeq_stranded	transcript_region	171	185	35.0	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	186	227	53.0	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	228	324	32.0	+	.	
+ch.1_476	RNASeq_splice	intron	272	548	22.0	-	.	
+ch.1_476	RNASeq_stranded	transcript_region	325	434	20.0	+	.	
+ch.1_476	RNASeq_splice	intron	329	548	6.0	-	.	
+ch.1_476	WormBase	intron	435	494	.	+	.	Parent=Transcript:Y51H4A.15.1
+ch.1_476	RNASeq_splice	intron	435	494	476203.0	+	.	
+ch.1_476	RNASeq_splice	intron	435	512	103.0	+	.	
+ch.1_476	RNASeq_splice	intron	435	518	4.0	+	.	
+ch.1_476	RNASeq_reads	transcript_region	492	494	6.0	.	.	
+ch.1_476	RNASeq_stranded	transcript_region	492	494	2.0	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	495	504	24.0	+	.	
+ch.1_476	RNASeq_reads	transcript_region	495	678	89.0	.	.	
+ch.1_476	WormBase	CDS	495	691	.	+	.	ID=CDS:Y51H4A.15;Parent=Transcript:Y51H4A.15.1
+ch.1_476	WormBase	exon	495	847	.	+	.	Parent=Transcript:Y51H4A.15.1
+ch.1_476	RNASeq_stranded	transcript_region	505	527	37.0	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	528	621	56.0	+	.	
+ch.1_476	RNASeq_splice	intron	549	580	4.0	-	.	
+ch.1_476	RNASeq_stranded	transcript_region	551	556	1.0	-	.	
+ch.1_476	RNASeq_stranded	transcript_region	622	675	33.0	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	676	708	50.0	+	.	
+ch.1_476	RNASeq_reads	transcript_region	679	778	58.0	.	.	
+ch.1_476	WormBase	three_prime_UTR	692	847	.	+	.	Parent=Transcript:Y51H4A.15.1
+ch.1_476	RNASeq_stranded	transcript_region	709	722	32.0	+	.	
+ch.1_476	RNASeq_splice	intron	719	767	3.0	-	.	
+ch.1_476	RNASeq_stranded	transcript_region	723	738	51.0	+	.	
+ch.1_476	RNASeq	transcription_end_site	727	727	.	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	733	733	1.0	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	735	780	1.0	-	.	
+ch.1_476	RNASeq_stranded	transcript_region	739	806	78.0	+	.	
+ch.1_476	RNASeq_R_asymmetry	transcript_region	774	777	192761.0	.	.	
+ch.1_476	RNASeq_reads	transcript_region	779	807	38.0	.	.	
+ch.1_476	RNASeq_R_asymmetry	transcript_region	795	796	142495.0	.	.	
+ch.1_476	RNASeq	transcription_end_site	801	801	.	+	.	
+ch.1_476	RNASeq	transcription_end_site	802	802	.	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	807	825	51.0	+	.	
+ch.1_476	RNASeq_reads	transcript_region	808	822	25.0	.	.	
+ch.1_476	RNASeq	transcription_end_site	814	814	.	+	.	
+ch.1_476	RNASeq_reads	transcript_region	823	835	16.0	.	.	
+ch.1_476	RNASeq_stranded	transcript_region	826	834	33.0	+	.	
+ch.1_476	RNASeq	transcription_end_site	831	831	.	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	835	840	21.0	+	.	
+ch.1_476	RNASeq_reads	transcript_region	836	841	10.0	.	.	
+ch.1_476	RNASeq_stranded	transcript_region	841	845	13.0	+	.	
+ch.1_476	RNASeq_reads	transcript_region	842	846	6.0	.	.	
+ch.1_476	RNASeq_stranded	transcript_region	846	846	8.0	+	.	
+ch.1_476	RNASeq	transcription_end_site	846	846	.	+	.	
+ch.1_476	RNASeq_reads	transcript_region	847	847	3.0	.	.	
+ch.1_476	RNASeq_stranded	transcript_region	847	847	5.0	+	.	
+ch.1_476	RNASeq	transcription_end_site	847	847	.	+	.	
+ch.1_476	RNASeq_stranded	transcript_region	848	848	2.0	+	.	
+ch.1_476	RNASeq_reads	transcript_region	848	849	1.0	.	.	
+ch.1_476	RNASeq	transcription_end_site	849	849	.	+	.	

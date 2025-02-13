@@ -1,0 +1,44 @@
+ch.1_320	WormBase	three_prime_UTR	10	131	.	+	.	Parent=Transcript:F08H9.9.1
+ch.1_320	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:R02D5.10.1
+ch.1_320	WormBase	exon	101	324	.	+	.	Parent=Transcript:R02D5.10.1
+ch.1_320	WormBase	gene	101	653	.	+	.	ID=Gene:WBGene00194788
+ch.1_320	WormBase	mRNA	101	653	.	+	.	ID=Transcript:R02D5.10.1;Parent=Gene:WBGene00194788
+ch.1_320	RNASeq_stranded	transcript_region	103	128	1.0	+	.	
+ch.1_320	WormBase	CDS	114	324	.	+	.	ID=CDS:R02D5.10;Parent=Transcript:R02D5.10.1
+ch.1_320	RNASeq_reads	transcript_region	116	121	1.0	.	.	
+ch.1_320	RNASeq_F_asymmetry	transcript_region	118	120	3147.0	.	.	
+ch.1_320	RNASeq_F_asymmetry	transcript_region	121	124	5570.0	.	.	
+ch.1_320	RNASeq_reads	transcript_region	122	157	2.0	.	.	
+ch.1_320	RNASeq_F_asymmetry	transcript_region	125	143	8713.0	.	.	
+ch.1_320	RNASeq_stranded	transcript_region	129	134	2.0	+	.	
+ch.1_320	RNASeq_stranded	transcript_region	135	324	1.0	+	.	
+ch.1_320	RNASeq_F_asymmetry	transcript_region	144	173	13072.0	.	.	
+ch.1_320	RNASeq_reads	transcript_region	158	324	4.0	.	.	
+ch.1_320	RNASeq_splice	intron	232	284	3.0	+	.	
+ch.1_320	WormBase	intron	325	489	.	+	.	Parent=Transcript:R02D5.10.1
+ch.1_320	RNASeq_splice	intron	325	489	20997.0	+	.	
+ch.1_320	RNASeq_splice	intron	325	491	5.0	+	.	
+ch.1_320	RNASeq_splice	intron	325	494	13.0	+	.	
+ch.1_320	RNASeq_splice	intron	329	494	15.0	+	.	
+ch.1_320	RNASeq_splice	intron	338	489	4.0	+	.	
+ch.1_320	RNASeq_stranded	transcript_region	490	518	1.0	+	.	
+ch.1_320	WormBase	CDS	490	572	.	+	.	ID=CDS:R02D5.10;Parent=Transcript:R02D5.10.1
+ch.1_320	RNASeq_reads	transcript_region	490	591	4.0	.	.	
+ch.1_320	WormBase	exon	490	653	.	+	.	Parent=Transcript:R02D5.10.1
+ch.1_320	RNASeq_stranded	transcript_region	499	563	1.0	-	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	521	521	18532.0	.	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	523	527	18367.0	.	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	529	591	17081.0	.	.	
+ch.1_320	RNASeq_stranded	transcript_region	530	565	1.0	+	.	
+ch.1_320	WormBase	three_prime_UTR	573	653	.	+	.	Parent=Transcript:R02D5.10.1
+ch.1_320	RNASeq	transcription_end_site	592	592	.	+	.	
+ch.1_320	RNASeq_reads	transcript_region	592	608	2.0	.	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	592	609	9470.0	.	.	
+ch.1_320	RNASeq_reads	transcript_region	609	627	1.0	.	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	610	620	5969.0	.	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	621	624	3868.0	.	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	625	639	2457.0	.	.	
+ch.1_320	RNASeq_splice	intron	628	680	15.0	-	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	640	651	1569.0	.	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	652	659	972.0	.	.	
+ch.1_320	RNASeq_R_asymmetry	transcript_region	660	674	549.0	.	.	

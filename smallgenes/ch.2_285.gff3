@@ -1,0 +1,107 @@
+ch.2_285	RNASeq_stranded	transcript_region	101	101	4.0	+	.	
+ch.2_285	RNASeq_F_asymmetry	transcript_region	101	103	64907.0	.	.	
+ch.2_285	RNASeq_reads	transcript_region	101	103	13.0	.	.	
+ch.2_285	WormBase	five_prime_UTR	101	127	.	+	.	Parent=Transcript:K03H1.7.1
+ch.2_285	WormBase	exon	101	267	.	+	.	Parent=Transcript:K03H1.7.1
+ch.2_285	WormBase	gene	101	868	.	+	.	ID=Gene:WBGene00010542
+ch.2_285	WormBase	mRNA	101	868	.	+	.	ID=Transcript:K03H1.7.1;Parent=Gene:WBGene00010542
+ch.2_285	RNASeq_stranded	transcript_region	102	104	7.0	+	.	
+ch.2_285	RNASeq_F_asymmetry	transcript_region	104	107	119399.0	.	.	
+ch.2_285	RNASeq_reads	transcript_region	104	108	24.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	105	113	11.0	+	.	
+ch.2_285	RNASeq_F_asymmetry	transcript_region	108	121	182669.0	.	.	
+ch.2_285	RNASeq_reads	transcript_region	109	125	40.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	114	115	17.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	116	200	27.0	+	.	
+ch.2_285	RNASeq_F_asymmetry	transcript_region	122	173	278711.0	.	.	
+ch.2_285	RNASeq_reads	transcript_region	126	176	61.0	.	.	
+ch.2_285	WormBase	CDS	128	267	.	+	.	ID=CDS:K03H1.7;Parent=Transcript:K03H1.7.1
+ch.2_285	RNASeq_reads	transcript_region	177	267	92.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	186	237	1.0	-	.	
+ch.2_285	RNASeq_splice	intron	193	400	7.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	201	267	41.0	+	.	
+ch.2_285	WormBase	intron	268	326	.	+	.	Parent=Transcript:K03H1.7.1
+ch.2_285	RNASeq_splice	intron	268	326	471985.0	+	.	
+ch.2_285	RNASeq_splice	intron	268	328	55.0	+	.	
+ch.2_285	RNASeq_splice	intron	268	333	120.0	+	.	
+ch.2_285	RNASeq_reads	transcript_region	284	305	1.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	284	306	2.0	-	.	
+ch.2_285	RNASeq_R_asymmetry	transcript_region	300	306	2452.0	.	.	
+ch.2_285	RNASeq_R_asymmetry	transcript_region	307	307	1020.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	307	307	1.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	327	403	28.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	327	405	1.0	-	.	
+ch.2_285	WormBase	CDS	327	445	.	+	.	ID=CDS:K03H1.7;Parent=Transcript:K03H1.7.1
+ch.2_285	WormBase	exon	327	445	.	+	.	Parent=Transcript:K03H1.7.1
+ch.2_285	RNASeq_reads	transcript_region	327	445	88.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	404	445	18.0	+	.	
+ch.2_285	WormBase	three_prime_UTR	441	483	.	-	.	Parent=Transcript:K03H1.13a.1
+ch.2_285	WormBase	exon	441	573	.	-	.	Parent=Transcript:K03H1.13a.1
+ch.2_285	RNASeq_stranded	transcript_region	444	464	1.0	-	.	
+ch.2_285	RNASeq	transcription_end_site	445	445	.	+	.	
+ch.2_285	RNASeq_reads	transcript_region	446	473	1.0	.	.	
+ch.2_285	WormBase	intron	446	489	.	+	.	Parent=Transcript:K03H1.7.1
+ch.2_285	RNASeq_splice	intron	446	489	401974.0	+	.	
+ch.2_285	RNASeq_splice	intron	446	498	3.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	465	490	2.0	-	.	
+ch.2_285	RNASeq_reads	transcript_region	474	488	2.0	.	.	
+ch.2_285	WormBase	CDS	484	573	.	-	.	ID=CDS:K03H1.13a;Parent=Transcript:K03H1.13a.1
+ch.2_285	RNASeq_reads	transcript_region	489	489	10.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	489	489	2.0	+	.	
+ch.2_285	WormBase	CDS	490	497	.	+	.	ID=CDS:K03H1.7;Parent=Transcript:K03H1.7.1
+ch.2_285	RNASeq_stranded	transcript_region	490	542	12.0	+	.	
+ch.2_285	RNASeq_reads	transcript_region	490	650	80.0	.	.	
+ch.2_285	WormBase	exon	490	868	.	+	.	Parent=Transcript:K03H1.7.1
+ch.2_285	RNASeq_stranded	transcript_region	491	573	4.0	-	.	
+ch.2_285	WormBase	three_prime_UTR	498	868	.	+	.	Parent=Transcript:K03H1.7.1
+ch.2_285	RNASeq_stranded	transcript_region	543	569	19.0	+	.	
+ch.2_285	RNASeq_splice	intron	567	629	17.0	-	.	
+ch.2_285	RNASeq_stranded	transcript_region	570	634	30.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	574	575	1.0	-	.	
+ch.2_285	WormBase	intron	574	629	.	-	.	Parent=Transcript:K03H1.13a.1
+ch.2_285	RNASeq_splice	intron	574	629	32560.0	-	.	
+ch.2_285	RNASeq_splice	intron	574	634	51.0	-	.	
+ch.2_285	RNASeq_splice	intron	581	629	18.0	-	.	
+ch.2_285	WormBase	exon	603	824	.	-	.	Parent=Transcript:K03H1.13b.1
+ch.2_285	WormBase	CDS	603	824	.	-	.	ID=CDS:K03H1.13b;Parent=Transcript:K03H1.13b.1
+ch.2_285	RNASeq_stranded	transcript_region	618	629	1.0	-	.	
+ch.2_285	RNASeq_stranded	transcript_region	630	738	4.0	-	.	
+ch.2_285	WormBase	CDS	630	824	.	-	.	ID=CDS:K03H1.13a;Parent=Transcript:K03H1.13a.1
+ch.2_285	WormBase	exon	630	824	.	-	.	Parent=Transcript:K03H1.13a.1
+ch.2_285	RNASeq_stranded	transcript_region	635	645	46.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	646	680	150.0	+	.	
+ch.2_285	RNASeq_reads	transcript_region	651	791	121.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	681	718	57.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	719	752	86.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	739	772	7.0	-	.	
+ch.2_285	RNASeq_stranded	transcript_region	753	758	132.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	759	793	254.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	773	823	3.0	-	.	
+ch.2_285	RNASeq_reads	transcript_region	792	816	78.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	794	843	106.0	+	.	
+ch.2_285	RNASeq_reads	transcript_region	817	832	51.0	.	.	
+ch.2_285	RNASeq	transcription_end_site	824	824	.	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	824	827	1.0	-	.	
+ch.2_285	WormBase	intron	825	870	.	-	.	Parent=Transcript:K03H1.13a.1
+ch.2_285	WormBase	intron	825	870	.	-	.	Parent=Transcript:K03H1.13b.1
+ch.2_285	RNASeq_splice	intron	825	870	30029.0	-	.	
+ch.2_285	RNASeq_reads	transcript_region	833	848	33.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	844	849	68.0	+	.	
+ch.2_285	RNASeq_reads	transcript_region	849	862	21.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	850	858	43.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	859	866	27.0	+	.	
+ch.2_285	RNASeq_R_asymmetry	transcript_region	859	868	60597.0	.	.	
+ch.2_285	RNASeq_reads	transcript_region	863	868	13.0	.	.	
+ch.2_285	RNASeq_stranded	transcript_region	867	869	17.0	+	.	
+ch.2_285	RNASeq_reads	transcript_region	869	869	7.0	.	.	
+ch.2_285	RNASeq_R_asymmetry	transcript_region	870	870	12777.0	.	.	
+ch.2_285	RNASeq_reads	transcript_region	870	870	3.0	.	.	
+ch.2_285	RNASeq	transcription_end_site	870	870	.	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	870	871	2.0	+	.	
+ch.2_285	RNASeq	transcription_end_site	871	871	.	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	871	881	1.0	-	.	
+ch.2_285	RNASeq_stranded	transcript_region	872	873	1.0	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	882	913	2.0	-	.	
+ch.2_285	RNASeq	transcription_end_site	903	903	.	+	.	
+ch.2_285	RNASeq_stranded	transcript_region	914	964	4.0	-	.	
+ch.2_285	RNASeq	transcription_end_site	916	916	.	+	.	

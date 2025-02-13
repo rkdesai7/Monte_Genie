@@ -1,0 +1,79 @@
+ch.1_469	RNASeq_stranded	transcript_region	51	66	7.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	67	70	11.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	71	94	17.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	95	168	26.0	+	.	
+ch.1_469	WormBase	five_prime_UTR	101	244	.	+	.	Parent=Transcript:C25D7.16.1
+ch.1_469	WormBase	exon	101	394	.	+	.	Parent=Transcript:C25D7.16.1
+ch.1_469	WormBase	gene	101	719	.	+	.	ID=Gene:WBGene00050940
+ch.1_469	WormBase	mRNA	101	719	.	+	.	ID=Transcript:C25D7.16.1;Parent=Gene:WBGene00050940
+ch.1_469	WormBase	three_prime_UTR	103	219	.	+	.	Parent=Transcript:C25D7.5.1
+ch.1_469	WormBase	three_prime_UTR	103	219	.	+	.	Parent=Transcript:C25D7.5.2
+ch.1_469	RNASeq	transcription_end_site	110	110	.	+	.	
+ch.1_469	RNASeq	transcription_end_site	122	122	.	+	.	
+ch.1_469	RNASeq	transcription_end_site	138	138	.	+	.	
+ch.1_469	RNASeq_reads	transcript_region	146	169	5.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	169	178	17.0	+	.	
+ch.1_469	RNASeq_reads	transcript_region	170	198	3.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	179	187	11.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	188	192	7.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	193	202	4.0	+	.	
+ch.1_469	RNASeq_reads	transcript_region	199	215	1.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	203	206	2.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	207	215	1.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	219	219	1.0	+	.	
+ch.1_469	RNASeq_reads	transcript_region	222	239	1.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	223	225	1.0	-	.	
+ch.1_469	RNASeq_stranded	transcript_region	230	236	1.0	-	.	
+ch.1_469	RNASeq_F_asymmetry	transcript_region	233	238	3961.0	.	.	
+ch.1_469	RNASeq_F_asymmetry	transcript_region	239	239	6286.0	.	.	
+ch.1_469	RNASeq_F_asymmetry	transcript_region	240	249	10486.0	.	.	
+ch.1_469	RNASeq_reads	transcript_region	240	249	2.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	240	263	1.0	-	.	
+ch.1_469	RNASeq_stranded	transcript_region	240	327	1.0	+	.	
+ch.1_469	WormBase	CDS	245	394	.	+	.	ID=CDS:C25D7.16;Parent=Transcript:C25D7.16.1
+ch.1_469	RNASeq_F_asymmetry	transcript_region	250	296	17143.0	.	.	
+ch.1_469	RNASeq_reads	transcript_region	250	302	4.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	266	267	1.0	-	.	
+ch.1_469	RNASeq_reads	transcript_region	303	394	7.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	328	377	2.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	378	394	1.0	+	.	
+ch.1_469	RNASeq_reads	transcript_region	395	437	1.0	.	.	
+ch.1_469	WormBase	intron	395	439	.	+	.	Parent=Transcript:C25D7.16.1
+ch.1_469	RNASeq_splice	intron	395	439	37310.0	+	.	
+ch.1_469	RNASeq_reads	transcript_region	438	439	2.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	440	493	1.0	+	.	
+ch.1_469	RNASeq_reads	transcript_region	440	633	8.0	.	.	
+ch.1_469	WormBase	CDS	440	646	.	+	.	ID=CDS:C25D7.16;Parent=Transcript:C25D7.16.1
+ch.1_469	WormBase	exon	440	719	.	+	.	Parent=Transcript:C25D7.16.1
+ch.1_469	RNASeq_stranded	transcript_region	494	616	2.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	617	643	1.0	+	.	
+ch.1_469	RNASeq_R_asymmetry	transcript_region	627	631	24045.0	.	.	
+ch.1_469	RNASeq	transcription_end_site	631	631	.	+	.	
+ch.1_469	RNASeq	transcription_end_site	631	631	.	+	.	
+ch.1_469	RNASeq_R_asymmetry	transcript_region	633	633	22136.0	.	.	
+ch.1_469	RNASeq_reads	transcript_region	634	644	5.0	.	.	
+ch.1_469	RNASeq_R_asymmetry	transcript_region	636	643	21675.0	.	.	
+ch.1_469	RNASeq	transcription_end_site	643	643	.	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	644	646	6.0	-	.	
+ch.1_469	RNASeq_stranded	transcript_region	644	665	2.0	+	.	
+ch.1_469	RNASeq_reads	transcript_region	645	647	9.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	647	648	11.0	-	.	
+ch.1_469	WormBase	three_prime_UTR	647	719	.	+	.	Parent=Transcript:C25D7.16.1
+ch.1_469	RNASeq_reads	transcript_region	648	650	15.0	.	.	
+ch.1_469	RNASeq	transcription_end_site	649	649	.	+	.	
+ch.1_469	RNASeq	transcription_end_site	649	649	.	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	649	653	20.0	-	.	
+ch.1_469	RNASeq_reads	transcript_region	651	658	24.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	654	662	32.0	-	.	
+ch.1_469	RNASeq_reads	transcript_region	659	670	42.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	663	667	50.0	-	.	
+ch.1_469	RNASeq_stranded	transcript_region	666	758	4.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	668	681	78.0	-	.	
+ch.1_469	RNASeq_reads	transcript_region	671	687	64.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	682	708	118.0	-	.	
+ch.1_469	RNASeq_reads	transcript_region	688	712	97.0	.	.	
+ch.1_469	RNASeq_stranded	transcript_region	709	720	207.0	-	.	
+ch.1_469	RNASeq_stranded	transcript_region	721	769	319.0	-	.	
+ch.1_469	RNASeq_splice	intron	758	807	4.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	759	805	2.0	+	.	
+ch.1_469	RNASeq_stranded	transcript_region	770	776	207.0	-	.	

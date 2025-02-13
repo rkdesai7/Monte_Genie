@@ -1,0 +1,45 @@
+ch.1_223	RNASeq_reads	transcript_region	564	637	1.0	.	.	
+ch.1_223	RNASeq_splice	intron	546	599	4.0	-	.	
+ch.1_223	WormBase	three_prime_UTR	560	595	.	+	.	Parent=Transcript:M01H9.10.1
+ch.1_223	WormBase	exon	325	595	.	+	.	Parent=Transcript:M01H9.10.1
+ch.1_223	WormBase	gene	101	595	.	+	.	ID=Gene:WBGene00271788
+ch.1_223	WormBase	mRNA	101	595	.	+	.	ID=Transcript:M01H9.10.1;Parent=Gene:WBGene00271788
+ch.1_223	RNASeq	transcription_end_site	585	585	.	-	.	
+ch.1_223	RNASeq	transcription_end_site	585	585	.	-	.	
+ch.1_223	RNASeq_stranded	transcript_region	553	580	1.0	+	.	
+ch.1_223	RNASeq_reads	transcript_region	517	563	2.0	.	.	
+ch.1_223	WormBase	CDS	325	559	.	+	.	ID=CDS:M01H9.10;Parent=Transcript:M01H9.10.1
+ch.1_223	RNASeq_stranded	transcript_region	432	552	2.0	+	.	
+ch.1_223	RNASeq_stranded	transcript_region	469	519	1.0	-	.	
+ch.1_223	RNASeq_F_asymmetry	transcript_region	512	517	13734.0	.	.	
+ch.1_223	RNASeq_reads	transcript_region	325	516	4.0	.	.	
+ch.1_223	RNASeq_stranded	transcript_region	429	431	1.0	+	.	
+ch.1_223	RNASeq_stranded	transcript_region	378	428	3.0	+	.	
+ch.1_223	RNASeq_splice	intron	362	404	5.0	+	.	
+ch.1_223	RNASeq_stranded	transcript_region	332	377	1.0	+	.	
+ch.1_223	RNASeq	transcription_end_site	326	326	.	-	.	
+ch.1_223	RNASeq	transcription_end_site	326	326	.	-	.	
+ch.1_223	WormBase	intron	274	324	.	+	.	Parent=Transcript:M01H9.10.1
+ch.1_223	RNASeq_splice	intron	274	324	11949.0	+	.	
+ch.1_223	WormBase	CDS	185	273	.	+	.	ID=CDS:M01H9.10;Parent=Transcript:M01H9.10.1
+ch.1_223	RNASeq_reads	transcript_region	159	273	3.0	.	.	
+ch.1_223	WormBase	exon	101	273	.	+	.	Parent=Transcript:M01H9.10.1
+ch.1_223	RNASeq_stranded	transcript_region	185	271	1.0	+	.	
+ch.1_223	WormBase	five_prime_UTR	101	184	.	+	.	Parent=Transcript:M01H9.10.1
+ch.1_223	RNASeq_reads	transcript_region	115	158	1.0	.	.	
+ch.1_223	RNASeq_splice	intron	99	142	5.0	+	.	
+ch.1_223	RNASeq_splice	intron	67	142	10.0	+	.	
+ch.1_223	RNASeq	transcription_end_site	135	135	.	-	.	
+ch.1_223	RNASeq	transcription_end_site	135	135	.	-	.	
+ch.1_223	RNASeq	transcription_end_site	116	116	.	-	.	
+ch.1_223	RNASeq	transcription_end_site	116	116	.	-	.	
+ch.1_223	RNASeq_reads	transcript_region	98	114	2.0	.	.	
+ch.1_223	RNASeq_stranded	transcript_region	102	112	1.0	+	.	
+ch.1_223	WormBase	three_prime_UTR	51	112	.	+	.	Parent=Transcript:M01H9.4e.1
+ch.1_223	WormBase	three_prime_UTR	51	112	.	+	.	Parent=Transcript:M01H9.4a.1
+ch.1_223	WormBase	three_prime_UTR	51	108	.	+	.	Parent=Transcript:M01H9.4d.1
+ch.1_223	RNASeq_stranded	transcript_region	84	101	2.0	+	.	
+ch.1_223	RNASeq_reads	transcript_region	57	97	4.0	.	.	
+ch.1_223	RNASeq	transcription_end_site	88	88	.	-	.	
+ch.1_223	RNASeq_stranded	transcript_region	26	83	4.0	+	.	
+ch.1_223	RNASeq_reads	transcript_region	42	56	7.0	.	.	

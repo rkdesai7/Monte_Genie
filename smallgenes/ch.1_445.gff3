@@ -1,0 +1,56 @@
+ch.1_445	RNASeq_reads	transcript_region	90	90	1.0	.	.	
+ch.1_445	RNASeq_reads	transcript_region	91	94	3.0	.	.	
+ch.1_445	RNASeq_stranded	transcript_region	91	100	1.0	+	.	
+ch.1_445	RNASeq_reads	transcript_region	95	102	5.0	.	.	
+ch.1_445	WormBase	five_prime_UTR	101	118	.	+	.	Parent=Transcript:W08E12.3.1
+ch.1_445	RNASeq_stranded	transcript_region	101	136	2.0	+	.	
+ch.1_445	WormBase	exon	101	437	.	+	.	Parent=Transcript:W08E12.3.1
+ch.1_445	WormBase	gene	101	680	.	+	.	ID=Gene:WBGene00021084
+ch.1_445	WormBase	mRNA	101	680	.	+	.	ID=Transcript:W08E12.3.1;Parent=Gene:WBGene00021084
+ch.1_445	RNASeq_reads	transcript_region	103	111	8.0	.	.	
+ch.1_445	RNASeq_F_asymmetry	transcript_region	111	123	50262.0	.	.	
+ch.1_445	RNASeq_reads	transcript_region	112	131	13.0	.	.	
+ch.1_445	WormBase	CDS	119	437	.	+	.	ID=CDS:W08E12.3;Parent=Transcript:W08E12.3.1
+ch.1_445	RNASeq_F_asymmetry	transcript_region	124	151	76089.0	.	.	
+ch.1_445	RNASeq_reads	transcript_region	132	168	20.0	.	.	
+ch.1_445	RNASeq_stranded	transcript_region	137	173	1.0	+	.	
+ch.1_445	RNASeq_reads	transcript_region	169	260	31.0	.	.	
+ch.1_445	RNASeq_splice	intron	171	221	12.0	-	.	
+ch.1_445	RNASeq_stranded	transcript_region	174	190	2.0	+	.	
+ch.1_445	RNASeq_splice	intron	186	236	13.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	191	223	1.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	243	258	1.0	+	.	
+ch.1_445	RNASeq_splice	intron	258	308	14.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	259	272	2.0	+	.	
+ch.1_445	RNASeq_reads	transcript_region	261	387	47.0	.	.	
+ch.1_445	RNASeq_stranded	transcript_region	273	317	4.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	318	356	2.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	357	395	4.0	+	.	
+ch.1_445	RNASeq_reads	transcript_region	388	427	31.0	.	.	
+ch.1_445	RNASeq_stranded	transcript_region	396	403	2.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	404	407	1.0	+	.	
+ch.1_445	RNASeq_reads	transcript_region	428	437	20.0	.	.	
+ch.1_445	WormBase	intron	438	488	.	+	.	Parent=Transcript:W08E12.3.1
+ch.1_445	RNASeq_splice	intron	438	488	71179.0	+	.	
+ch.1_445	RNASeq_splice	intron	442	488	3.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	489	508	1.0	+	.	
+ch.1_445	WormBase	CDS	489	592	.	+	.	ID=CDS:W08E12.3;Parent=Transcript:W08E12.3.1
+ch.1_445	RNASeq_reads	transcript_region	489	605	24.0	.	.	
+ch.1_445	WormBase	exon	489	680	.	+	.	Parent=Transcript:W08E12.3.1
+ch.1_445	RNASeq_stranded	transcript_region	509	516	2.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	517	548	1.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	549	551	2.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	552	560	1.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	561	579	2.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	580	590	6.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	591	615	10.0	+	.	
+ch.1_445	WormBase	three_prime_UTR	593	680	.	+	.	Parent=Transcript:W08E12.3.1
+ch.1_445	RNASeq_reads	transcript_region	606	629	15.0	.	.	
+ch.1_445	RNASeq_stranded	transcript_region	616	626	4.0	+	.	
+ch.1_445	RNASeq_stranded	transcript_region	627	631	2.0	+	.	
+ch.1_445	RNASeq_reads	transcript_region	630	649	9.0	.	.	
+ch.1_445	RNASeq_stranded	transcript_region	632	666	1.0	+	.	
+ch.1_445	RNASeq_reads	transcript_region	650	662	5.0	.	.	
+ch.1_445	RNASeq_reads	transcript_region	663	671	3.0	.	.	
+ch.1_445	RNASeq_reads	transcript_region	672	678	1.0	.	.	
+ch.1_445	RNASeq_F_asymmetry	transcript_region	722	725	41.0	.	.	

@@ -1,0 +1,38 @@
+ch.1_484	RNASeq_splice	intron	14	100	15.0	+	.	
+ch.1_484	RNASeq_F_asymmetry	transcript_region	99	105	19450.0	.	.	
+ch.1_484	RNASeq_reads	transcript_region	99	112	4.0	.	.	
+ch.1_484	RNASeq_stranded	transcript_region	99	115	2.0	+	.	
+ch.1_484	WormBase	five_prime_UTR	101	109	.	+	.	Parent=Transcript:C49C8.3.1
+ch.1_484	WormBase	exon	101	377	.	+	.	Parent=Transcript:C49C8.3.1
+ch.1_484	WormBase	gene	101	713	.	+	.	ID=Gene:WBGene00016767
+ch.1_484	WormBase	mRNA	101	713	.	+	.	ID=Transcript:C49C8.3.1;Parent=Gene:WBGene00016767
+ch.1_484	RNASeq_F_asymmetry	transcript_region	106	131	29868.0	.	.	
+ch.1_484	WormBase	CDS	110	377	.	+	.	ID=CDS:C49C8.3;Parent=Transcript:C49C8.3.1
+ch.1_484	RNASeq_reads	transcript_region	113	142	7.0	.	.	
+ch.1_484	RNASeq_stranded	transcript_region	116	129	4.0	+	.	
+ch.1_484	RNASeq_stranded	transcript_region	130	179	8.0	+	.	
+ch.1_484	RNASeq_F_asymmetry	transcript_region	132	166	45105.0	.	.	
+ch.1_484	RNASeq_reads	transcript_region	143	377	11.0	.	.	
+ch.1_484	RNASeq_splice	intron	157	207	2174.0	+	.	
+ch.1_484	RNASeq_stranded	transcript_region	180	190	5.0	+	.	
+ch.1_484	RNASeq_stranded	transcript_region	191	373	3.0	+	.	
+ch.1_484	RNASeq_stranded	transcript_region	374	377	1.0	+	.	
+ch.1_484	RNASeq_splice	intron	378	412	47.0	+	.	
+ch.1_484	WormBase	intron	378	424	.	+	.	Parent=Transcript:C49C8.3.1
+ch.1_484	RNASeq_splice	intron	378	424	49946.0	+	.	
+ch.1_484	RNASeq_stranded	transcript_region	425	460	2.0	+	.	
+ch.1_484	RNASeq_reads	transcript_region	425	621	10.0	.	.	
+ch.1_484	WormBase	CDS	425	639	.	+	.	ID=CDS:C49C8.3;Parent=Transcript:C49C8.3.1
+ch.1_484	WormBase	exon	425	713	.	+	.	Parent=Transcript:C49C8.3.1
+ch.1_484	RNASeq_stranded	transcript_region	461	564	4.0	+	.	
+ch.1_484	RNASeq_stranded	transcript_region	565	596	7.0	+	.	
+ch.1_484	RNASeq_stranded	transcript_region	597	677	11.0	+	.	
+ch.1_484	RNASeq_reads	transcript_region	622	668	6.0	.	.	
+ch.1_484	WormBase	three_prime_UTR	640	713	.	+	.	Parent=Transcript:C49C8.3.1
+ch.1_484	RNASeq_reads	transcript_region	669	705	3.0	.	.	
+ch.1_484	RNASeq_stranded	transcript_region	678	696	7.0	+	.	
+ch.1_484	RNASeq_stranded	transcript_region	697	701	4.0	+	.	
+ch.1_484	RNASeq_R_asymmetry	transcript_region	700	705	7923.0	.	.	
+ch.1_484	RNASeq_stranded	transcript_region	702	712	2.0	+	.	
+ch.1_484	RNASeq_reads	transcript_region	706	713	1.0	.	.	
+ch.1_484	RNASeq_stranded	transcript_region	713	716	1.0	+	.	

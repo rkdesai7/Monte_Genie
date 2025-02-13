@@ -1,0 +1,66 @@
+ch.1_178	RNASeq_R_asymmetry	transcript_region	536	581	471611.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	557	580	109.0	-	.	
+ch.1_178	RNASeq_stranded	transcript_region	542	556	71.0	-	.	
+ch.1_178	RNASeq_reads	transcript_region	529	554	82.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	528	541	46.0	-	.	
+ch.1_178	RNASeq_R_asymmetry	transcript_region	516	535	305339.0	.	.	
+ch.1_178	RNASeq_reads	transcript_region	509	528	53.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	518	527	30.0	-	.	
+ch.1_178	RNASeq_stranded	transcript_region	508	517	19.0	-	.	
+ch.1_178	RNASeq_R_asymmetry	transcript_region	507	515	200882.0	.	.	
+ch.1_178	RNASeq_reads	transcript_region	505	508	33.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	501	507	12.0	-	.	
+ch.1_178	RNASeq_R_asymmetry	transcript_region	505	506	113986.0	.	.	
+ch.1_178	RNASeq_R_asymmetry	transcript_region	503	504	71710.0	.	.	
+ch.1_178	RNASeq_reads	transcript_region	503	504	16.0	.	.	
+ch.1_178	RNASeq_R_asymmetry	transcript_region	502	502	35389.0	.	.	
+ch.1_178	RNASeq_reads	transcript_region	502	502	9.0	.	.	
+ch.1_178	RNASeq	transcription_end_site	502	502	.	-	.	
+ch.1_178	RNASeq_reads	transcript_region	500	501	5.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	500	500	7.0	-	.	
+ch.1_178	RNASeq	transcription_end_site	500	500	.	-	.	
+ch.1_178	RNASeq_reads	transcript_region	499	499	2.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	498	499	2.0	-	.	
+ch.1_178	RNASeq_reads	transcript_region	490	498	1.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	456	497	1.0	-	.	
+ch.1_178	RNASeq	transcription_end_site	491	491	.	-	.	
+ch.1_178	RNASeq	transcription_end_site	491	491	.	-	.	
+ch.1_178	WormBase	three_prime_UTR	455	489	.	+	.	Parent=Transcript:Y75B12B.3.1
+ch.1_178	RNASeq_reads	transcript_region	438	489	2.0	.	.	
+ch.1_178	WormBase	exon	407	489	.	+	.	Parent=Transcript:Y75B12B.3.1
+ch.1_178	WormBase	gene	101	489	.	+	.	ID=Gene:WBGene00013568
+ch.1_178	WormBase	mRNA	101	489	.	+	.	ID=Transcript:Y75B12B.3.1;Parent=Gene:WBGene00013568
+ch.1_178	RNASeq_stranded	transcript_region	463	482	1.0	+	.	
+ch.1_178	RNASeq	transcription_end_site	468	468	.	-	.	
+ch.1_178	RNASeq	transcription_end_site	468	468	.	-	.	
+ch.1_178	RNASeq_stranded	transcript_region	423	462	2.0	+	.	
+ch.1_178	WormBase	CDS	407	454	.	+	.	ID=CDS:Y75B12B.3;Parent=Transcript:Y75B12B.3.1
+ch.1_178	RNASeq	transcription_end_site	437	437	.	-	.	
+ch.1_178	RNASeq_reads	transcript_region	424	437	4.0	.	.	
+ch.1_178	RNASeq	transcription_end_site	435	435	.	-	.	
+ch.1_178	RNASeq	transcription_end_site	435	435	.	-	.	
+ch.1_178	RNASeq_reads	transcript_region	407	423	7.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	407	422	4.0	+	.	
+ch.1_178	RNASeq_F_asymmetry	transcript_region	407	421	26835.0	.	.	
+ch.1_178	RNASeq_reads	transcript_region	392	406	1.0	.	.	
+ch.1_178	RNASeq_splice	intron	361	406	13.0	+	.	
+ch.1_178	WormBase	intron	357	406	.	+	.	Parent=Transcript:Y75B12B.3.1
+ch.1_178	RNASeq_splice	intron	357	406	50388.0	+	.	
+ch.1_178	RNASeq_splice	intron	357	391	582.0	+	.	
+ch.1_178	RNASeq_F_asymmetry	transcript_region	336	356	37200.0	.	.	
+ch.1_178	RNASeq_reads	transcript_region	309	356	9.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	300	356	4.0	+	.	
+ch.1_178	WormBase	CDS	120	356	.	+	.	ID=CDS:Y75B12B.3;Parent=Transcript:Y75B12B.3.1
+ch.1_178	WormBase	exon	101	356	.	+	.	Parent=Transcript:Y75B12B.3.1
+ch.1_178	RNASeq_reads	transcript_region	198	308	14.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	159	299	2.0	+	.	
+ch.1_178	RNASeq_reads	transcript_region	131	197	22.0	.	.	
+ch.1_178	RNASeq_stranded	transcript_region	92	158	1.0	+	.	
+ch.1_178	RNASeq_R_asymmetry	transcript_region	110	151	64402.0	.	.	
+ch.1_178	RNASeq_reads	transcript_region	109	130	14.0	.	.	
+ch.1_178	WormBase	five_prime_UTR	101	119	.	+	.	Parent=Transcript:Y75B12B.3.1
+ch.1_178	RNASeq_R_asymmetry	transcript_region	98	109	42265.0	.	.	
+ch.1_178	RNASeq_splice	intron	58	109	31.0	+	.	
+ch.1_178	RNASeq_reads	transcript_region	98	108	9.0	.	.	
+ch.1_178	RNASeq_R_asymmetry	transcript_region	97	97	16748.0	.	.	
+ch.1_178	RNASeq_reads	transcript_region	81	97	4.0	.	.	

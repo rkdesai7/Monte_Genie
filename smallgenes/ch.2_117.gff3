@@ -1,0 +1,35 @@
+ch.2_117	RNASeq_splice	intron	651	770	312.0	+	.	
+ch.2_117	RNASeq_stranded	transcript_region	762	765	1.0	+	.	
+ch.2_117	RNASeq_stranded	transcript_region	692	744	1.0	+	.	
+ch.2_117	WormBase	CDS	692	733	.	+	.	ID=CDS:F07B7.8;Parent=Transcript:F07B7.8.1
+ch.2_117	WormBase	exon	692	733	.	+	.	Parent=Transcript:F07B7.8.1
+ch.2_117	WormBase	gene	101	733	.	+	.	ID=Gene:WBGene00017189
+ch.2_117	WormBase	mRNA	101	733	.	+	.	ID=Transcript:F07B7.8.1;Parent=Gene:WBGene00017189
+ch.2_117	RNASeq_reads	transcript_region	692	725	2.0	.	.	
+ch.2_117	RNASeq_reads	transcript_region	690	691	1.0	.	.	
+ch.2_117	WormBase	intron	651	691	.	+	.	Parent=Transcript:F07B7.8.1
+ch.2_117	RNASeq_splice	intron	651	691	7217.0	+	.	
+ch.2_117	RNASeq_stranded	transcript_region	544	650	1.0	+	.	
+ch.2_117	RNASeq_reads	transcript_region	462	650	2.0	.	.	
+ch.2_117	WormBase	CDS	255	650	.	+	.	ID=CDS:F07B7.8;Parent=Transcript:F07B7.8.1
+ch.2_117	WormBase	exon	255	650	.	+	.	Parent=Transcript:F07B7.8.1
+ch.2_117	RNASeq_stranded	transcript_region	470	470	1.0	-	.	
+ch.2_117	RNASeq_reads	transcript_region	255	461	4.0	.	.	
+ch.2_117	RNASeq_stranded	transcript_region	382	414	1.0	+	.	
+ch.2_117	RNASeq_stranded	transcript_region	313	380	1.0	+	.	
+ch.2_117	RNASeq_stranded	transcript_region	312	312	2.0	-	.	
+ch.2_117	RNASeq_stranded	transcript_region	311	311	1.0	-	.	
+ch.2_117	RNASeq_stranded	transcript_region	255	310	2.0	+	.	
+ch.2_117	WormBase	intron	200	254	.	+	.	Parent=Transcript:F07B7.8.1
+ch.2_117	RNASeq_splice	intron	200	254	17012.0	+	.	
+ch.2_117	RNASeq_splice	intron	180	254	3.0	+	.	
+ch.2_117	RNASeq_splice	intron	22	254	13.0	+	.	
+ch.2_117	RNASeq_R_asymmetry	transcript_region	177	199	15863.0	.	.	
+ch.2_117	RNASeq_reads	transcript_region	132	199	4.0	.	.	
+ch.2_117	RNASeq_stranded	transcript_region	106	199	3.0	+	.	
+ch.2_117	WormBase	CDS	101	199	.	+	.	ID=CDS:F07B7.8;Parent=Transcript:F07B7.8.1
+ch.2_117	WormBase	exon	101	199	.	+	.	Parent=Transcript:F07B7.8.1
+ch.2_117	RNASeq_R_asymmetry	transcript_region	111	161	12679.0	.	.	
+ch.2_117	RNASeq_reads	transcript_region	104	131	2.0	.	.	
+ch.2_117	RNASeq_R_asymmetry	transcript_region	108	110	8168.0	.	.	
+ch.2_117	RNASeq_stranded	transcript_region	95	105	1.0	+	.	

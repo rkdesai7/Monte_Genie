@@ -1,0 +1,61 @@
+ch.2_81	WormBase	three_prime_UTR	560	624	.	+	.	Parent=Transcript:Y102A5C.36.1
+ch.2_81	WormBase	exon	370	624	.	+	.	Parent=Transcript:Y102A5C.36.1
+ch.2_81	WormBase	gene	101	624	.	+	.	ID=Gene:WBGene00044213
+ch.2_81	WormBase	mRNA	101	624	.	+	.	ID=Transcript:Y102A5C.36.1;Parent=Gene:WBGene00044213
+ch.2_81	RNASeq_reads	transcript_region	580	621	1.0	.	.	
+ch.2_81	RNASeq_stranded	transcript_region	597	617	1.0	+	.	
+ch.2_81	RNASeq_F_asymmetry	transcript_region	601	616	3167.0	.	.	
+ch.2_81	RNASeq_splice	intron	552	597	518.0	+	.	
+ch.2_81	RNASeq_stranded	transcript_region	580	596	2.0	+	.	
+ch.2_81	RNASeq	transcription_end_site	588	588	.	-	.	
+ch.2_81	RNASeq	transcription_end_site	580	580	.	-	.	
+ch.2_81	RNASeq	transcription_end_site	580	580	.	-	.	
+ch.2_81	RNASeq	transcription_end_site	579	579	.	-	.	
+ch.2_81	RNASeq	transcription_end_site	579	579	.	-	.	
+ch.2_81	RNASeq_reads	transcript_region	555	579	2.0	.	.	
+ch.2_81	RNASeq_stranded	transcript_region	502	579	4.0	+	.	
+ch.2_81	RNASeq	transcription_end_site	572	572	.	-	.	
+ch.2_81	WormBase	CDS	370	559	.	+	.	ID=CDS:Y102A5C.36;Parent=Transcript:Y102A5C.36.1
+ch.2_81	RNASeq	transcription_end_site	555	555	.	-	.	
+ch.2_81	RNASeq	transcription_end_site	555	555	.	-	.	
+ch.2_81	RNASeq_reads	transcript_region	552	554	4.0	.	.	
+ch.2_81	RNASeq_F_asymmetry	transcript_region	534	551	37076.0	.	.	
+ch.2_81	RNASeq_reads	transcript_region	531	551	8.0	.	.	
+ch.2_81	RNASeq_F_asymmetry	transcript_region	490	533	55725.0	.	.	
+ch.2_81	RNASeq_reads	transcript_region	406	530	13.0	.	.	
+ch.2_81	RNASeq_stranded	transcript_region	477	501	7.0	+	.	
+ch.2_81	RNASeq_stranded	transcript_region	457	476	4.0	+	.	
+ch.2_81	RNASeq	transcription_end_site	472	472	.	-	.	
+ch.2_81	RNASeq	transcription_end_site	472	472	.	-	.	
+ch.2_81	RNASeq_stranded	transcript_region	370	456	2.0	+	.	
+ch.2_81	RNASeq_reads	transcript_region	370	405	20.0	.	.	
+ch.2_81	RNASeq_splice	intron	319	377	7.0	+	.	
+ch.2_81	RNASeq_splice	intron	319	372	46.0	+	.	
+ch.2_81	WormBase	intron	319	369	.	+	.	Parent=Transcript:Y102A5C.36.1
+ch.2_81	RNASeq_splice	intron	319	369	96098.0	+	.	
+ch.2_81	RNASeq_splice	intron	311	369	10.0	+	.	
+ch.2_81	WormBase	CDS	275	318	.	+	.	ID=CDS:Y102A5C.36;Parent=Transcript:Y102A5C.36.1
+ch.2_81	RNASeq_stranded	transcript_region	251	318	2.0	+	.	
+ch.2_81	WormBase	exon	202	318	.	+	.	Parent=Transcript:Y102A5C.36.1
+ch.2_81	RNASeq_reads	transcript_region	202	318	17.0	.	.	
+ch.2_81	RNASeq	transcription_end_site	283	283	.	-	.	
+ch.2_81	WormBase	five_prime_UTR	202	274	.	+	.	Parent=Transcript:Y102A5C.36.1
+ch.2_81	RNASeq_stranded	transcript_region	202	250	4.0	+	.	
+ch.2_81	RNASeq_R_asymmetry	transcript_region	202	221	61854.0	.	.	
+ch.2_81	RNASeq_splice	intron	157	205	231.0	+	.	
+ch.2_81	RNASeq_reads	transcript_region	201	201	2.0	.	.	
+ch.2_81	RNASeq_stranded	transcript_region	201	201	1.0	-	.	
+ch.2_81	WormBase	intron	157	201	.	+	.	Parent=Transcript:Y102A5C.36.1
+ch.2_81	RNASeq_splice	intron	157	201	74686.0	+	.	
+ch.2_81	RNASeq_reads	transcript_region	114	156	13.0	.	.	
+ch.2_81	RNASeq_R_asymmetry	transcript_region	112	156	56075.0	.	.	
+ch.2_81	RNASeq_stranded	transcript_region	108	156	3.0	+	.	
+ch.2_81	WormBase	exon	101	156	.	+	.	Parent=Transcript:Y102A5C.36.1
+ch.2_81	WormBase	five_prime_UTR	101	156	.	+	.	Parent=Transcript:Y102A5C.36.1
+ch.2_81	RNASeq_reads	transcript_region	101	113	8.0	.	.	
+ch.2_81	RNASeq_R_asymmetry	transcript_region	100	111	35282.0	.	.	
+ch.2_81	RNASeq_stranded	transcript_region	99	107	1.0	+	.	
+ch.2_81	RNASeq_reads	transcript_region	100	100	5.0	.	.	
+ch.2_81	RNASeq_R_asymmetry	transcript_region	96	99	13366.0	.	.	
+ch.2_81	RNASeq_reads	transcript_region	95	99	3.0	.	.	
+ch.2_81	RNASeq_R_asymmetry	transcript_region	95	95	7744.0	.	.	

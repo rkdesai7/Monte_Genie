@@ -1,0 +1,65 @@
+ch.1_152	WormBase	five_prime_UTR	101	175	.	+	.	Parent=Transcript:ZC262.13.1
+ch.1_152	WormBase	exon	101	205	.	+	.	Parent=Transcript:ZC262.13.1
+ch.1_152	WormBase	gene	101	544	.	+	.	ID=Gene:WBGene00284846
+ch.1_152	WormBase	mRNA	101	544	.	+	.	ID=Transcript:ZC262.13.1;Parent=Gene:WBGene00284846
+ch.1_152	RNASeq_F_asymmetry	transcript_region	110	118	2584.0	.	.	
+ch.1_152	RNASeq_reads	transcript_region	110	123	1.0	.	.	
+ch.1_152	RNASeq_F_asymmetry	transcript_region	119	122	3998.0	.	.	
+ch.1_152	RNASeq_F_asymmetry	transcript_region	123	127	6194.0	.	.	
+ch.1_152	RNASeq_reads	transcript_region	124	141	2.0	.	.	
+ch.1_152	RNASeq_stranded	transcript_region	124	150	1.0	+	.	
+ch.1_152	RNASeq_F_asymmetry	transcript_region	128	141	9353.0	.	.	
+ch.1_152	RNASeq_F_asymmetry	transcript_region	142	148	18186.0	.	.	
+ch.1_152	RNASeq_reads	transcript_region	142	150	4.0	.	.	
+ch.1_152	RNASeq_F_asymmetry	transcript_region	149	165	28768.0	.	.	
+ch.1_152	RNASeq_stranded	transcript_region	151	161	2.0	+	.	
+ch.1_152	RNASeq_reads	transcript_region	151	173	7.0	.	.	
+ch.1_152	RNASeq_stranded	transcript_region	162	205	4.0	+	.	
+ch.1_152	RNASeq_F_asymmetry	transcript_region	166	205	44990.0	.	.	
+ch.1_152	RNASeq_reads	transcript_region	174	205	11.0	.	.	
+ch.1_152	WormBase	CDS	176	205	.	+	.	ID=CDS:ZC262.13;Parent=Transcript:ZC262.13.1
+ch.1_152	RNASeq_splice	intron	206	247	21.0	+	.	
+ch.1_152	WormBase	intron	206	254	.	+	.	Parent=Transcript:ZC262.13.1
+ch.1_152	RNASeq_splice	intron	206	254	65100.0	+	.	
+ch.1_152	RNASeq	transcription_end_site	210	210	.	+	.	
+ch.1_152	RNASeq_reads	transcript_region	237	253	1.0	.	.	
+ch.1_152	RNASeq	transcription_end_site	251	251	.	+	.	
+ch.1_152	RNASeq_reads	transcript_region	254	254	3.0	.	.	
+ch.1_152	RNASeq_stranded	transcript_region	254	254	1.0	+	.	
+ch.1_152	RNASeq_F_asymmetry	transcript_region	255	256	57336.0	.	.	
+ch.1_152	RNASeq_reads	transcript_region	255	291	14.0	.	.	
+ch.1_152	RNASeq_stranded	transcript_region	255	293	5.0	+	.	
+ch.1_152	WormBase	CDS	255	485	.	+	.	ID=CDS:ZC262.13;Parent=Transcript:ZC262.13.1
+ch.1_152	WormBase	exon	255	544	.	+	.	Parent=Transcript:ZC262.13.1
+ch.1_152	RNASeq_reads	transcript_region	292	486	22.0	.	.	
+ch.1_152	RNASeq_stranded	transcript_region	294	316	8.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	317	367	16.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	368	388	5.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	389	402	8.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	397	399	1.0	-	.	
+ch.1_152	RNASeq_stranded	transcript_region	400	405	2.0	-	.	
+ch.1_152	RNASeq_stranded	transcript_region	403	430	13.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	406	416	4.0	-	.	
+ch.1_152	RNASeq_stranded	transcript_region	417	468	7.0	-	.	
+ch.1_152	RNASeq_stranded	transcript_region	431	509	20.0	+	.	
+ch.1_152	RNASeq	transcription_end_site	469	469	.	+	.	
+ch.1_152	RNASeq	transcription_end_site	469	469	.	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	469	479	15.0	-	.	
+ch.1_152	RNASeq	transcription_end_site	472	472	.	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	480	491	25.0	-	.	
+ch.1_152	WormBase	three_prime_UTR	486	544	.	+	.	Parent=Transcript:ZC262.13.1
+ch.1_152	RNASeq_reads	transcript_region	487	503	34.0	.	.	
+ch.1_152	RNASeq_stranded	transcript_region	492	514	40.0	-	.	
+ch.1_152	RNASeq_reads	transcript_region	504	571	52.0	.	.	
+ch.1_152	RNASeq_stranded	transcript_region	510	528	13.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	515	527	75.0	-	.	
+ch.1_152	RNASeq_stranded	transcript_region	528	591	114.0	-	.	
+ch.1_152	RNASeq_stranded	transcript_region	529	538	8.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	539	543	5.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	544	568	3.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	569	569	5.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	570	592	8.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	592	613	73.0	-	.	
+ch.1_152	RNASeq_stranded	transcript_region	593	595	14.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	596	632	23.0	+	.	
+ch.1_152	RNASeq_stranded	transcript_region	614	633	46.0	-	.	

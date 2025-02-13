@@ -1,0 +1,36 @@
+ch.2_238	RNASeq_reads	transcript_region	1114	1178	4.0	.	.	
+ch.2_238	RNASeq_splice	intron	1068	1120	52.0	+	.	
+ch.2_238	RNASeq_splice	intron	1068	1113	18374.0	+	.	
+ch.2_238	RNASeq_splice	intron	484	1113	58.0	+	.	
+ch.2_238	WormBase	exon	929	1078	.	+	.	Parent=Transcript:Y14H12A.2.1
+ch.2_238	WormBase	CDS	929	1078	.	+	.	ID=CDS:Y14H12A.2;Parent=Transcript:Y14H12A.2.1
+ch.2_238	WormBase	gene	101	1078	.	+	.	ID=Gene:WBGene00044382
+ch.2_238	WormBase	mRNA	101	1078	.	+	.	ID=Transcript:Y14H12A.2.1;Parent=Gene:WBGene00044382
+ch.2_238	RNASeq_reads	transcript_region	929	1067	4.0	.	.	
+ch.2_238	RNASeq_stranded	transcript_region	1022	1025	1.0	+	.	
+ch.2_238	WormBase	intron	484	928	.	+	.	Parent=Transcript:Y14H12A.2.1
+ch.2_238	RNASeq_splice	intron	484	928	20417.0	+	.	
+ch.2_238	RNASeq_splice	intron	482	928	54.0	+	.	
+ch.2_238	RNASeq_splice	intron	478	928	13.0	+	.	
+ch.2_238	RNASeq_splice	intron	345	928	3.0	+	.	
+ch.2_238	RNASeq_splice	intron	484	902	31.0	+	.	
+ch.2_238	WormBase_transposon	transposable_element	496	817	.	-	.	ID=Transposon:Predicted_HELICOPY1_6830
+ch.2_238	WormBase	CDS	392	483	.	+	.	ID=CDS:Y14H12A.2;Parent=Transcript:Y14H12A.2.1
+ch.2_238	WormBase	exon	392	483	.	+	.	Parent=Transcript:Y14H12A.2.1
+ch.2_238	RNASeq_reads	transcript_region	392	483	4.0	.	.	
+ch.2_238	RNASeq_stranded	transcript_region	444	455	1.0	+	.	
+ch.2_238	RNASeq_reads	transcript_region	390	391	1.0	.	.	
+ch.2_238	WormBase	intron	345	391	.	+	.	Parent=Transcript:Y14H12A.2.1
+ch.2_238	RNASeq_splice	intron	345	391	15957.0	+	.	
+ch.2_238	RNASeq_splice	intron	303	391	9.0	+	.	
+ch.2_238	RNASeq_splice	intron	345	379	3.0	+	.	
+ch.2_238	RNASeq_reads	transcript_region	345	345	1.0	.	.	
+ch.2_238	WormBase	CDS	281	344	.	+	.	ID=CDS:Y14H12A.2;Parent=Transcript:Y14H12A.2.1
+ch.2_238	RNASeq_reads	transcript_region	154	344	3.0	.	.	
+ch.2_238	WormBase	exon	101	344	.	+	.	Parent=Transcript:Y14H12A.2.1
+ch.2_238	WormBase	five_prime_UTR	101	280	.	+	.	Parent=Transcript:Y14H12A.2.1
+ch.2_238	RNASeq_R_asymmetry	transcript_region	143	179	7674.0	.	.	
+ch.2_238	RNASeq_reads	transcript_region	74	153	1.0	.	.	
+ch.2_238	RNASeq_R_asymmetry	transcript_region	123	142	4977.0	.	.	
+ch.2_238	RNASeq_reads	transcript_region	69	71	1.0	.	.	
+ch.2_238	RNASeq_reads	transcript_region	60	67	1.0	.	.	

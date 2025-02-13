@@ -1,0 +1,52 @@
+ch.1_82	RNASeq_F_asymmetry	transcript_region	563	571	167.0	.	.	
+ch.1_82	RNASeq_F_asymmetry	transcript_region	554	561	199.0	.	.	
+ch.1_82	RNASeq	transcription_end_site	559	559	.	-	.	
+ch.1_82	RNASeq	transcription_end_site	559	559	.	-	.	
+ch.1_82	RNASeq_F_asymmetry	transcript_region	547	552	214.0	.	.	
+ch.1_82	RNASeq_F_asymmetry	transcript_region	533	536	3247.0	.	.	
+ch.1_82	RNASeq_reads	transcript_region	528	536	1.0	.	.	
+ch.1_82	WormBase	three_prime_UTR	499	536	.	+	.	Parent=Transcript:T19H12.15.1
+ch.1_82	WormBase	exon	263	536	.	+	.	Parent=Transcript:T19H12.15.1
+ch.1_82	WormBase	gene	101	536	.	+	.	ID=Gene:WBGene00271827
+ch.1_82	WormBase	mRNA	101	536	.	+	.	ID=Transcript:T19H12.15.1;Parent=Gene:WBGene00271827
+ch.1_82	RNASeq_F_asymmetry	transcript_region	522	532	5492.0	.	.	
+ch.1_82	RNASeq_stranded	transcript_region	499	529	1.0	+	.	
+ch.1_82	RNASeq_reads	transcript_region	507	527	2.0	.	.	
+ch.1_82	RNASeq_F_asymmetry	transcript_region	516	521	8324.0	.	.	
+ch.1_82	RNASeq_F_asymmetry	transcript_region	507	515	12646.0	.	.	
+ch.1_82	RNASeq_reads	transcript_region	482	506	4.0	.	.	
+ch.1_82	RNASeq_F_asymmetry	transcript_region	474	506	20223.0	.	.	
+ch.1_82	RNASeq_stranded	transcript_region	403	498	2.0	+	.	
+ch.1_82	WormBase	CDS	263	498	.	+	.	ID=CDS:T19H12.15;Parent=Transcript:T19H12.15.1
+ch.1_82	RNASeq_reads	transcript_region	337	481	7.0	.	.	
+ch.1_82	RNASeq_F_asymmetry	transcript_region	439	473	30371.0	.	.	
+ch.1_82	RNASeq	transcription_end_site	440	440	.	-	.	
+ch.1_82	RNASeq	transcription_end_site	440	440	.	-	.	
+ch.1_82	RNASeq	transcription_end_site	436	436	.	-	.	
+ch.1_82	RNASeq_F_asymmetry	transcript_region	431	432	30023.0	.	.	
+ch.1_82	RNASeq_stranded	transcript_region	401	402	1.0	+	.	
+ch.1_82	RNASeq_stranded	transcript_region	298	400	2.0	+	.	
+ch.1_82	RNASeq_reads	transcript_region	263	336	11.0	.	.	
+ch.1_82	RNASeq_stranded	transcript_region	296	297	1.0	+	.	
+ch.1_82	RNASeq_stranded	transcript_region	277	295	2.0	+	.	
+ch.1_82	RNASeq_stranded	transcript_region	263	276	1.0	+	.	
+ch.1_82	RNASeq_R_asymmetry	transcript_region	263	274	35319.0	.	.	
+ch.1_82	RNASeq_splice	intron	209	265	40.0	+	.	
+ch.1_82	RNASeq_reads	transcript_region	262	262	1.0	.	.	
+ch.1_82	WormBase	intron	209	262	.	+	.	Parent=Transcript:T19H12.15.1
+ch.1_82	RNASeq_splice	intron	209	262	40679.0	+	.	
+ch.1_82	RNASeq_reads	transcript_region	163	208	8.0	.	.	
+ch.1_82	RNASeq_stranded	transcript_region	161	208	1.0	+	.	
+ch.1_82	WormBase	CDS	160	208	.	+	.	ID=CDS:T19H12.15;Parent=Transcript:T19H12.15.1
+ch.1_82	RNASeq_R_asymmetry	transcript_region	157	208	32560.0	.	.	
+ch.1_82	WormBase	exon	101	208	.	+	.	Parent=Transcript:T19H12.15.1
+ch.1_82	RNASeq_reads	transcript_region	157	162	5.0	.	.	
+ch.1_82	WormBase	five_prime_UTR	101	159	.	+	.	Parent=Transcript:T19H12.15.1
+ch.1_82	RNASeq_R_asymmetry	transcript_region	155	156	17558.0	.	.	
+ch.1_82	RNASeq_reads	transcript_region	151	156	3.0	.	.	
+ch.1_82	RNASeq_R_asymmetry	transcript_region	149	154	9458.0	.	.	
+ch.1_82	RNASeq_reads	transcript_region	144	150	1.0	.	.	
+ch.1_82	RNASeq_R_asymmetry	transcript_region	146	148	5473.0	.	.	
+ch.1_82	RNASeq_R_asymmetry	transcript_region	144	145	3430.0	.	.	
+ch.1_82	RNASeq_R_asymmetry	transcript_region	139	143	2088.0	.	.	
+ch.1_82	RNASeq_R_asymmetry	transcript_region	133	138	1236.0	.	.	

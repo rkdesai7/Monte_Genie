@@ -1,0 +1,39 @@
+ch.1_518	RNASeq	transcription_end_site	830	830	.	-	.	
+ch.1_518	RNASeq	transcription_end_site	830	830	.	-	.	
+ch.1_518	RNASeq_F_asymmetry	transcript_region	824	827	505.0	.	.	
+ch.1_518	WormBase	three_prime_UTR	778	827	.	+	.	Parent=Transcript:Y47D7A.12.1
+ch.1_518	WormBase	exon	647	827	.	+	.	Parent=Transcript:Y47D7A.12.1
+ch.1_518	WormBase	gene	101	827	.	+	.	ID=Gene:WBGene00021624
+ch.1_518	WormBase	mRNA	101	827	.	+	.	ID=Transcript:Y47D7A.12.1;Parent=Gene:WBGene00021624
+ch.1_518	RNASeq_F_asymmetry	transcript_region	812	816	879.0	.	.	
+ch.1_518	RNASeq_F_asymmetry	transcript_region	797	811	1327.0	.	.	
+ch.1_518	RNASeq_F_asymmetry	transcript_region	783	796	2008.0	.	.	
+ch.1_518	RNASeq_reads	transcript_region	769	794	1.0	.	.	
+ch.1_518	RNASeq_F_asymmetry	transcript_region	771	782	4121.0	.	.	
+ch.1_518	WormBase	CDS	647	777	.	+	.	ID=CDS:Y47D7A.12;Parent=Transcript:Y47D7A.12.1
+ch.1_518	RNASeq_F_asymmetry	transcript_region	758	770	6340.0	.	.	
+ch.1_518	RNASeq_reads	transcript_region	647	768	2.0	.	.	
+ch.1_518	RNASeq_stranded	transcript_region	760	760	1.0	-	.	
+ch.1_518	RNASeq_F_asymmetry	transcript_region	688	757	9576.0	.	.	
+ch.1_518	RNASeq_stranded	transcript_region	718	751	1.0	+	.	
+ch.1_518	RNASeq_stranded	transcript_region	650	662	1.0	+	.	
+ch.1_518	WormBase	intron	598	646	.	+	.	Parent=Transcript:Y47D7A.12.1
+ch.1_518	RNASeq_splice	intron	598	646	12313.0	+	.	
+ch.1_518	RNASeq_reads	transcript_region	322	597	3.0	.	.	
+ch.1_518	WormBase	CDS	129	597	.	+	.	ID=CDS:Y47D7A.12;Parent=Transcript:Y47D7A.12.1
+ch.1_518	WormBase	exon	101	597	.	+	.	Parent=Transcript:Y47D7A.12.1
+ch.1_518	RNASeq_stranded	transcript_region	584	594	1.0	+	.	
+ch.1_518	RNASeq_stranded	transcript_region	568	576	1.0	+	.	
+ch.1_518	RNASeq_splice	intron	352	396	5.0	+	.	
+ch.1_518	RNASeq_reads	transcript_region	193	321	5.0	.	.	
+ch.1_518	RNASeq_stranded	transcript_region	205	263	1.0	+	.	
+ch.1_518	RNASeq_stranded	transcript_region	183	203	1.0	+	.	
+ch.1_518	RNASeq_reads	transcript_region	119	192	3.0	.	.	
+ch.1_518	RNASeq_R_asymmetry	transcript_region	126	186	13630.0	.	.	
+ch.1_518	RNASeq_stranded	transcript_region	151	179	1.0	+	.	
+ch.1_518	WormBase	five_prime_UTR	101	128	.	+	.	Parent=Transcript:Y47D7A.12.1
+ch.1_518	RNASeq_R_asymmetry	transcript_region	117	125	8982.0	.	.	
+ch.1_518	RNASeq_reads	transcript_region	113	118	1.0	.	.	
+ch.1_518	RNASeq_R_asymmetry	transcript_region	114	116	4940.0	.	.	
+ch.1_518	RNASeq_R_asymmetry	transcript_region	107	113	2374.0	.	.	
+ch.1_518	RNASeq_R_asymmetry	transcript_region	101	106	1559.0	.	.	

@@ -1,0 +1,62 @@
+ch.1_412	RNASeq_stranded	transcript_region	24	64	1.0	+	.	
+ch.1_412	RNASeq_reads	transcript_region	91	99	2.0	.	.	
+ch.1_412	RNASeq_F_asymmetry	transcript_region	100	100	19105.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	100	100	5.0	.	.	
+ch.1_412	RNASeq_stranded	transcript_region	100	100	1.0	+	.	
+ch.1_412	RNASeq_F_asymmetry	transcript_region	101	105	100282.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	101	105	21.0	.	.	
+ch.1_412	RNASeq_stranded	transcript_region	101	111	7.0	+	.	
+ch.1_412	WormBase	five_prime_UTR	101	112	.	+	.	Parent=Transcript:K01H12.1a.1
+ch.1_412	WormBase	exon	101	219	.	+	.	Parent=Transcript:K01H12.1a.1
+ch.1_412	WormBase	gene	101	718	.	+	.	ID=Gene:WBGene00010484
+ch.1_412	WormBase	mRNA	101	718	.	+	.	ID=Transcript:K01H12.1a.1;Parent=Gene:WBGene00010484
+ch.1_412	RNASeq_F_asymmetry	transcript_region	106	107	160917.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	106	107	33.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	108	134	52.0	.	.	
+ch.1_412	RNASeq_F_asymmetry	transcript_region	108	166	258478.0	.	.	
+ch.1_412	RNASeq_stranded	transcript_region	112	161	11.0	+	.	
+ch.1_412	WormBase	CDS	113	219	.	+	.	ID=CDS:K01H12.1a;Parent=Transcript:K01H12.1a.1
+ch.1_412	RNASeq_reads	transcript_region	135	219	79.0	.	.	
+ch.1_412	RNASeq_stranded	transcript_region	162	219	17.0	+	.	
+ch.1_412	RNASeq_reads	transcript_region	220	345	1.0	.	.	
+ch.1_412	RNASeq_splice	intron	220	456	27.0	+	.	
+ch.1_412	WormBase	intron	220	478	.	+	.	Parent=Transcript:K01H12.1a.1
+ch.1_412	RNASeq_splice	intron	220	478	405621.0	+	.	
+ch.1_412	RNASeq_splice	intron	220	480	170.0	+	.	
+ch.1_412	RNASeq_splice	intron	224	478	10.0	+	.	
+ch.1_412	RNASeq_splice	intron	224	480	3.0	+	.	
+ch.1_412	RNASeq_stranded	transcript_region	256	305	1.0	+	.	
+ch.1_412	RNASeq_splice	intron	329	478	52.0	+	.	
+ch.1_412	RNASeq_splice	intron	427	478	28.0	+	.	
+ch.1_412	RNASeq_reads	transcript_region	473	476	1.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	477	478	9.0	.	.	
+ch.1_412	RNASeq_stranded	transcript_region	477	478	3.0	+	.	
+ch.1_412	RNASeq_stranded	transcript_region	479	542	17.0	+	.	
+ch.1_412	RNASeq_reads	transcript_region	479	603	82.0	.	.	
+ch.1_412	WormBase	CDS	479	614	.	+	.	ID=CDS:K01H12.1a;Parent=Transcript:K01H12.1a.1
+ch.1_412	WormBase	exon	479	718	.	+	.	Parent=Transcript:K01H12.1a.1
+ch.1_412	WormBase	mRNA	483	614	.	+	.	ID=Transcript:K01H12.1b.1;Parent=Gene:WBGene00010484
+ch.1_412	WormBase	exon	483	614	.	+	.	Parent=Transcript:K01H12.1b.1
+ch.1_412	WormBase	CDS	483	614	.	+	.	ID=CDS:K01H12.1b;Parent=Transcript:K01H12.1b.1
+ch.1_412	RNASeq_stranded	transcript_region	543	632	27.0	+	.	
+ch.1_412	RNASeq_R_asymmetry	transcript_region	552	603	361215.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	604	611	51.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	612	691	32.0	.	.	
+ch.1_412	WormBase	three_prime_UTR	615	718	.	+	.	Parent=Transcript:K01H12.1a.1
+ch.1_412	RNASeq_stranded	transcript_region	633	680	17.0	+	.	
+ch.1_412	RNASeq_R_asymmetry	transcript_region	641	701	128537.0	.	.	
+ch.1_412	RNASeq_stranded	transcript_region	681	691	10.0	+	.	
+ch.1_412	RNASeq_stranded	transcript_region	692	708	6.0	+	.	
+ch.1_412	RNASeq_reads	transcript_region	692	710	21.0	.	.	
+ch.1_412	RNASeq_R_asymmetry	transcript_region	702	710	84543.0	.	.	
+ch.1_412	RNASeq_stranded	transcript_region	709	716	3.0	+	.	
+ch.1_412	RNASeq_R_asymmetry	transcript_region	711	713	40594.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	711	713	9.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	714	714	5.0	.	.	
+ch.1_412	RNASeq_R_asymmetry	transcript_region	714	715	20764.0	.	.	
+ch.1_412	RNASeq_reads	transcript_region	715	716	3.0	.	.	
+ch.1_412	RNASeq_R_asymmetry	transcript_region	716	716	10531.0	.	.	
+ch.1_412	RNASeq	transcription_end_site	717	717	.	+	.	
+ch.1_412	RNASeq_reads	transcript_region	717	720	1.0	.	.	
+ch.1_412	RNASeq_stranded	transcript_region	717	720	1.0	+	.	
+ch.1_412	RNASeq	transcription_end_site	720	720	.	+	.	

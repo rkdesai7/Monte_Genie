@@ -1,0 +1,67 @@
+ch.1_235	RNASeq	transcription_end_site	726	726	.	-	.	
+ch.1_235	RNASeq_R_asymmetry	transcript_region	685	725	74275.0	.	.	
+ch.1_235	WormBase	three_prime_UTR	581	725	.	-	.	Parent=Transcript:M02B7.1.1
+ch.1_235	RNASeq	transcription_end_site	694	694	.	-	.	
+ch.1_235	RNASeq_stranded	transcript_region	685	689	5.0	-	.	
+ch.1_235	RNASeq_stranded	transcript_region	650	684	14.0	-	.	
+ch.1_235	RNASeq_R_asymmetry	transcript_region	675	675	57446.0	.	.	
+ch.1_235	RNASeq_R_asymmetry	transcript_region	653	672	56151.0	.	.	
+ch.1_235	RNASeq_reads	transcript_region	646	651	10.0	.	.	
+ch.1_235	RNASeq_R_asymmetry	transcript_region	635	649	31912.0	.	.	
+ch.1_235	RNASeq_stranded	transcript_region	619	649	6.0	-	.	
+ch.1_235	RNASeq	transcription_end_site	646	646	.	-	.	
+ch.1_235	RNASeq_reads	transcript_region	552	645	6.0	.	.	
+ch.1_235	RNASeq	transcription_end_site	644	644	.	-	.	
+ch.1_235	RNASeq_R_asymmetry	transcript_region	627	634	19983.0	.	.	
+ch.1_235	RNASeq_stranded	transcript_region	624	628	1.0	+	.	
+ch.1_235	WormBase	three_prime_UTR	574	627	.	+	.	Parent=Transcript:M02B7.7.1
+ch.1_235	WormBase	exon	409	627	.	+	.	Parent=Transcript:M02B7.7.1
+ch.1_235	WormBase	gene	101	627	.	+	.	ID=Gene:WBGene00044690
+ch.1_235	WormBase	mRNA	101	627	.	+	.	ID=Transcript:M02B7.7.1;Parent=Gene:WBGene00044690
+ch.1_235	RNASeq	transcription_end_site	625	625	.	-	.	
+ch.1_235	RNASeq_stranded	transcript_region	608	623	2.0	+	.	
+ch.1_235	RNASeq_stranded	transcript_region	595	618	3.0	-	.	
+ch.1_235	RNASeq_stranded	transcript_region	592	607	4.0	+	.	
+ch.1_235	RNASeq	transcription_end_site	602	602	.	-	.	
+ch.1_235	RNASeq_stranded	transcript_region	581	594	1.0	-	.	
+ch.1_235	RNASeq_stranded	transcript_region	574	591	7.0	+	.	
+ch.1_235	RNASeq	transcription_end_site	577	577	.	-	.	
+ch.1_235	RNASeq	transcription_end_site	577	577	.	-	.	
+ch.1_235	RNASeq	transcription_end_site	573	573	.	-	.	
+ch.1_235	RNASeq	transcription_end_site	573	573	.	-	.	
+ch.1_235	RNASeq_stranded	transcript_region	548	573	11.0	+	.	
+ch.1_235	WormBase	CDS	409	573	.	+	.	ID=CDS:M02B7.7;Parent=Transcript:M02B7.7.1
+ch.1_235	RNASeq	transcription_end_site	566	566	.	-	.	
+ch.1_235	RNASeq	transcription_end_site	566	566	.	-	.	
+ch.1_235	RNASeq_reads	transcript_region	492	551	10.0	.	.	
+ch.1_235	RNASeq_stranded	transcript_region	477	547	17.0	+	.	
+ch.1_235	RNASeq	transcription_end_site	503	503	.	-	.	
+ch.1_235	RNASeq	transcription_end_site	503	503	.	-	.	
+ch.1_235	RNASeq_reads	transcript_region	409	491	16.0	.	.	
+ch.1_235	RNASeq_stranded	transcript_region	458	476	11.0	+	.	
+ch.1_235	RNASeq_stranded	transcript_region	438	457	7.0	+	.	
+ch.1_235	RNASeq_stranded	transcript_region	410	437	4.0	+	.	
+ch.1_235	RNASeq_splice	intron	267	432	100.0	+	.	
+ch.1_235	RNASeq_stranded	transcript_region	409	409	2.0	-	.	
+ch.1_235	WormBase	intron	267	408	.	+	.	Parent=Transcript:M02B7.7.1
+ch.1_235	RNASeq_splice	intron	267	408	85673.0	+	.	
+ch.1_235	RNASeq_reads	transcript_region	316	366	1.0	.	.	
+ch.1_235	RNASeq_reads	transcript_region	268	272	1.0	.	.	
+ch.1_235	RNASeq_reads	transcript_region	267	267	4.0	.	.	
+ch.1_235	RNASeq_stranded	transcript_region	267	267	2.0	-	.	
+ch.1_235	RNASeq_stranded	transcript_region	232	266	4.0	+	.	
+ch.1_235	RNASeq_reads	transcript_region	111	266	18.0	.	.	
+ch.1_235	WormBase	CDS	105	266	.	+	.	ID=CDS:M02B7.7;Parent=Transcript:M02B7.7.1
+ch.1_235	WormBase	exon	101	266	.	+	.	Parent=Transcript:M02B7.7.1
+ch.1_235	RNASeq_stranded	transcript_region	205	231	7.0	+	.	
+ch.1_235	RNASeq_stranded	transcript_region	108	204	11.0	+	.	
+ch.1_235	RNASeq_R_asymmetry	transcript_region	111	168	80918.0	.	.	
+ch.1_235	RNASeq_R_asymmetry	transcript_region	104	110	50460.0	.	.	
+ch.1_235	RNASeq_reads	transcript_region	103	110	10.0	.	.	
+ch.1_235	RNASeq_stranded	transcript_region	103	107	7.0	+	.	
+ch.1_235	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:M02B7.7.1
+ch.1_235	RNASeq_R_asymmetry	transcript_region	103	103	32622.0	.	.	
+ch.1_235	RNASeq_reads	transcript_region	100	102	2.0	.	.	
+ch.1_235	RNASeq_stranded	transcript_region	100	102	1.0	+	.	
+ch.1_235	RNASeq_R_asymmetry	transcript_region	99	102	7001.0	.	.	
+ch.1_235	RNASeq_reads	transcript_region	5	99	1.0	.	.	

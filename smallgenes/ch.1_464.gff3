@@ -1,0 +1,70 @@
+ch.1_464	RNASeq_R_asymmetry	transcript_region	895	895	205463.0	.	.	
+ch.1_464	RNASeq_R_asymmetry	transcript_region	880	893	203284.0	.	.	
+ch.1_464	RNASeq_reads	transcript_region	844	879	41.0	.	.	
+ch.1_464	RNASeq	transcription_end_site	878	878	.	-	.	
+ch.1_464	RNASeq	transcription_end_site	875	875	.	-	.	
+ch.1_464	RNASeq_R_asymmetry	transcript_region	844	862	138385.0	.	.	
+ch.1_464	RNASeq	transcription_end_site	846	846	.	-	.	
+ch.1_464	RNASeq_reads	transcript_region	823	843	27.0	.	.	
+ch.1_464	RNASeq_reads	transcript_region	816	822	17.0	.	.	
+ch.1_464	RNASeq	transcription_end_site	817	817	.	-	.	
+ch.1_464	RNASeq	transcription_end_site	815	815	.	-	.	
+ch.1_464	RNASeq_reads	transcript_region	812	815	11.0	.	.	
+ch.1_464	RNASeq_stranded	transcript_region	811	812	20.0	-	.	
+ch.1_464	RNASeq_reads	transcript_region	810	811	7.0	.	.	
+ch.1_464	RNASeq_stranded	transcript_region	809	810	11.0	-	.	
+ch.1_464	RNASeq_reads	transcript_region	807	809	4.0	.	.	
+ch.1_464	RNASeq_stranded	transcript_region	807	808	7.0	-	.	
+ch.1_464	RNASeq	transcription_end_site	807	807	.	-	.	
+ch.1_464	RNASeq_reads	transcript_region	805	806	1.0	.	.	
+ch.1_464	RNASeq_stranded	transcript_region	803	806	2.0	-	.	
+ch.1_464	WormBase	three_prime_UTR	752	805	.	+	.	Parent=Transcript:F44G4.5.1
+ch.1_464	WormBase	exon	290	805	.	+	.	Parent=Transcript:F44G4.5.1
+ch.1_464	WormBase	gene	101	805	.	+	.	ID=Gene:WBGene00009714
+ch.1_464	WormBase	mRNA	101	805	.	+	.	ID=Transcript:F44G4.5.1;Parent=Gene:WBGene00009714
+ch.1_464	RNASeq_reads	transcript_region	803	804	2.0	.	.	
+ch.1_464	RNASeq	transcription_end_site	802	802	.	-	.	
+ch.1_464	RNASeq_stranded	transcript_region	795	802	1.0	-	.	
+ch.1_464	RNASeq_reads	transcript_region	792	802	1.0	.	.	
+ch.1_464	RNASeq_F_asymmetry	transcript_region	786	801	5471.0	.	.	
+ch.1_464	RNASeq_reads	transcript_region	767	791	2.0	.	.	
+ch.1_464	RNASeq_F_asymmetry	transcript_region	775	785	8222.0	.	.	
+ch.1_464	RNASeq	transcription_end_site	778	778	.	-	.	
+ch.1_464	RNASeq_F_asymmetry	transcript_region	763	774	12628.0	.	.	
+ch.1_464	RNASeq_stranded	transcript_region	631	774	1.0	+	.	
+ch.1_464	RNASeq_splice	intron	714	773	10.0	-	.	
+ch.1_464	RNASeq_reads	transcript_region	741	766	4.0	.	.	
+ch.1_464	RNASeq_F_asymmetry	transcript_region	741	762	19178.0	.	.	
+ch.1_464	WormBase	CDS	290	751	.	+	.	ID=CDS:F44G4.5;Parent=Transcript:F44G4.5.1
+ch.1_464	RNASeq_F_asymmetry	transcript_region	709	740	29254.0	.	.	
+ch.1_464	RNASeq_reads	transcript_region	666	740	7.0	.	.	
+ch.1_464	RNASeq_F_asymmetry	transcript_region	700	705	29921.0	.	.	
+ch.1_464	RNASeq_reads	transcript_region	532	665	11.0	.	.	
+ch.1_464	RNASeq_splice	intron	565	651	3.0	+	.	
+ch.1_464	RNASeq_stranded	transcript_region	532	606	1.0	+	.	
+ch.1_464	RNASeq_splice	intron	387	554	8.0	-	.	
+ch.1_464	RNASeq_stranded	transcript_region	423	531	1.0	+	.	
+ch.1_464	RNASeq_reads	transcript_region	290	531	11.0	.	.	
+ch.1_464	RNASeq_stranded	transcript_region	290	405	1.0	+	.	
+ch.1_464	RNASeq_reads	transcript_region	286	289	1.0	.	.	
+ch.1_464	WormBase	intron	237	289	.	+	.	Parent=Transcript:F44G4.5.1
+ch.1_464	RNASeq_splice	intron	237	289	42268.0	+	.	
+ch.1_464	RNASeq_stranded	transcript_region	187	236	1.0	+	.	
+ch.1_464	RNASeq_reads	transcript_region	167	236	9.0	.	.	
+ch.1_464	WormBase	CDS	159	236	.	+	.	ID=CDS:F44G4.5;Parent=Transcript:F44G4.5.1
+ch.1_464	WormBase	exon	101	236	.	+	.	Parent=Transcript:F44G4.5.1
+ch.1_464	RNASeq_R_asymmetry	transcript_region	157	203	31599.0	.	.	
+ch.1_464	RNASeq_stranded	transcript_region	171	186	2.0	+	.	
+ch.1_464	RNASeq_stranded	transcript_region	137	170	1.0	+	.	
+ch.1_464	RNASeq_reads	transcript_region	149	166	5.0	.	.	
+ch.1_464	WormBase	five_prime_UTR	101	158	.	+	.	Parent=Transcript:F44G4.5.1
+ch.1_464	RNASeq_R_asymmetry	transcript_region	148	156	20588.0	.	.	
+ch.1_464	RNASeq_reads	transcript_region	143	148	3.0	.	.	
+ch.1_464	RNASeq_R_asymmetry	transcript_region	143	147	10380.0	.	.	
+ch.1_464	RNASeq_R_asymmetry	transcript_region	137	142	3756.0	.	.	
+ch.1_464	RNASeq_reads	transcript_region	137	142	1.0	.	.	
+ch.1_464	RNASeq_R_asymmetry	transcript_region	128	136	2269.0	.	.	
+ch.1_464	RNASeq_R_asymmetry	transcript_region	125	127	1360.0	.	.	
+ch.1_464	RNASeq_R_asymmetry	transcript_region	122	124	886.0	.	.	
+ch.1_464	RNASeq_R_asymmetry	transcript_region	109	121	540.0	.	.	
+ch.1_464	RNASeq_R_asymmetry	transcript_region	106	108	334.0	.	.	

@@ -1,0 +1,90 @@
+ch.1_203	RNASeq_F_asymmetry	transcript_region	5	11	589.0	.	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	12	25	907.0	.	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	26	37	1370.0	.	.	
+ch.1_203	RNASeq_splice	intron	31	100	4.0	+	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	38	55	2058.0	.	.	
+ch.1_203	RNASeq_reads	transcript_region	41	91	1.0	.	.	
+ch.1_203	RNASeq_splice	intron	55	100	16.0	+	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	56	91	3703.0	.	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	92	98	16377.0	.	.	
+ch.1_203	RNASeq_reads	transcript_region	92	98	3.0	.	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	99	104	489011.0	.	.	
+ch.1_203	RNASeq_reads	transcript_region	99	104	96.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	99	104	43.0	+	.	
+ch.1_203	WormBase	five_prime_UTR	101	106	.	+	.	Parent=Transcript:Y57E12AM.1.1
+ch.1_203	WormBase	exon	101	226	.	+	.	Parent=Transcript:Y57E12AM.1.1
+ch.1_203	WormBase	gene	101	645	.	+	.	ID=Gene:WBGene00021960
+ch.1_203	WormBase	mRNA	101	645	.	+	.	ID=Transcript:Y57E12AM.1.1;Parent=Gene:WBGene00021960
+ch.1_203	RNASeq_F_asymmetry	transcript_region	105	116	737003.0	.	.	
+ch.1_203	RNASeq_reads	transcript_region	105	116	145.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	105	134	69.0	+	.	
+ch.1_203	WormBase	CDS	107	226	.	+	.	ID=CDS:Y57E12AM.1;Parent=Transcript:Y57E12AM.1.1
+ch.1_203	RNASeq_reads	transcript_region	117	151	223.0	.	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	117	177	1108980.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	135	226	104.0	+	.	
+ch.1_203	RNASeq_reads	transcript_region	152	226	336.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	174	226	1.0	-	.	
+ch.1_203	RNASeq_reads	transcript_region	227	229	48.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	227	229	32.0	+	.	
+ch.1_203	RNASeq_splice	intron	227	277	40.0	+	.	
+ch.1_203	WormBase	intron	227	344	.	+	.	Parent=Transcript:Y57E12AM.1.1
+ch.1_203	RNASeq_splice	intron	227	344	1701750.0	+	.	
+ch.1_203	RNASeq_splice	intron	227	380	187.0	+	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	228	229	164341.0	.	.	
+ch.1_203	RNASeq_reads	transcript_region	230	230	2.0	.	.	
+ch.1_203	RNASeq_reads	transcript_region	231	339	1.0	.	.	
+ch.1_203	RNASeq_splice	intron	231	344	76.0	+	.	
+ch.1_203	RNASeq_splice	intron	240	344	447.0	+	.	
+ch.1_203	RNASeq_reads	transcript_region	340	342	26.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	340	342	8.0	+	.	
+ch.1_203	RNASeq_reads	transcript_region	343	344	40.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	343	344	13.0	+	.	
+ch.1_203	RNASeq_stranded	transcript_region	345	347	1.0	-	.	
+ch.1_203	RNASeq_stranded	transcript_region	345	380	65.0	+	.	
+ch.1_203	WormBase	CDS	345	464	.	+	.	ID=CDS:Y57E12AM.1;Parent=Transcript:Y57E12AM.1.1
+ch.1_203	RNASeq_reads	transcript_region	345	582	333.0	.	.	
+ch.1_203	WormBase	exon	345	645	.	+	.	Parent=Transcript:Y57E12AM.1.1
+ch.1_203	RNASeq_stranded	transcript_region	348	355	2.0	-	.	
+ch.1_203	RNASeq_stranded	transcript_region	356	372	4.0	-	.	
+ch.1_203	RNASeq_stranded	transcript_region	373	461	7.0	-	.	
+ch.1_203	RNASeq_stranded	transcript_region	381	415	98.0	+	.	
+ch.1_203	RNASeq_stranded	transcript_region	416	503	156.0	+	.	
+ch.1_203	RNASeq_stranded	transcript_region	462	512	15.0	-	.	
+ch.1_203	WormBase	three_prime_UTR	465	645	.	+	.	Parent=Transcript:Y57E12AM.1.1
+ch.1_203	RNASeq_stranded	transcript_region	504	611	235.0	+	.	
+ch.1_203	RNASeq_stranded	transcript_region	513	531	3.0	-	.	
+ch.1_203	RNASeq_stranded	transcript_region	532	534	6.0	-	.	
+ch.1_203	RNASeq_stranded	transcript_region	535	585	12.0	-	.	
+ch.1_203	RNASeq_R_asymmetry	transcript_region	559	582	1013610.0	.	.	
+ch.1_203	RNASeq_reads	transcript_region	583	585	167.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	586	588	5.0	-	.	
+ch.1_203	RNASeq_reads	transcript_region	586	614	109.0	.	.	
+ch.1_203	RNASeq	transcription_end_site	589	589	.	+	.	
+ch.1_203	RNASeq_stranded	transcript_region	589	623	3.0	-	.	
+ch.1_203	RNASeq_stranded	transcript_region	612	625	154.0	+	.	
+ch.1_203	RNASeq_reads	transcript_region	615	633	71.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	624	648	5.0	-	.	
+ch.1_203	WormBase	three_prime_UTR	624	741	.	-	.	Parent=Transcript:Y57E12AR.1.1
+ch.1_203	RNASeq_splice	intron	625	665	12.0	+	.	
+ch.1_203	RNASeq_stranded	transcript_region	626	634	101.0	+	.	
+ch.1_203	RNASeq	transcription_end_site	630	630	.	+	.	
+ch.1_203	RNASeq	transcription_end_site	630	630	.	+	.	
+ch.1_203	RNASeq_reads	transcript_region	634	643	42.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	635	640	50.0	+	.	
+ch.1_203	RNASeq_R_asymmetry	transcript_region	636	643	156037.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	641	646	30.0	+	.	
+ch.1_203	RNASeq_reads	transcript_region	644	645	24.0	.	.	
+ch.1_203	RNASeq_reads	transcript_region	646	648	15.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	647	648	19.0	+	.	
+ch.1_203	RNASeq_stranded	transcript_region	649	656	1.0	+	.	
+ch.1_203	RNASeq_reads	transcript_region	649	659	5.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	649	661	3.0	-	.	
+ch.1_203	RNASeq_reads	transcript_region	660	683	8.0	.	.	
+ch.1_203	RNASeq_stranded	transcript_region	662	699	5.0	-	.	
+ch.1_203	RNASeq	transcription_end_site	670	670	.	+	.	
+ch.1_203	RNASeq	transcription_end_site	670	670	.	+	.	
+ch.1_203	RNASeq	transcription_end_site	672	672	.	+	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	680	700	42397.0	.	.	
+ch.1_203	RNASeq	transcription_end_site	682	682	.	+	.	
+ch.1_203	RNASeq	transcription_end_site	682	682	.	+	.	
+ch.1_203	RNASeq_F_asymmetry	transcript_region	706	710	68331.0	.	.	

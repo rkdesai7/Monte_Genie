@@ -1,0 +1,39 @@
+ch.1_433	RNASeq_F_asymmetry	transcript_region	87	89	731.0	.	.	
+ch.1_433	RNASeq_F_asymmetry	transcript_region	90	100	1959.0	.	.	
+ch.1_433	RNASeq_reads	transcript_region	95	134	1.0	.	.	
+ch.1_433	RNASeq_F_asymmetry	transcript_region	101	107	2969.0	.	.	
+ch.1_433	WormBase	five_prime_UTR	101	166	.	+	.	Parent=Transcript:F21C10.18.1
+ch.1_433	WormBase	exon	101	221	.	+	.	Parent=Transcript:F21C10.18.1
+ch.1_433	WormBase	gene	101	749	.	+	.	ID=Gene:WBGene00235330
+ch.1_433	WormBase	mRNA	101	749	.	+	.	ID=Transcript:F21C10.18.1;Parent=Gene:WBGene00235330
+ch.1_433	RNASeq_F_asymmetry	transcript_region	108	134	4833.0	.	.	
+ch.1_433	RNASeq_reads	transcript_region	135	146	5.0	.	.	
+ch.1_433	RNASeq_F_asymmetry	transcript_region	135	156	23465.0	.	.	
+ch.1_433	RNASeq_stranded	transcript_region	144	221	1.0	+	.	
+ch.1_433	RNASeq_reads	transcript_region	147	174	8.0	.	.	
+ch.1_433	RNASeq_F_asymmetry	transcript_region	157	158	35509.0	.	.	
+ch.1_433	WormBase	CDS	167	221	.	+	.	ID=CDS:F21C10.18;Parent=Transcript:F21C10.18.1
+ch.1_433	RNASeq_reads	transcript_region	175	201	13.0	.	.	
+ch.1_433	RNASeq_reads	transcript_region	202	221	20.0	.	.	
+ch.1_433	RNASeq_splice	intron	222	295	15.0	+	.	
+ch.1_433	WormBase	intron	222	504	.	+	.	Parent=Transcript:F21C10.18.1
+ch.1_433	RNASeq_splice	intron	222	504	95633.0	+	.	
+ch.1_433	RNASeq_reads	transcript_region	497	501	1.0	.	.	
+ch.1_433	RNASeq_reads	transcript_region	502	504	2.0	.	.	
+ch.1_433	RNASeq_stranded	transcript_region	505	513	1.0	+	.	
+ch.1_433	RNASeq_reads	transcript_region	505	675	22.0	.	.	
+ch.1_433	WormBase	CDS	505	722	.	+	.	ID=CDS:F21C10.18;Parent=Transcript:F21C10.18.1
+ch.1_433	WormBase	exon	505	749	.	+	.	Parent=Transcript:F21C10.18.1
+ch.1_433	RNASeq_stranded	transcript_region	514	576	2.0	+	.	
+ch.1_433	RNASeq_splice	intron	520	544	44.0	+	.	
+ch.1_433	RNASeq_stranded	transcript_region	577	577	1.0	+	.	
+ch.1_433	RNASeq_stranded	transcript_region	578	580	2.0	+	.	
+ch.1_433	RNASeq_stranded	transcript_region	581	621	1.0	+	.	
+ch.1_433	RNASeq_stranded	transcript_region	622	673	2.0	+	.	
+ch.1_433	RNASeq_stranded	transcript_region	674	732	1.0	+	.	
+ch.1_433	RNASeq_reads	transcript_region	676	701	14.0	.	.	
+ch.1_433	RNASeq_reads	transcript_region	702	716	9.0	.	.	
+ch.1_433	RNASeq_reads	transcript_region	717	736	5.0	.	.	
+ch.1_433	WormBase	three_prime_UTR	723	749	.	+	.	Parent=Transcript:F21C10.18.1
+ch.1_433	RNASeq_reads	transcript_region	737	746	3.0	.	.	
+ch.1_433	RNASeq_reads	transcript_region	747	752	1.0	.	.	

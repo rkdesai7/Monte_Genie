@@ -1,0 +1,64 @@
+ch.1_334	RNASeq	transcription_end_site	1	1	.	+	.	
+ch.1_334	RNASeq_reads	transcript_region	2	2	1.0	.	.	
+ch.1_334	RNASeq_stranded	transcript_region	2	10	1.0	+	.	
+ch.1_334	RNASeq	transcription_end_site	3	3	.	+	.	
+ch.1_334	RNASeq_splice	intron	29	78	6.0	+	.	
+ch.1_334	WormBase	five_prime_UTR	101	102	.	+	.	Parent=Transcript:Y48A5A.3a.1
+ch.1_334	RNASeq_F_asymmetry	transcript_region	101	106	61116.0	.	.	
+ch.1_334	RNASeq_reads	transcript_region	101	107	12.0	.	.	
+ch.1_334	RNASeq_stranded	transcript_region	101	115	3.0	+	.	
+ch.1_334	WormBase	exon	101	179	.	+	.	Parent=Transcript:Y48A5A.3a.1
+ch.1_334	WormBase	gene	101	644	.	+	.	ID=Gene:WBGene00044466
+ch.1_334	WormBase	mRNA	101	644	.	+	.	ID=Transcript:Y48A5A.3a.1;Parent=Gene:WBGene00044466
+ch.1_334	WormBase	CDS	103	179	.	+	.	ID=CDS:Y48A5A.3a;Parent=Transcript:Y48A5A.3a.1
+ch.1_334	RNASeq_F_asymmetry	transcript_region	107	119	92782.0	.	.	
+ch.1_334	RNASeq_reads	transcript_region	108	129	20.0	.	.	
+ch.1_334	RNASeq_stranded	transcript_region	116	116	5.0	+	.	
+ch.1_334	RNASeq_stranded	transcript_region	117	118	8.0	+	.	
+ch.1_334	RNASeq_stranded	transcript_region	119	168	13.0	+	.	
+ch.1_334	RNASeq_F_asymmetry	transcript_region	120	179	140148.0	.	.	
+ch.1_334	RNASeq_reads	transcript_region	130	179	31.0	.	.	
+ch.1_334	RNASeq_stranded	transcript_region	169	171	8.0	+	.	
+ch.1_334	RNASeq_stranded	transcript_region	172	179	5.0	+	.	
+ch.1_334	WormBase	intron	180	309	.	+	.	Parent=Transcript:Y48A5A.3a.1
+ch.1_334	RNASeq_splice	intron	180	309	197285.0	+	.	
+ch.1_334	RNASeq_splice	intron	180	311	20.0	+	.	
+ch.1_334	RNASeq_reads	transcript_region	308	309	6.0	.	.	
+ch.1_334	RNASeq_stranded	transcript_region	308	309	1.0	+	.	
+ch.1_334	RNASeq_F_asymmetry	transcript_region	310	320	164018.0	.	.	
+ch.1_334	RNASeq_stranded	transcript_region	310	458	5.0	+	.	
+ch.1_334	RNASeq_reads	transcript_region	310	561	40.0	.	.	
+ch.1_334	WormBase	CDS	310	592	.	+	.	ID=CDS:Y48A5A.3a;Parent=Transcript:Y48A5A.3a.1
+ch.1_334	WormBase	exon	310	644	.	+	.	Parent=Transcript:Y48A5A.3a.1
+ch.1_334	RNASeq_stranded	transcript_region	459	489	8.0	+	.	
+ch.1_334	WormBase	mRNA	473	592	.	+	.	ID=Transcript:Y48A5A.3b.1;Parent=Gene:WBGene00044466
+ch.1_334	WormBase	exon	473	592	.	+	.	Parent=Transcript:Y48A5A.3b.1
+ch.1_334	WormBase	CDS	473	592	.	+	.	ID=CDS:Y48A5A.3b;Parent=Transcript:Y48A5A.3b.1
+ch.1_334	RNASeq_stranded	transcript_region	490	511	15.0	+	.	
+ch.1_334	RNASeq_stranded	transcript_region	512	607	25.0	+	.	
+ch.1_334	RNASeq_R_asymmetry	transcript_region	547	578	115253.0	.	.	
+ch.1_334	RNASeq_reads	transcript_region	562	581	26.0	.	.	
+ch.1_334	RNASeq_reads	transcript_region	582	591	16.0	.	.	
+ch.1_334	RNASeq	transcription_end_site	585	585	.	+	.	
+ch.1_334	RNASeq	transcription_end_site	587	587	.	+	.	
+ch.1_334	RNASeq_reads	transcript_region	592	621	10.0	.	.	
+ch.1_334	RNASeq	transcription_end_site	593	593	.	+	.	
+ch.1_334	WormBase	three_prime_UTR	593	644	.	+	.	Parent=Transcript:Y48A5A.3a.1
+ch.1_334	RNASeq	transcription_end_site	595	595	.	+	.	
+ch.1_334	RNASeq_stranded	transcript_region	608	618	16.0	+	.	
+ch.1_334	RNASeq_stranded	transcript_region	619	629	10.0	+	.	
+ch.1_334	RNASeq_R_asymmetry	transcript_region	622	623	25550.0	.	.	
+ch.1_334	RNASeq_reads	transcript_region	622	630	6.0	.	.	
+ch.1_334	RNASeq_stranded	transcript_region	630	636	6.0	+	.	
+ch.1_334	RNASeq_reads	transcript_region	631	646	3.0	.	.	
+ch.1_334	RNASeq_stranded	transcript_region	637	645	3.0	+	.	
+ch.1_334	RNASeq_R_asymmetry	transcript_region	637	646	11032.0	.	.	
+ch.1_334	RNASeq	transcription_end_site	646	646	.	+	.	
+ch.1_334	RNASeq_stranded	transcript_region	646	649	1.0	+	.	
+ch.1_334	RNASeq	transcription_end_site	647	647	.	+	.	
+ch.1_334	RNASeq_R_asymmetry	transcript_region	647	648	6224.0	.	.	
+ch.1_334	RNASeq_reads	transcript_region	647	649	1.0	.	.	
+ch.1_334	RNASeq_R_asymmetry	transcript_region	649	649	3823.0	.	.	
+ch.1_334	RNASeq_R_asymmetry	transcript_region	650	651	931.0	.	.	
+ch.1_334	RNASeq	transcription_end_site	651	651	.	+	.	
+ch.1_334	RNASeq_R_asymmetry	transcript_region	684	703	542.0	.	.	

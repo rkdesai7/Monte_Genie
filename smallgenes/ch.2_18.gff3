@@ -1,0 +1,39 @@
+ch.2_18	RNASeq_F_asymmetry	transcript_region	550	571	759.0	.	.	
+ch.2_18	WormBase	three_prime_UTR	517	563	.	+	.	Parent=Transcript:R155.5.1
+ch.2_18	WormBase	exon	443	563	.	+	.	Parent=Transcript:R155.5.1
+ch.2_18	WormBase	gene	101	563	.	+	.	ID=Gene:WBGene00189953
+ch.2_18	WormBase	mRNA	101	563	.	+	.	ID=Transcript:R155.5.1;Parent=Gene:WBGene00189953
+ch.2_18	RNASeq_F_asymmetry	transcript_region	549	549	1150.0	.	.	
+ch.2_18	RNASeq_reads	transcript_region	496	548	1.0	.	.	
+ch.2_18	WormBase	CDS	443	516	.	+	.	ID=CDS:R155.5;Parent=Transcript:R155.5.1
+ch.2_18	RNASeq_F_asymmetry	transcript_region	464	498	4629.0	.	.	
+ch.2_18	RNASeq_stranded	transcript_region	451	498	1.0	-	.	
+ch.2_18	RNASeq_reads	transcript_region	488	495	2.0	.	.	
+ch.2_18	RNASeq_reads	transcript_region	487	487	1.0	.	.	
+ch.2_18	RNASeq_reads	transcript_region	443	486	2.0	.	.	
+ch.2_18	RNASeq_splice	intron	391	445	5.0	+	.	
+ch.2_18	WormBase	intron	391	442	.	+	.	Parent=Transcript:R155.5.1
+ch.2_18	RNASeq_splice	intron	391	442	8340.0	+	.	
+ch.2_18	RNASeq_reads	transcript_region	376	390	2.0	.	.	
+ch.2_18	WormBase	CDS	259	390	.	+	.	ID=CDS:R155.5;Parent=Transcript:R155.5.1
+ch.2_18	WormBase	exon	259	390	.	+	.	Parent=Transcript:R155.5.1
+ch.2_18	RNASeq_stranded	transcript_region	377	377	1.0	-	.	
+ch.2_18	RNASeq_stranded	transcript_region	326	376	2.0	+	.	
+ch.2_18	RNASeq_reads	transcript_region	279	375	4.0	.	.	
+ch.2_18	RNASeq_stranded	transcript_region	259	325	1.0	+	.	
+ch.2_18	RNASeq_reads	transcript_region	259	278	2.0	.	.	
+ch.2_18	RNASeq_R_asymmetry	transcript_region	259	265	8983.0	.	.	
+ch.2_18	WormBase	intron	180	258	.	+	.	Parent=Transcript:R155.5.1
+ch.2_18	RNASeq_splice	intron	180	258	10354.0	+	.	
+ch.2_18	WormBase	CDS	176	179	.	+	.	ID=CDS:R155.5;Parent=Transcript:R155.5.1
+ch.2_18	RNASeq_stranded	transcript_region	164	179	1.0	+	.	
+ch.2_18	RNASeq_reads	transcript_region	149	179	2.0	.	.	
+ch.2_18	RNASeq_R_asymmetry	transcript_region	142	179	8467.0	.	.	
+ch.2_18	WormBase	exon	101	179	.	+	.	Parent=Transcript:R155.5.1
+ch.2_18	WormBase	five_prime_UTR	101	175	.	+	.	Parent=Transcript:R155.5.1
+ch.2_18	RNASeq_reads	transcript_region	123	148	1.0	.	.	
+ch.2_18	RNASeq_R_asymmetry	transcript_region	126	141	5551.0	.	.	
+ch.2_18	RNASeq_R_asymmetry	transcript_region	120	125	2476.0	.	.	
+ch.2_18	RNASeq_R_asymmetry	transcript_region	118	119	1552.0	.	.	
+ch.2_18	RNASeq_R_asymmetry	transcript_region	113	117	992.0	.	.	
+ch.2_18	RNASeq_R_asymmetry	transcript_region	111	112	391.0	.	.	

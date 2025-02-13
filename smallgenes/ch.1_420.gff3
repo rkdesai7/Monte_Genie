@@ -1,0 +1,88 @@
+ch.1_420	RNASeq_splice	intron	667	740	3.0	-	.	
+ch.1_420	RNASeq	transcription_end_site	713	713	.	-	.	
+ch.1_420	RNASeq	transcription_end_site	713	713	.	-	.	
+ch.1_420	RNASeq	transcription_end_site	712	712	.	-	.	
+ch.1_420	RNASeq_reads	transcript_region	710	711	1.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	710	710	1.0	-	.	
+ch.1_420	RNASeq	transcription_end_site	710	710	.	-	.	
+ch.1_420	RNASeq	transcription_end_site	710	710	.	-	.	
+ch.1_420	RNASeq	transcription_end_site	709	709	.	-	.	
+ch.1_420	RNASeq	transcription_end_site	709	709	.	-	.	
+ch.1_420	RNASeq_reads	transcript_region	707	709	4.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	707	709	5.0	+	.	
+ch.1_420	WormBase	three_prime_UTR	631	707	.	+	.	Parent=Transcript:Y44E3A.3.1
+ch.1_420	WormBase	exon	399	707	.	+	.	Parent=Transcript:Y44E3A.3.1
+ch.1_420	WormBase	gene	101	707	.	+	.	ID=Gene:WBGene00021548
+ch.1_420	WormBase	mRNA	101	707	.	+	.	ID=Transcript:Y44E3A.3.1;Parent=Gene:WBGene00021548
+ch.1_420	RNASeq_stranded	transcript_region	702	706	8.0	+	.	
+ch.1_420	RNASeq_reads	transcript_region	700	706	7.0	.	.	
+ch.1_420	RNASeq	transcription_end_site	704	704	.	-	.	
+ch.1_420	RNASeq_stranded	transcript_region	689	701	13.0	+	.	
+ch.1_420	RNASeq	transcription_end_site	699	699	.	-	.	
+ch.1_420	RNASeq_reads	transcript_region	697	699	11.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	689	696	17.0	.	.	
+ch.1_420	RNASeq_F_asymmetry	transcript_region	678	688	120085.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	673	688	29.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	663	688	20.0	+	.	
+ch.1_420	RNASeq_F_asymmetry	transcript_region	650	677	180523.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	636	672	45.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	636	669	1.0	-	.	
+ch.1_420	RNASeq_stranded	transcript_region	644	662	31.0	+	.	
+ch.1_420	RNASeq	transcription_end_site	649	649	.	-	.	
+ch.1_420	RNASeq	transcription_end_site	649	649	.	-	.	
+ch.1_420	RNASeq_F_asymmetry	transcript_region	647	647	231491.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	611	643	48.0	+	.	
+ch.1_420	RNASeq_reads	transcript_region	616	635	70.0	.	.	
+ch.1_420	WormBase	CDS	399	630	.	+	.	ID=CDS:Y44E3A.3;Parent=Transcript:Y44E3A.3.1
+ch.1_420	RNASeq_F_asymmetry	transcript_region	615	615	430661.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	399	615	109.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	573	610	73.0	+	.	
+ch.1_420	RNASeq_F_asymmetry	transcript_region	608	608	451533.0	.	.	
+ch.1_420	RNASeq_F_asymmetry	transcript_region	603	603	469863.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	550	572	48.0	+	.	
+ch.1_420	RNASeq_stranded	transcript_region	470	549	31.0	+	.	
+ch.1_420	RNASeq_splice	intron	441	470	11.0	-	.	
+ch.1_420	RNASeq_stranded	transcript_region	422	469	47.0	+	.	
+ch.1_420	RNASeq_stranded	transcript_region	404	421	31.0	+	.	
+ch.1_420	RNASeq_stranded	transcript_region	399	403	20.0	+	.	
+ch.1_420	RNASeq_reads	transcript_region	398	398	16.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	398	398	9.0	-	.	
+ch.1_420	RNASeq_splice	intron	321	398	489.0	+	.	
+ch.1_420	RNASeq_splice	intron	206	398	8.0	+	.	
+ch.1_420	WormBase	intron	202	398	.	+	.	Parent=Transcript:Y44E3A.3.1
+ch.1_420	RNASeq_splice	intron	202	398	551752.0	+	.	
+ch.1_420	RNASeq_stranded	transcript_region	397	397	1.0	-	.	
+ch.1_420	RNASeq_reads	transcript_region	393	397	3.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	204	392	1.0	.	.	
+ch.1_420	RNASeq_splice	intron	195	390	33.0	-	.	
+ch.1_420	RNASeq	transcription_end_site	300	300	.	-	.	
+ch.1_420	RNASeq	transcription_end_site	298	298	.	-	.	
+ch.1_420	RNASeq_splice	intron	206	253	16.0	+	.	
+ch.1_420	RNASeq_splice	intron	202	253	1341.0	+	.	
+ch.1_420	RNASeq_R_asymmetry	transcript_region	202	203	83245.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	202	203	21.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	202	203	4.0	+	.	
+ch.1_420	RNASeq_stranded	transcript_region	182	201	15.0	+	.	
+ch.1_420	WormBase	CDS	110	201	.	+	.	ID=CDS:Y44E3A.3;Parent=Transcript:Y44E3A.3.1
+ch.1_420	RNASeq_reads	transcript_region	108	201	123.0	.	.	
+ch.1_420	WormBase	exon	101	201	.	+	.	Parent=Transcript:Y44E3A.3.1
+ch.1_420	RNASeq_stranded	transcript_region	171	181	23.0	+	.	
+ch.1_420	RNASeq_R_asymmetry	transcript_region	106	176	511316.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	112	170	35.0	+	.	
+ch.1_420	RNASeq_stranded	transcript_region	102	111	23.0	+	.	
+ch.1_420	WormBase	five_prime_UTR	101	109	.	+	.	Parent=Transcript:Y44E3A.3.1
+ch.1_420	RNASeq_reads	transcript_region	105	107	81.0	.	.	
+ch.1_420	RNASeq_R_asymmetry	transcript_region	103	105	332777.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	99	104	49.0	.	.	
+ch.1_420	RNASeq_R_asymmetry	transcript_region	99	102	214383.0	.	.	
+ch.1_420	RNASeq_stranded	transcript_region	99	101	15.0	+	.	
+ch.1_420	RNASeq_stranded	transcript_region	96	98	1.0	+	.	
+ch.1_420	RNASeq_R_asymmetry	transcript_region	95	98	18290.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	95	98	4.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	92	94	2.0	.	.	
+ch.1_420	RNASeq_R_asymmetry	transcript_region	92	93	6484.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	84	91	1.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	47	49	1.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	32	38	1.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	9	10	1.0	.	.	
+ch.1_420	RNASeq_reads	transcript_region	3	4	1.0	.	.	

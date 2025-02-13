@@ -1,0 +1,29 @@
+ch.1_130	WormBase	three_prime_UTR	417	470	.	+	.	Parent=Transcript:F14F9.6.1
+ch.1_130	WormBase	exon	384	470	.	+	.	Parent=Transcript:F14F9.6.1
+ch.1_130	WormBase	gene	101	470	.	+	.	ID=Gene:WBGene00017469
+ch.1_130	WormBase	mRNA	101	470	.	+	.	ID=Transcript:F14F9.6.1;Parent=Gene:WBGene00017469
+ch.1_130	RNASeq_stranded	transcript_region	418	462	1.0	+	.	
+ch.1_130	RNASeq_reads	transcript_region	441	459	1.0	.	.	
+ch.1_130	RNASeq_reads	transcript_region	384	440	2.0	.	.	
+ch.1_130	RNASeq_stranded	transcript_region	384	417	2.0	+	.	
+ch.1_130	WormBase	CDS	384	416	.	+	.	ID=CDS:F14F9.6;Parent=Transcript:F14F9.6.1
+ch.1_130	WormBase	intron	336	383	.	+	.	Parent=Transcript:F14F9.6.1
+ch.1_130	RNASeq_splice	intron	336	383	14374.0	+	.	
+ch.1_130	RNASeq_reads	transcript_region	336	338	1.0	.	.	
+ch.1_130	RNASeq_stranded	transcript_region	275	335	3.0	+	.	
+ch.1_130	RNASeq_reads	transcript_region	127	335	4.0	.	.	
+ch.1_130	WormBase	CDS	105	335	.	+	.	ID=CDS:F14F9.6;Parent=Transcript:F14F9.6.1
+ch.1_130	WormBase	exon	101	335	.	+	.	Parent=Transcript:F14F9.6.1
+ch.1_130	RNASeq_stranded	transcript_region	241	274	1.0	+	.	
+ch.1_130	RNASeq_stranded	transcript_region	187	205	1.0	+	.	
+ch.1_130	RNASeq_stranded	transcript_region	174	179	1.0	+	.	
+ch.1_130	RNASeq_stranded	transcript_region	158	168	1.0	+	.	
+ch.1_130	RNASeq_R_asymmetry	transcript_region	115	154	13419.0	.	.	
+ch.1_130	RNASeq_stranded	transcript_region	141	151	1.0	+	.	
+ch.1_130	RNASeq_stranded	transcript_region	136	137	1.0	+	.	
+ch.1_130	RNASeq_reads	transcript_region	107	126	2.0	.	.	
+ch.1_130	RNASeq_R_asymmetry	transcript_region	99	114	8803.0	.	.	
+ch.1_130	RNASeq_reads	transcript_region	94	106	1.0	.	.	
+ch.1_130	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:F14F9.6.1
+ch.1_130	RNASeq_R_asymmetry	transcript_region	94	98	5591.0	.	.	
+ch.1_130	RNASeq_R_asymmetry	transcript_region	92	93	394.0	.	.	

@@ -1,0 +1,90 @@
+ch.2_84	RNASeq_stranded	transcript_region	704	725	42.0	-	.	
+ch.2_84	RNASeq_stranded	transcript_region	605	703	65.0	-	.	
+ch.2_84	WormBase	three_prime_UTR	572	673	.	-	.	Parent=Transcript:C42C1.11c.1
+ch.2_84	WormBase	three_prime_UTR	571	673	.	-	.	Parent=Transcript:C42C1.11a.2
+ch.2_84	WormBase	three_prime_UTR	395	673	.	-	.	Parent=Transcript:C42C1.11a.1
+ch.2_84	RNASeq_stranded	transcript_region	645	662	1.0	+	.	
+ch.2_84	RNASeq_reads	transcript_region	569	645	34.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	638	644	2.0	+	.	
+ch.2_84	WormBase	three_prime_UTR	564	640	.	+	.	Parent=Transcript:C42C1.12.1
+ch.2_84	WormBase	exon	425	640	.	+	.	Parent=Transcript:C42C1.12.1
+ch.2_84	WormBase	gene	101	640	.	+	.	ID=Gene:WBGene00016590
+ch.2_84	WormBase	mRNA	101	640	.	+	.	ID=Transcript:C42C1.12.1;Parent=Gene:WBGene00016590
+ch.2_84	RNASeq_stranded	transcript_region	632	637	4.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	628	631	7.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	621	627	11.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	602	620	17.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	593	604	40.0	-	.	
+ch.2_84	RNASeq_stranded	transcript_region	581	601	26.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	580	592	25.0	-	.	
+ch.2_84	RNASeq_stranded	transcript_region	490	580	40.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	572	579	12.0	-	.	
+ch.2_84	RNASeq	transcription_end_site	572	572	.	-	.	
+ch.2_84	RNASeq_stranded	transcript_region	570	571	7.0	-	.	
+ch.2_84	RNASeq_stranded	transcript_region	542	569	4.0	-	.	
+ch.2_84	RNASeq_reads	transcript_region	520	568	53.0	.	.	
+ch.2_84	RNASeq_F_asymmetry	transcript_region	535	565	237938.0	.	.	
+ch.2_84	WormBase	CDS	425	563	.	+	.	ID=CDS:C42C1.12;Parent=Transcript:C42C1.12.1
+ch.2_84	RNASeq_stranded	transcript_region	498	541	7.0	-	.	
+ch.2_84	RNASeq_reads	transcript_region	425	519	80.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	437	497	11.0	-	.	
+ch.2_84	RNASeq_stranded	transcript_region	467	489	26.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	425	466	17.0	+	.	
+ch.2_84	RNASeq_splice	intron	376	438	4.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	421	436	7.0	-	.	
+ch.2_84	RNASeq_splice	intron	376	426	28.0	+	.	
+ch.2_84	RNASeq	transcription_end_site	425	425	.	-	.	
+ch.2_84	RNASeq_reads	transcript_region	424	424	11.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	424	424	2.0	-	.	
+ch.2_84	WormBase	intron	376	424	.	+	.	Parent=Transcript:C42C1.12.1
+ch.2_84	RNASeq_splice	intron	376	424	313126.0	+	.	
+ch.2_84	RNASeq_splice	intron	371	424	55.0	+	.	
+ch.2_84	RNASeq_splice	intron	359	424	9.0	+	.	
+ch.2_84	RNASeq_splice	intron	336	424	33.0	+	.	
+ch.2_84	RNASeq_reads	transcript_region	399	423	3.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	402	420	4.0	-	.	
+ch.2_84	RNASeq	transcription_end_site	416	416	.	-	.	
+ch.2_84	RNASeq_stranded	transcript_region	396	401	2.0	-	.	
+ch.2_84	RNASeq	transcription_end_site	399	399	.	-	.	
+ch.2_84	RNASeq_reads	transcript_region	381	398	1.0	.	.	
+ch.2_84	RNASeq	transcription_end_site	395	395	.	-	.	
+ch.2_84	RNASeq_stranded	transcript_region	381	395	1.0	-	.	
+ch.2_84	RNASeq_reads	transcript_region	376	380	2.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	357	375	1.0	-	.	
+ch.2_84	RNASeq_stranded	transcript_region	343	375	25.0	+	.	
+ch.2_84	WormBase	CDS	224	375	.	+	.	ID=CDS:C42C1.12;Parent=Transcript:C42C1.12.1
+ch.2_84	WormBase	exon	224	375	.	+	.	Parent=Transcript:C42C1.12.1
+ch.2_84	RNASeq_reads	transcript_region	224	375	58.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	301	342	39.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	280	300	23.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	244	279	12.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	224	243	19.0	+	.	
+ch.2_84	RNASeq_splice	intron	173	230	93.0	+	.	
+ch.2_84	RNASeq_R_asymmetry	transcript_region	224	229	285168.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	223	223	2.0	-	.	
+ch.2_84	RNASeq_reads	transcript_region	222	223	7.0	.	.	
+ch.2_84	WormBase	intron	173	223	.	+	.	Parent=Transcript:C42C1.12.1
+ch.2_84	RNASeq_splice	intron	173	223	342901.0	+	.	
+ch.2_84	RNASeq_stranded	transcript_region	222	222	1.0	-	.	
+ch.2_84	RNASeq	transcription_end_site	222	222	.	-	.	
+ch.2_84	RNASeq_reads	transcript_region	217	221	2.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	157	172	28.0	+	.	
+ch.2_84	RNASeq_reads	transcript_region	118	172	66.0	.	.	
+ch.2_84	RNASeq_R_asymmetry	transcript_region	111	172	290530.0	.	.	
+ch.2_84	WormBase	CDS	104	172	.	+	.	ID=CDS:C42C1.12;Parent=Transcript:C42C1.12.1
+ch.2_84	WormBase	exon	101	172	.	+	.	Parent=Transcript:C42C1.12.1
+ch.2_84	RNASeq_stranded	transcript_region	113	156	45.0	+	.	
+ch.2_84	RNASeq_reads	transcript_region	105	117	43.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	103	112	29.0	+	.	
+ch.2_84	RNASeq_R_asymmetry	transcript_region	102	110	184740.0	.	.	
+ch.2_84	RNASeq_reads	transcript_region	100	104	28.0	.	.	
+ch.2_84	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:C42C1.12.1
+ch.2_84	RNASeq_stranded	transcript_region	99	102	19.0	+	.	
+ch.2_84	RNASeq_R_asymmetry	transcript_region	100	101	120846.0	.	.	
+ch.2_84	RNASeq_splice	intron	5	100	30.0	+	.	
+ch.2_84	RNASeq_R_asymmetry	transcript_region	99	99	75239.0	.	.	
+ch.2_84	RNASeq_reads	transcript_region	99	99	15.0	.	.	
+ch.2_84	RNASeq_R_asymmetry	transcript_region	95	98	34628.0	.	.	
+ch.2_84	RNASeq_reads	transcript_region	95	98	7.0	.	.	
+ch.2_84	RNASeq_stranded	transcript_region	95	98	6.0	+	.	
+ch.2_84	RNASeq_reads	transcript_region	93	94	1.0	.	.	

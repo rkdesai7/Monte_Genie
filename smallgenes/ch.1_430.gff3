@@ -1,0 +1,42 @@
+ch.1_430	WormBase	five_prime_UTR	101	206	.	+	.	Parent=Transcript:T22E5.1a.1
+ch.1_430	WormBase	exon	101	255	.	+	.	Parent=Transcript:T22E5.1a.1
+ch.1_430	WormBase	gene	101	714	.	+	.	ID=Gene:WBGene00020690
+ch.1_430	WormBase	mRNA	101	714	.	+	.	ID=Transcript:T22E5.1a.1;Parent=Gene:WBGene00020690
+ch.1_430	RNASeq_reads	transcript_region	111	127	2.0	.	.	
+ch.1_430	RNASeq_stranded	transcript_region	112	167	1.0	+	.	
+ch.1_430	RNASeq_F_asymmetry	transcript_region	128	141	16438.0	.	.	
+ch.1_430	RNASeq_reads	transcript_region	128	143	4.0	.	.	
+ch.1_430	RNASeq_F_asymmetry	transcript_region	142	167	25857.0	.	.	
+ch.1_430	RNASeq_reads	transcript_region	144	185	7.0	.	.	
+ch.1_430	RNASeq_stranded	transcript_region	168	175	2.0	+	.	
+ch.1_430	RNASeq_F_asymmetry	transcript_region	168	182	38883.0	.	.	
+ch.1_430	RNASeq_stranded	transcript_region	176	212	1.0	+	.	
+ch.1_430	RNASeq_reads	transcript_region	186	255	11.0	.	.	
+ch.1_430	WormBase	CDS	207	255	.	+	.	ID=CDS:T22E5.1a;Parent=Transcript:T22E5.1a.1
+ch.1_430	RNASeq_stranded	transcript_region	213	213	2.0	+	.	
+ch.1_430	RNASeq_stranded	transcript_region	214	256	1.0	+	.	
+ch.1_430	RNASeq_reads	transcript_region	256	256	2.0	.	.	
+ch.1_430	WormBase	intron	256	507	.	+	.	Parent=Transcript:T22E5.1a.1
+ch.1_430	RNASeq_splice	intron	256	507	55319.0	+	.	
+ch.1_430	RNASeq_splice	intron	256	517	4.0	+	.	
+ch.1_430	RNASeq_reads	transcript_region	257	501	1.0	.	.	
+ch.1_430	RNASeq_splice	intron	260	510	279.0	+	.	
+ch.1_430	RNASeq_reads	transcript_region	502	507	2.0	.	.	
+ch.1_430	RNASeq_stranded	transcript_region	505	507	1.0	+	.	
+ch.1_430	RNASeq_stranded	transcript_region	508	518	3.0	+	.	
+ch.1_430	RNASeq_reads	transcript_region	508	624	16.0	.	.	
+ch.1_430	WormBase	CDS	508	665	.	+	.	ID=CDS:T22E5.1a;Parent=Transcript:T22E5.1a.1
+ch.1_430	WormBase	exon	508	714	.	+	.	Parent=Transcript:T22E5.1a.1
+ch.1_430	RNASeq_stranded	transcript_region	519	554	5.0	+	.	
+ch.1_430	WormBase	mRNA	531	665	.	+	.	ID=Transcript:T22E5.1b.1;Parent=Gene:WBGene00020690
+ch.1_430	WormBase	exon	531	665	.	+	.	Parent=Transcript:T22E5.1b.1
+ch.1_430	WormBase	CDS	531	665	.	+	.	ID=CDS:T22E5.1b;Parent=Transcript:T22E5.1b.1
+ch.1_430	RNASeq_stranded	transcript_region	555	624	8.0	+	.	
+ch.1_430	RNASeq_reads	transcript_region	625	647	10.0	.	.	
+ch.1_430	RNASeq_stranded	transcript_region	625	649	5.0	+	.	
+ch.1_430	RNASeq_reads	transcript_region	648	682	6.0	.	.	
+ch.1_430	RNASeq_stranded	transcript_region	650	679	3.0	+	.	
+ch.1_430	WormBase	three_prime_UTR	666	714	.	+	.	Parent=Transcript:T22E5.1a.1
+ch.1_430	RNASeq_stranded	transcript_region	680	697	1.0	+	.	
+ch.1_430	RNASeq_reads	transcript_region	683	702	3.0	.	.	
+ch.1_430	RNASeq_reads	transcript_region	703	705	1.0	.	.	

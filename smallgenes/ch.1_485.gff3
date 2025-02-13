@@ -1,0 +1,80 @@
+ch.1_485	RNASeq	transcription_end_site	729	729	.	-	.	
+ch.1_485	RNASeq	transcription_end_site	729	729	.	-	.	
+ch.1_485	RNASeq_stranded	transcript_region	722	727	1.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	721	727	4.0	.	.	
+ch.1_485	WormBase	three_prime_UTR	618	724	.	+	.	Parent=Transcript:Y46H3A.3a.1
+ch.1_485	WormBase	exon	306	724	.	+	.	Parent=Transcript:Y46H3A.3a.1
+ch.1_485	WormBase	gene	101	724	.	+	.	ID=Gene:WBGene00002016
+ch.1_485	WormBase	mRNA	101	724	.	+	.	ID=Transcript:Y46H3A.3a.1;Parent=Gene:WBGene00002016
+ch.1_485	RNASeq_stranded	transcript_region	710	721	2.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	713	720	7.0	.	.	
+ch.1_485	RNASeq_reads	transcript_region	703	712	11.0	.	.	
+ch.1_485	RNASeq_stranded	transcript_region	704	709	4.0	+	.	
+ch.1_485	RNASeq_stranded	transcript_region	694	703	7.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	694	702	17.0	.	.	
+ch.1_485	RNASeq_stranded	transcript_region	683	693	11.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	675	693	26.0	.	.	
+ch.1_485	RNASeq_stranded	transcript_region	644	682	17.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	654	674	41.0	.	.	
+ch.1_485	RNASeq_reads	transcript_region	626	653	62.0	.	.	
+ch.1_485	RNASeq_stranded	transcript_region	586	643	26.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	590	625	94.0	.	.	
+ch.1_485	RNASeq	transcription_end_site	623	623	.	-	.	
+ch.1_485	RNASeq	transcription_end_site	623	623	.	-	.	
+ch.1_485	WormBase	CDS	306	617	.	+	.	ID=CDS:Y46H3A.3a;Parent=Transcript:Y46H3A.3a.1
+ch.1_485	WormBase	CDS	306	617	.	+	.	ID=CDS:Y46H3A.3b;Parent=Transcript:Y46H3A.3b.1
+ch.1_485	WormBase	exon	306	617	.	+	.	Parent=Transcript:Y46H3A.3b.1
+ch.1_485	WormBase	mRNA	188	617	.	+	.	ID=Transcript:Y46H3A.3b.1;Parent=Gene:WBGene00002016
+ch.1_485	RNASeq_splice	intron	436	612	6.0	-	.	
+ch.1_485	RNASeq_reads	transcript_region	362	589	148.0	.	.	
+ch.1_485	RNASeq_stranded	transcript_region	564	585	16.0	+	.	
+ch.1_485	RNASeq_stranded	transcript_region	539	566	1.0	-	.	
+ch.1_485	RNASeq_stranded	transcript_region	401	563	9.0	+	.	
+ch.1_485	RNASeq_splice	intron	493	540	3.0	+	.	
+ch.1_485	RNASeq_splice	intron	489	540	31.0	+	.	
+ch.1_485	RNASeq_splice	intron	260	519	12.0	+	.	
+ch.1_485	RNASeq_stranded	transcript_region	488	496	1.0	-	.	
+ch.1_485	RNASeq_stranded	transcript_region	446	486	1.0	-	.	
+ch.1_485	RNASeq_splice	intron	427	481	4.0	-	.	
+ch.1_485	RNASeq_splice	intron	342	481	3.0	-	.	
+ch.1_485	RNASeq_stranded	transcript_region	362	409	1.0	-	.	
+ch.1_485	RNASeq_stranded	transcript_region	400	400	5.0	-	.	
+ch.1_485	RNASeq_stranded	transcript_region	341	399	8.0	+	.	
+ch.1_485	RNASeq_splice	intron	260	366	4.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	306	361	227.0	.	.	
+ch.1_485	RNASeq_splice	intron	260	353	12.0	+	.	
+ch.1_485	RNASeq_stranded	transcript_region	328	340	5.0	+	.	
+ch.1_485	RNASeq_stranded	transcript_region	306	327	10.0	+	.	
+ch.1_485	RNASeq_splice	intron	260	326	206.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	304	305	25.0	.	.	
+ch.1_485	WormBase	intron	260	305	.	+	.	Parent=Transcript:Y46H3A.3a.1
+ch.1_485	WormBase	intron	260	305	.	+	.	Parent=Transcript:Y46H3A.3b.1
+ch.1_485	RNASeq_splice	intron	260	305	986127.0	+	.	
+ch.1_485	RNASeq_splice	intron	250	305	301.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	260	303	12.0	.	.	
+ch.1_485	RNASeq_splice	intron	260	298	4108.0	+	.	
+ch.1_485	RNASeq_splice	intron	250	298	19.0	+	.	
+ch.1_485	RNASeq_splice	intron	252	296	30.0	-	.	
+ch.1_485	WormBase	CDS	188	259	.	+	.	ID=CDS:Y46H3A.3b;Parent=Transcript:Y46H3A.3b.1
+ch.1_485	WormBase	exon	188	259	.	+	.	Parent=Transcript:Y46H3A.3b.1
+ch.1_485	RNASeq_stranded	transcript_region	177	259	14.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	147	259	193.0	.	.	
+ch.1_485	WormBase	CDS	134	259	.	+	.	ID=CDS:Y46H3A.3a;Parent=Transcript:Y46H3A.3a.1
+ch.1_485	WormBase	exon	101	259	.	+	.	Parent=Transcript:Y46H3A.3a.1
+ch.1_485	RNASeq_stranded	transcript_region	144	176	9.0	+	.	
+ch.1_485	RNASeq_splice	intron	48	161	3.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	124	146	127.0	.	.	
+ch.1_485	RNASeq_splice	intron	38	145	3.0	-	.	
+ch.1_485	RNASeq_stranded	transcript_region	134	143	5.0	+	.	
+ch.1_485	RNASeq_stranded	transcript_region	111	133	3.0	+	.	
+ch.1_485	WormBase	five_prime_UTR	101	133	.	+	.	Parent=Transcript:Y46H3A.3a.1
+ch.1_485	RNASeq_R_asymmetry	transcript_region	115	123	313309.0	.	.	
+ch.1_485	RNASeq_reads	transcript_region	114	123	78.0	.	.	
+ch.1_485	RNASeq_reads	transcript_region	105	113	51.0	.	.	
+ch.1_485	RNASeq_stranded	transcript_region	101	110	1.0	+	.	
+ch.1_485	RNASeq_reads	transcript_region	90	104	29.0	.	.	
+ch.1_485	RNASeq_reads	transcript_region	89	89	19.0	.	.	
+ch.1_485	RNASeq_reads	transcript_region	85	88	10.0	.	.	
+ch.1_485	RNASeq_reads	transcript_region	55	84	4.0	.	.	
+ch.1_485	RNASeq_splice	intron	38	83	13.0	-	.	
+ch.1_485	RNASeq_reads	transcript_region	21	54	2.0	.	.	

@@ -1,0 +1,28 @@
+ch.1_428	RNASeq_F_asymmetry	transcript_region	785	785	95.0	.	.	
+ch.1_428	RNASeq_F_asymmetry	transcript_region	757	772	451.0	.	.	
+ch.1_428	RNASeq_F_asymmetry	transcript_region	749	756	700.0	.	.	
+ch.1_428	WormBase	three_prime_UTR	641	753	.	+	.	Parent=Transcript:C02E7.10.1
+ch.1_428	WormBase	exon	513	753	.	+	.	Parent=Transcript:C02E7.10.1
+ch.1_428	WormBase	gene	101	753	.	+	.	ID=Gene:WBGene00015342
+ch.1_428	WormBase	mRNA	101	753	.	+	.	ID=Transcript:C02E7.10.1;Parent=Gene:WBGene00015342
+ch.1_428	RNASeq_F_asymmetry	transcript_region	730	733	1584.0	.	.	
+ch.1_428	RNASeq_F_asymmetry	transcript_region	718	728	1852.0	.	.	
+ch.1_428	RNASeq_reads	transcript_region	659	727	1.0	.	.	
+ch.1_428	RNASeq_F_asymmetry	transcript_region	690	717	3246.0	.	.	
+ch.1_428	RNASeq_reads	transcript_region	513	658	2.0	.	.	
+ch.1_428	WormBase	CDS	513	640	.	+	.	ID=CDS:C02E7.10;Parent=Transcript:C02E7.10.1
+ch.1_428	RNASeq_splice	intron	321	527	5.0	+	.	
+ch.1_428	WormBase	intron	321	512	.	+	.	Parent=Transcript:C02E7.10.1
+ch.1_428	RNASeq_splice	intron	321	512	12266.0	+	.	
+ch.1_428	RNASeq_F_asymmetry	transcript_region	488	498	119.0	.	.	
+ch.1_428	RNASeq_F_asymmetry	transcript_region	485	486	143.0	.	.	
+ch.1_428	RNASeq_reads	transcript_region	126	320	3.0	.	.	
+ch.1_428	WormBase	CDS	119	320	.	+	.	ID=CDS:C02E7.10;Parent=Transcript:C02E7.10.1
+ch.1_428	WormBase	exon	101	320	.	+	.	Parent=Transcript:C02E7.10.1
+ch.1_428	RNASeq_R_asymmetry	transcript_region	126	160	10558.0	.	.	
+ch.1_428	RNASeq_R_asymmetry	transcript_region	112	125	6566.0	.	.	
+ch.1_428	RNASeq_reads	transcript_region	102	125	1.0	.	.	
+ch.1_428	WormBase	five_prime_UTR	101	118	.	+	.	Parent=Transcript:C02E7.10.1
+ch.1_428	RNASeq_R_asymmetry	transcript_region	108	111	4195.0	.	.	
+ch.1_428	RNASeq_R_asymmetry	transcript_region	91	107	2473.0	.	.	
+ch.1_428	RNASeq_R_asymmetry	transcript_region	90	90	1611.0	.	.	

@@ -1,0 +1,30 @@
+ch.1_233	WormBase	three_prime_UTR	443	526	.	+	.	Parent=Transcript:Y47D7A.9.1
+ch.1_233	WormBase	exon	348	526	.	+	.	Parent=Transcript:Y47D7A.9.1
+ch.1_233	WormBase	gene	101	526	.	+	.	ID=Gene:WBGene00021621
+ch.1_233	WormBase	mRNA	101	526	.	+	.	ID=Transcript:Y47D7A.9.1;Parent=Gene:WBGene00021621
+ch.1_233	RNASeq_F_asymmetry	transcript_region	491	497	380.0	.	.	
+ch.1_233	RNASeq_F_asymmetry	transcript_region	487	490	676.0	.	.	
+ch.1_233	RNASeq_F_asymmetry	transcript_region	436	486	1065.0	.	.	
+ch.1_233	WormBase	CDS	348	442	.	+	.	ID=CDS:Y47D7A.9;Parent=Transcript:Y47D7A.9.1
+ch.1_233	RNASeq_F_asymmetry	transcript_region	410	428	1306.0	.	.	
+ch.1_233	RNASeq_F_asymmetry	transcript_region	400	409	2066.0	.	.	
+ch.1_233	RNASeq_reads	transcript_region	386	408	1.0	.	.	
+ch.1_233	RNASeq_F_asymmetry	transcript_region	386	399	3847.0	.	.	
+ch.1_233	RNASeq_F_asymmetry	transcript_region	371	385	7788.0	.	.	
+ch.1_233	RNASeq_reads	transcript_region	348	385	2.0	.	.	
+ch.1_233	RNASeq_F_asymmetry	transcript_region	348	370	11830.0	.	.	
+ch.1_233	WormBase	intron	295	347	.	+	.	Parent=Transcript:Y47D7A.9.1
+ch.1_233	RNASeq_splice	intron	295	347	10136.0	+	.	
+ch.1_233	RNASeq_reads	transcript_region	261	294	2.0	.	.	
+ch.1_233	RNASeq_F_asymmetry	transcript_region	257	294	10098.0	.	.	
+ch.1_233	WormBase	CDS	114	294	.	+	.	ID=CDS:Y47D7A.9;Parent=Transcript:Y47D7A.9.1
+ch.1_233	WormBase	exon	101	294	.	+	.	Parent=Transcript:Y47D7A.9.1
+ch.1_233	RNASeq_reads	transcript_region	179	260	1.0	.	.	
+ch.1_233	RNASeq_F_asymmetry	transcript_region	230	256	6527.0	.	.	
+ch.1_233	RNASeq_R_asymmetry	transcript_region	113	197	5284.0	.	.	
+ch.1_233	RNASeq_reads	transcript_region	170	178	2.0	.	.	
+ch.1_233	RNASeq_reads	transcript_region	112	169	1.0	.	.	
+ch.1_233	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:Y47D7A.9.1
+ch.1_233	RNASeq_R_asymmetry	transcript_region	111	112	3139.0	.	.	
+ch.1_233	RNASeq_R_asymmetry	transcript_region	107	110	1867.0	.	.	
+ch.1_233	RNASeq_R_asymmetry	transcript_region	105	106	1224.0	.	.	

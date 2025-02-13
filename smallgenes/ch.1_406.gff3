@@ -1,0 +1,59 @@
+ch.1_406	RNASeq_reads	transcript_region	96	145	1.0	.	.	
+ch.1_406	WormBase	five_prime_UTR	101	193	.	+	.	Parent=Transcript:Y46H3A.2.1
+ch.1_406	WormBase	exon	101	331	.	+	.	Parent=Transcript:Y46H3A.2.1
+ch.1_406	WormBase	gene	101	798	.	+	.	ID=Gene:WBGene00002018
+ch.1_406	WormBase	mRNA	101	798	.	+	.	ID=Transcript:Y46H3A.2.1;Parent=Gene:WBGene00002018
+ch.1_406	RNASeq_reads	transcript_region	146	155	2.0	.	.	
+ch.1_406	RNASeq_reads	transcript_region	156	163	56.0	.	.	
+ch.1_406	RNASeq_stranded	transcript_region	156	167	1.0	+	.	
+ch.1_406	RNASeq_reads	transcript_region	164	165	89.0	.	.	
+ch.1_406	RNASeq_reads	transcript_region	166	185	143.0	.	.	
+ch.1_406	RNASeq_stranded	transcript_region	168	179	2.0	+	.	
+ch.1_406	RNASeq_stranded	transcript_region	180	199	4.0	+	.	
+ch.1_406	RNASeq_reads	transcript_region	186	211	220.0	.	.	
+ch.1_406	WormBase	CDS	194	331	.	+	.	ID=CDS:Y46H3A.2;Parent=Transcript:Y46H3A.2.1
+ch.1_406	RNASeq_stranded	transcript_region	200	245	7.0	+	.	
+ch.1_406	RNASeq_splice	intron	202	623	32.0	+	.	
+ch.1_406	RNASeq_reads	transcript_region	212	331	350.0	.	.	
+ch.1_406	RNASeq_stranded	transcript_region	246	306	11.0	+	.	
+ch.1_406	RNASeq_splice	intron	268	296	6.0	+	.	
+ch.1_406	RNASeq_stranded	transcript_region	307	331	6.0	+	.	
+ch.1_406	RNASeq_reads	transcript_region	332	387	34.0	.	.	
+ch.1_406	WormBase	intron	332	389	.	+	.	Parent=Transcript:Y46H3A.2.1
+ch.1_406	RNASeq_splice	intron	332	389	1683760.0	+	.	
+ch.1_406	RNASeq_splice	intron	332	410	37.0	+	.	
+ch.1_406	RNASeq_splice	intron	332	447	9.0	+	.	
+ch.1_406	RNASeq_splice	intron	332	458	3.0	+	.	
+ch.1_406	RNASeq_splice	intron	332	468	17.0	+	.	
+ch.1_406	RNASeq_splice	intron	332	564	16.0	+	.	
+ch.1_406	RNASeq_splice	intron	336	389	14591.0	+	.	
+ch.1_406	RNASeq_reads	transcript_region	388	389	59.0	.	.	
+ch.1_406	RNASeq_stranded	transcript_region	388	389	2.0	+	.	
+ch.1_406	RNASeq_stranded	transcript_region	390	432	5.0	+	.	
+ch.1_406	RNASeq_reads	transcript_region	390	518	346.0	.	.	
+ch.1_406	WormBase	CDS	390	683	.	+	.	ID=CDS:Y46H3A.2;Parent=Transcript:Y46H3A.2.1
+ch.1_406	WormBase	exon	390	798	.	+	.	Parent=Transcript:Y46H3A.2.1
+ch.1_406	RNASeq_stranded	transcript_region	416	445	1.0	-	.	
+ch.1_406	RNASeq_stranded	transcript_region	433	466	3.0	+	.	
+ch.1_406	RNASeq_stranded	transcript_region	447	447	1.0	+	.	
+ch.1_406	RNASeq_splice	intron	453	576	5.0	-	.	
+ch.1_406	RNASeq_stranded	transcript_region	456	466	1.0	-	.	
+ch.1_406	RNASeq_stranded	transcript_region	467	590	5.0	+	.	
+ch.1_406	RNASeq_stranded	transcript_region	470	499	1.0	-	.	
+ch.1_406	RNASeq_reads	transcript_region	519	667	524.0	.	.	
+ch.1_406	RNASeq_stranded	transcript_region	591	641	9.0	+	.	
+ch.1_406	RNASeq_stranded	transcript_region	642	689	4.0	+	.	
+ch.1_406	RNASeq_reads	transcript_region	668	710	345.0	.	.	
+ch.1_406	WormBase	three_prime_UTR	684	798	.	+	.	Parent=Transcript:Y46H3A.2.1
+ch.1_406	RNASeq_stranded	transcript_region	690	752	2.0	+	.	
+ch.1_406	RNASeq	transcription_end_site	699	699	.	+	.	
+ch.1_406	RNASeq_reads	transcript_region	711	753	226.0	.	.	
+ch.1_406	RNASeq_stranded	transcript_region	753	787	4.0	+	.	
+ch.1_406	RNASeq_reads	transcript_region	754	777	147.0	.	.	
+ch.1_406	RNASeq_reads	transcript_region	778	783	97.0	.	.	
+ch.1_406	RNASeq_reads	transcript_region	784	787	60.0	.	.	
+ch.1_406	RNASeq	transcription_end_site	788	788	.	+	.	
+ch.1_406	RNASeq_stranded	transcript_region	788	792	1.0	+	.	
+ch.1_406	RNASeq	transcription_end_site	794	794	.	+	.	
+ch.1_406	RNASeq	transcription_end_site	795	795	.	+	.	
+ch.1_406	RNASeq	transcription_end_site	797	797	.	+	.	

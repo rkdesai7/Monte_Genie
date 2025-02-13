@@ -1,0 +1,56 @@
+ch.2_164	RNASeq_F_asymmetry	transcript_region	90	95	642.0	.	.	
+ch.2_164	RNASeq_F_asymmetry	transcript_region	96	98	1093.0	.	.	
+ch.2_164	RNASeq_stranded	transcript_region	97	133	1.0	+	.	
+ch.2_164	RNASeq_F_asymmetry	transcript_region	99	100	3233.0	.	.	
+ch.2_164	RNASeq_reads	transcript_region	99	101	1.0	.	.	
+ch.2_164	RNASeq_F_asymmetry	transcript_region	101	101	6002.0	.	.	
+ch.2_164	WormBase	five_prime_UTR	101	129	.	+	.	Parent=Transcript:F53F4.18.1
+ch.2_164	WormBase	exon	101	155	.	+	.	Parent=Transcript:F53F4.18.1
+ch.2_164	WormBase	gene	101	768	.	+	.	ID=Gene:WBGene00077569
+ch.2_164	WormBase	mRNA	101	768	.	+	.	ID=Transcript:F53F4.18.1;Parent=Gene:WBGene00077569
+ch.2_164	RNASeq_F_asymmetry	transcript_region	102	105	17448.0	.	.	
+ch.2_164	RNASeq_reads	transcript_region	102	105	3.0	.	.	
+ch.2_164	RNASeq_F_asymmetry	transcript_region	106	115	28473.0	.	.	
+ch.2_164	RNASeq_reads	transcript_region	106	117	6.0	.	.	
+ch.2_164	RNASeq_F_asymmetry	transcript_region	116	155	43120.0	.	.	
+ch.2_164	RNASeq_reads	transcript_region	118	155	10.0	.	.	
+ch.2_164	WormBase	CDS	130	155	.	+	.	ID=CDS:F53F4.18;Parent=Transcript:F53F4.18.1
+ch.2_164	RNASeq_stranded	transcript_region	134	146	2.0	+	.	
+ch.2_164	RNASeq_stranded	transcript_region	147	155	1.0	+	.	
+ch.2_164	RNASeq_splice	intron	156	190	24.0	+	.	
+ch.2_164	WormBase	intron	156	198	.	+	.	Parent=Transcript:F53F4.18.1
+ch.2_164	RNASeq_splice	intron	156	198	61404.0	+	.	
+ch.2_164	RNASeq_splice	intron	156	203	7.0	+	.	
+ch.2_164	RNASeq_reads	transcript_region	197	198	3.0	.	.	
+ch.2_164	RNASeq_stranded	transcript_region	197	203	3.0	+	.	
+ch.2_164	RNASeq_reads	transcript_region	199	362	15.0	.	.	
+ch.2_164	WormBase	CDS	199	369	.	+	.	ID=CDS:F53F4.18;Parent=Transcript:F53F4.18.1
+ch.2_164	WormBase	exon	199	369	.	+	.	Parent=Transcript:F53F4.18.1
+ch.2_164	RNASeq_stranded	transcript_region	204	247	5.0	+	.	
+ch.2_164	RNASeq_stranded	transcript_region	248	276	2.0	+	.	
+ch.2_164	RNASeq_stranded	transcript_region	277	312	1.0	+	.	
+ch.2_164	RNASeq_reads	transcript_region	363	369	9.0	.	.	
+ch.2_164	RNASeq_splice	intron	370	443	22.0	+	.	
+ch.2_164	RNASeq_splice	intron	370	600	5.0	+	.	
+ch.2_164	WormBase	intron	370	619	.	+	.	Parent=Transcript:F53F4.18.1
+ch.2_164	RNASeq_splice	intron	370	619	43318.0	+	.	
+ch.2_164	RNASeq_splice	intron	370	621	5.0	+	.	
+ch.2_164	RNASeq_splice	intron	481	619	74.0	+	.	
+ch.2_164	RNASeq_reads	transcript_region	619	619	1.0	.	.	
+ch.2_164	RNASeq_reads	transcript_region	620	694	8.0	.	.	
+ch.2_164	WormBase	CDS	620	722	.	+	.	ID=CDS:F53F4.18;Parent=Transcript:F53F4.18.1
+ch.2_164	WormBase	exon	620	768	.	+	.	Parent=Transcript:F53F4.18.1
+ch.2_164	RNASeq_R_asymmetry	transcript_region	637	700	36337.0	.	.	
+ch.2_164	RNASeq	transcription_end_site	650	650	.	+	.	
+ch.2_164	RNASeq_stranded	transcript_region	651	690	1.0	+	.	
+ch.2_164	RNASeq_reads	transcript_region	695	715	5.0	.	.	
+ch.2_164	RNASeq_R_asymmetry	transcript_region	701	715	23896.0	.	.	
+ch.2_164	RNASeq_stranded	transcript_region	709	738	1.0	+	.	
+ch.2_164	RNASeq_R_asymmetry	transcript_region	716	728	15282.0	.	.	
+ch.2_164	RNASeq_reads	transcript_region	716	734	3.0	.	.	
+ch.2_164	WormBase	three_prime_UTR	723	768	.	+	.	Parent=Transcript:F53F4.18.1
+ch.2_164	RNASeq_R_asymmetry	transcript_region	729	734	9952.0	.	.	
+ch.2_164	RNASeq_R_asymmetry	transcript_region	735	736	5049.0	.	.	
+ch.2_164	RNASeq_reads	transcript_region	735	767	1.0	.	.	
+ch.2_164	RNASeq_R_asymmetry	transcript_region	759	768	2626.0	.	.	
+ch.2_164	RNASeq_R_asymmetry	transcript_region	769	769	869.0	.	.	

@@ -1,0 +1,25 @@
+ch.1_307	RNASeq_splice	intron	100	213	4.0	-	.	
+ch.1_307	WormBase	five_prime_UTR	101	218	.	+	.	Parent=Transcript:C17C3.5.1
+ch.1_307	WormBase	exon	101	320	.	+	.	Parent=Transcript:C17C3.5.1
+ch.1_307	WormBase	gene	101	619	.	+	.	ID=Gene:WBGene00015890
+ch.1_307	WormBase	mRNA	101	619	.	+	.	ID=Transcript:C17C3.5.1;Parent=Gene:WBGene00015890
+ch.1_307	RNASeq_splice	intron	108	163	3.0	-	.	
+ch.1_307	RNASeq_stranded	transcript_region	177	187	1.0	+	.	
+ch.1_307	RNASeq_stranded	transcript_region	195	195	1.0	+	.	
+ch.1_307	WormBase	CDS	219	320	.	+	.	ID=CDS:C17C3.5;Parent=Transcript:C17C3.5.1
+ch.1_307	RNASeq_reads	transcript_region	266	320	7.0	.	.	
+ch.1_307	RNASeq_stranded	transcript_region	273	320	1.0	+	.	
+ch.1_307	RNASeq_splice	intron	321	357	159.0	+	.	
+ch.1_307	WormBase	intron	321	371	.	+	.	Parent=Transcript:C17C3.5.1
+ch.1_307	RNASeq_splice	intron	321	371	25915.0	+	.	
+ch.1_307	RNASeq_splice	intron	321	526	129.0	+	.	
+ch.1_307	RNASeq_reads	transcript_region	372	482	7.0	.	.	
+ch.1_307	WormBase	CDS	372	602	.	+	.	ID=CDS:C17C3.5;Parent=Transcript:C17C3.5.1
+ch.1_307	WormBase	exon	372	619	.	+	.	Parent=Transcript:C17C3.5.1
+ch.1_307	RNASeq_stranded	transcript_region	433	437	1.0	+	.	
+ch.1_307	RNASeq_stranded	transcript_region	456	591	1.0	+	.	
+ch.1_307	RNASeq_reads	transcript_region	483	540	4.0	.	.	
+ch.1_307	RNASeq_splice	intron	484	526	10.0	+	.	
+ch.1_307	RNASeq_reads	transcript_region	541	586	2.0	.	.	
+ch.1_307	RNASeq_reads	transcript_region	587	625	1.0	.	.	
+ch.1_307	WormBase	three_prime_UTR	603	619	.	+	.	Parent=Transcript:C17C3.5.1

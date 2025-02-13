@@ -1,0 +1,147 @@
+ch.1_392	RNASeq_reads	transcript_region	5	7	1.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	9	9	1.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	16	69	1.0	.	.	
+ch.1_392	WormBase	five_prime_UTR	101	129	.	+	.	Parent=Transcript:C06B8.8.4
+ch.1_392	WormBase	exon	101	273	.	+	.	Parent=Transcript:C06B8.8.4
+ch.1_392	WormBase	mRNA	101	668	.	+	.	ID=Transcript:C06B8.8.4;Parent=Gene:WBGene00004452
+ch.1_392	WormBase	gene	101	672	.	+	.	ID=Gene:WBGene00004452
+ch.1_392	RNASeq_reads	transcript_region	105	107	1.0	.	.	
+ch.1_392	RNASeq_F_asymmetry	transcript_region	108	111	2696900.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	108	111	541.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	108	111	106.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	112	112	504.0	+	.	
+ch.1_392	RNASeq_F_asymmetry	transcript_region	112	116	6282030.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	112	116	1242.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	113	118	773.0	+	.	
+ch.1_392	WormBase	five_prime_UTR	114	129	.	+	.	Parent=Transcript:C06B8.8.3
+ch.1_392	WormBase	five_prime_UTR	114	129	.	+	.	Parent=Transcript:C06B8.8.2
+ch.1_392	WormBase	five_prime_UTR	114	129	.	+	.	Parent=Transcript:C06B8.8.1
+ch.1_392	WormBase	exon	114	273	.	+	.	Parent=Transcript:C06B8.8.3
+ch.1_392	WormBase	exon	114	273	.	+	.	Parent=Transcript:C06B8.8.2
+ch.1_392	WormBase	exon	114	273	.	+	.	Parent=Transcript:C06B8.8.1
+ch.1_392	WormBase	mRNA	114	670	.	+	.	ID=Transcript:C06B8.8.3;Parent=Gene:WBGene00004452
+ch.1_392	WormBase	mRNA	114	671	.	+	.	ID=Transcript:C06B8.8.2;Parent=Gene:WBGene00004452
+ch.1_392	WormBase	mRNA	114	672	.	+	.	ID=Transcript:C06B8.8.1;Parent=Gene:WBGene00004452
+ch.1_392	RNASeq_reads	transcript_region	117	125	2128.0	.	.	
+ch.1_392	RNASeq_F_asymmetry	transcript_region	117	126	10734200.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	119	130	1271.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	125	137	1.0	-	.	
+ch.1_392	RNASeq_reads	transcript_region	126	184	3249.0	.	.	
+ch.1_392	RNASeq_F_asymmetry	transcript_region	127	185	16553200.0	.	.	
+ch.1_392	WormBase	CDS	130	273	.	+	.	ID=CDS:C06B8.8;Parent=Transcript:C06B8.8.1,Transcript:C06B8.8.2,Transcript:C06B8.8.3,Transcript:C06B8.8.4
+ch.1_392	RNASeq_stranded	transcript_region	131	273	1922.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	138	175	2.0	-	.	
+ch.1_392	RNASeq_splice	intron	166	228	5.0	+	.	
+ch.1_392	RNASeq_splice	intron	172	201	46.0	+	.	
+ch.1_392	RNASeq_splice	intron	172	602	67.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	176	192	4.0	-	.	
+ch.1_392	RNASeq_reads	transcript_region	185	273	4936.0	.	.	
+ch.1_392	RNASeq_splice	intron	192	234	224.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	193	216	7.0	-	.	
+ch.1_392	RNASeq_splice	intron	196	228	71.0	+	.	
+ch.1_392	RNASeq_splice	intron	196	234	4.0	+	.	
+ch.1_392	RNASeq_splice	intron	196	545	9.0	+	.	
+ch.1_392	RNASeq_splice	intron	196	614	7.0	+	.	
+ch.1_392	RNASeq_splice	intron	201	243	7.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	217	218	11.0	-	.	
+ch.1_392	RNASeq_stranded	transcript_region	219	273	19.0	-	.	
+ch.1_392	RNASeq_splice	intron	228	588	12.0	+	.	
+ch.1_392	RNASeq_splice	intron	235	545	3541.0	+	.	
+ch.1_392	RNASeq_splice	intron	235	551	5.0	+	.	
+ch.1_392	RNASeq_splice	intron	235	572	39.0	+	.	
+ch.1_392	RNASeq_splice	intron	235	597	5.0	+	.	
+ch.1_392	RNASeq_splice	intron	235	602	18.0	+	.	
+ch.1_392	RNASeq_splice	intron	235	611	89.0	+	.	
+ch.1_392	RNASeq_splice	intron	253	559	4.0	-	.	
+ch.1_392	RNASeq_splice	intron	255	567	7.0	-	.	
+ch.1_392	RNASeq_splice	intron	265	545	8.0	+	.	
+ch.1_392	RNASeq_splice	intron	268	545	115.0	+	.	
+ch.1_392	RNASeq_reads	transcript_region	274	274	412.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	274	274	228.0	+	.	
+ch.1_392	RNASeq_splice	intron	274	324	262.0	+	.	
+ch.1_392	RNASeq_splice	intron	274	332	46.0	+	.	
+ch.1_392	RNASeq_splice	intron	274	388	3.0	+	.	
+ch.1_392	RNASeq_splice	intron	274	449	3.0	+	.	
+ch.1_392	WormBase	intron	274	545	.	+	.	Parent=Transcript:C06B8.8.1
+ch.1_392	WormBase	intron	274	545	.	+	.	Parent=Transcript:C06B8.8.2
+ch.1_392	WormBase	intron	274	545	.	+	.	Parent=Transcript:C06B8.8.3
+ch.1_392	WormBase	intron	274	545	.	+	.	Parent=Transcript:C06B8.8.4
+ch.1_392	RNASeq_splice	intron	274	545	28336700.0	+	.	
+ch.1_392	RNASeq_splice	intron	274	551	993.0	+	.	
+ch.1_392	RNASeq_splice	intron	274	557	118.0	+	.	
+ch.1_392	RNASeq_splice	intron	274	566	5.0	+	.	
+ch.1_392	RNASeq_reads	transcript_region	275	275	3.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	275	275	4.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	276	307	1.0	+	.	
+ch.1_392	RNASeq_reads	transcript_region	276	502	1.0	.	.	
+ch.1_392	RNASeq_splice	intron	278	545	33.0	+	.	
+ch.1_392	RNASeq_splice	intron	278	551	184.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	451	496	1.0	+	.	
+ch.1_392	RNASeq_splice	intron	479	545	134.0	+	.	
+ch.1_392	RNASeq_reads	transcript_region	533	544	1.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	545	545	2.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	545	545	2.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	546	569	1222.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	546	590	19.0	-	.	
+ch.1_392	RNASeq_reads	transcript_region	546	595	4578.0	.	.	
+ch.1_392	WormBase	CDS	546	614	.	+	.	ID=CDS:C06B8.8;Parent=Transcript:C06B8.8.1,Transcript:C06B8.8.2,Transcript:C06B8.8.3,Transcript:C06B8.8.4
+ch.1_392	WormBase	exon	546	668	.	+	.	Parent=Transcript:C06B8.8.4
+ch.1_392	WormBase	exon	546	670	.	+	.	Parent=Transcript:C06B8.8.3
+ch.1_392	WormBase	exon	546	671	.	+	.	Parent=Transcript:C06B8.8.2
+ch.1_392	WormBase	exon	546	672	.	+	.	Parent=Transcript:C06B8.8.1
+ch.1_392	RNASeq_R_asymmetry	transcript_region	556	590	20193200.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	570	630	1836.0	+	.	
+ch.1_392	RNASeq_splice	intron	580	604	4.0	+	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	591	605	13016700.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	591	612	10.0	-	.	
+ch.1_392	RNASeq_reads	transcript_region	596	606	3008.0	.	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	606	658	8284630.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	607	652	1959.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	613	672	6.0	-	.	
+ch.1_392	WormBase	three_prime_UTR	615	668	.	+	.	Parent=Transcript:C06B8.8.4
+ch.1_392	WormBase	three_prime_UTR	615	670	.	+	.	Parent=Transcript:C06B8.8.3
+ch.1_392	WormBase	three_prime_UTR	615	671	.	+	.	Parent=Transcript:C06B8.8.2
+ch.1_392	WormBase	three_prime_UTR	615	672	.	+	.	Parent=Transcript:C06B8.8.1
+ch.1_392	RNASeq_stranded	transcript_region	631	644	1174.0	+	.	
+ch.1_392	RNASeq_splice	intron	638	708	19.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	645	653	755.0	+	.	
+ch.1_392	RNASeq_reads	transcript_region	653	663	1290.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	654	661	498.0	+	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	659	664	5432110.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	662	668	314.0	+	.	
+ch.1_392	RNASeq_reads	transcript_region	664	665	806.0	.	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	665	667	2500340.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	666	668	488.0	.	.	
+ch.1_392	RNASeq	transcription_end_site	668	668	.	+	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	668	670	1484020.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	669	670	312.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	669	670	199.0	+	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	671	672	857491.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	671	672	192.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	671	672	127.0	+	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	673	678	543342.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	673	678	118.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	673	678	2.0	-	.	
+ch.1_392	RNASeq_stranded	transcript_region	673	690	54.0	+	.	
+ch.1_392	RNASeq	transcription_end_site	676	676	.	+	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	679	691	346566.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	679	692	77.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	679	765	1.0	-	.	
+ch.1_392	RNASeq_stranded	transcript_region	691	696	35.0	+	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	692	698	224334.0	.	.	
+ch.1_392	RNASeq_reads	transcript_region	693	700	47.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	697	704	22.0	+	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	699	702	144622.0	.	.	
+ch.1_392	RNASeq	transcription_end_site	700	700	.	+	.	
+ch.1_392	RNASeq_reads	transcript_region	701	708	24.0	.	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	703	708	95053.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	705	707	14.0	+	.	
+ch.1_392	RNASeq_stranded	transcript_region	708	711	9.0	+	.	
+ch.1_392	RNASeq	transcription_end_site	709	709	.	+	.	
+ch.1_392	RNASeq_reads	transcript_region	709	712	15.0	.	.	
+ch.1_392	RNASeq_R_asymmetry	transcript_region	712	713	38201.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	712	713	5.0	+	.	
+ch.1_392	RNASeq	transcription_end_site	713	713	.	+	.	
+ch.1_392	RNASeq_reads	transcript_region	713	715	9.0	.	.	
+ch.1_392	RNASeq_stranded	transcript_region	714	765	3.0	+	.	
+ch.1_392	RNASeq	transcription_end_site	723	723	.	+	.	

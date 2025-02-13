@@ -1,0 +1,68 @@
+ch.2_22	RNASeq_stranded	transcript_region	31	78	1.0	-	.	
+ch.2_22	RNASeq	transcription_end_site	46	46	.	+	.	
+ch.2_22	RNASeq_reads	transcript_region	63	76	22.0	.	.	
+ch.2_22	RNASeq_R_asymmetry	transcript_region	64	76	88009.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	66	72	34.0	+	.	
+ch.2_22	RNASeq_stranded	transcript_region	73	87	22.0	+	.	
+ch.2_22	RNASeq_R_asymmetry	transcript_region	77	78	56491.0	.	.	
+ch.2_22	RNASeq_reads	transcript_region	77	80	14.0	.	.	
+ch.2_22	RNASeq	transcription_end_site	80	80	.	+	.	
+ch.2_22	RNASeq_reads	transcript_region	81	95	9.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	88	95	14.0	+	.	
+ch.2_22	RNASeq_reads	transcript_region	96	98	5.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	96	99	9.0	+	.	
+ch.2_22	RNASeq_reads	transcript_region	99	102	3.0	.	.	
+ch.2_22	RNASeq	transcription_end_site	100	100	.	+	.	
+ch.2_22	RNASeq_stranded	transcript_region	100	101	2.0	+	.	
+ch.2_22	WormBase	five_prime_UTR	101	130	.	+	.	Parent=Transcript:F25H8.7.1
+ch.2_22	WormBase	exon	101	216	.	+	.	Parent=Transcript:F25H8.7.1
+ch.2_22	WormBase	gene	101	543	.	+	.	ID=Gene:WBGene00004974
+ch.2_22	WormBase	mRNA	101	543	.	+	.	ID=Transcript:F25H8.7.1;Parent=Gene:WBGene00004974
+ch.2_22	RNASeq	transcription_end_site	102	102	.	+	.	
+ch.2_22	RNASeq_stranded	transcript_region	102	107	1.0	+	.	
+ch.2_22	RNASeq_reads	transcript_region	103	107	1.0	.	.	
+ch.2_22	RNASeq	transcription_end_site	104	104	.	+	.	
+ch.2_22	RNASeq	transcription_end_site	107	107	.	+	.	
+ch.2_22	RNASeq_reads	transcript_region	120	155	1.0	.	.	
+ch.2_22	RNASeq_F_asymmetry	transcript_region	125	138	2701.0	.	.	
+ch.2_22	WormBase	CDS	131	216	.	+	.	ID=CDS:F25H8.7;Parent=Transcript:F25H8.7.1
+ch.2_22	RNASeq_F_asymmetry	transcript_region	139	144	4080.0	.	.	
+ch.2_22	RNASeq_F_asymmetry	transcript_region	147	155	4896.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	149	175	1.0	+	.	
+ch.2_22	RNASeq_reads	transcript_region	156	216	2.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	176	176	2.0	+	.	
+ch.2_22	RNASeq_F_asymmetry	transcript_region	177	189	10221.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	177	216	4.0	+	.	
+ch.2_22	WormBase	intron	217	272	.	+	.	Parent=Transcript:F25H8.7.1
+ch.2_22	RNASeq_splice	intron	217	272	10918.0	+	.	
+ch.2_22	RNASeq_splice	intron	221	272	4.0	+	.	
+ch.2_22	RNASeq_stranded	transcript_region	273	287	3.0	+	.	
+ch.2_22	RNASeq_reads	transcript_region	273	336	3.0	.	.	
+ch.2_22	WormBase	CDS	273	369	.	+	.	ID=CDS:F25H8.7;Parent=Transcript:F25H8.7.1
+ch.2_22	WormBase	exon	273	369	.	+	.	Parent=Transcript:F25H8.7.1
+ch.2_22	RNASeq_stranded	transcript_region	288	329	1.0	+	.	
+ch.2_22	RNASeq_reads	transcript_region	337	369	1.0	.	.	
+ch.2_22	RNASeq_splice	intron	361	413	4.0	+	.	
+ch.2_22	WormBase	intron	370	413	.	+	.	Parent=Transcript:F25H8.7.1
+ch.2_22	RNASeq_splice	intron	370	413	5207.0	+	.	
+ch.2_22	RNASeq_reads	transcript_region	414	427	1.0	.	.	
+ch.2_22	WormBase	CDS	414	431	.	+	.	ID=CDS:F25H8.7;Parent=Transcript:F25H8.7.1
+ch.2_22	WormBase	exon	414	543	.	+	.	Parent=Transcript:F25H8.7.1
+ch.2_22	RNASeq_R_asymmetry	transcript_region	418	427	4296.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	427	513	1.0	+	.	
+ch.2_22	RNASeq_stranded	transcript_region	428	430	1.0	-	.	
+ch.2_22	RNASeq_reads	transcript_region	428	448	2.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	431	441	2.0	-	.	
+ch.2_22	WormBase	three_prime_UTR	432	543	.	+	.	Parent=Transcript:F25H8.7.1
+ch.2_22	RNASeq_stranded	transcript_region	442	448	4.0	-	.	
+ch.2_22	RNASeq_reads	transcript_region	449	473	4.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	449	493	7.0	-	.	
+ch.2_22	RNASeq_reads	transcript_region	474	536	7.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	494	624	11.0	-	.	
+ch.2_22	RNASeq_stranded	transcript_region	528	545	1.0	+	.	
+ch.2_22	RNASeq_reads	transcript_region	537	625	11.0	.	.	
+ch.2_22	RNASeq_stranded	transcript_region	546	552	2.0	+	.	
+ch.2_22	RNASeq_stranded	transcript_region	553	596	4.0	+	.	
+ch.2_22	RNASeq_stranded	transcript_region	597	597	2.0	+	.	
+ch.2_22	RNASeq_stranded	transcript_region	598	600	1.0	+	.	
+ch.2_22	RNASeq_stranded	transcript_region	625	627	22.0	-	.	

@@ -1,0 +1,42 @@
+ch.1_260	RNASeq_F_asymmetry	transcript_region	52	54	11350.0	.	.	
+ch.1_260	RNASeq_reads	transcript_region	52	54	2.0	.	.	
+ch.1_260	RNASeq_F_asymmetry	transcript_region	55	60	31433.0	.	.	
+ch.1_260	RNASeq_reads	transcript_region	55	60	6.0	.	.	
+ch.1_260	RNASeq_stranded	transcript_region	58	75	1.0	+	.	
+ch.1_260	RNASeq_reads	transcript_region	61	78	11.0	.	.	
+ch.1_260	RNASeq_F_asymmetry	transcript_region	61	83	54545.0	.	.	
+ch.1_260	RNASeq_stranded	transcript_region	76	114	2.0	+	.	
+ch.1_260	RNASeq_reads	transcript_region	79	127	17.0	.	.	
+ch.1_260	RNASeq_F_asymmetry	transcript_region	84	113	81820.0	.	.	
+ch.1_260	WormBase	exon	101	167	.	+	.	Parent=Transcript:W02H5.19.1
+ch.1_260	WormBase	CDS	101	167	.	+	.	ID=CDS:W02H5.19;Parent=Transcript:W02H5.19.1
+ch.1_260	WormBase	gene	101	660	.	+	.	ID=Gene:WBGene00302982
+ch.1_260	WormBase	mRNA	101	660	.	+	.	ID=Transcript:W02H5.19.1;Parent=Gene:WBGene00302982
+ch.1_260	RNASeq_stranded	transcript_region	115	116	4.0	+	.	
+ch.1_260	RNASeq_F_asymmetry	transcript_region	116	122	89597.0	.	.	
+ch.1_260	RNASeq_stranded	transcript_region	117	132	7.0	+	.	
+ch.1_260	RNASeq_reads	transcript_region	128	167	26.0	.	.	
+ch.1_260	RNASeq_stranded	transcript_region	133	152	11.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	153	167	17.0	+	.	
+ch.1_260	RNASeq_reads	transcript_region	168	171	1.0	.	.	
+ch.1_260	RNASeq_stranded	transcript_region	168	171	1.0	+	.	
+ch.1_260	WormBase	intron	168	217	.	+	.	Parent=Transcript:W02H5.19.1
+ch.1_260	RNASeq_splice	intron	168	217	133156.0	+	.	
+ch.1_260	RNASeq_splice	intron	172	217	3345.0	+	.	
+ch.1_260	RNASeq_reads	transcript_region	217	217	3.0	.	.	
+ch.1_260	RNASeq_stranded	transcript_region	217	217	2.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	218	258	17.0	+	.	
+ch.1_260	WormBase	CDS	218	660	.	+	.	ID=CDS:W02H5.19;Parent=Transcript:W02H5.19.1
+ch.1_260	WormBase	exon	218	660	.	+	.	Parent=Transcript:W02H5.19.1
+ch.1_260	RNASeq_stranded	transcript_region	259	278	11.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	279	280	5.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	281	333	3.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	334	427	5.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	428	452	3.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	453	512	1.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	513	574	2.0	+	.	
+ch.1_260	WormBase	five_prime_UTR	546	577	.	+	.	Parent=Transcript:W02H5.2.1
+ch.1_260	RNASeq_stranded	transcript_region	575	607	1.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	608	613	2.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	614	675	1.0	+	.	
+ch.1_260	RNASeq_stranded	transcript_region	676	699	2.0	+	.	

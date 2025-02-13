@@ -1,0 +1,69 @@
+ch.2_132	RNASeq	transcription_end_site	685	685	.	-	.	
+ch.2_132	RNASeq	transcription_end_site	685	685	.	-	.	
+ch.2_132	WormBase	three_prime_UTR	592	656	.	+	.	Parent=Transcript:F59A6.12.1
+ch.2_132	WormBase	exon	448	656	.	+	.	Parent=Transcript:F59A6.12.1
+ch.2_132	WormBase	gene	101	656	.	+	.	ID=Gene:WBGene00044665
+ch.2_132	WormBase	mRNA	101	656	.	+	.	ID=Transcript:F59A6.12.1;Parent=Gene:WBGene00044665
+ch.2_132	RNASeq_stranded	transcript_region	626	655	1.0	+	.	
+ch.2_132	RNASeq_reads	transcript_region	619	627	1.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	619	625	2.0	+	.	
+ch.2_132	RNASeq_stranded	transcript_region	613	618	4.0	+	.	
+ch.2_132	RNASeq_reads	transcript_region	600	618	2.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	593	612	8.0	+	.	
+ch.2_132	RNASeq_reads	transcript_region	590	599	4.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	564	592	13.0	+	.	
+ch.2_132	WormBase	CDS	448	591	.	+	.	ID=CDS:F59A6.12;Parent=Transcript:F59A6.12.1
+ch.2_132	RNASeq_reads	transcript_region	575	589	7.0	.	.	
+ch.2_132	RNASeq_F_asymmetry	transcript_region	572	574	45322.0	.	.	
+ch.2_132	RNASeq_reads	transcript_region	571	574	11.0	.	.	
+ch.2_132	RNASeq_F_asymmetry	transcript_region	530	571	71632.0	.	.	
+ch.2_132	RNASeq_reads	transcript_region	530	570	17.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	473	563	21.0	+	.	
+ch.2_132	RNASeq_F_asymmetry	transcript_region	523	529	109426.0	.	.	
+ch.2_132	RNASeq_reads	transcript_region	448	529	27.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	463	472	13.0	+	.	
+ch.2_132	RNASeq_stranded	transcript_region	450	462	8.0	+	.	
+ch.2_132	RNASeq_splice	intron	406	457	8136.0	+	.	
+ch.2_132	RNASeq_stranded	transcript_region	448	449	5.0	+	.	
+ch.2_132	RNASeq_reads	transcript_region	446	447	2.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	446	447	1.0	+	.	
+ch.2_132	WormBase	intron	406	447	.	+	.	Parent=Transcript:F59A6.12.1
+ch.2_132	RNASeq_splice	intron	406	447	143915.0	+	.	
+ch.2_132	RNASeq_splice	intron	403	447	521.0	+	.	
+ch.2_132	RNASeq_reads	transcript_region	409	445	1.0	.	.	
+ch.2_132	RNASeq_splice	intron	398	438	3.0	-	.	
+ch.2_132	RNASeq_reads	transcript_region	406	408	2.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	377	405	5.0	+	.	
+ch.2_132	WormBase	CDS	230	405	.	+	.	ID=CDS:F59A6.12;Parent=Transcript:F59A6.12.1
+ch.2_132	WormBase	exon	230	405	.	+	.	Parent=Transcript:F59A6.12.1
+ch.2_132	RNASeq_reads	transcript_region	230	405	28.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	328	376	8.0	+	.	
+ch.2_132	RNASeq_stranded	transcript_region	230	327	5.0	+	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	230	253	101430.0	.	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	224	229	2577.0	.	.	
+ch.2_132	RNASeq_reads	transcript_region	224	229	1.0	.	.	
+ch.2_132	WormBase	intron	181	229	.	+	.	Parent=Transcript:F59A6.12.1
+ch.2_132	RNASeq_splice	intron	181	229	98218.0	+	.	
+ch.2_132	RNASeq_splice	intron	181	223	2285.0	+	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	181	197	181.0	.	.	
+ch.2_132	RNASeq_reads	transcript_region	143	180	19.0	.	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	139	180	90540.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	135	180	4.0	+	.	
+ch.2_132	WormBase	CDS	123	180	.	+	.	ID=CDS:F59A6.12;Parent=Transcript:F59A6.12.1
+ch.2_132	WormBase	exon	101	180	.	+	.	Parent=Transcript:F59A6.12.1
+ch.2_132	RNASeq_reads	transcript_region	134	142	12.0	.	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	134	138	52617.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	130	134	2.0	+	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	130	133	32675.0	.	.	
+ch.2_132	RNASeq_reads	transcript_region	130	133	6.0	.	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	127	129	17424.0	.	.	
+ch.2_132	RNASeq_reads	transcript_region	125	129	3.0	.	.	
+ch.2_132	RNASeq_stranded	transcript_region	125	129	1.0	+	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	122	126	9397.0	.	.	
+ch.2_132	RNASeq_reads	transcript_region	115	124	1.0	.	.	
+ch.2_132	WormBase	five_prime_UTR	101	122	.	+	.	Parent=Transcript:F59A6.12.1
+ch.2_132	RNASeq_R_asymmetry	transcript_region	115	121	6117.0	.	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	112	114	1457.0	.	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	103	111	430.0	.	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	101	102	260.0	.	.	
+ch.2_132	RNASeq_R_asymmetry	transcript_region	94	100	124.0	.	.	

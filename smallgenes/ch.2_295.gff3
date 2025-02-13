@@ -1,0 +1,104 @@
+ch.2_295	RNASeq_R_asymmetry	transcript_region	12	26	573.0	.	.	
+ch.2_295	WormBase	five_prime_UTR	101	202	.	+	.	Parent=Transcript:F37A4.2.1
+ch.2_295	WormBase	exon	101	298	.	+	.	Parent=Transcript:F37A4.2.1
+ch.2_295	WormBase	gene	101	930	.	+	.	ID=Gene:WBGene00018132
+ch.2_295	WormBase	mRNA	101	930	.	+	.	ID=Transcript:F37A4.2.1;Parent=Gene:WBGene00018132
+ch.2_295	RNASeq_F_asymmetry	transcript_region	113	114	577.0	.	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	115	117	867.0	.	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	118	122	1402.0	.	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	123	130	2832.0	.	.	
+ch.2_295	RNASeq_reads	transcript_region	123	134	1.0	.	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	131	134	4741.0	.	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	135	139	8136.0	.	.	
+ch.2_295	RNASeq_reads	transcript_region	135	142	2.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	135	150	1.0	+	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	140	143	12638.0	.	.	
+ch.2_295	RNASeq_reads	transcript_region	143	153	4.0	.	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	144	153	21420.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	151	170	2.0	+	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	154	162	32817.0	.	.	
+ch.2_295	RNASeq_reads	transcript_region	154	162	7.0	.	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	163	173	51297.0	.	.	
+ch.2_295	RNASeq_reads	transcript_region	163	174	11.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	171	189	4.0	+	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	174	189	79278.0	.	.	
+ch.2_295	RNASeq_reads	transcript_region	175	189	17.0	.	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	190	198	141965.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	190	198	9.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	190	199	30.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	199	202	14.0	+	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	199	227	216919.0	.	.	
+ch.2_295	RNASeq_reads	transcript_region	200	224	46.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	203	222	24.0	+	.	
+ch.2_295	WormBase	CDS	203	298	.	+	.	ID=CDS:F37A4.2;Parent=Transcript:F37A4.2.1
+ch.2_295	RNASeq_stranded	transcript_region	209	245	1.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	223	290	37.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	225	298	71.0	.	.	
+ch.2_295	RNASeq_F_asymmetry	transcript_region	228	256	326321.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	246	260	2.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	261	263	1.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	264	264	2.0	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	265	298	1.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	291	298	24.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	299	299	10.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	299	299	2.0	+	.	
+ch.2_295	WormBase	intron	299	349	.	+	.	Parent=Transcript:F37A4.2.1
+ch.2_295	RNASeq_splice	intron	299	349	396268.0	+	.	
+ch.2_295	RNASeq_splice	intron	299	355	17.0	+	.	
+ch.2_295	RNASeq_splice	intron	299	379	3.0	+	.	
+ch.2_295	RNASeq_splice	intron	303	355	10.0	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	350	382	1.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	350	445	25.0	+	.	
+ch.2_295	WormBase	CDS	350	474	.	+	.	ID=CDS:F37A4.2;Parent=Transcript:F37A4.2.1
+ch.2_295	WormBase	exon	350	474	.	+	.	Parent=Transcript:F37A4.2.1
+ch.2_295	RNASeq_reads	transcript_region	350	474	84.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	383	407	2.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	408	474	1.0	-	.	
+ch.2_295	RNASeq_splice	intron	425	522	349.0	+	.	
+ch.2_295	RNASeq_splice	intron	428	522	46.0	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	446	474	38.0	+	.	
+ch.2_295	WormBase	intron	475	522	.	+	.	Parent=Transcript:F37A4.2.1
+ch.2_295	RNASeq_splice	intron	475	522	522723.0	+	.	
+ch.2_295	RNASeq_splice	intron	475	539	4.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	517	519	5.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	517	519	3.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	520	522	12.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	520	522	9.0	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	523	533	1.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	523	682	45.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	523	830	101.0	.	.	
+ch.2_295	WormBase	CDS	523	871	.	+	.	ID=CDS:F37A4.2;Parent=Transcript:F37A4.2.1
+ch.2_295	WormBase	exon	523	930	.	+	.	Parent=Transcript:F37A4.2.1
+ch.2_295	RNASeq_stranded	transcript_region	535	542	1.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	546	656	1.0	-	.	
+ch.2_295	RNASeq_splice	intron	567	601	3.0	+	.	
+ch.2_295	RNASeq_splice	intron	579	629	3.0	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	683	811	71.0	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	715	719	1.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	723	806	1.0	-	.	
+ch.2_295	RNASeq_stranded	transcript_region	812	890	108.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	831	885	66.0	.	.	
+ch.2_295	RNASeq	transcription_end_site	834	834	.	+	.	
+ch.2_295	RNASeq	transcription_end_site	836	836	.	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	846	932	1.0	-	.	
+ch.2_295	RNASeq	transcription_end_site	869	869	.	+	.	
+ch.2_295	WormBase	three_prime_UTR	872	930	.	+	.	Parent=Transcript:F37A4.2.1
+ch.2_295	RNASeq_reads	transcript_region	886	898	39.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	891	907	71.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	899	910	24.0	.	.	
+ch.2_295	RNASeq	transcription_end_site	908	908	.	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	908	913	44.0	+	.	
+ch.2_295	RNASeq	transcription_end_site	911	911	.	+	.	
+ch.2_295	RNASeq_reads	transcript_region	911	920	15.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	914	922	29.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	921	930	9.0	.	.	
+ch.2_295	RNASeq	transcription_end_site	922	922	.	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	923	930	19.0	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	931	931	12.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	931	932	4.0	.	.	
+ch.2_295	RNASeq_stranded	transcript_region	932	932	7.0	+	.	
+ch.2_295	RNASeq	transcription_end_site	932	932	.	+	.	
+ch.2_295	RNASeq_stranded	transcript_region	933	947	1.0	+	.	
+ch.2_295	RNASeq_reads	transcript_region	933	983	1.0	.	.	
+ch.2_295	RNASeq	transcription_end_site	943	943	.	+	.	
+ch.2_295	RNASeq	transcription_end_site	978	978	.	+	.	

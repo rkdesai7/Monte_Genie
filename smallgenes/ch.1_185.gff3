@@ -1,0 +1,43 @@
+ch.1_185	WormBase	three_prime_UTR	509	579	.	+	.	Parent=Transcript:T26H5.10.1
+ch.1_185	WormBase	exon	282	579	.	+	.	Parent=Transcript:T26H5.10.1
+ch.1_185	WormBase	gene	101	579	.	+	.	ID=Gene:WBGene00044783
+ch.1_185	WormBase	mRNA	101	579	.	+	.	ID=Transcript:T26H5.10.1;Parent=Gene:WBGene00044783
+ch.1_185	RNASeq_stranded	transcript_region	568	575	1.0	+	.	
+ch.1_185	RNASeq_stranded	transcript_region	548	567	2.0	+	.	
+ch.1_185	RNASeq_reads	transcript_region	540	549	1.0	.	.	
+ch.1_185	RNASeq_stranded	transcript_region	538	547	7.0	+	.	
+ch.1_185	RNASeq_R_asymmetry	transcript_region	545	545	4286.0	.	.	
+ch.1_185	RNASeq_reads	transcript_region	510	539	2.0	.	.	
+ch.1_185	RNASeq_stranded	transcript_region	522	537	11.0	+	.	
+ch.1_185	RNASeq_stranded	transcript_region	500	521	17.0	+	.	
+ch.1_185	RNASeq_reads	transcript_region	481	509	4.0	.	.	
+ch.1_185	WormBase	CDS	282	508	.	+	.	ID=CDS:T26H5.10;Parent=Transcript:T26H5.10.1
+ch.1_185	RNASeq_stranded	transcript_region	400	499	26.0	+	.	
+ch.1_185	RNASeq_reads	transcript_region	282	480	7.0	.	.	
+ch.1_185	RNASeq_stranded	transcript_region	397	439	1.0	-	.	
+ch.1_185	RNASeq_stranded	transcript_region	322	399	17.0	+	.	
+ch.1_185	RNASeq_stranded	transcript_region	283	321	11.0	+	.	
+ch.1_185	RNASeq	transcription_end_site	315	315	.	-	.	
+ch.1_185	RNASeq_splice	intron	233	293	44.0	+	.	
+ch.1_185	RNASeq	transcription_end_site	283	283	.	-	.	
+ch.1_185	RNASeq	transcription_end_site	283	283	.	-	.	
+ch.1_185	RNASeq_stranded	transcript_region	282	282	7.0	-	.	
+ch.1_185	WormBase	intron	233	281	.	+	.	Parent=Transcript:T26H5.10.1
+ch.1_185	RNASeq_splice	intron	233	281	24693.0	+	.	
+ch.1_185	RNASeq_splice	intron	233	263	10.0	+	.	
+ch.1_185	RNASeq_reads	transcript_region	233	233	1.0	.	.	
+ch.1_185	RNASeq_stranded	transcript_region	233	233	1.0	-	.	
+ch.1_185	RNASeq_stranded	transcript_region	201	232	7.0	+	.	
+ch.1_185	WormBase	CDS	133	232	.	+	.	ID=CDS:T26H5.10;Parent=Transcript:T26H5.10.1
+ch.1_185	RNASeq_reads	transcript_region	110	232	6.0	.	.	
+ch.1_185	WormBase	exon	101	232	.	+	.	Parent=Transcript:T26H5.10.1
+ch.1_185	RNASeq_stranded	transcript_region	110	200	11.0	+	.	
+ch.1_185	RNASeq_R_asymmetry	transcript_region	110	163	25009.0	.	.	
+ch.1_185	WormBase	five_prime_UTR	101	132	.	+	.	Parent=Transcript:T26H5.10.1
+ch.1_185	RNASeq_R_asymmetry	transcript_region	104	109	16296.0	.	.	
+ch.1_185	RNASeq_stranded	transcript_region	104	109	7.0	+	.	
+ch.1_185	RNASeq_reads	transcript_region	101	109	3.0	.	.	
+ch.1_185	RNASeq_stranded	transcript_region	102	103	4.0	+	.	
+ch.1_185	RNASeq_R_asymmetry	transcript_region	101	103	9678.0	.	.	
+ch.1_185	RNASeq_stranded	transcript_region	101	101	2.0	-	.	
+ch.1_185	RNASeq_reads	transcript_region	91	100	1.0	.	.	

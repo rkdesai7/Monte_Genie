@@ -1,0 +1,30 @@
+ch.1_305	RNASeq_F_asymmetry	transcript_region	690	690	371.0	.	.	
+ch.1_305	RNASeq_F_asymmetry	transcript_region	687	689	820.0	.	.	
+ch.1_305	WormBase	three_prime_UTR	538	689	.	+	.	Parent=Transcript:K04A8.8.1
+ch.1_305	WormBase	exon	385	689	.	+	.	Parent=Transcript:K04A8.8.1
+ch.1_305	WormBase	gene	101	689	.	+	.	ID=Gene:WBGene00005005
+ch.1_305	WormBase	mRNA	101	689	.	+	.	ID=Transcript:K04A8.8.1;Parent=Gene:WBGene00005005
+ch.1_305	RNASeq_F_asymmetry	transcript_region	657	686	1383.0	.	.	
+ch.1_305	RNASeq_F_asymmetry	transcript_region	595	656	2090.0	.	.	
+ch.1_305	RNASeq_reads	transcript_region	515	622	1.0	.	.	
+ch.1_305	WormBase	CDS	385	537	.	+	.	ID=CDS:K04A8.8;Parent=Transcript:K04A8.8.1
+ch.1_305	RNASeq_reads	transcript_region	514	514	2.0	.	.	
+ch.1_305	RNASeq_reads	transcript_region	506	513	1.0	.	.	
+ch.1_305	RNASeq_reads	transcript_region	385	505	2.0	.	.	
+ch.1_305	RNASeq_F_asymmetry	transcript_region	452	496	6239.0	.	.	
+ch.1_305	WormBase	intron	304	384	.	+	.	Parent=Transcript:K04A8.8.1
+ch.1_305	RNASeq_splice	intron	304	384	12357.0	+	.	
+ch.1_305	RNASeq_reads	transcript_region	113	303	3.0	.	.	
+ch.1_305	WormBase	CDS	109	303	.	+	.	ID=CDS:K04A8.8;Parent=Transcript:K04A8.8.1
+ch.1_305	WormBase	exon	101	303	.	+	.	Parent=Transcript:K04A8.8.1
+ch.1_305	RNASeq_R_asymmetry	transcript_region	112	210	11146.0	.	.	
+ch.1_305	RNASeq_splice	intron	64	131	42.0	-	.	
+ch.1_305	RNASeq_reads	transcript_region	110	112	1.0	.	.	
+ch.1_305	RNASeq_R_asymmetry	transcript_region	111	111	6696.0	.	.	
+ch.1_305	RNASeq_R_asymmetry	transcript_region	103	110	2429.0	.	.	
+ch.1_305	WormBase	five_prime_UTR	101	108	.	+	.	Parent=Transcript:K04A8.8.1
+ch.1_305	RNASeq_R_asymmetry	transcript_region	85	102	1599.0	.	.	
+ch.1_305	RNASeq_splice	intron	56	99	14.0	+	.	
+ch.1_305	RNASeq_R_asymmetry	transcript_region	69	84	962.0	.	.	
+ch.1_305	RNASeq_R_asymmetry	transcript_region	12	68	624.0	.	.	
+ch.1_305	RNASeq_R_asymmetry	transcript_region	8	11	307.0	.	.	

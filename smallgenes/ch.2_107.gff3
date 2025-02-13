@@ -1,0 +1,42 @@
+ch.2_107	RNASeq_splice	intron	84	126	6.0	+	.	
+ch.2_107	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:Y39H10A.1.1
+ch.2_107	WormBase	exon	101	204	.	+	.	Parent=Transcript:Y39H10A.1.1
+ch.2_107	WormBase	gene	101	705	.	+	.	ID=Gene:WBGene00021478
+ch.2_107	WormBase	mRNA	101	705	.	+	.	ID=Transcript:Y39H10A.1.1;Parent=Gene:WBGene00021478
+ch.2_107	RNASeq_reads	transcript_region	105	109	1.0	.	.	
+ch.2_107	RNASeq_F_asymmetry	transcript_region	108	109	4013.0	.	.	
+ch.2_107	RNASeq_F_asymmetry	transcript_region	110	111	6813.0	.	.	
+ch.2_107	RNASeq_reads	transcript_region	110	112	2.0	.	.	
+ch.2_107	WormBase	CDS	111	204	.	+	.	ID=CDS:Y39H10A.1;Parent=Transcript:Y39H10A.1.1
+ch.2_107	RNASeq_F_asymmetry	transcript_region	112	112	11648.0	.	.	
+ch.2_107	RNASeq_F_asymmetry	transcript_region	113	117	18326.0	.	.	
+ch.2_107	RNASeq_reads	transcript_region	113	120	4.0	.	.	
+ch.2_107	RNASeq_F_asymmetry	transcript_region	118	133	27629.0	.	.	
+ch.2_107	RNASeq_reads	transcript_region	121	163	7.0	.	.	
+ch.2_107	RNASeq_F_asymmetry	transcript_region	134	204	42650.0	.	.	
+ch.2_107	RNASeq_reads	transcript_region	164	204	11.0	.	.	
+ch.2_107	RNASeq_F_asymmetry	transcript_region	205	206	16279.0	.	.	
+ch.2_107	RNASeq_reads	transcript_region	205	206	3.0	.	.	
+ch.2_107	WormBase	intron	205	253	.	+	.	Parent=Transcript:Y39H10A.1.1
+ch.2_107	RNASeq_splice	intron	205	253	40706.0	+	.	
+ch.2_107	RNASeq_reads	transcript_region	252	253	1.0	.	.	
+ch.2_107	WormBase	CDS	254	469	.	+	.	ID=CDS:Y39H10A.1;Parent=Transcript:Y39H10A.1.1
+ch.2_107	WormBase	exon	254	469	.	+	.	Parent=Transcript:Y39H10A.1.1
+ch.2_107	RNASeq_reads	transcript_region	254	469	9.0	.	.	
+ch.2_107	RNASeq_stranded	transcript_region	402	403	1.0	+	.	
+ch.2_107	RNASeq_reads	transcript_region	470	470	1.0	.	.	
+ch.2_107	WormBase	intron	470	518	.	+	.	Parent=Transcript:Y39H10A.1.1
+ch.2_107	RNASeq_splice	intron	470	518	40594.0	+	.	
+ch.2_107	RNASeq	transcription_end_site	471	471	.	+	.	
+ch.2_107	RNASeq_splice	intron	474	518	75.0	+	.	
+ch.2_107	RNASeq_reads	transcript_region	518	518	1.0	.	.	
+ch.2_107	RNASeq_reads	transcript_region	519	595	8.0	.	.	
+ch.2_107	WormBase	CDS	519	604	.	+	.	ID=CDS:Y39H10A.1;Parent=Transcript:Y39H10A.1.1
+ch.2_107	WormBase	exon	519	705	.	+	.	Parent=Transcript:Y39H10A.1.1
+ch.2_107	RNASeq_stranded	transcript_region	549	676	1.0	+	.	
+ch.2_107	RNASeq_R_asymmetry	transcript_region	562	592	33172.0	.	.	
+ch.2_107	RNASeq_reads	transcript_region	596	607	5.0	.	.	
+ch.2_107	WormBase	three_prime_UTR	605	705	.	+	.	Parent=Transcript:Y39H10A.1.1
+ch.2_107	RNASeq_reads	transcript_region	608	681	3.0	.	.	
+ch.2_107	RNASeq_reads	transcript_region	682	693	1.0	.	.	
+ch.2_107	RNASeq	transcription_end_site	689	689	.	+	.	

@@ -1,0 +1,69 @@
+ch.2_86	RNASeq_stranded	transcript_region	709	709	1.0	-	.	
+ch.2_86	RNASeq_splice	intron	560	702	4.0	-	.	
+ch.2_86	RNASeq	transcription_end_site	647	647	.	-	.	
+ch.2_86	RNASeq	transcription_end_site	647	647	.	-	.	
+ch.2_86	RNASeq	transcription_end_site	630	630	.	-	.	
+ch.2_86	RNASeq	transcription_end_site	630	630	.	-	.	
+ch.2_86	RNASeq_reads	transcript_region	626	630	1.0	.	.	
+ch.2_86	WormBase	three_prime_UTR	547	628	.	+	.	Parent=Transcript:Y42A5A.3.1
+ch.2_86	WormBase	exon	438	628	.	+	.	Parent=Transcript:Y42A5A.3.1
+ch.2_86	WormBase	gene	101	628	.	+	.	ID=Gene:WBGene00012778
+ch.2_86	WormBase	mRNA	101	628	.	+	.	ID=Transcript:Y42A5A.3.1;Parent=Gene:WBGene00012778
+ch.2_86	RNASeq_F_asymmetry	transcript_region	624	625	8030.0	.	.	
+ch.2_86	RNASeq_reads	transcript_region	623	625	2.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	623	625	1.0	+	.	
+ch.2_86	RNASeq_stranded	transcript_region	576	624	1.0	-	.	
+ch.2_86	RNASeq_F_asymmetry	transcript_region	616	623	13233.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	613	622	2.0	+	.	
+ch.2_86	RNASeq_reads	transcript_region	595	622	4.0	.	.	
+ch.2_86	RNASeq	transcription_end_site	619	619	.	-	.	
+ch.2_86	RNASeq	transcription_end_site	619	619	.	-	.	
+ch.2_86	RNASeq_F_asymmetry	transcript_region	598	615	20138.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	603	612	4.0	+	.	
+ch.2_86	RNASeq_stranded	transcript_region	591	602	7.0	+	.	
+ch.2_86	RNASeq_reads	transcript_region	543	594	7.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	574	590	11.0	+	.	
+ch.2_86	RNASeq_stranded	transcript_region	487	573	17.0	+	.	
+ch.2_86	WormBase	CDS	438	546	.	+	.	ID=CDS:Y42A5A.3;Parent=Transcript:Y42A5A.3.1
+ch.2_86	RNASeq_stranded	transcript_region	534	544	1.0	-	.	
+ch.2_86	RNASeq_reads	transcript_region	506	542	11.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	495	506	1.0	-	.	
+ch.2_86	RNASeq_reads	transcript_region	438	505	17.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	456	486	11.0	+	.	
+ch.2_86	RNASeq_stranded	transcript_region	438	455	7.0	+	.	
+ch.2_86	RNASeq_splice	intron	394	439	3.0	+	.	
+ch.2_86	RNASeq_reads	transcript_region	437	437	2.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	437	437	2.0	-	.	
+ch.2_86	WormBase	intron	390	437	.	+	.	Parent=Transcript:Y42A5A.3.1
+ch.2_86	RNASeq_splice	intron	390	437	79159.0	+	.	
+ch.2_86	RNASeq_reads	transcript_region	390	436	1.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	355	389	3.0	+	.	
+ch.2_86	WormBase	CDS	316	389	.	+	.	ID=CDS:Y42A5A.3;Parent=Transcript:Y42A5A.3.1
+ch.2_86	WormBase	exon	316	389	.	+	.	Parent=Transcript:Y42A5A.3.1
+ch.2_86	RNASeq_reads	transcript_region	316	389	15.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	321	354	5.0	+	.	
+ch.2_86	RNASeq_stranded	transcript_region	304	320	3.0	+	.	
+ch.2_86	RNASeq_reads	transcript_region	315	315	3.0	.	.	
+ch.2_86	WormBase	intron	270	315	.	+	.	Parent=Transcript:Y42A5A.3.1
+ch.2_86	RNASeq_splice	intron	270	315	65190.0	+	.	
+ch.2_86	RNASeq_reads	transcript_region	271	314	1.0	.	.	
+ch.2_86	RNASeq_reads	transcript_region	270	270	2.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	191	269	2.0	+	.	
+ch.2_86	RNASeq_reads	transcript_region	119	269	12.0	.	.	
+ch.2_86	WormBase	CDS	108	269	.	+	.	ID=CDS:Y42A5A.3;Parent=Transcript:Y42A5A.3.1
+ch.2_86	WormBase	exon	101	269	.	+	.	Parent=Transcript:Y42A5A.3.1
+ch.2_86	RNASeq_splice	intron	182	228	4.0	+	.	
+ch.2_86	RNASeq_stranded	transcript_region	114	190	4.0	+	.	
+ch.2_86	RNASeq_R_asymmetry	transcript_region	114	169	46381.0	.	.	
+ch.2_86	RNASeq_reads	transcript_region	103	118	7.0	.	.	
+ch.2_86	RNASeq_R_asymmetry	transcript_region	102	113	29689.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	101	113	2.0	+	.	
+ch.2_86	WormBase	five_prime_UTR	101	107	.	+	.	Parent=Transcript:Y42A5A.3.1
+ch.2_86	RNASeq_reads	transcript_region	100	102	4.0	.	.	
+ch.2_86	RNASeq_R_asymmetry	transcript_region	101	101	19186.0	.	.	
+ch.2_86	RNASeq_stranded	transcript_region	96	100	1.0	+	.	
+ch.2_86	RNASeq_R_asymmetry	transcript_region	95	100	11519.0	.	.	
+ch.2_86	RNASeq_splice	intron	37	100	499.0	+	.	
+ch.2_86	RNASeq_reads	transcript_region	95	99	2.0	.	.	
+ch.2_86	RNASeq_R_asymmetry	transcript_region	92	94	4138.0	.	.	
+ch.2_86	RNASeq_reads	transcript_region	91	94	1.0	.	.	

@@ -1,0 +1,75 @@
+ch.1_578	RNASeq_R_asymmetry	transcript_region	975	1028	48915.0	.	.	
+ch.1_578	RNASeq_reads	transcript_region	975	1028	12.0	.	.	
+ch.1_578	WormBase	CDS	962	1028	.	-	.	ID=CDS:C14C11.1;Parent=Transcript:C14C11.1.1
+ch.1_578	RNASeq_stranded	transcript_region	945	1028	3.0	-	.	
+ch.1_578	WormBase	exon	923	1028	.	-	.	Parent=Transcript:C14C11.1.1
+ch.1_578	RNASeq_R_asymmetry	transcript_region	961	974	32104.0	.	.	
+ch.1_578	RNASeq_reads	transcript_region	956	974	7.0	.	.	
+ch.1_578	WormBase	three_prime_UTR	923	961	.	-	.	Parent=Transcript:C14C11.1.1
+ch.1_578	RNASeq_R_asymmetry	transcript_region	953	960	21089.0	.	.	
+ch.1_578	RNASeq_reads	transcript_region	930	955	4.0	.	.	
+ch.1_578	RNASeq_R_asymmetry	transcript_region	950	952	12041.0	.	.	
+ch.1_578	RNASeq	transcription_end_site	951	951	.	-	.	
+ch.1_578	RNASeq	transcription_end_site	951	951	.	-	.	
+ch.1_578	RNASeq	transcription_end_site	948	948	.	-	.	
+ch.1_578	RNASeq	transcription_end_site	948	948	.	-	.	
+ch.1_578	RNASeq_stranded	transcript_region	947	948	1.0	+	.	
+ch.1_578	RNASeq_stranded	transcript_region	942	946	2.0	+	.	
+ch.1_578	RNASeq	transcription_end_site	945	945	.	-	.	
+ch.1_578	RNASeq	transcription_end_site	945	945	.	-	.	
+ch.1_578	WormBase	three_prime_UTR	763	945	.	+	.	Parent=Transcript:C14C11.7.1
+ch.1_578	WormBase	exon	609	945	.	+	.	Parent=Transcript:C14C11.7.1
+ch.1_578	WormBase	gene	101	945	.	+	.	ID=Gene:WBGene00015769
+ch.1_578	WormBase	mRNA	101	945	.	+	.	ID=Transcript:C14C11.7.1;Parent=Gene:WBGene00015769
+ch.1_578	RNASeq_stranded	transcript_region	924	944	1.0	-	.	
+ch.1_578	RNASeq_stranded	transcript_region	937	941	4.0	+	.	
+ch.1_578	RNASeq_stranded	transcript_region	924	936	7.0	+	.	
+ch.1_578	RNASeq	transcription_end_site	935	935	.	-	.	
+ch.1_578	RNASeq_reads	transcript_region	921	929	7.0	.	.	
+ch.1_578	RNASeq	transcription_end_site	928	928	.	-	.	
+ch.1_578	RNASeq	transcription_end_site	928	928	.	-	.	
+ch.1_578	RNASeq_stranded	transcript_region	921	923	11.0	+	.	
+ch.1_578	RNASeq_R_asymmetry	transcript_region	916	920	203335.0	.	.	
+ch.1_578	RNASeq_reads	transcript_region	886	920	45.0	.	.	
+ch.1_578	RNASeq_stranded	transcript_region	886	920	266.0	+	.	
+ch.1_578	RNASeq_reads	transcript_region	832	885	25.0	.	.	
+ch.1_578	RNASeq_stranded	transcript_region	816	885	28.0	+	.	
+ch.1_578	RNASeq_F_asymmetry	transcript_region	859	884	95066.0	.	.	
+ch.1_578	RNASeq_stranded	transcript_region	869	883	1.0	-	.	
+ch.1_578	RNASeq_stranded	transcript_region	850	863	1.0	-	.	
+ch.1_578	RNASeq_F_asymmetry	transcript_region	842	858	142669.0	.	.	
+ch.1_578	RNASeq_reads	transcript_region	716	831	38.0	.	.	
+ch.1_578	RNASeq_stranded	transcript_region	765	815	18.0	+	.	
+ch.1_578	RNASeq	transcription_end_site	772	772	.	-	.	
+ch.1_578	RNASeq	transcription_end_site	772	772	.	-	.	
+ch.1_578	RNASeq	transcription_end_site	771	771	.	-	.	
+ch.1_578	RNASeq	transcription_end_site	771	771	.	-	.	
+ch.1_578	RNASeq_stranded	transcript_region	755	764	29.0	+	.	
+ch.1_578	WormBase	CDS	609	762	.	+	.	ID=CDS:C14C11.7;Parent=Transcript:C14C11.7.1
+ch.1_578	RNASeq_stranded	transcript_region	702	754	44.0	+	.	
+ch.1_578	RNASeq_reads	transcript_region	609	715	58.0	.	.	
+ch.1_578	RNASeq_stranded	transcript_region	646	701	29.0	+	.	
+ch.1_578	RNASeq_stranded	transcript_region	609	652	1.0	-	.	
+ch.1_578	RNASeq_stranded	transcript_region	637	645	19.0	+	.	
+ch.1_578	RNASeq_stranded	transcript_region	609	636	12.0	+	.	
+ch.1_578	WormBase	intron	217	608	.	+	.	Parent=Transcript:C14C11.7.1
+ch.1_578	RNASeq_splice	intron	217	608	311391.0	+	.	
+ch.1_578	RNASeq_stranded	transcript_region	207	216	10.0	+	.	
+ch.1_578	RNASeq_stranded	transcript_region	149	216	1.0	-	.	
+ch.1_578	WormBase	CDS	122	216	.	+	.	ID=CDS:C14C11.7;Parent=Transcript:C14C11.7.1
+ch.1_578	RNASeq_reads	transcript_region	117	216	60.0	.	.	
+ch.1_578	WormBase	exon	101	216	.	+	.	Parent=Transcript:C14C11.7.1
+ch.1_578	RNASeq_stranded	transcript_region	174	206	16.0	+	.	
+ch.1_578	RNASeq_R_asymmetry	transcript_region	114	182	271272.0	.	.	
+ch.1_578	RNASeq_stranded	transcript_region	114	173	25.0	+	.	
+ch.1_578	WormBase	five_prime_UTR	101	121	.	+	.	Parent=Transcript:C14C11.7.1
+ch.1_578	RNASeq_reads	transcript_region	108	116	36.0	.	.	
+ch.1_578	RNASeq_R_asymmetry	transcript_region	107	113	165210.0	.	.	
+ch.1_578	RNASeq_stranded	transcript_region	107	113	16.0	+	.	
+ch.1_578	RNASeq_reads	transcript_region	106	107	23.0	.	.	
+ch.1_578	RNASeq_R_asymmetry	transcript_region	105	106	82244.0	.	.	
+ch.1_578	RNASeq_stranded	transcript_region	105	106	9.0	+	.	
+ch.1_578	RNASeq_splice	intron	29	106	137.0	+	.	
+ch.1_578	RNASeq_reads	transcript_region	101	105	15.0	.	.	
+ch.1_578	RNASeq_R_asymmetry	transcript_region	101	104	51803.0	.	.	
+ch.1_578	RNASeq_stranded	transcript_region	101	104	2.0	+	.	

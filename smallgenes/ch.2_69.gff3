@@ -1,0 +1,83 @@
+ch.2_69	RNASeq_stranded	transcript_region	727	794	224.0	-	.	
+ch.2_69	RNASeq_stranded	transcript_region	753	785	4.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	750	752	2.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	691	749	4.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	708	726	132.0	-	.	
+ch.2_69	RNASeq_reads	transcript_region	698	717	85.0	.	.	
+ch.2_69	RNASeq_stranded	transcript_region	695	707	87.0	-	.	
+ch.2_69	RNASeq_reads	transcript_region	693	697	56.0	.	.	
+ch.2_69	WormBase	three_prime_UTR	664	697	.	+	.	Parent=Transcript:C06G4.4.1
+ch.2_69	WormBase	exon	601	697	.	+	.	Parent=Transcript:C06G4.4.1
+ch.2_69	WormBase	gene	101	697	.	+	.	ID=Gene:WBGene00015558
+ch.2_69	WormBase	mRNA	101	697	.	+	.	ID=Transcript:C06G4.4.1;Parent=Gene:WBGene00015558
+ch.2_69	WormBase	three_prime_UTR	664	696	.	+	.	Parent=Transcript:C06G4.4.2
+ch.2_69	WormBase	exon	601	696	.	+	.	Parent=Transcript:C06G4.4.2
+ch.2_69	WormBase	mRNA	201	696	.	+	.	ID=Transcript:C06G4.4.2;Parent=Gene:WBGene00015558
+ch.2_69	RNASeq_stranded	transcript_region	689	694	55.0	-	.	
+ch.2_69	RNASeq_reads	transcript_region	688	692	36.0	.	.	
+ch.2_69	RNASeq_stranded	transcript_region	688	690	2.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	686	688	33.0	-	.	
+ch.2_69	RNASeq_reads	transcript_region	684	687	22.0	.	.	
+ch.2_69	RNASeq_stranded	transcript_region	628	687	1.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	684	685	21.0	-	.	
+ch.2_69	RNASeq	transcription_end_site	684	684	.	-	.	
+ch.2_69	RNASeq_reads	transcript_region	601	683	14.0	.	.	
+ch.2_69	RNASeq_stranded	transcript_region	600	683	13.0	-	.	
+ch.2_69	WormBase	CDS	601	663	.	+	.	ID=CDS:C06G4.4;Parent=Transcript:C06G4.4.1,Transcript:C06G4.4.2
+ch.2_69	RNASeq	transcription_end_site	656	656	.	-	.	
+ch.2_69	RNASeq	transcription_end_site	629	629	.	-	.	
+ch.2_69	RNASeq_stranded	transcript_region	601	627	2.0	+	.	
+ch.2_69	RNASeq	transcription_end_site	601	601	.	-	.	
+ch.2_69	RNASeq	transcription_end_site	600	600	.	-	.	
+ch.2_69	RNASeq_reads	transcript_region	590	600	7.0	.	.	
+ch.2_69	WormBase	intron	547	600	.	+	.	Parent=Transcript:C06G4.4.1
+ch.2_69	WormBase	intron	547	600	.	+	.	Parent=Transcript:C06G4.4.2
+ch.2_69	RNASeq_splice	intron	547	600	32191.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	590	599	8.0	-	.	
+ch.2_69	RNASeq_stranded	transcript_region	582	589	5.0	-	.	
+ch.2_69	RNASeq_reads	transcript_region	579	589	4.0	.	.	
+ch.2_69	RNASeq_splice	intron	547	588	4750.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	571	581	3.0	-	.	
+ch.2_69	RNASeq	transcription_end_site	580	580	.	-	.	
+ch.2_69	RNASeq_R_asymmetry	transcript_region	579	579	10787.0	.	.	
+ch.2_69	RNASeq	transcription_end_site	579	579	.	-	.	
+ch.2_69	RNASeq_reads	transcript_region	576	578	2.0	.	.	
+ch.2_69	RNASeq_reads	transcript_region	553	575	1.0	.	.	
+ch.2_69	RNASeq_stranded	transcript_region	560	570	1.0	-	.	
+ch.2_69	RNASeq	transcription_end_site	561	561	.	-	.	
+ch.2_69	RNASeq_reads	transcript_region	547	547	2.0	.	.	
+ch.2_69	RNASeq_stranded	transcript_region	502	546	2.0	+	.	
+ch.2_69	WormBase	CDS	220	546	.	+	.	ID=CDS:C06G4.4;Parent=Transcript:C06G4.4.1,Transcript:C06G4.4.2
+ch.2_69	WormBase	exon	203	546	.	+	.	Parent=Transcript:C06G4.4.1
+ch.2_69	RNASeq_reads	transcript_region	203	546	8.0	.	.	
+ch.2_69	WormBase	exon	201	546	.	+	.	Parent=Transcript:C06G4.4.2
+ch.2_69	RNASeq_stranded	transcript_region	378	501	1.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	399	458	1.0	-	.	
+ch.2_69	RNASeq_splice	intron	340	393	3.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	328	377	2.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	324	327	1.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	319	323	2.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	272	318	4.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	251	271	2.0	+	.	
+ch.2_69	RNASeq_stranded	transcript_region	250	250	1.0	-	.	
+ch.2_69	RNASeq_stranded	transcript_region	228	249	2.0	+	.	
+ch.2_69	RNASeq_R_asymmetry	transcript_region	203	229	33789.0	.	.	
+ch.2_69	RNASeq_stranded	transcript_region	203	227	1.0	+	.	
+ch.2_69	WormBase	five_prime_UTR	203	219	.	+	.	Parent=Transcript:C06G4.4.1
+ch.2_69	WormBase	five_prime_UTR	201	219	.	+	.	Parent=Transcript:C06G4.4.2
+ch.2_69	RNASeq_reads	transcript_region	202	202	2.0	.	.	
+ch.2_69	RNASeq_R_asymmetry	transcript_region	201	202	8022.0	.	.	
+ch.2_69	WormBase	intron	154	202	.	+	.	Parent=Transcript:C06G4.4.1
+ch.2_69	RNASeq_splice	intron	154	202	23830.0	+	.	
+ch.2_69	RNASeq_reads	transcript_region	201	201	1.0	.	.	
+ch.2_69	RNASeq_R_asymmetry	transcript_region	133	153	20252.0	.	.	
+ch.2_69	RNASeq_reads	transcript_region	131	153	4.0	.	.	
+ch.2_69	WormBase	exon	101	153	.	+	.	Parent=Transcript:C06G4.4.1
+ch.2_69	WormBase	five_prime_UTR	101	153	.	+	.	Parent=Transcript:C06G4.4.1
+ch.2_69	RNASeq_R_asymmetry	transcript_region	131	132	13155.0	.	.	
+ch.2_69	RNASeq_reads	transcript_region	130	130	2.0	.	.	
+ch.2_69	RNASeq_R_asymmetry	transcript_region	126	130	6722.0	.	.	
+ch.2_69	RNASeq_reads	transcript_region	90	129	1.0	.	.	
+ch.2_69	RNASeq_R_asymmetry	transcript_region	120	124	4107.0	.	.	
+ch.2_69	RNASeq_R_asymmetry	transcript_region	113	113	3403.0	.	.	
+ch.2_69	RNASeq_splice	intron	66	113	5.0	+	.	

@@ -1,0 +1,80 @@
+ch.2_252	WormBase	five_prime_UTR	101	207	.	+	.	Parent=Transcript:T10B11.1.1
+ch.2_252	WormBase	exon	101	342	.	+	.	Parent=Transcript:T10B11.1.1
+ch.2_252	WormBase	gene	101	948	.	+	.	ID=Gene:WBGene00020397
+ch.2_252	WormBase	mRNA	101	948	.	+	.	ID=Transcript:T10B11.1.1;Parent=Gene:WBGene00020397
+ch.2_252	RNASeq_stranded	transcript_region	157	157	1.0	+	.	
+ch.2_252	RNASeq_F_asymmetry	transcript_region	157	159	30085.0	.	.	
+ch.2_252	RNASeq_reads	transcript_region	157	159	6.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	158	168	2.0	+	.	
+ch.2_252	RNASeq_F_asymmetry	transcript_region	160	167	48556.0	.	.	
+ch.2_252	RNASeq_reads	transcript_region	160	169	11.0	.	.	
+ch.2_252	RNASeq_F_asymmetry	transcript_region	168	198	73240.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	169	294	4.0	+	.	
+ch.2_252	RNASeq_reads	transcript_region	170	207	17.0	.	.	
+ch.2_252	RNASeq_F_asymmetry	transcript_region	199	231	110444.0	.	.	
+ch.2_252	RNASeq_reads	transcript_region	208	295	26.0	.	.	
+ch.2_252	WormBase	CDS	208	342	.	+	.	ID=CDS:T10B11.1;Parent=Transcript:T10B11.1.1
+ch.2_252	RNASeq_stranded	transcript_region	295	312	13.0	+	.	
+ch.2_252	RNASeq_reads	transcript_region	296	315	40.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	313	326	20.0	+	.	
+ch.2_252	RNASeq_reads	transcript_region	316	342	62.0	.	.	
+ch.2_252	RNASeq_splice	intron	320	517	67.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	327	342	33.0	+	.	
+ch.2_252	WormBase	intron	343	517	.	+	.	Parent=Transcript:T10B11.1.1
+ch.2_252	RNASeq_splice	intron	343	517	463042.0	+	.	
+ch.2_252	RNASeq_reads	transcript_region	507	516	1.0	.	.	
+ch.2_252	RNASeq_F_asymmetry	transcript_region	517	517	165883.0	.	.	
+ch.2_252	RNASeq_reads	transcript_region	517	517	39.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	517	517	5.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	518	535	27.0	+	.	
+ch.2_252	WormBase	CDS	518	637	.	+	.	ID=CDS:T10B11.1;Parent=Transcript:T10B11.1.1
+ch.2_252	WormBase	exon	518	637	.	+	.	Parent=Transcript:T10B11.1.1
+ch.2_252	RNASeq_reads	transcript_region	518	637	114.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	536	609	44.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	551	557	1.0	-	.	
+ch.2_252	RNASeq_stranded	transcript_region	560	560	1.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	610	616	29.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	617	631	17.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	632	637	11.0	+	.	
+ch.2_252	RNASeq_reads	transcript_region	638	638	18.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	638	638	3.0	+	.	
+ch.2_252	WormBase	intron	638	687	.	+	.	Parent=Transcript:T10B11.1.1
+ch.2_252	RNASeq_splice	intron	638	687	710053.0	+	.	
+ch.2_252	RNASeq_F_asymmetry	transcript_region	639	643	28940.0	.	.	
+ch.2_252	RNASeq_reads	transcript_region	639	643	7.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	639	643	1.0	+	.	
+ch.2_252	RNASeq_reads	transcript_region	679	685	1.0	.	.	
+ch.2_252	RNASeq_reads	transcript_region	686	687	13.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	686	687	7.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	688	700	14.0	+	.	
+ch.2_252	RNASeq_reads	transcript_region	688	826	127.0	.	.	
+ch.2_252	WormBase	CDS	688	861	.	+	.	ID=CDS:T10B11.1;Parent=Transcript:T10B11.1.1
+ch.2_252	WormBase	exon	688	948	.	+	.	Parent=Transcript:T10B11.1.1
+ch.2_252	RNASeq_stranded	transcript_region	701	767	22.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	768	793	35.0	+	.	
+ch.2_252	RNASeq_R_asymmetry	transcript_region	783	826	481789.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	794	870	53.0	+	.	
+ch.2_252	RNASeq_R_asymmetry	transcript_region	827	828	313995.0	.	.	
+ch.2_252	RNASeq_reads	transcript_region	827	830	79.0	.	.	
+ch.2_252	RNASeq_reads	transcript_region	831	849	52.0	.	.	
+ch.2_252	RNASeq_reads	transcript_region	850	884	34.0	.	.	
+ch.2_252	WormBase	three_prime_UTR	862	948	.	+	.	Parent=Transcript:T10B11.1.1
+ch.2_252	RNASeq_stranded	transcript_region	863	870	1.0	-	.	
+ch.2_252	RNASeq	transcription_end_site	871	871	.	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	871	883	2.0	-	.	
+ch.2_252	RNASeq_stranded	transcript_region	871	887	34.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	884	903	4.0	-	.	
+ch.2_252	RNASeq_reads	transcript_region	885	897	22.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	888	897	22.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	898	901	14.0	+	.	
+ch.2_252	RNASeq_reads	transcript_region	898	911	14.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	902	908	9.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	904	938	7.0	-	.	
+ch.2_252	RNASeq_stranded	transcript_region	909	915	5.0	+	.	
+ch.2_252	RNASeq_reads	transcript_region	912	926	9.0	.	.	
+ch.2_252	RNASeq	transcription_end_site	913	913	.	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	916	919	3.0	+	.	
+ch.2_252	RNASeq_stranded	transcript_region	920	954	1.0	+	.	
+ch.2_252	RNASeq	transcription_end_site	926	926	.	+	.	
+ch.2_252	RNASeq_reads	transcript_region	927	984	5.0	.	.	
+ch.2_252	RNASeq_stranded	transcript_region	939	1042	11.0	-	.	

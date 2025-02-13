@@ -1,0 +1,59 @@
+ch.2_29	RNASeq_F_asymmetry	transcript_region	648	666	319.0	.	.	
+ch.2_29	RNASeq_F_asymmetry	transcript_region	626	629	1310.0	.	.	
+ch.2_29	WormBase	three_prime_UTR	604	626	.	+	.	Parent=Transcript:ZK849.6.1
+ch.2_29	WormBase	exon	547	626	.	+	.	Parent=Transcript:ZK849.6.1
+ch.2_29	WormBase	gene	101	626	.	+	.	ID=Gene:WBGene00014104
+ch.2_29	WormBase	mRNA	101	626	.	+	.	ID=Transcript:ZK849.6.1;Parent=Gene:WBGene00014104
+ch.2_29	RNASeq_F_asymmetry	transcript_region	624	625	2933.0	.	.	
+ch.2_29	RNASeq_reads	transcript_region	623	625	1.0	.	.	
+ch.2_29	RNASeq_stranded	transcript_region	617	623	1.0	+	.	
+ch.2_29	RNASeq_F_asymmetry	transcript_region	612	622	8886.0	.	.	
+ch.2_29	RNASeq_reads	transcript_region	606	622	2.0	.	.	
+ch.2_29	RNASeq_stranded	transcript_region	553	616	2.0	+	.	
+ch.2_29	RNASeq_F_asymmetry	transcript_region	602	611	13538.0	.	.	
+ch.2_29	RNASeq_reads	transcript_region	596	605	4.0	.	.	
+ch.2_29	WormBase	CDS	547	603	.	+	.	ID=CDS:ZK849.6;Parent=Transcript:ZK849.6.1
+ch.2_29	RNASeq_F_asymmetry	transcript_region	594	601	21147.0	.	.	
+ch.2_29	RNASeq_reads	transcript_region	579	595	7.0	.	.	
+ch.2_29	RNASeq_F_asymmetry	transcript_region	578	593	31811.0	.	.	
+ch.2_29	RNASeq_reads	transcript_region	547	578	11.0	.	.	
+ch.2_29	RNASeq_F_asymmetry	transcript_region	547	577	48375.0	.	.	
+ch.2_29	RNASeq_stranded	transcript_region	547	552	1.0	+	.	
+ch.2_29	RNASeq_F_asymmetry	transcript_region	544	546	5679.0	.	.	
+ch.2_29	RNASeq_reads	transcript_region	544	546	1.0	.	.	
+ch.2_29	WormBase	intron	495	546	.	+	.	Parent=Transcript:ZK849.6.1
+ch.2_29	RNASeq_splice	intron	495	546	70407.0	+	.	
+ch.2_29	RNASeq_splice	intron	495	529	3.0	+	.	
+ch.2_29	RNASeq_stranded	transcript_region	485	494	1.0	+	.	
+ch.2_29	RNASeq_F_asymmetry	transcript_region	473	494	61621.0	.	.	
+ch.2_29	WormBase	CDS	372	494	.	+	.	ID=CDS:ZK849.6;Parent=Transcript:ZK849.6.1
+ch.2_29	WormBase	exon	372	494	.	+	.	Parent=Transcript:ZK849.6.1
+ch.2_29	RNASeq_reads	transcript_region	372	494	14.0	.	.	
+ch.2_29	RNASeq_stranded	transcript_region	436	484	2.0	+	.	
+ch.2_29	RNASeq_stranded	transcript_region	430	435	1.0	+	.	
+ch.2_29	RNASeq_stranded	transcript_region	381	429	2.0	+	.	
+ch.2_29	RNASeq_stranded	transcript_region	372	380	1.0	+	.	
+ch.2_29	RNASeq_reads	transcript_region	368	371	1.0	.	.	
+ch.2_29	WormBase	intron	248	371	.	+	.	Parent=Transcript:ZK849.6.1
+ch.2_29	RNASeq_splice	intron	248	371	71778.0	+	.	
+ch.2_29	WormBase	CDS	230	247	.	+	.	ID=CDS:ZK849.6;Parent=Transcript:ZK849.6.1
+ch.2_29	RNASeq_stranded	transcript_region	222	247	1.0	+	.	
+ch.2_29	RNASeq_reads	transcript_region	208	247	13.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	200	247	53832.0	.	.	
+ch.2_29	WormBase	exon	101	247	.	+	.	Parent=Transcript:ZK849.6.1
+ch.2_29	WormBase	five_prime_UTR	101	229	.	+	.	Parent=Transcript:ZK849.6.1
+ch.2_29	RNASeq_reads	transcript_region	197	207	8.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	197	199	34328.0	.	.	
+ch.2_29	RNASeq_reads	transcript_region	189	196	5.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	185	196	21979.0	.	.	
+ch.2_29	RNASeq_reads	transcript_region	169	188	3.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	171	184	14354.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	167	170	8402.0	.	.	
+ch.2_29	RNASeq_reads	transcript_region	160	168	1.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	160	166	3927.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	156	159	2281.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	152	155	1502.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	142	151	935.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	123	141	616.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	104	122	371.0	.	.	
+ch.2_29	RNASeq_R_asymmetry	transcript_region	97	103	241.0	.	.	

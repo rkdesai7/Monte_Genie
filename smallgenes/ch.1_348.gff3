@@ -1,0 +1,40 @@
+ch.1_348	WormBase	five_prime_UTR	101	214	.	+	.	Parent=Transcript:T22G5.7.1
+ch.1_348	WormBase	exon	101	343	.	+	.	Parent=Transcript:T22G5.7.1
+ch.1_348	WormBase	gene	101	612	.	+	.	ID=Gene:WBGene00004997
+ch.1_348	WormBase	mRNA	101	612	.	+	.	ID=Transcript:T22G5.7.1;Parent=Gene:WBGene00004997
+ch.1_348	RNASeq_F_asymmetry	transcript_region	156	156	1620.0	.	.	
+ch.1_348	RNASeq_F_asymmetry	transcript_region	158	169	1696.0	.	.	
+ch.1_348	RNASeq_reads	transcript_region	165	193	1.0	.	.	
+ch.1_348	RNASeq_F_asymmetry	transcript_region	170	179	2582.0	.	.	
+ch.1_348	RNASeq_F_asymmetry	transcript_region	180	183	3967.0	.	.	
+ch.1_348	RNASeq_reads	transcript_region	194	214	2.0	.	.	
+ch.1_348	RNASeq_stranded	transcript_region	203	206	6.0	+	.	
+ch.1_348	RNASeq_stranded	transcript_region	207	237	10.0	+	.	
+ch.1_348	RNASeq_reads	transcript_region	215	221	4.0	.	.	
+ch.1_348	WormBase	CDS	215	343	.	+	.	ID=CDS:T22G5.7;Parent=Transcript:T22G5.7.1
+ch.1_348	RNASeq_reads	transcript_region	222	243	8.0	.	.	
+ch.1_348	RNASeq_stranded	transcript_region	238	282	16.0	+	.	
+ch.1_348	RNASeq_reads	transcript_region	244	343	13.0	.	.	
+ch.1_348	RNASeq_stranded	transcript_region	283	313	25.0	+	.	
+ch.1_348	RNASeq_stranded	transcript_region	314	324	12.0	+	.	
+ch.1_348	RNASeq_stranded	transcript_region	325	343	24.0	+	.	
+ch.1_348	RNASeq_reads	transcript_region	344	344	1.0	.	.	
+ch.1_348	RNASeq_stranded	transcript_region	344	344	2.0	+	.	
+ch.1_348	WormBase	intron	344	388	.	+	.	Parent=Transcript:T22G5.7.1
+ch.1_348	RNASeq_splice	intron	344	388	49380.0	+	.	
+ch.1_348	RNASeq_stranded	transcript_region	384	386	2.0	+	.	
+ch.1_348	RNASeq_reads	transcript_region	384	388	2.0	.	.	
+ch.1_348	RNASeq_stranded	transcript_region	387	388	13.0	+	.	
+ch.1_348	RNASeq_reads	transcript_region	389	521	11.0	.	.	
+ch.1_348	RNASeq_stranded	transcript_region	389	550	34.0	+	.	
+ch.1_348	WormBase	CDS	389	580	.	+	.	ID=CDS:T22G5.7;Parent=Transcript:T22G5.7.1
+ch.1_348	WormBase	exon	389	612	.	+	.	Parent=Transcript:T22G5.7.1
+ch.1_348	RNASeq_reads	transcript_region	522	550	7.0	.	.	
+ch.1_348	RNASeq_stranded	transcript_region	551	562	15.0	+	.	
+ch.1_348	RNASeq_reads	transcript_region	551	577	4.0	.	.	
+ch.1_348	RNASeq_stranded	transcript_region	563	579	8.0	+	.	
+ch.1_348	RNASeq_reads	transcript_region	578	594	2.0	.	.	
+ch.1_348	RNASeq_stranded	transcript_region	580	593	5.0	+	.	
+ch.1_348	WormBase	three_prime_UTR	581	612	.	+	.	Parent=Transcript:T22G5.7.1
+ch.1_348	RNASeq_stranded	transcript_region	594	612	3.0	+	.	
+ch.1_348	RNASeq_reads	transcript_region	595	610	1.0	.	.	

@@ -1,0 +1,46 @@
+ch.1_196	RNASeq_reads	transcript_region	585	606	9.0	.	.	
+ch.1_196	RNASeq_stranded	transcript_region	581	588	11.0	-	.	
+ch.1_196	RNASeq_reads	transcript_region	543	584	5.0	.	.	
+ch.1_196	RNASeq_stranded	transcript_region	538	580	7.0	-	.	
+ch.1_196	RNASeq_reads	transcript_region	517	542	3.0	.	.	
+ch.1_196	RNASeq_stranded	transcript_region	526	537	4.0	-	.	
+ch.1_196	RNASeq_stranded	transcript_region	518	525	2.0	-	.	
+ch.1_196	WormBase	three_prime_UTR	510	525	.	+	.	Parent=Transcript:C43H6.8.1
+ch.1_196	WormBase	exon	365	525	.	+	.	Parent=Transcript:C43H6.8.1
+ch.1_196	WormBase	gene	101	525	.	+	.	ID=Gene:WBGene00001959
+ch.1_196	WormBase	mRNA	101	525	.	+	.	ID=Transcript:C43H6.8.1;Parent=Gene:WBGene00001959
+ch.1_196	RNASeq	transcription_end_site	520	520	.	-	.	
+ch.1_196	RNASeq	transcription_end_site	517	517	.	-	.	
+ch.1_196	RNASeq_stranded	transcript_region	515	517	1.0	-	.	
+ch.1_196	RNASeq_reads	transcript_region	429	516	1.0	.	.	
+ch.1_196	RNASeq	transcription_end_site	511	511	.	-	.	
+ch.1_196	WormBase	CDS	365	509	.	+	.	ID=CDS:C43H6.8;Parent=Transcript:C43H6.8.1
+ch.1_196	RNASeq_F_asymmetry	transcript_region	500	504	2631.0	.	.	
+ch.1_196	RNASeq_F_asymmetry	transcript_region	487	494	3352.0	.	.	
+ch.1_196	RNASeq_stranded	transcript_region	442	486	1.0	+	.	
+ch.1_196	RNASeq_F_asymmetry	transcript_region	482	482	4276.0	.	.	
+ch.1_196	RNASeq_stranded	transcript_region	440	440	1.0	-	.	
+ch.1_196	RNASeq_reads	transcript_region	384	428	2.0	.	.	
+ch.1_196	RNASeq_stranded	transcript_region	420	424	1.0	+	.	
+ch.1_196	RNASeq_stranded	transcript_region	418	418	1.0	-	.	
+ch.1_196	RNASeq_F_asymmetry	transcript_region	390	418	9212.0	.	.	
+ch.1_196	RNASeq_stranded	transcript_region	412	415	1.0	+	.	
+ch.1_196	RNASeq_stranded	transcript_region	406	406	1.0	-	.	
+ch.1_196	RNASeq_reads	transcript_region	365	383	4.0	.	.	
+ch.1_196	RNASeq_splice	intron	315	375	3.0	+	.	
+ch.1_196	WormBase	intron	315	364	.	+	.	Parent=Transcript:C43H6.8.1
+ch.1_196	RNASeq_splice	intron	315	364	20490.0	+	.	
+ch.1_196	RNASeq_F_asymmetry	transcript_region	363	363	966.0	.	.	
+ch.1_196	RNASeq_splice	intron	315	353	13.0	+	.	
+ch.1_196	WormBase	CDS	190	314	.	+	.	ID=CDS:C43H6.8;Parent=Transcript:C43H6.8.1
+ch.1_196	RNASeq_reads	transcript_region	147	314	3.0	.	.	
+ch.1_196	WormBase	exon	101	314	.	+	.	Parent=Transcript:C43H6.8.1
+ch.1_196	RNASeq_stranded	transcript_region	179	269	1.0	+	.	
+ch.1_196	WormBase	five_prime_UTR	101	189	.	+	.	Parent=Transcript:C43H6.8.1
+ch.1_196	RNASeq_stranded	transcript_region	177	177	1.0	-	.	
+ch.1_196	RNASeq_R_asymmetry	transcript_region	165	165	9390.0	.	.	
+ch.1_196	RNASeq_R_asymmetry	transcript_region	159	159	8637.0	.	.	
+ch.1_196	RNASeq_R_asymmetry	transcript_region	135	148	5929.0	.	.	
+ch.1_196	RNASeq_reads	transcript_region	119	146	1.0	.	.	
+ch.1_196	RNASeq_R_asymmetry	transcript_region	121	134	3830.0	.	.	
+ch.1_196	RNASeq_R_asymmetry	transcript_region	118	120	2500.0	.	.	

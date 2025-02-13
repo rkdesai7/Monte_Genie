@@ -1,0 +1,44 @@
+ch.1_174	RNASeq	transcription_end_site	476	476	.	-	.	
+ch.1_174	RNASeq	transcription_end_site	476	476	.	-	.	
+ch.1_174	RNASeq_R_asymmetry	transcript_region	475	475	1194.0	.	.	
+ch.1_174	RNASeq_reads	transcript_region	464	470	1.0	.	.	
+ch.1_174	RNASeq_stranded	transcript_region	449	470	1.0	+	.	
+ch.1_174	WormBase	three_prime_UTR	397	468	.	+	.	Parent=Transcript:R10H10.4.1
+ch.1_174	WormBase	exon	298	468	.	+	.	Parent=Transcript:R10H10.4.1
+ch.1_174	WormBase	gene	101	468	.	+	.	ID=Gene:WBGene00011223
+ch.1_174	WormBase	mRNA	101	468	.	+	.	ID=Transcript:R10H10.4.1;Parent=Gene:WBGene00011223
+ch.1_174	RNASeq_reads	transcript_region	406	463	2.0	.	.	
+ch.1_174	RNASeq_stranded	transcript_region	443	448	2.0	+	.	
+ch.1_174	RNASeq_stranded	transcript_region	441	442	1.0	+	.	
+ch.1_174	RNASeq_stranded	transcript_region	396	440	2.0	+	.	
+ch.1_174	RNASeq	transcription_end_site	412	412	.	-	.	
+ch.1_174	RNASeq	transcription_end_site	412	412	.	-	.	
+ch.1_174	RNASeq_reads	transcript_region	380	405	4.0	.	.	
+ch.1_174	RNASeq	transcription_end_site	403	403	.	-	.	
+ch.1_174	RNASeq	transcription_end_site	403	403	.	-	.	
+ch.1_174	RNASeq	transcription_end_site	397	397	.	-	.	
+ch.1_174	RNASeq	transcription_end_site	397	397	.	-	.	
+ch.1_174	WormBase	CDS	298	396	.	+	.	ID=CDS:R10H10.4;Parent=Transcript:R10H10.4.1
+ch.1_174	RNASeq_stranded	transcript_region	341	395	4.0	+	.	
+ch.1_174	RNASeq	transcription_end_site	390	390	.	-	.	
+ch.1_174	RNASeq_F_asymmetry	transcript_region	337	379	26474.0	.	.	
+ch.1_174	RNASeq_reads	transcript_region	298	379	7.0	.	.	
+ch.1_174	RNASeq_stranded	transcript_region	316	340	2.0	+	.	
+ch.1_174	RNASeq_stranded	transcript_region	298	315	1.0	+	.	
+ch.1_174	RNASeq_reads	transcript_region	296	297	1.0	.	.	
+ch.1_174	WormBase	intron	249	297	.	+	.	Parent=Transcript:R10H10.4.1
+ch.1_174	RNASeq_splice	intron	249	297	45623.0	+	.	
+ch.1_174	RNASeq_splice	intron	238	288	8.0	-	.	
+ch.1_174	RNASeq_stranded	transcript_region	160	248	1.0	+	.	
+ch.1_174	RNASeq_reads	transcript_region	111	248	9.0	.	.	
+ch.1_174	WormBase	CDS	105	248	.	+	.	ID=CDS:R10H10.4;Parent=Transcript:R10H10.4.1
+ch.1_174	WormBase	exon	101	248	.	+	.	Parent=Transcript:R10H10.4.1
+ch.1_174	RNASeq_R_asymmetry	transcript_region	108	174	32679.0	.	.	
+ch.1_174	RNASeq_stranded	transcript_region	116	159	2.0	+	.	
+ch.1_174	RNASeq_stranded	transcript_region	101	115	1.0	+	.	
+ch.1_174	RNASeq_reads	transcript_region	106	110	5.0	.	.	
+ch.1_174	RNASeq_R_asymmetry	transcript_region	102	107	19945.0	.	.	
+ch.1_174	RNASeq_reads	transcript_region	99	105	3.0	.	.	
+ch.1_174	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:R10H10.4.1
+ch.1_174	RNASeq_R_asymmetry	transcript_region	99	101	10779.0	.	.	
+ch.1_174	RNASeq_reads	transcript_region	92	98	1.0	.	.	

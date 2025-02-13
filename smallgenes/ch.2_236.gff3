@@ -1,0 +1,38 @@
+ch.2_236	RNASeq_splice	intron	2	102	6.0	+	.	
+ch.2_236	RNASeq_splice	intron	58	102	23.0	+	.	
+ch.2_236	RNASeq_F_asymmetry	transcript_region	98	100	870.0	.	.	
+ch.2_236	RNASeq_F_asymmetry	transcript_region	101	102	1898.0	.	.	
+ch.2_236	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:C04C3.14.1
+ch.2_236	WormBase	exon	101	201	.	+	.	Parent=Transcript:C04C3.14.1
+ch.2_236	WormBase	gene	101	753	.	+	.	ID=Gene:WBGene00219410
+ch.2_236	WormBase	mRNA	101	753	.	+	.	ID=Transcript:C04C3.14.1;Parent=Gene:WBGene00219410
+ch.2_236	RNASeq_reads	transcript_region	102	118	1.0	.	.	
+ch.2_236	RNASeq_stranded	transcript_region	102	201	1.0	+	.	
+ch.2_236	RNASeq_F_asymmetry	transcript_region	103	107	3041.0	.	.	
+ch.2_236	RNASeq_F_asymmetry	transcript_region	108	137	5782.0	.	.	
+ch.2_236	WormBase	CDS	111	201	.	+	.	ID=CDS:C04C3.14;Parent=Transcript:C04C3.14.1
+ch.2_236	RNASeq_reads	transcript_region	119	201	2.0	.	.	
+ch.2_236	RNASeq_F_asymmetry	transcript_region	138	158	8684.0	.	.	
+ch.2_236	RNASeq_F_asymmetry	transcript_region	202	203	1799.0	.	.	
+ch.2_236	WormBase	intron	202	604	.	+	.	Parent=Transcript:C04C3.14.1
+ch.2_236	RNASeq_splice	intron	202	604	11861.0	+	.	
+ch.2_236	WormBase	CDS	605	662	.	+	.	ID=CDS:C04C3.14;Parent=Transcript:C04C3.14.1
+ch.2_236	WormBase	exon	605	662	.	+	.	Parent=Transcript:C04C3.14.1
+ch.2_236	RNASeq_reads	transcript_region	605	739	2.0	.	.	
+ch.2_236	RNASeq_stranded	transcript_region	631	662	1.0	+	.	
+ch.2_236	RNASeq	transcription_end_site	656	656	.	+	.	
+ch.2_236	WormBase	intron	663	710	.	+	.	Parent=Transcript:C04C3.14.1
+ch.2_236	RNASeq_splice	intron	663	710	1717.0	+	.	
+ch.2_236	RNASeq_stranded	transcript_region	669	675	1.0	+	.	
+ch.2_236	RNASeq_stranded	transcript_region	677	678	1.0	+	.	
+ch.2_236	WormBase	CDS	711	753	.	+	.	ID=CDS:C04C3.14;Parent=Transcript:C04C3.14.1
+ch.2_236	WormBase	exon	711	753	.	+	.	Parent=Transcript:C04C3.14.1
+ch.2_236	RNASeq_R_asymmetry	transcript_region	711	760	7611.0	.	.	
+ch.2_236	RNASeq_stranded	transcript_region	711	768	1.0	+	.	
+ch.2_236	RNASeq_reads	transcript_region	740	806	1.0	.	.	
+ch.2_236	RNASeq_R_asymmetry	transcript_region	761	799	4844.0	.	.	
+ch.2_236	RNASeq	transcription_end_site	780	780	.	+	.	
+ch.2_236	RNASeq_stranded	transcript_region	806	849	1.0	-	.	
+ch.2_236	RNASeq_reads	transcript_region	807	830	2.0	.	.	
+ch.2_236	RNASeq_F_asymmetry	transcript_region	811	819	6828.0	.	.	
+ch.2_236	RNASeq_F_asymmetry	transcript_region	820	830	10470.0	.	.	

@@ -1,0 +1,189 @@
+ch.3_25	RNASeq	transcription_end_site	784	784	.	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	783	784	1.0	+	.	
+ch.3_25	RNASeq	transcription_end_site	782	782	.	-	.	
+ch.3_25	RNASeq	transcription_end_site	782	782	.	-	.	
+ch.3_25	RNASeq_reads	transcript_region	779	782	1.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	779	782	2.0	+	.	
+ch.3_25	RNASeq	transcription_end_site	781	781	.	-	.	
+ch.3_25	WormBase	three_prime_UTR	676	779	.	+	.	Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	exon	542	779	.	+	.	Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	gene	101	779	.	+	.	ID=Gene:WBGene00008572
+ch.3_25	WormBase	mRNA	101	779	.	+	.	ID=Transcript:F08B12.4e.1;Parent=Gene:WBGene00008572
+ch.3_25	RNASeq_reads	transcript_region	778	778	2.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	778	778	4.0	-	.	
+ch.3_25	WormBase	three_prime_UTR	676	778	.	+	.	Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	exon	542	778	.	+	.	Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	mRNA	131	778	.	+	.	ID=Transcript:F08B12.4a.1;Parent=Gene:WBGene00008572
+ch.3_25	RNASeq	transcription_end_site	777	777	.	-	.	
+ch.3_25	RNASeq	transcription_end_site	777	777	.	-	.	
+ch.3_25	RNASeq_reads	transcript_region	775	777	32.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	774	777	209.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	687	777	29.0	-	.	
+ch.3_25	RNASeq_reads	transcript_region	771	774	52.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	768	773	348.0	+	.	
+ch.3_25	RNASeq_reads	transcript_region	762	770	80.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	762	767	539.0	+	.	
+ch.3_25	RNASeq_reads	transcript_region	754	761	125.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	754	761	810.0	+	.	
+ch.3_25	RNASeq_reads	transcript_region	745	753	198.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	740	753	1417.0	+	.	
+ch.3_25	RNASeq_R_asymmetry	transcript_region	749	749	867857.0	.	.	
+ch.3_25	RNASeq_reads	transcript_region	720	744	299.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	704	739	2144.0	+	.	
+ch.3_25	WormBase	three_prime_UTR	676	719	.	+	.	Parent=Transcript:F08B12.4d.1
+ch.3_25	RNASeq_reads	transcript_region	542	719	454.0	.	.	
+ch.3_25	WormBase	exon	542	719	.	+	.	Parent=Transcript:F08B12.4d.1
+ch.3_25	WormBase	mRNA	131	719	.	+	.	ID=Transcript:F08B12.4d.1;Parent=Gene:WBGene00008572
+ch.3_25	RNASeq_stranded	transcript_region	648	703	3232.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	685	686	16.0	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	684	684	6.0	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	682	683	3.0	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	678	681	1.0	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	673	677	2.0	-	.	
+ch.3_25	WormBase	CDS	542	675	.	+	.	ID=CDS:F08B12.4a;Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	CDS	542	675	.	+	.	ID=CDS:F08B12.4d;Parent=Transcript:F08B12.4d.1
+ch.3_25	WormBase	CDS	542	675	.	+	.	ID=CDS:F08B12.4e;Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	exon	542	675	.	+	.	Parent=Transcript:F08B12.4c.1
+ch.3_25	WormBase	CDS	542	675	.	+	.	ID=CDS:F08B12.4c;Parent=Transcript:F08B12.4c.1
+ch.3_25	WormBase	CDS	542	675	.	+	.	ID=CDS:F08B12.4b;Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	exon	542	675	.	+	.	Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	exon	542	675	.	+	.	Parent=Transcript:F08B12.4g.1
+ch.3_25	WormBase	CDS	542	675	.	+	.	ID=CDS:F08B12.4g;Parent=Transcript:F08B12.4g.1
+ch.3_25	WormBase	exon	542	675	.	+	.	Parent=Transcript:F08B12.4h.1
+ch.3_25	WormBase	CDS	542	675	.	+	.	ID=CDS:F08B12.4h;Parent=Transcript:F08B12.4h.1
+ch.3_25	WormBase	exon	542	675	.	+	.	Parent=Transcript:F08B12.4i.1
+ch.3_25	WormBase	CDS	542	675	.	+	.	ID=CDS:F08B12.4i;Parent=Transcript:F08B12.4i.1
+ch.3_25	WormBase	exon	542	675	.	+	.	Parent=Transcript:F08B12.4f.1
+ch.3_25	WormBase	CDS	542	675	.	+	.	ID=CDS:F08B12.4f;Parent=Transcript:F08B12.4f.1
+ch.3_25	WormBase	mRNA	444	675	.	+	.	ID=Transcript:F08B12.4c.1;Parent=Gene:WBGene00008572
+ch.3_25	WormBase	mRNA	179	675	.	+	.	ID=Transcript:F08B12.4b.1;Parent=Gene:WBGene00008572
+ch.3_25	WormBase	mRNA	179	675	.	+	.	ID=Transcript:F08B12.4g.1;Parent=Gene:WBGene00008572
+ch.3_25	WormBase	mRNA	179	675	.	+	.	ID=Transcript:F08B12.4h.1;Parent=Gene:WBGene00008572
+ch.3_25	WormBase	mRNA	179	675	.	+	.	ID=Transcript:F08B12.4i.1;Parent=Gene:WBGene00008572
+ch.3_25	WormBase	mRNA	101	675	.	+	.	ID=Transcript:F08B12.4f.1;Parent=Gene:WBGene00008572
+ch.3_25	RNASeq_stranded	transcript_region	671	672	4.0	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	639	670	10.0	-	.	
+ch.3_25	RNASeq_splice	intron	577	669	6.0	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	634	647	2132.0	+	.	
+ch.3_25	RNASeq_splice	intron	562	642	3.0	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	588	638	17.0	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	609	633	1396.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	590	608	907.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	542	589	575.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	567	587	11.0	-	.	
+ch.3_25	RNASeq_splice	intron	475	582	385.0	+	.	
+ch.3_25	RNASeq_splice	intron	340	582	18.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	542	566	7.0	-	.	
+ch.3_25	RNASeq_splice	intron	475	558	12.0	+	.	
+ch.3_25	RNASeq_splice	intron	429	558	5.0	+	.	
+ch.3_25	RNASeq_splice	intron	297	558	9.0	+	.	
+ch.3_25	RNASeq_splice	intron	487	541	235.0	+	.	
+ch.3_25	WormBase	intron	475	541	.	+	.	Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	intron	475	541	.	+	.	Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	intron	475	541	.	+	.	Parent=Transcript:F08B12.4c.1
+ch.3_25	WormBase	intron	475	541	.	+	.	Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	intron	475	541	.	+	.	Parent=Transcript:F08B12.4g.1
+ch.3_25	RNASeq_reads	transcript_region	475	541	6.0	.	.	
+ch.3_25	RNASeq_splice	intron	475	541	3077300.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	475	541	1.0	+	.	
+ch.3_25	WormBase	intron	340	541	.	+	.	Parent=Transcript:F08B12.4f.1
+ch.3_25	WormBase	intron	340	541	.	+	.	Parent=Transcript:F08B12.4i.1
+ch.3_25	RNASeq_splice	intron	340	541	143018.0	+	.	
+ch.3_25	WormBase	intron	231	541	.	+	.	Parent=Transcript:F08B12.4d.1
+ch.3_25	WormBase	intron	231	541	.	+	.	Parent=Transcript:F08B12.4h.1
+ch.3_25	RNASeq_splice	intron	231	541	14256.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	445	474	5.0	-	.	
+ch.3_25	WormBase	CDS	444	474	.	+	.	ID=CDS:F08B12.4c;Parent=Transcript:F08B12.4c.1
+ch.3_25	WormBase	exon	444	474	.	+	.	Parent=Transcript:F08B12.4c.1
+ch.3_25	WormBase	CDS	412	474	.	+	.	ID=CDS:F08B12.4a;Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	CDS	412	474	.	+	.	ID=CDS:F08B12.4e;Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	CDS	412	474	.	+	.	ID=CDS:F08B12.4b;Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	CDS	412	474	.	+	.	ID=CDS:F08B12.4g;Parent=Transcript:F08B12.4g.1
+ch.3_25	WormBase	exon	412	474	.	+	.	Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	exon	412	474	.	+	.	Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	exon	412	474	.	+	.	Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	exon	412	474	.	+	.	Parent=Transcript:F08B12.4g.1
+ch.3_25	RNASeq_reads	transcript_region	412	474	535.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	412	474	362.0	+	.	
+ch.3_25	RNASeq_splice	intron	340	453	45.0	+	.	
+ch.3_25	RNASeq_splice	intron	231	453	36.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	412	444	3.0	-	.	
+ch.3_25	RNASeq_splice	intron	310	444	76.0	-	.	
+ch.3_25	RNASeq_splice	intron	200	443	3.0	-	.	
+ch.3_25	RNASeq_splice	intron	298	430	5.0	-	.	
+ch.3_25	RNASeq_reads	transcript_region	409	411	34.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	409	411	47.0	+	.	
+ch.3_25	WormBase	intron	340	411	.	+	.	Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	intron	340	411	.	+	.	Parent=Transcript:F08B12.4b.1
+ch.3_25	RNASeq_splice	intron	340	411	2481190.0	+	.	
+ch.3_25	RNASeq_splice	intron	235	411	3.0	+	.	
+ch.3_25	WormBase	intron	231	411	.	+	.	Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	intron	231	411	.	+	.	Parent=Transcript:F08B12.4g.1
+ch.3_25	RNASeq_splice	intron	231	411	44682.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	407	408	1.0	+	.	
+ch.3_25	RNASeq_reads	transcript_region	340	408	3.0	.	.	
+ch.3_25	RNASeq_splice	intron	340	376	3.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	366	373	1.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	340	342	1.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	307	339	209.0	+	.	
+ch.3_25	WormBase	CDS	280	339	.	+	.	ID=CDS:F08B12.4a;Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	CDS	280	339	.	+	.	ID=CDS:F08B12.4b;Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	CDS	280	339	.	+	.	ID=CDS:F08B12.4i;Parent=Transcript:F08B12.4i.1
+ch.3_25	WormBase	CDS	280	339	.	+	.	ID=CDS:F08B12.4f;Parent=Transcript:F08B12.4f.1
+ch.3_25	WormBase	exon	280	339	.	+	.	Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	exon	280	339	.	+	.	Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	exon	280	339	.	+	.	Parent=Transcript:F08B12.4f.1
+ch.3_25	WormBase	exon	280	339	.	+	.	Parent=Transcript:F08B12.4i.1
+ch.3_25	RNASeq_reads	transcript_region	280	339	477.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	280	339	3.0	-	.	
+ch.3_25	RNASeq_stranded	transcript_region	280	306	320.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	278	279	1.0	+	.	
+ch.3_25	RNASeq_splice	intron	235	279	29.0	+	.	
+ch.3_25	WormBase	intron	231	279	.	+	.	Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	intron	231	279	.	+	.	Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	intron	231	279	.	+	.	Parent=Transcript:F08B12.4f.1
+ch.3_25	WormBase	intron	231	279	.	+	.	Parent=Transcript:F08B12.4i.1
+ch.3_25	RNASeq_reads	transcript_region	231	279	3.0	.	.	
+ch.3_25	RNASeq_splice	intron	231	279	2448070.0	+	.	
+ch.3_25	RNASeq_splice	intron	218	279	4.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	231	233	1.0	+	.	
+ch.3_25	WormBase	CDS	179	230	.	+	.	ID=CDS:F08B12.4b;Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	CDS	179	230	.	+	.	ID=CDS:F08B12.4g;Parent=Transcript:F08B12.4g.1
+ch.3_25	WormBase	CDS	179	230	.	+	.	ID=CDS:F08B12.4h;Parent=Transcript:F08B12.4h.1
+ch.3_25	WormBase	CDS	179	230	.	+	.	ID=CDS:F08B12.4i;Parent=Transcript:F08B12.4i.1
+ch.3_25	WormBase	exon	179	230	.	+	.	Parent=Transcript:F08B12.4b.1
+ch.3_25	WormBase	exon	179	230	.	+	.	Parent=Transcript:F08B12.4g.1
+ch.3_25	WormBase	exon	179	230	.	+	.	Parent=Transcript:F08B12.4h.1
+ch.3_25	WormBase	exon	179	230	.	+	.	Parent=Transcript:F08B12.4i.1
+ch.3_25	RNASeq_stranded	transcript_region	173	230	2.0	-	.	
+ch.3_25	RNASeq_reads	transcript_region	169	230	440.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	136	230	275.0	+	.	
+ch.3_25	WormBase	CDS	131	230	.	+	.	ID=CDS:F08B12.4a;Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	CDS	131	230	.	+	.	ID=CDS:F08B12.4d;Parent=Transcript:F08B12.4d.1
+ch.3_25	WormBase	CDS	131	230	.	+	.	ID=CDS:F08B12.4e;Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	CDS	131	230	.	+	.	ID=CDS:F08B12.4f;Parent=Transcript:F08B12.4f.1
+ch.3_25	WormBase	exon	131	230	.	+	.	Parent=Transcript:F08B12.4a.1
+ch.3_25	WormBase	exon	131	230	.	+	.	Parent=Transcript:F08B12.4d.1
+ch.3_25	WormBase	exon	101	230	.	+	.	Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	exon	101	230	.	+	.	Parent=Transcript:F08B12.4f.1
+ch.3_25	RNASeq_R_asymmetry	transcript_region	167	217	1813180.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	142	172	1.0	-	.	
+ch.3_25	RNASeq_reads	transcript_region	130	168	281.0	.	.	
+ch.3_25	RNASeq_R_asymmetry	transcript_region	115	166	1158020.0	.	.	
+ch.3_25	RNASeq_splice	intron	105	164	49.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	110	135	181.0	+	.	
+ch.3_25	WormBase	five_prime_UTR	101	130	.	+	.	Parent=Transcript:F08B12.4e.1
+ch.3_25	WormBase	five_prime_UTR	101	130	.	+	.	Parent=Transcript:F08B12.4f.1
+ch.3_25	RNASeq_reads	transcript_region	110	129	184.0	.	.	
+ch.3_25	RNASeq_R_asymmetry	transcript_region	109	114	743621.0	.	.	
+ch.3_25	RNASeq_reads	transcript_region	108	109	121.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	103	109	112.0	+	.	
+ch.3_25	RNASeq_R_asymmetry	transcript_region	105	108	465610.0	.	.	
+ch.3_25	RNASeq_reads	transcript_region	102	107	78.0	.	.	
+ch.3_25	RNASeq_R_asymmetry	transcript_region	101	104	301959.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	102	102	61.0	-	.	
+ch.3_25	RNASeq_reads	transcript_region	101	101	49.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	101	101	40.0	-	.	
+ch.3_25	RNASeq_reads	transcript_region	88	100	18.0	.	.	
+ch.3_25	RNASeq_stranded	transcript_region	87	100	2.0	+	.	
+ch.3_25	RNASeq_stranded	transcript_region	24	86	1.0	+	.	

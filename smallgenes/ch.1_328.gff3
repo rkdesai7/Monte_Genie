@@ -1,0 +1,54 @@
+ch.1_328	RNASeq	transcription_end_site	688	688	.	-	.	
+ch.1_328	RNASeq	transcription_end_site	688	688	.	-	.	
+ch.1_328	RNASeq	transcription_end_site	673	673	.	-	.	
+ch.1_328	RNASeq	transcription_end_site	673	673	.	-	.	
+ch.1_328	RNASeq_reads	transcript_region	665	670	8.0	.	.	
+ch.1_328	RNASeq_stranded	transcript_region	637	670	1.0	+	.	
+ch.1_328	WormBase	three_prime_UTR	567	667	.	+	.	Parent=Transcript:F09F7.8.1
+ch.1_328	WormBase	exon	320	667	.	+	.	Parent=Transcript:F09F7.8.1
+ch.1_328	WormBase	gene	101	667	.	+	.	ID=Gene:WBGene00017305
+ch.1_328	WormBase	mRNA	101	667	.	+	.	ID=Transcript:F09F7.8.1;Parent=Gene:WBGene00017305
+ch.1_328	RNASeq_reads	transcript_region	659	664	13.0	.	.	
+ch.1_328	RNASeq_reads	transcript_region	640	658	20.0	.	.	
+ch.1_328	RNASeq_reads	transcript_region	630	639	32.0	.	.	
+ch.1_328	RNASeq_stranded	transcript_region	517	636	2.0	+	.	
+ch.1_328	RNASeq_reads	transcript_region	605	629	58.0	.	.	
+ch.1_328	RNASeq	transcription_end_site	627	627	.	-	.	
+ch.1_328	RNASeq	transcription_end_site	610	610	.	-	.	
+ch.1_328	RNASeq	transcription_end_site	610	610	.	-	.	
+ch.1_328	RNASeq_reads	transcript_region	579	604	89.0	.	.	
+ch.1_328	RNASeq_reads	transcript_region	545	578	134.0	.	.	
+ch.1_328	WormBase	CDS	320	566	.	+	.	ID=CDS:F09F7.8;Parent=Transcript:F09F7.8.1
+ch.1_328	RNASeq_reads	transcript_region	497	544	206.0	.	.	
+ch.1_328	RNASeq_stranded	transcript_region	485	516	4.0	+	.	
+ch.1_328	RNASeq_splice	intron	433	510	5.0	-	.	
+ch.1_328	RNASeq	transcription_end_site	498	498	.	-	.	
+ch.1_328	RNASeq_reads	transcript_region	330	496	318.0	.	.	
+ch.1_328	RNASeq_stranded	transcript_region	418	484	8.0	+	.	
+ch.1_328	RNASeq	transcription_end_site	455	455	.	-	.	
+ch.1_328	RNASeq	transcription_end_site	455	455	.	-	.	
+ch.1_328	RNASeq_splice	intron	416	454	8.0	-	.	
+ch.1_328	RNASeq_splice	intron	145	453	3.0	+	.	
+ch.1_328	RNASeq_stranded	transcript_region	406	417	5.0	+	.	
+ch.1_328	RNASeq_stranded	transcript_region	322	405	3.0	+	.	
+ch.1_328	RNASeq_reads	transcript_region	320	329	202.0	.	.	
+ch.1_328	RNASeq_stranded	transcript_region	320	321	1.0	+	.	
+ch.1_328	RNASeq_reads	transcript_region	319	319	24.0	.	.	
+ch.1_328	RNASeq_splice	intron	242	319	7.0	+	.	
+ch.1_328	WormBase	intron	145	319	.	+	.	Parent=Transcript:F09F7.8.1
+ch.1_328	RNASeq_splice	intron	145	319	858095.0	+	.	
+ch.1_328	RNASeq_splice	intron	142	319	20.0	+	.	
+ch.1_328	RNASeq_reads	transcript_region	317	318	4.0	.	.	
+ch.1_328	RNASeq_reads	transcript_region	310	316	2.0	.	.	
+ch.1_328	RNASeq_reads	transcript_region	145	309	1.0	.	.	
+ch.1_328	RNASeq_splice	intron	145	299	20.0	+	.	
+ch.1_328	RNASeq_splice	intron	145	282	10.0	+	.	
+ch.1_328	RNASeq_splice	intron	142	233	16.0	+	.	
+ch.1_328	WormBase	CDS	131	144	.	+	.	ID=CDS:F09F7.8;Parent=Transcript:F09F7.8.1
+ch.1_328	RNASeq_reads	transcript_region	119	144	165.0	.	.	
+ch.1_328	RNASeq_stranded	transcript_region	112	144	1.0	+	.	
+ch.1_328	WormBase	exon	101	144	.	+	.	Parent=Transcript:F09F7.8.1
+ch.1_328	WormBase	five_prime_UTR	101	130	.	+	.	Parent=Transcript:F09F7.8.1
+ch.1_328	RNASeq_reads	transcript_region	107	118	92.0	.	.	
+ch.1_328	RNASeq_reads	transcript_region	102	106	60.0	.	.	
+ch.1_328	RNASeq_reads	transcript_region	82	101	1.0	.	.	

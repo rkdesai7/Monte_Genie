@@ -1,0 +1,80 @@
+ch.1_439	RNASeq_reads	transcript_region	15	46	1.0	.	.	
+ch.1_439	RNASeq_F_asymmetry	transcript_region	40	46	3936.0	.	.	
+ch.1_439	RNASeq_F_asymmetry	transcript_region	47	60	7099.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	47	77	2.0	.	.	
+ch.1_439	RNASeq_F_asymmetry	transcript_region	61	79	11444.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	71	92	1.0	+	.	
+ch.1_439	RNASeq_reads	transcript_region	78	89	4.0	.	.	
+ch.1_439	RNASeq_F_asymmetry	transcript_region	80	89	17204.0	.	.	
+ch.1_439	RNASeq_F_asymmetry	transcript_region	90	101	34101.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	90	102	8.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	93	100	2.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	101	103	4.0	+	.	
+ch.1_439	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:T09F5.9.1
+ch.1_439	WormBase	exon	101	455	.	+	.	Parent=Transcript:T09F5.9.1
+ch.1_439	WormBase	gene	101	666	.	+	.	ID=Gene:WBGene00011668
+ch.1_439	WormBase	mRNA	101	666	.	+	.	ID=Transcript:T09F5.9.1;Parent=Gene:WBGene00011668
+ch.1_439	RNASeq_F_asymmetry	transcript_region	102	104	51278.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	103	104	13.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	104	104	7.0	+	.	
+ch.1_439	WormBase	CDS	104	455	.	+	.	ID=CDS:T09F5.9;Parent=Transcript:T09F5.9.1
+ch.1_439	RNASeq_F_asymmetry	transcript_region	105	105	94442.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	105	105	20.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	105	105	12.0	+	.	
+ch.1_439	RNASeq_F_asymmetry	transcript_region	106	106	161540.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	106	106	33.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	106	197	20.0	+	.	
+ch.1_439	RNASeq_F_asymmetry	transcript_region	107	112	274544.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	107	112	55.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	113	125	90.0	.	.	
+ch.1_439	RNASeq_F_asymmetry	transcript_region	113	133	453336.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	126	172	136.0	.	.	
+ch.1_439	RNASeq_F_asymmetry	transcript_region	134	149	680881.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	173	449	207.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	198	199	31.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	200	250	50.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	228	238	1.0	-	.	
+ch.1_439	RNASeq_stranded	transcript_region	242	246	1.0	-	.	
+ch.1_439	RNASeq_stranded	transcript_region	251	277	31.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	278	322	20.0	+	.	
+ch.1_439	RNASeq_splice	intron	280	325	44.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	323	363	13.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	364	455	20.0	+	.	
+ch.1_439	RNASeq_splice	intron	406	514	5.0	-	.	
+ch.1_439	RNASeq_reads	transcript_region	450	455	136.0	.	.	
+ch.1_439	RNASeq_splice	intron	456	496	168.0	+	.	
+ch.1_439	RNASeq_reads	transcript_region	456	499	1.0	.	.	
+ch.1_439	WormBase	intron	456	501	.	+	.	Parent=Transcript:T09F5.9.1
+ch.1_439	RNASeq_splice	intron	456	501	598737.0	+	.	
+ch.1_439	RNASeq_splice	intron	456	516	1927.0	+	.	
+ch.1_439	RNASeq_splice	intron	456	697	54.0	+	.	
+ch.1_439	RNASeq_reads	transcript_region	500	501	25.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	500	501	8.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	502	521	31.0	+	.	
+ch.1_439	RNASeq_reads	transcript_region	502	572	149.0	.	.	
+ch.1_439	WormBase	CDS	502	632	.	+	.	ID=CDS:T09F5.9;Parent=Transcript:T09F5.9.1
+ch.1_439	WormBase	exon	502	666	.	+	.	Parent=Transcript:T09F5.9.1
+ch.1_439	RNASeq_stranded	transcript_region	522	553	49.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	554	619	74.0	+	.	
+ch.1_439	RNASeq_reads	transcript_region	573	598	98.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	599	621	64.0	.	.	
+ch.1_439	RNASeq_R_asymmetry	transcript_region	616	620	222764.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	620	638	48.0	+	.	
+ch.1_439	RNASeq_splice	intron	621	697	5.0	+	.	
+ch.1_439	RNASeq_reads	transcript_region	622	645	42.0	.	.	
+ch.1_439	RNASeq_R_asymmetry	transcript_region	630	645	147945.0	.	.	
+ch.1_439	WormBase	three_prime_UTR	633	666	.	+	.	Parent=Transcript:T09F5.9.1
+ch.1_439	RNASeq_stranded	transcript_region	639	648	31.0	+	.	
+ch.1_439	RNASeq_reads	transcript_region	646	656	21.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	649	656	19.0	+	.	
+ch.1_439	RNASeq_R_asymmetry	transcript_region	657	664	51401.0	.	.	
+ch.1_439	RNASeq_reads	transcript_region	657	664	13.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	657	664	12.0	+	.	
+ch.1_439	RNASeq_reads	transcript_region	665	666	6.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	665	666	7.0	+	.	
+ch.1_439	RNASeq	transcription_end_site	666	666	.	+	.	
+ch.1_439	RNASeq_reads	transcript_region	667	669	2.0	.	.	
+ch.1_439	RNASeq_stranded	transcript_region	667	674	4.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	675	684	2.0	+	.	
+ch.1_439	RNASeq_splice	intron	680	723	261.0	+	.	
+ch.1_439	RNASeq_stranded	transcript_region	685	696	1.0	+	.	

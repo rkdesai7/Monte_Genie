@@ -1,0 +1,36 @@
+ch.2_158	WormBase	five_prime_UTR	101	116	.	+	.	Parent=Transcript:Y39F10C.3.1
+ch.2_158	WormBase	exon	101	269	.	+	.	Parent=Transcript:Y39F10C.3.1
+ch.2_158	WormBase	gene	101	621	.	+	.	ID=Gene:WBGene00206368
+ch.2_158	WormBase	mRNA	101	621	.	+	.	ID=Transcript:Y39F10C.3.1;Parent=Gene:WBGene00206368
+ch.2_158	RNASeq_F_asymmetry	transcript_region	112	113	616.0	.	.	
+ch.2_158	RNASeq_F_asymmetry	transcript_region	114	118	1057.0	.	.	
+ch.2_158	WormBase	CDS	117	269	.	+	.	ID=CDS:Y39F10C.3;Parent=Transcript:Y39F10C.3.1
+ch.2_158	RNASeq_F_asymmetry	transcript_region	119	121	1730.0	.	.	
+ch.2_158	RNASeq_reads	transcript_region	121	125	1.0	.	.	
+ch.2_158	RNASeq_F_asymmetry	transcript_region	122	123	3218.0	.	.	
+ch.2_158	RNASeq_F_asymmetry	transcript_region	124	125	4987.0	.	.	
+ch.2_158	RNASeq_F_asymmetry	transcript_region	126	138	7860.0	.	.	
+ch.2_158	RNASeq_reads	transcript_region	126	156	2.0	.	.	
+ch.2_158	RNASeq_F_asymmetry	transcript_region	139	182	11832.0	.	.	
+ch.2_158	RNASeq_reads	transcript_region	157	269	4.0	.	.	
+ch.2_158	RNASeq_stranded	transcript_region	240	269	1.0	+	.	
+ch.2_158	WormBase	intron	270	315	.	+	.	Parent=Transcript:Y39F10C.3.1
+ch.2_158	RNASeq_splice	intron	270	315	23405.0	+	.	
+ch.2_158	RNASeq_reads	transcript_region	315	315	1.0	.	.	
+ch.2_158	RNASeq_stranded	transcript_region	316	378	1.0	+	.	
+ch.2_158	WormBase	CDS	316	423	.	+	.	ID=CDS:Y39F10C.3;Parent=Transcript:Y39F10C.3.1
+ch.2_158	WormBase	exon	316	423	.	+	.	Parent=Transcript:Y39F10C.3.1
+ch.2_158	RNASeq_reads	transcript_region	316	423	4.0	.	.	
+ch.2_158	WormBase	intron	424	467	.	+	.	Parent=Transcript:Y39F10C.3.1
+ch.2_158	RNASeq_splice	intron	424	467	15903.0	+	.	
+ch.2_158	RNASeq_splice	intron	448	494	4.0	-	.	
+ch.2_158	RNASeq_reads	transcript_region	468	577	3.0	.	.	
+ch.2_158	WormBase	CDS	468	581	.	+	.	ID=CDS:Y39F10C.3;Parent=Transcript:Y39F10C.3.1
+ch.2_158	WormBase	exon	468	621	.	+	.	Parent=Transcript:Y39F10C.3.1
+ch.2_158	RNASeq_R_asymmetry	transcript_region	508	545	13681.0	.	.	
+ch.2_158	RNASeq_R_asymmetry	transcript_region	546	601	8348.0	.	.	
+ch.2_158	RNASeq_reads	transcript_region	578	613	1.0	.	.	
+ch.2_158	WormBase	three_prime_UTR	582	621	.	+	.	Parent=Transcript:Y39F10C.3.1
+ch.2_158	RNASeq_R_asymmetry	transcript_region	602	608	5420.0	.	.	
+ch.2_158	RNASeq_R_asymmetry	transcript_region	609	612	3452.0	.	.	
+ch.2_158	RNASeq_R_asymmetry	transcript_region	613	616	2083.0	.	.	

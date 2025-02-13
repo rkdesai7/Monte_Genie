@@ -1,0 +1,36 @@
+ch.1_337	RNASeq_F_asymmetry	transcript_region	26	26	343.0	.	.	
+ch.1_337	RNASeq_F_asymmetry	transcript_region	28	31	378.0	.	.	
+ch.1_337	RNASeq_F_asymmetry	transcript_region	33	41	397.0	.	.	
+ch.1_337	RNASeq_F_asymmetry	transcript_region	45	45	451.0	.	.	
+ch.1_337	RNASeq_F_asymmetry	transcript_region	52	91	514.0	.	.	
+ch.1_337	RNASeq_splice	intron	56	109	3.0	+	.	
+ch.1_337	RNASeq_F_asymmetry	transcript_region	92	105	772.0	.	.	
+ch.1_337	RNASeq_splice	intron	99	170	109.0	+	.	
+ch.1_337	WormBase	five_prime_UTR	101	144	.	+	.	Parent=Transcript:F07C6.6.1
+ch.1_337	WormBase	exon	101	218	.	+	.	Parent=Transcript:F07C6.6.1
+ch.1_337	WormBase	gene	101	587	.	+	.	ID=Gene:WBGene00045067
+ch.1_337	WormBase	mRNA	101	587	.	+	.	ID=Transcript:F07C6.6.1;Parent=Gene:WBGene00045067
+ch.1_337	RNASeq_F_asymmetry	transcript_region	106	116	1218.0	.	.	
+ch.1_337	RNASeq_F_asymmetry	transcript_region	117	121	2001.0	.	.	
+ch.1_337	RNASeq_reads	transcript_region	118	169	1.0	.	.	
+ch.1_337	RNASeq_F_asymmetry	transcript_region	122	138	3287.0	.	.	
+ch.1_337	RNASeq_F_asymmetry	transcript_region	139	174	4971.0	.	.	
+ch.1_337	WormBase	CDS	145	218	.	+	.	ID=CDS:F07C6.6;Parent=Transcript:F07C6.6.1
+ch.1_337	RNASeq_reads	transcript_region	170	218	2.0	.	.	
+ch.1_337	RNASeq_F_asymmetry	transcript_region	175	199	7515.0	.	.	
+ch.1_337	RNASeq_stranded	transcript_region	175	218	1.0	+	.	
+ch.1_337	WormBase	intron	219	268	.	+	.	Parent=Transcript:F07C6.6.1
+ch.1_337	RNASeq_splice	intron	219	268	10414.0	+	.	
+ch.1_337	RNASeq_splice	intron	223	268	3.0	+	.	
+ch.1_337	RNASeq_stranded	transcript_region	269	313	1.0	+	.	
+ch.1_337	RNASeq_reads	transcript_region	269	482	2.0	.	.	
+ch.1_337	WormBase	CDS	269	497	.	+	.	ID=CDS:F07C6.6;Parent=Transcript:F07C6.6.1
+ch.1_337	WormBase	exon	269	587	.	+	.	Parent=Transcript:F07C6.6.1
+ch.1_337	RNASeq_stranded	transcript_region	334	435	1.0	+	.	
+ch.1_337	RNASeq_R_asymmetry	transcript_region	442	485	8457.0	.	.	
+ch.1_337	RNASeq_reads	transcript_region	483	552	1.0	.	.	
+ch.1_337	RNASeq_R_asymmetry	transcript_region	486	492	5435.0	.	.	
+ch.1_337	WormBase	three_prime_UTR	498	587	.	+	.	Parent=Transcript:F07C6.6.1
+ch.1_337	RNASeq_R_asymmetry	transcript_region	499	499	3653.0	.	.	
+ch.1_337	RNASeq_R_asymmetry	transcript_region	502	552	3716.0	.	.	
+ch.1_337	RNASeq_R_asymmetry	transcript_region	553	554	1319.0	.	.	

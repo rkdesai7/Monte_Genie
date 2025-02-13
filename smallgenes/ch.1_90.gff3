@@ -1,0 +1,31 @@
+ch.1_90	RNASeq_reads	transcript_region	92	105	1.0	.	.	
+ch.1_90	WormBase	five_prime_UTR	101	118	.	+	.	Parent=Transcript:ZK84.7.1
+ch.1_90	WormBase	exon	101	365	.	+	.	Parent=Transcript:ZK84.7.1
+ch.1_90	WormBase	gene	101	578	.	+	.	ID=Gene:WBGene00002103
+ch.1_90	WormBase	mRNA	101	578	.	+	.	ID=Transcript:ZK84.7.1;Parent=Gene:WBGene00002103
+ch.1_90	RNASeq_reads	transcript_region	106	125	2.0	.	.	
+ch.1_90	WormBase	CDS	119	365	.	+	.	ID=CDS:ZK84.7;Parent=Transcript:ZK84.7.1
+ch.1_90	RNASeq_reads	transcript_region	126	154	4.0	.	.	
+ch.1_90	RNASeq_reads	transcript_region	155	187	7.0	.	.	
+ch.1_90	RNASeq_stranded	transcript_region	163	185	1.0	+	.	
+ch.1_90	RNASeq_reads	transcript_region	188	365	11.0	.	.	
+ch.1_90	RNASeq_splice	intron	315	419	14.0	-	.	
+ch.1_90	RNASeq_splice	intron	315	507	5.0	-	.	
+ch.1_90	RNASeq_stranded	transcript_region	344	365	1.0	+	.	
+ch.1_90	RNASeq_reads	transcript_region	366	372	1.0	.	.	
+ch.1_90	RNASeq_splice	intron	366	400	24.0	+	.	
+ch.1_90	WormBase	intron	366	414	.	+	.	Parent=Transcript:ZK84.7.1
+ch.1_90	RNASeq_splice	intron	366	414	62669.0	+	.	
+ch.1_90	RNASeq_splice	intron	371	419	88.0	-	.	
+ch.1_90	RNASeq_reads	transcript_region	414	414	1.0	.	.	
+ch.1_90	RNASeq_stranded	transcript_region	415	432	1.0	+	.	
+ch.1_90	WormBase	CDS	415	488	.	+	.	ID=CDS:ZK84.7;Parent=Transcript:ZK84.7.1
+ch.1_90	RNASeq_reads	transcript_region	415	503	14.0	.	.	
+ch.1_90	WormBase	exon	415	578	.	+	.	Parent=Transcript:ZK84.7.1
+ch.1_90	RNASeq_stranded	transcript_region	433	536	2.0	+	.	
+ch.1_90	WormBase	three_prime_UTR	489	578	.	+	.	Parent=Transcript:ZK84.7.1
+ch.1_90	RNASeq_reads	transcript_region	504	531	9.0	.	.	
+ch.1_90	RNASeq_reads	transcript_region	532	543	4.0	.	.	
+ch.1_90	RNASeq_stranded	transcript_region	537	557	1.0	+	.	
+ch.1_90	RNASeq_reads	transcript_region	544	559	2.0	.	.	
+ch.1_90	RNASeq_reads	transcript_region	560	574	1.0	.	.	

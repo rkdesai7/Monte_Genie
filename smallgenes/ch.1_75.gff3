@@ -1,0 +1,23 @@
+ch.1_75	WormBase	five_prime_UTR	101	133	.	+	.	Parent=Transcript:C45B11.9.1
+ch.1_75	WormBase	exon	101	220	.	+	.	Parent=Transcript:C45B11.9.1
+ch.1_75	WormBase	gene	101	456	.	+	.	ID=Gene:WBGene00185117
+ch.1_75	WormBase	mRNA	101	456	.	+	.	ID=Transcript:C45B11.9.1;Parent=Gene:WBGene00185117
+ch.1_75	RNASeq_reads	transcript_region	117	135	2.0	.	.	
+ch.1_75	WormBase	CDS	134	220	.	+	.	ID=CDS:C45B11.9;Parent=Transcript:C45B11.9.1
+ch.1_75	RNASeq_reads	transcript_region	136	220	4.0	.	.	
+ch.1_75	RNASeq_stranded	transcript_region	152	156	1.0	+	.	
+ch.1_75	RNASeq_stranded	transcript_region	157	204	2.0	+	.	
+ch.1_75	RNASeq_stranded	transcript_region	205	214	1.0	+	.	
+ch.1_75	WormBase	intron	221	284	.	+	.	Parent=Transcript:C45B11.9.1
+ch.1_75	RNASeq_splice	intron	221	284	20721.0	+	.	
+ch.1_75	RNASeq_reads	transcript_region	282	284	1.0	.	.	
+ch.1_75	RNASeq_reads	transcript_region	285	405	5.0	.	.	
+ch.1_75	WormBase	CDS	285	416	.	+	.	ID=CDS:C45B11.9;Parent=Transcript:C45B11.9.1
+ch.1_75	WormBase	exon	285	456	.	+	.	Parent=Transcript:C45B11.9.1
+ch.1_75	RNASeq_stranded	transcript_region	290	427	1.0	+	.	
+ch.1_75	RNASeq_R_asymmetry	transcript_region	360	407	20205.0	.	.	
+ch.1_75	RNASeq	transcription_end_site	378	378	.	+	.	
+ch.1_75	RNASeq_reads	transcript_region	406	424	3.0	.	.	
+ch.1_75	RNASeq_R_asymmetry	transcript_region	408	413	12410.0	.	.	
+ch.1_75	WormBase	three_prime_UTR	417	456	.	+	.	Parent=Transcript:C45B11.9.1
+ch.1_75	RNASeq_reads	transcript_region	425	518	1.0	.	.	

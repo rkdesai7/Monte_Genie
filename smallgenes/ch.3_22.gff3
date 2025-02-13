@@ -1,0 +1,42 @@
+ch.3_22	WormBase	five_prime_UTR	101	125	.	+	.	Parent=Transcript:C45B11.5.1
+ch.3_22	WormBase	exon	101	194	.	+	.	Parent=Transcript:C45B11.5.1
+ch.3_22	WormBase	gene	101	714	.	+	.	ID=Gene:WBGene00008106
+ch.3_22	WormBase	mRNA	101	714	.	+	.	ID=Transcript:C45B11.5.1;Parent=Gene:WBGene00008106
+ch.3_22	RNASeq_F_asymmetry	transcript_region	111	117	712.0	.	.	
+ch.3_22	RNASeq_F_asymmetry	transcript_region	118	127	1657.0	.	.	
+ch.3_22	WormBase	CDS	126	194	.	+	.	ID=CDS:C45B11.5;Parent=Transcript:C45B11.5.1
+ch.3_22	RNASeq_F_asymmetry	transcript_region	128	138	2755.0	.	.	
+ch.3_22	RNASeq_reads	transcript_region	128	167	1.0	.	.	
+ch.3_22	RNASeq_F_asymmetry	transcript_region	139	194	5096.0	.	.	
+ch.3_22	RNASeq_reads	transcript_region	168	194	2.0	.	.	
+ch.3_22	WormBase	intron	195	236	.	+	.	Parent=Transcript:C45B11.5.1
+ch.3_22	RNASeq_splice	intron	195	236	7403.0	+	.	
+ch.3_22	WormBase	CDS	237	324	.	+	.	ID=CDS:C45B11.5;Parent=Transcript:C45B11.5.1
+ch.3_22	WormBase	exon	237	324	.	+	.	Parent=Transcript:C45B11.5.1
+ch.3_22	RNASeq_reads	transcript_region	237	324	2.0	.	.	
+ch.3_22	RNASeq_stranded	transcript_region	244	247	1.0	+	.	
+ch.3_22	RNASeq_F_asymmetry	transcript_region	244	254	8608.0	.	.	
+ch.3_22	RNASeq_stranded	transcript_region	248	293	2.0	+	.	
+ch.3_22	RNASeq_stranded	transcript_region	286	424	1.0	-	.	
+ch.3_22	RNASeq_stranded	transcript_region	294	324	1.0	+	.	
+ch.3_22	WormBase	intron	325	374	.	+	.	Parent=Transcript:C45B11.5.1
+ch.3_22	RNASeq_splice	intron	325	374	10879.0	+	.	
+ch.3_22	RNASeq_splice	intron	325	377	8.0	+	.	
+ch.3_22	RNASeq_splice	intron	325	416	4.0	+	.	
+ch.3_22	RNASeq_reads	transcript_region	373	374	1.0	.	.	
+ch.3_22	RNASeq_stranded	transcript_region	375	384	1.0	+	.	
+ch.3_22	RNASeq_reads	transcript_region	375	501	3.0	.	.	
+ch.3_22	WormBase	CDS	375	526	.	+	.	ID=CDS:C45B11.5;Parent=Transcript:C45B11.5.1
+ch.3_22	WormBase	exon	375	526	.	+	.	Parent=Transcript:C45B11.5.1
+ch.3_22	RNASeq_stranded	transcript_region	410	505	1.0	+	.	
+ch.3_22	RNASeq	transcription_end_site	496	496	.	+	.	
+ch.3_22	RNASeq_reads	transcript_region	502	526	1.0	.	.	
+ch.3_22	WormBase	intron	527	570	.	+	.	Parent=Transcript:C45B11.5.1
+ch.3_22	RNASeq_splice	intron	527	570	5433.0	+	.	
+ch.3_22	WormBase	CDS	571	603	.	+	.	ID=CDS:C45B11.5;Parent=Transcript:C45B11.5.1
+ch.3_22	RNASeq_stranded	transcript_region	571	604	1.0	+	.	
+ch.3_22	RNASeq_reads	transcript_region	571	708	1.0	.	.	
+ch.3_22	WormBase	exon	571	714	.	+	.	Parent=Transcript:C45B11.5.1
+ch.3_22	WormBase	three_prime_UTR	604	714	.	+	.	Parent=Transcript:C45B11.5.1
+ch.3_22	RNASeq_stranded	transcript_region	605	649	2.0	+	.	
+ch.3_22	RNASeq_stranded	transcript_region	650	698	1.0	+	.	

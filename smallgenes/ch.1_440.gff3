@@ -1,0 +1,101 @@
+ch.1_440	RNASeq_reads	transcript_region	90	93	1.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	94	94	2.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	95	98	24.0	+	.	
+ch.1_440	RNASeq_F_asymmetry	transcript_region	95	99	1881030.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	95	99	377.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	99	104	138.0	+	.	
+ch.1_440	RNASeq_F_asymmetry	transcript_region	100	102	2895100.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	100	102	578.0	.	.	
+ch.1_440	WormBase	five_prime_UTR	101	107	.	+	.	Parent=Transcript:C42C1.14.1
+ch.1_440	WormBase	exon	101	266	.	+	.	Parent=Transcript:C42C1.14.1
+ch.1_440	WormBase	gene	101	596	.	+	.	ID=Gene:WBGene00004448
+ch.1_440	WormBase	mRNA	101	596	.	+	.	ID=Transcript:C42C1.14.1;Parent=Gene:WBGene00004448
+ch.1_440	RNASeq_reads	transcript_region	103	121	1357.0	.	.	
+ch.1_440	RNASeq_F_asymmetry	transcript_region	103	124	6909180.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	105	116	210.0	+	.	
+ch.1_440	WormBase	CDS	108	266	.	+	.	ID=CDS:C42C1.14;Parent=Transcript:C42C1.14.1
+ch.1_440	RNASeq_stranded	transcript_region	117	126	316.0	+	.	
+ch.1_440	RNASeq_reads	transcript_region	122	224	2063.0	.	.	
+ch.1_440	RNASeq_splice	intron	125	154	3.0	-	.	
+ch.1_440	RNASeq_F_asymmetry	transcript_region	125	172	10453500.0	.	.	
+ch.1_440	RNASeq_splice	intron	125	423	3.0	-	.	
+ch.1_440	RNASeq_splice	intron	125	503	3.0	-	.	
+ch.1_440	RNASeq_stranded	transcript_region	127	258	493.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	130	144	1.0	-	.	
+ch.1_440	RNASeq_splice	intron	143	189	10.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	145	165	2.0	-	.	
+ch.1_440	RNASeq_stranded	transcript_region	166	190	4.0	-	.	
+ch.1_440	RNASeq_splice	intron	171	423	10.0	-	.	
+ch.1_440	RNASeq_splice	intron	187	219	13.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	191	256	7.0	-	.	
+ch.1_440	RNASeq_reads	transcript_region	225	266	3110.0	.	.	
+ch.1_440	RNASeq_splice	intron	236	522	10.0	+	.	
+ch.1_440	RNASeq_splice	intron	252	393	9.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	257	266	4.0	-	.	
+ch.1_440	RNASeq_stranded	transcript_region	259	266	323.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	267	267	1.0	+	.	
+ch.1_440	RNASeq_reads	transcript_region	267	269	3.0	.	.	
+ch.1_440	RNASeq_splice	intron	267	363	13.0	+	.	
+ch.1_440	WormBase	intron	267	393	.	+	.	Parent=Transcript:C42C1.14.1
+ch.1_440	RNASeq_splice	intron	267	393	17221600.0	+	.	
+ch.1_440	RNASeq_splice	intron	267	403	29.0	+	.	
+ch.1_440	RNASeq_reads	transcript_region	270	320	1.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	383	392	1.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	393	393	2.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	393	393	1.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	394	398	267.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	394	436	3.0	-	.	
+ch.1_440	RNASeq_reads	transcript_region	394	531	2966.0	.	.	
+ch.1_440	WormBase	CDS	394	567	.	+	.	ID=CDS:C42C1.14;Parent=Transcript:C42C1.14.1
+ch.1_440	WormBase	exon	394	596	.	+	.	Parent=Transcript:C42C1.14.1
+ch.1_440	RNASeq_stranded	transcript_region	399	410	407.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	411	450	614.0	+	.	
+ch.1_440	RNASeq_splice	intron	426	472	8.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	437	440	5.0	-	.	
+ch.1_440	RNASeq_stranded	transcript_region	441	478	8.0	-	.	
+ch.1_440	RNASeq_stranded	transcript_region	451	489	939.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	479	505	14.0	-	.	
+ch.1_440	RNASeq_stranded	transcript_region	490	568	1442.0	+	.	
+ch.1_440	RNASeq_splice	intron	491	520	7.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	506	556	23.0	-	.	
+ch.1_440	RNASeq_R_asymmetry	transcript_region	518	554	8206250.0	.	.	
+ch.1_440	RNASeq_splice	intron	526	555	5.0	+	.	
+ch.1_440	RNASeq_reads	transcript_region	532	554	1945.0	.	.	
+ch.1_440	RNASeq_R_asymmetry	transcript_region	555	564	5236340.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	555	564	1260.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	557	571	12.0	-	.	
+ch.1_440	RNASeq_reads	transcript_region	565	572	743.0	.	.	
+ch.1_440	WormBase	three_prime_UTR	568	596	.	+	.	Parent=Transcript:C42C1.14.1
+ch.1_440	RNASeq_stranded	transcript_region	569	579	943.0	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	572	610	7.0	-	.	
+ch.1_440	RNASeq_reads	transcript_region	573	590	441.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	580	591	620.0	+	.	
+ch.1_440	RNASeq_reads	transcript_region	591	603	290.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	592	597	398.0	+	.	
+ch.1_440	RNASeq_R_asymmetry	transcript_region	593	606	1078900.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	598	603	250.0	+	.	
+ch.1_440	RNASeq	transcription_end_site	601	601	.	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	604	606	137.0	+	.	
+ch.1_440	RNASeq_reads	transcript_region	604	607	176.0	.	.	
+ch.1_440	RNASeq_R_asymmetry	transcript_region	607	607	586324.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	607	610	76.0	+	.	
+ch.1_440	RNASeq_R_asymmetry	transcript_region	608	610	347514.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	608	610	81.0	.	.	
+ch.1_440	RNASeq	transcription_end_site	610	610	.	+	.	
+ch.1_440	RNASeq	transcription_end_site	611	611	.	+	.	
+ch.1_440	RNASeq_R_asymmetry	transcript_region	611	612	45954.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	611	612	11.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	611	613	10.0	+	.	
+ch.1_440	RNASeq_R_asymmetry	transcript_region	613	613	24640.0	.	.	
+ch.1_440	RNASeq	transcription_end_site	613	613	.	+	.	
+ch.1_440	RNASeq_reads	transcript_region	613	615	6.0	.	.	
+ch.1_440	RNASeq	transcription_end_site	614	614	.	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	614	620	3.0	+	.	
+ch.1_440	RNASeq_R_asymmetry	transcript_region	614	622	15974.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	616	647	3.0	.	.	
+ch.1_440	RNASeq_stranded	transcript_region	621	643	1.0	+	.	
+ch.1_440	RNASeq	transcription_end_site	625	625	.	+	.	
+ch.1_440	RNASeq_stranded	transcript_region	645	647	1.0	+	.	
+ch.1_440	RNASeq_reads	transcript_region	648	648	1.0	.	.	
+ch.1_440	RNASeq_reads	transcript_region	649	649	2.0	.	.	
+ch.1_440	RNASeq_F_asymmetry	transcript_region	652	688	5011.0	.	.	

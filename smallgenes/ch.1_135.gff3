@@ -1,0 +1,31 @@
+ch.1_135	WormBase	five_prime_UTR	101	118	.	+	.	Parent=Transcript:Y38H6C.24.1
+ch.1_135	WormBase	exon	101	221	.	+	.	Parent=Transcript:Y38H6C.24.1
+ch.1_135	WormBase	gene	101	503	.	+	.	ID=Gene:WBGene00194689
+ch.1_135	WormBase	mRNA	101	503	.	+	.	ID=Transcript:Y38H6C.24.1;Parent=Gene:WBGene00194689
+ch.1_135	RNASeq_reads	transcript_region	106	114	1.0	.	.	
+ch.1_135	RNASeq_stranded	transcript_region	111	163	1.0	+	.	
+ch.1_135	RNASeq_reads	transcript_region	115	147	2.0	.	.	
+ch.1_135	WormBase	CDS	119	221	.	+	.	ID=CDS:Y38H6C.24;Parent=Transcript:Y38H6C.24.1
+ch.1_135	RNASeq_reads	transcript_region	148	221	4.0	.	.	
+ch.1_135	RNASeq_stranded	transcript_region	164	164	2.0	+	.	
+ch.1_135	RNASeq_stranded	transcript_region	165	221	1.0	+	.	
+ch.1_135	WormBase	intron	222	320	.	+	.	Parent=Transcript:Y38H6C.24.1
+ch.1_135	RNASeq_splice	intron	222	320	27414.0	+	.	
+ch.1_135	RNASeq_reads	transcript_region	319	320	1.0	.	.	
+ch.1_135	RNASeq_stranded	transcript_region	319	327	1.0	+	.	
+ch.1_135	WormBase	CDS	321	403	.	+	.	ID=CDS:Y38H6C.24;Parent=Transcript:Y38H6C.24.1
+ch.1_135	RNASeq_reads	transcript_region	321	435	6.0	.	.	
+ch.1_135	WormBase	exon	321	503	.	+	.	Parent=Transcript:Y38H6C.24.1
+ch.1_135	RNASeq_stranded	transcript_region	328	329	2.0	+	.	
+ch.1_135	RNASeq_stranded	transcript_region	330	330	1.0	+	.	
+ch.1_135	RNASeq_stranded	transcript_region	331	333	2.0	+	.	
+ch.1_135	RNASeq_stranded	transcript_region	334	337	1.0	+	.	
+ch.1_135	RNASeq_stranded	transcript_region	338	338	2.0	+	.	
+ch.1_135	RNASeq_stranded	transcript_region	339	340	1.0	+	.	
+ch.1_135	RNASeq_stranded	transcript_region	341	391	2.0	+	.	
+ch.1_135	RNASeq_stranded	transcript_region	392	440	4.0	+	.	
+ch.1_135	WormBase	three_prime_UTR	404	503	.	+	.	Parent=Transcript:Y38H6C.24.1
+ch.1_135	RNASeq_reads	transcript_region	436	482	3.0	.	.	
+ch.1_135	RNASeq_stranded	transcript_region	441	461	2.0	+	.	
+ch.1_135	RNASeq_stranded	transcript_region	462	484	1.0	+	.	
+ch.1_135	RNASeq_reads	transcript_region	483	492	1.0	.	.	

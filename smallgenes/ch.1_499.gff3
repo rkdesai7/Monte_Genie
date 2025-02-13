@@ -1,0 +1,48 @@
+ch.1_499	RNASeq_F_asymmetry	transcript_region	97	103	1466.0	.	.	
+ch.1_499	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:C47D2.1.1
+ch.1_499	WormBase	exon	101	194	.	+	.	Parent=Transcript:C47D2.1.1
+ch.1_499	WormBase	gene	101	707	.	+	.	ID=Gene:WBGene00016738
+ch.1_499	WormBase	mRNA	101	707	.	+	.	ID=Transcript:C47D2.1.1;Parent=Gene:WBGene00016738
+ch.1_499	RNASeq_F_asymmetry	transcript_region	104	107	8187.0	.	.	
+ch.1_499	RNASeq_reads	transcript_region	104	108	2.0	.	.	
+ch.1_499	RNASeq_F_asymmetry	transcript_region	108	113	15035.0	.	.	
+ch.1_499	RNASeq_reads	transcript_region	109	152	4.0	.	.	
+ch.1_499	WormBase	CDS	114	194	.	+	.	ID=CDS:C47D2.1;Parent=Transcript:C47D2.1.1
+ch.1_499	RNASeq_F_asymmetry	transcript_region	114	194	22829.0	.	.	
+ch.1_499	RNASeq_stranded	transcript_region	117	190	1.0	+	.	
+ch.1_499	RNASeq_reads	transcript_region	153	194	7.0	.	.	
+ch.1_499	RNASeq_F_asymmetry	transcript_region	195	196	4688.0	.	.	
+ch.1_499	RNASeq_reads	transcript_region	195	196	1.0	.	.	
+ch.1_499	WormBase	intron	195	290	.	+	.	Parent=Transcript:C47D2.1.1
+ch.1_499	RNASeq_splice	intron	195	290	34187.0	+	.	
+ch.1_499	RNASeq_reads	transcript_region	288	290	1.0	.	.	
+ch.1_499	RNASeq_reads	transcript_region	291	367	7.0	.	.	
+ch.1_499	WormBase	CDS	291	563	.	+	.	ID=CDS:C47D2.1;Parent=Transcript:C47D2.1.1
+ch.1_499	WormBase	exon	291	707	.	+	.	Parent=Transcript:C47D2.1.1
+ch.1_499	RNASeq_stranded	transcript_region	302	351	1.0	+	.	
+ch.1_499	RNASeq	transcription_end_site	328	328	.	+	.	
+ch.1_499	RNASeq_stranded	transcript_region	353	354	1.0	+	.	
+ch.1_499	RNASeq_stranded	transcript_region	364	420	1.0	+	.	
+ch.1_499	RNASeq_reads	transcript_region	368	625	11.0	.	.	
+ch.1_499	RNASeq_splice	intron	392	446	8.0	+	.	
+ch.1_499	RNASeq_stranded	transcript_region	421	450	2.0	+	.	
+ch.1_499	RNASeq_stranded	transcript_region	451	545	1.0	+	.	
+ch.1_499	RNASeq_stranded	transcript_region	546	549	2.0	+	.	
+ch.1_499	RNASeq_stranded	transcript_region	550	556	1.0	+	.	
+ch.1_499	RNASeq_stranded	transcript_region	557	643	2.0	+	.	
+ch.1_499	WormBase	three_prime_UTR	564	707	.	+	.	Parent=Transcript:C47D2.1.1
+ch.1_499	RNASeq_reads	transcript_region	626	673	7.0	.	.	
+ch.1_499	RNASeq	transcription_end_site	628	628	.	+	.	
+ch.1_499	RNASeq_stranded	transcript_region	644	676	4.0	+	.	
+ch.1_499	RNASeq_reads	transcript_region	674	689	4.0	.	.	
+ch.1_499	RNASeq_stranded	transcript_region	677	677	2.0	+	.	
+ch.1_499	RNASeq_R_asymmetry	transcript_region	678	689	15433.0	.	.	
+ch.1_499	RNASeq_stranded	transcript_region	678	703	1.0	+	.	
+ch.1_499	RNASeq_R_asymmetry	transcript_region	690	701	10109.0	.	.	
+ch.1_499	RNASeq_reads	transcript_region	690	702	2.0	.	.	
+ch.1_499	RNASeq_reads	transcript_region	703	707	1.0	.	.	
+ch.1_499	RNASeq	transcription_end_site	704	704	.	+	.	
+ch.1_499	RNASeq	transcription_end_site	707	707	.	+	.	
+ch.1_499	RNASeq	transcription_end_site	711	711	.	+	.	
+ch.1_499	RNASeq	transcription_end_site	714	714	.	+	.	
+ch.1_499	RNASeq	transcription_end_site	727	727	.	+	.	

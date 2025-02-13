@@ -1,0 +1,93 @@
+ch.2_28	RNASeq_F_asymmetry	transcript_region	680	682	677.0	.	.	
+ch.2_28	RNASeq	transcription_end_site	681	681	.	-	.	
+ch.2_28	RNASeq	transcription_end_site	681	681	.	-	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	678	679	1252.0	.	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	677	677	2656.0	.	.	
+ch.2_28	RNASeq	transcription_end_site	677	677	.	-	.	
+ch.2_28	RNASeq	transcription_end_site	677	677	.	-	.	
+ch.2_28	RNASeq_reads	transcript_region	672	677	1.0	.	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	672	676	4252.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	672	673	1.0	+	.	
+ch.2_28	WormBase	three_prime_UTR	622	672	.	+	.	Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	WormBase	exon	484	672	.	+	.	Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	WormBase	gene	101	672	.	+	.	ID=Gene:WBGene00219275
+ch.2_28	WormBase	mRNA	101	672	.	+	.	ID=Transcript:Y39G10AR.32a.1;Parent=Gene:WBGene00219275
+ch.2_28	RNASeq_stranded	transcript_region	668	671	2.0	+	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	667	671	7610.0	.	.	
+ch.2_28	RNASeq_reads	transcript_region	663	671	2.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	657	667	4.0	+	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	666	666	12128.0	.	.	
+ch.2_28	RNASeq_reads	transcript_region	648	662	4.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	640	656	7.0	+	.	
+ch.2_28	RNASeq	transcription_end_site	648	648	.	-	.	
+ch.2_28	RNASeq	transcription_end_site	648	648	.	-	.	
+ch.2_28	RNASeq_reads	transcript_region	640	647	7.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	623	639	11.0	+	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	620	639	49775.0	.	.	
+ch.2_28	RNASeq_reads	transcript_region	613	639	12.0	.	.	
+ch.2_28	RNASeq	transcription_end_site	635	635	.	-	.	
+ch.2_28	RNASeq_stranded	transcript_region	609	622	18.0	+	.	
+ch.2_28	WormBase	CDS	484	621	.	+	.	ID=CDS:Y39G10AR.32a;Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	WormBase	CDS	484	621	.	+	.	ID=CDS:Y39G10AR.32b;Parent=Transcript:Y39G10AR.32b.1
+ch.2_28	WormBase	exon	484	621	.	+	.	Parent=Transcript:Y39G10AR.32b.1
+ch.2_28	WormBase	mRNA	392	621	.	+	.	ID=Transcript:Y39G10AR.32b.1;Parent=Gene:WBGene00219275
+ch.2_28	RNASeq	transcription_end_site	615	615	.	-	.	
+ch.2_28	RNASeq	transcription_end_site	612	612	.	-	.	
+ch.2_28	RNASeq	transcription_end_site	612	612	.	-	.	
+ch.2_28	RNASeq_reads	transcript_region	611	612	19.0	.	.	
+ch.2_28	RNASeq_reads	transcript_region	576	610	29.0	.	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	573	610	124655.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	540	608	28.0	+	.	
+ch.2_28	RNASeq_reads	transcript_region	517	575	44.0	.	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	546	572	188108.0	.	.	
+ch.2_28	RNASeq_splice	intron	528	558	25.0	+	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	539	543	211158.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	502	539	18.0	+	.	
+ch.2_28	RNASeq	transcription_end_site	534	534	.	-	.	
+ch.2_28	RNASeq	transcription_end_site	534	534	.	-	.	
+ch.2_28	RNASeq_reads	transcript_region	484	516	67.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	485	501	11.0	+	.	
+ch.2_28	RNASeq_stranded	transcript_region	484	484	7.0	-	.	
+ch.2_28	RNASeq_F_asymmetry	transcript_region	481	483	35815.0	.	.	
+ch.2_28	RNASeq_reads	transcript_region	481	483	9.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	481	483	2.0	+	.	
+ch.2_28	WormBase	intron	440	483	.	+	.	Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	WormBase	intron	440	483	.	+	.	Parent=Transcript:Y39G10AR.32b.1
+ch.2_28	RNASeq_splice	intron	440	483	320251.0	+	.	
+ch.2_28	RNASeq_splice	intron	436	483	9.0	+	.	
+ch.2_28	WormBase	CDS	392	439	.	+	.	ID=CDS:Y39G10AR.32b;Parent=Transcript:Y39G10AR.32b.1
+ch.2_28	WormBase	exon	392	439	.	+	.	Parent=Transcript:Y39G10AR.32b.1
+ch.2_28	RNASeq_stranded	transcript_region	346	439	6.0	+	.	
+ch.2_28	WormBase	CDS	292	439	.	+	.	ID=CDS:Y39G10AR.32a;Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	WormBase	exon	292	439	.	+	.	Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	RNASeq_reads	transcript_region	292	439	54.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	292	345	10.0	+	.	
+ch.2_28	RNASeq_splice	intron	250	310	8.0	+	.	
+ch.2_28	RNASeq_reads	transcript_region	257	291	1.0	.	.	
+ch.2_28	WormBase	intron	250	291	.	+	.	Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	RNASeq_splice	intron	250	291	360922.0	+	.	
+ch.2_28	RNASeq_reads	transcript_region	251	256	4.0	.	.	
+ch.2_28	RNASeq_reads	transcript_region	250	250	9.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	250	250	1.0	-	.	
+ch.2_28	RNASeq_stranded	transcript_region	231	249	10.0	+	.	
+ch.2_28	RNASeq_reads	transcript_region	160	249	72.0	.	.	
+ch.2_28	WormBase	CDS	146	249	.	+	.	ID=CDS:Y39G10AR.32a;Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	WormBase	exon	101	249	.	+	.	Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	RNASeq_stranded	transcript_region	211	230	16.0	+	.	
+ch.2_28	RNASeq_stranded	transcript_region	164	210	25.0	+	.	
+ch.2_28	RNASeq_R_asymmetry	transcript_region	160	206	333658.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	154	163	16.0	+	.	
+ch.2_28	RNASeq_reads	transcript_region	135	159	46.0	.	.	
+ch.2_28	RNASeq_R_asymmetry	transcript_region	134	159	219552.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	142	153	10.0	+	.	
+ch.2_28	WormBase	five_prime_UTR	101	145	.	+	.	Parent=Transcript:Y39G10AR.32a.1
+ch.2_28	RNASeq_stranded	transcript_region	131	141	6.0	+	.	
+ch.2_28	RNASeq_reads	transcript_region	133	134	29.0	.	.	
+ch.2_28	RNASeq_R_asymmetry	transcript_region	131	133	116850.0	.	.	
+ch.2_28	RNASeq_reads	transcript_region	130	132	17.0	.	.	
+ch.2_28	RNASeq_splice	intron	21	131	57.0	+	.	
+ch.2_28	RNASeq_R_asymmetry	transcript_region	130	130	71461.0	.	.	
+ch.2_28	RNASeq_stranded	transcript_region	130	130	3.0	-	.	
+ch.2_28	RNASeq_R_asymmetry	transcript_region	126	129	46030.0	.	.	
+ch.2_28	RNASeq_reads	transcript_region	126	129	9.0	.	.	
+ch.2_28	RNASeq_reads	transcript_region	118	125	1.0	.	.	

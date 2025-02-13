@@ -1,0 +1,52 @@
+ch.1_70	WormBase	five_prime_UTR	101	116	.	+	.	Parent=Transcript:C08E3.1.1
+ch.1_70	WormBase	exon	101	255	.	+	.	Parent=Transcript:C08E3.1.1
+ch.1_70	WormBase	gene	101	432	.	+	.	ID=Gene:WBGene00015593
+ch.1_70	WormBase	mRNA	101	432	.	+	.	ID=Transcript:C08E3.1.1;Parent=Gene:WBGene00015593
+ch.1_70	RNASeq_F_asymmetry	transcript_region	102	105	11217.0	.	.	
+ch.1_70	RNASeq_reads	transcript_region	102	105	2.0	.	.	
+ch.1_70	RNASeq_F_asymmetry	transcript_region	106	110	43732.0	.	.	
+ch.1_70	RNASeq_reads	transcript_region	106	111	9.0	.	.	
+ch.1_70	RNASeq_F_asymmetry	transcript_region	111	112	66180.0	.	.	
+ch.1_70	RNASeq_stranded	transcript_region	111	140	1.0	+	.	
+ch.1_70	RNASeq_reads	transcript_region	112	120	18.0	.	.	
+ch.1_70	RNASeq_F_asymmetry	transcript_region	113	129	101958.0	.	.	
+ch.1_70	WormBase	CDS	117	255	.	+	.	ID=CDS:C08E3.1;Parent=Transcript:C08E3.1.1
+ch.1_70	RNASeq_reads	transcript_region	121	149	28.0	.	.	
+ch.1_70	RNASeq_F_asymmetry	transcript_region	130	164	158447.0	.	.	
+ch.1_70	RNASeq_stranded	transcript_region	141	145	2.0	+	.	
+ch.1_70	RNASeq_stranded	transcript_region	146	160	4.0	+	.	
+ch.1_70	RNASeq_reads	transcript_region	150	255	44.0	.	.	
+ch.1_70	RNASeq_stranded	transcript_region	161	169	7.0	+	.	
+ch.1_70	RNASeq_F_asymmetry	transcript_region	165	203	241925.0	.	.	
+ch.1_70	RNASeq_stranded	transcript_region	170	212	11.0	+	.	
+ch.1_70	RNASeq_splice	intron	191	215	4.0	+	.	
+ch.1_70	RNASeq_stranded	transcript_region	213	245	7.0	+	.	
+ch.1_70	RNASeq_stranded	transcript_region	246	255	11.0	+	.	
+ch.1_70	WormBase	intron	256	302	.	+	.	Parent=Transcript:C08E3.1.1
+ch.1_70	RNASeq_splice	intron	256	302	383317.0	+	.	
+ch.1_70	RNASeq_splice	intron	256	317	7.0	+	.	
+ch.1_70	RNASeq_splice	intron	260	302	682.0	+	.	
+ch.1_70	RNASeq_reads	transcript_region	303	332	65.0	.	.	
+ch.1_70	RNASeq_stranded	transcript_region	303	387	10.0	+	.	
+ch.1_70	WormBase	CDS	303	400	.	+	.	ID=CDS:C08E3.1;Parent=Transcript:C08E3.1.1
+ch.1_70	WormBase	exon	303	432	.	+	.	Parent=Transcript:C08E3.1.1
+ch.1_70	RNASeq	transcription_end_site	304	304	.	+	.	
+ch.1_70	RNASeq	transcription_end_site	304	304	.	+	.	
+ch.1_70	RNASeq_R_asymmetry	transcript_region	313	339	304537.0	.	.	
+ch.1_70	RNASeq_stranded	transcript_region	316	327	1.0	-	.	
+ch.1_70	RNASeq_stranded	transcript_region	328	378	2.0	-	.	
+ch.1_70	RNASeq_reads	transcript_region	333	379	98.0	.	.	
+ch.1_70	RNASeq_R_asymmetry	transcript_region	340	378	457932.0	.	.	
+ch.1_70	RNASeq_stranded	transcript_region	379	381	1.0	-	.	
+ch.1_70	RNASeq_R_asymmetry	transcript_region	379	383	292376.0	.	.	
+ch.1_70	RNASeq_reads	transcript_region	380	384	63.0	.	.	
+ch.1_70	RNASeq_R_asymmetry	transcript_region	384	384	186358.0	.	.	
+ch.1_70	RNASeq_reads	transcript_region	385	391	38.0	.	.	
+ch.1_70	RNASeq_stranded	transcript_region	388	402	6.0	+	.	
+ch.1_70	RNASeq_reads	transcript_region	392	407	24.0	.	.	
+ch.1_70	WormBase	three_prime_UTR	401	432	.	+	.	Parent=Transcript:C08E3.1.1
+ch.1_70	RNASeq_stranded	transcript_region	403	421	3.0	+	.	
+ch.1_70	RNASeq_reads	transcript_region	408	418	11.0	.	.	
+ch.1_70	RNASeq_reads	transcript_region	419	429	7.0	.	.	
+ch.1_70	RNASeq_stranded	transcript_region	422	433	1.0	+	.	
+ch.1_70	RNASeq_reads	transcript_region	430	434	4.0	.	.	

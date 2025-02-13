@@ -1,0 +1,59 @@
+ch.2_49	RNASeq_reads	transcript_region	40	53	1.0	.	.	
+ch.2_49	RNASeq_F_asymmetry	transcript_region	51	54	4273.0	.	.	
+ch.2_49	RNASeq_stranded	transcript_region	51	63	1.0	+	.	
+ch.2_49	RNASeq_reads	transcript_region	54	69	2.0	.	.	
+ch.2_49	RNASeq_F_asymmetry	transcript_region	55	62	7853.0	.	.	
+ch.2_49	RNASeq_F_asymmetry	transcript_region	63	74	11999.0	.	.	
+ch.2_49	RNASeq_stranded	transcript_region	64	83	2.0	+	.	
+ch.2_49	RNASeq_reads	transcript_region	70	85	4.0	.	.	
+ch.2_49	RNASeq_F_asymmetry	transcript_region	75	85	19169.0	.	.	
+ch.2_49	RNASeq_stranded	transcript_region	84	94	5.0	+	.	
+ch.2_49	RNASeq_F_asymmetry	transcript_region	86	94	30018.0	.	.	
+ch.2_49	RNASeq_reads	transcript_region	86	95	7.0	.	.	
+ch.2_49	RNASeq_F_asymmetry	transcript_region	95	100	45827.0	.	.	
+ch.2_49	RNASeq_stranded	transcript_region	95	104	8.0	+	.	
+ch.2_49	RNASeq_reads	transcript_region	96	106	11.0	.	.	
+ch.2_49	WormBase	five_prime_UTR	101	105	.	+	.	Parent=Transcript:F58H10.1.1
+ch.2_49	RNASeq_F_asymmetry	transcript_region	101	155	69510.0	.	.	
+ch.2_49	WormBase	exon	101	181	.	+	.	Parent=Transcript:F58H10.1.1
+ch.2_49	WormBase	gene	101	676	.	+	.	ID=Gene:WBGene00010291
+ch.2_49	WormBase	mRNA	101	676	.	+	.	ID=Transcript:F58H10.1.1;Parent=Gene:WBGene00010291
+ch.2_49	RNASeq_stranded	transcript_region	105	181	13.0	+	.	
+ch.2_49	WormBase	CDS	106	181	.	+	.	ID=CDS:F58H10.1;Parent=Transcript:F58H10.1.1
+ch.2_49	RNASeq_reads	transcript_region	107	163	17.0	.	.	
+ch.2_49	RNASeq_reads	transcript_region	164	181	26.0	.	.	
+ch.2_49	RNASeq_F_asymmetry	transcript_region	182	184	7675.0	.	.	
+ch.2_49	RNASeq_reads	transcript_region	182	184	2.0	.	.	
+ch.2_49	RNASeq_stranded	transcript_region	182	184	2.0	+	.	
+ch.2_49	RNASeq_splice	intron	182	219	5.0	+	.	
+ch.2_49	WormBase	intron	182	232	.	+	.	Parent=Transcript:F58H10.1.1
+ch.2_49	RNASeq_splice	intron	182	232	128731.0	+	.	
+ch.2_49	RNASeq_splice	intron	182	573	88.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	185	200	1.0	+	.	
+ch.2_49	RNASeq_reads	transcript_region	231	232	4.0	.	.	
+ch.2_49	RNASeq_stranded	transcript_region	231	232	1.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	233	262	15.0	+	.	
+ch.2_49	WormBase	CDS	233	413	.	+	.	ID=CDS:F58H10.1;Parent=Transcript:F58H10.1.1
+ch.2_49	WormBase	exon	233	413	.	+	.	Parent=Transcript:F58H10.1.1
+ch.2_49	RNASeq_stranded	transcript_region	263	267	8.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	268	340	5.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	293	297	1.0	-	.	
+ch.2_49	RNASeq_stranded	transcript_region	341	574	8.0	+	.	
+ch.2_49	WormBase	intron	414	573	.	+	.	Parent=Transcript:F58H10.1.1
+ch.2_49	RNASeq_splice	intron	414	573	18.0	+	.	
+ch.2_49	RNASeq	transcription_end_site	443	443	.	+	.	
+ch.2_49	WormBase	CDS	574	676	.	+	.	ID=CDS:F58H10.1;Parent=Transcript:F58H10.1.1
+ch.2_49	WormBase	exon	574	676	.	+	.	Parent=Transcript:F58H10.1.1
+ch.2_49	RNASeq_stranded	transcript_region	575	610	13.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	578	627	1.0	-	.	
+ch.2_49	RNASeq_stranded	transcript_region	611	719	20.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	629	629	1.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	637	637	1.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	639	640	1.0	-	.	
+ch.2_49	RNASeq_stranded	transcript_region	643	672	1.0	-	.	
+ch.2_49	RNASeq_stranded	transcript_region	673	722	2.0	-	.	
+ch.2_49	RNASeq_stranded	transcript_region	720	743	32.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	723	723	1.0	+	.	
+ch.2_49	RNASeq	transcription_end_site	738	738	.	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	744	760	49.0	+	.	
+ch.2_49	RNASeq_stranded	transcript_region	761	767	75.0	+	.	

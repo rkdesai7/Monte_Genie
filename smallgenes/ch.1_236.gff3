@@ -1,0 +1,51 @@
+ch.1_236	WormBase	five_prime_UTR	101	109	.	+	.	Parent=Transcript:C09G12.5.1
+ch.1_236	WormBase	exon	101	176	.	+	.	Parent=Transcript:C09G12.5.1
+ch.1_236	WormBase	gene	101	524	.	+	.	ID=Gene:WBGene00015655
+ch.1_236	WormBase	mRNA	101	524	.	+	.	ID=Transcript:C09G12.5.1;Parent=Gene:WBGene00015655
+ch.1_236	RNASeq_F_asymmetry	transcript_region	103	111	254.0	.	.	
+ch.1_236	WormBase	CDS	110	176	.	+	.	ID=CDS:C09G12.5;Parent=Transcript:C09G12.5.1
+ch.1_236	RNASeq_F_asymmetry	transcript_region	112	115	606.0	.	.	
+ch.1_236	RNASeq_F_asymmetry	transcript_region	116	116	1029.0	.	.	
+ch.1_236	RNASeq_F_asymmetry	transcript_region	117	117	1936.0	.	.	
+ch.1_236	RNASeq_F_asymmetry	transcript_region	118	125	3907.0	.	.	
+ch.1_236	RNASeq_reads	transcript_region	118	135	1.0	.	.	
+ch.1_236	RNASeq_F_asymmetry	transcript_region	126	147	5912.0	.	.	
+ch.1_236	RNASeq_stranded	transcript_region	128	131	1.0	+	.	
+ch.1_236	RNASeq_reads	transcript_region	136	176	2.0	.	.	
+ch.1_236	RNASeq_stranded	transcript_region	142	147	1.0	+	.	
+ch.1_236	RNASeq_stranded	transcript_region	148	150	2.0	+	.	
+ch.1_236	RNASeq_F_asymmetry	transcript_region	148	176	8916.0	.	.	
+ch.1_236	RNASeq_stranded	transcript_region	151	176	4.0	+	.	
+ch.1_236	WormBase	intron	177	225	.	+	.	Parent=Transcript:C09G12.5.1
+ch.1_236	RNASeq_splice	intron	177	225	13416.0	+	.	
+ch.1_236	RNASeq_F_asymmetry	transcript_region	223	223	1535.0	.	.	
+ch.1_236	RNASeq_stranded	transcript_region	223	225	1.0	+	.	
+ch.1_236	RNASeq_reads	transcript_region	225	225	1.0	.	.	
+ch.1_236	RNASeq_F_asymmetry	transcript_region	226	241	10770.0	.	.	
+ch.1_236	RNASeq_stranded	transcript_region	226	251	3.0	+	.	
+ch.1_236	RNASeq_reads	transcript_region	226	292	3.0	.	.	
+ch.1_236	WormBase	CDS	226	479	.	+	.	ID=CDS:C09G12.5;Parent=Transcript:C09G12.5.1
+ch.1_236	WormBase	exon	226	524	.	+	.	Parent=Transcript:C09G12.5.1
+ch.1_236	RNASeq_stranded	transcript_region	252	311	1.0	+	.	
+ch.1_236	RNASeq_reads	transcript_region	293	470	5.0	.	.	
+ch.1_236	RNASeq	transcription_end_site	296	296	.	+	.	
+ch.1_236	RNASeq_stranded	transcript_region	312	345	2.0	+	.	
+ch.1_236	RNASeq_R_asymmetry	transcript_region	334	371	27240.0	.	.	
+ch.1_236	RNASeq_stranded	transcript_region	346	382	1.0	+	.	
+ch.1_236	RNASeq_stranded	transcript_region	383	396	2.0	+	.	
+ch.1_236	RNASeq_stranded	transcript_region	397	402	4.0	+	.	
+ch.1_236	RNASeq_stranded	transcript_region	403	406	8.0	+	.	
+ch.1_236	RNASeq_stranded	transcript_region	407	438	13.0	+	.	
+ch.1_236	RNASeq_stranded	transcript_region	439	449	8.0	+	.	
+ch.1_236	RNASeq_stranded	transcript_region	450	474	5.0	+	.	
+ch.1_236	RNASeq_R_asymmetry	transcript_region	450	490	18382.0	.	.	
+ch.1_236	RNASeq_reads	transcript_region	471	500	3.0	.	.	
+ch.1_236	RNASeq_stranded	transcript_region	475	482	3.0	+	.	
+ch.1_236	WormBase	three_prime_UTR	480	524	.	+	.	Parent=Transcript:C09G12.5.1
+ch.1_236	RNASeq_stranded	transcript_region	483	511	5.0	+	.	
+ch.1_236	RNASeq_R_asymmetry	transcript_region	491	491	11961.0	.	.	
+ch.1_236	RNASeq	transcription_end_site	500	500	.	+	.	
+ch.1_236	RNASeq_reads	transcript_region	501	516	1.0	.	.	
+ch.1_236	RNASeq_stranded	transcript_region	512	518	3.0	+	.	
+ch.1_236	RNASeq_stranded	transcript_region	519	522	1.0	+	.	
+ch.1_236	RNASeq_R_asymmetry	transcript_region	527	533	353.0	.	.	

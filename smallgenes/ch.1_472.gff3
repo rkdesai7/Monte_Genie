@@ -1,0 +1,77 @@
+ch.1_472	RNASeq	transcription_end_site	742	742	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	742	742	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	738	738	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	738	738	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	735	735	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	735	735	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	734	734	.	-	.	
+ch.1_472	RNASeq_reads	transcript_region	733	734	1.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	733	734	1.0	+	.	
+ch.1_472	RNASeq	transcription_end_site	733	733	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	733	733	.	-	.	
+ch.1_472	RNASeq_reads	transcript_region	732	732	5.0	.	.	
+ch.1_472	RNASeq	transcription_end_site	732	732	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	732	732	.	-	.	
+ch.1_472	RNASeq_stranded	transcript_region	726	732	15.0	+	.	
+ch.1_472	RNASeq_stranded	transcript_region	633	732	1.0	-	.	
+ch.1_472	RNASeq_reads	transcript_region	724	731	8.0	.	.	
+ch.1_472	WormBase	three_prime_UTR	623	731	.	+	.	Parent=Transcript:T24H10.6.1
+ch.1_472	WormBase	exon	414	731	.	+	.	Parent=Transcript:T24H10.6.1
+ch.1_472	WormBase	gene	101	731	.	+	.	ID=Gene:WBGene00012004
+ch.1_472	WormBase	mRNA	101	731	.	+	.	ID=Transcript:T24H10.6.1;Parent=Gene:WBGene00012004
+ch.1_472	RNASeq	transcription_end_site	726	726	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	726	726	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	725	725	.	-	.	
+ch.1_472	RNASeq	transcription_end_site	725	725	.	-	.	
+ch.1_472	RNASeq_stranded	transcript_region	716	725	24.0	+	.	
+ch.1_472	RNASeq_F_asymmetry	transcript_region	721	723	80621.0	.	.	
+ch.1_472	RNASeq_reads	transcript_region	720	723	20.0	.	.	
+ch.1_472	RNASeq_F_asymmetry	transcript_region	705	720	129804.0	.	.	
+ch.1_472	RNASeq_reads	transcript_region	702	719	31.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	707	715	38.0	+	.	
+ch.1_472	RNASeq_stranded	transcript_region	695	706	64.0	+	.	
+ch.1_472	RNASeq_F_asymmetry	transcript_region	701	703	179458.0	.	.	
+ch.1_472	RNASeq_reads	transcript_region	683	701	49.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	683	694	97.0	+	.	
+ch.1_472	RNASeq	transcription_end_site	687	687	.	-	.	
+ch.1_472	RNASeq_reads	transcript_region	637	682	74.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	631	682	147.0	+	.	
+ch.1_472	RNASeq_reads	transcript_region	587	636	113.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	628	630	1.0	-	.	
+ch.1_472	RNASeq_stranded	transcript_region	588	630	221.0	+	.	
+ch.1_472	WormBase	CDS	414	622	.	+	.	ID=CDS:T24H10.6;Parent=Transcript:T24H10.6.1
+ch.1_472	RNASeq_stranded	transcript_region	582	587	1.0	-	.	
+ch.1_472	RNASeq_stranded	transcript_region	562	587	145.0	+	.	
+ch.1_472	RNASeq_reads	transcript_region	414	586	173.0	.	.	
+ch.1_472	RNASeq_splice	intron	455	581	4.0	-	.	
+ch.1_472	RNASeq_stranded	transcript_region	532	561	92.0	+	.	
+ch.1_472	RNASeq_stranded	transcript_region	471	531	60.0	+	.	
+ch.1_472	RNASeq_splice	intron	152	490	3.0	+	.	
+ch.1_472	RNASeq_splice	intron	180	475	3.0	+	.	
+ch.1_472	RNASeq_stranded	transcript_region	414	470	39.0	+	.	
+ch.1_472	RNASeq_splice	intron	184	419	4.0	+	.	
+ch.1_472	RNASeq_reads	transcript_region	413	413	16.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	413	413	8.0	-	.	
+ch.1_472	WormBase	intron	180	413	.	+	.	Parent=Transcript:T24H10.6.1
+ch.1_472	RNASeq_splice	intron	180	413	664305.0	+	.	
+ch.1_472	RNASeq_reads	transcript_region	410	412	1.0	.	.	
+ch.1_472	RNASeq_splice	intron	180	402	174.0	+	.	
+ch.1_472	RNASeq_R_asymmetry	transcript_region	180	180	47522.0	.	.	
+ch.1_472	RNASeq_reads	transcript_region	180	180	11.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	180	180	12.0	-	.	
+ch.1_472	RNASeq_reads	transcript_region	113	179	133.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	102	179	43.0	+	.	
+ch.1_472	WormBase	CDS	101	179	.	+	.	ID=CDS:T24H10.6;Parent=Transcript:T24H10.6.1
+ch.1_472	WormBase	exon	101	179	.	+	.	Parent=Transcript:T24H10.6.1
+ch.1_472	RNASeq_stranded	transcript_region	157	178	1.0	-	.	
+ch.1_472	RNASeq_R_asymmetry	transcript_region	105	163	532784.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	152	153	1.0	-	.	
+ch.1_472	RNASeq_reads	transcript_region	105	112	87.0	.	.	
+ch.1_472	RNASeq_R_asymmetry	transcript_region	99	104	277295.0	.	.	
+ch.1_472	RNASeq_reads	transcript_region	99	104	57.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	99	101	28.0	+	.	
+ch.1_472	RNASeq_splice	intron	49	100	101.0	+	.	
+ch.1_472	RNASeq_splice	intron	31	100	7.0	+	.	
+ch.1_472	RNASeq_reads	transcript_region	95	98	5.0	.	.	
+ch.1_472	RNASeq_stranded	transcript_region	95	98	1.0	+	.	
+ch.1_472	RNASeq_R_asymmetry	transcript_region	95	96	17882.0	.	.	

@@ -1,0 +1,23 @@
+ch.1_122	RNASeq_reads	transcript_region	70	148	2.0	.	.	
+ch.1_122	WormBase	five_prime_UTR	101	107	.	+	.	Parent=Transcript:C44B12.3.1
+ch.1_122	WormBase	exon	101	168	.	+	.	Parent=Transcript:C44B12.3.1
+ch.1_122	WormBase	gene	101	465	.	+	.	ID=Gene:WBGene00016637
+ch.1_122	WormBase	mRNA	101	465	.	+	.	ID=Transcript:C44B12.3.1;Parent=Gene:WBGene00016637
+ch.1_122	WormBase	CDS	108	168	.	+	.	ID=CDS:C44B12.3;Parent=Transcript:C44B12.3.1
+ch.1_122	RNASeq_stranded	transcript_region	110	168	1.0	+	.	
+ch.1_122	RNASeq_reads	transcript_region	149	168	4.0	.	.	
+ch.1_122	RNASeq_splice	intron	167	221	20.0	+	.	
+ch.1_122	WormBase	intron	169	221	.	+	.	Parent=Transcript:C44B12.3.1
+ch.1_122	RNASeq_reads	transcript_region	169	221	1.0	.	.	
+ch.1_122	RNASeq_splice	intron	169	221	14561.0	+	.	
+ch.1_122	RNASeq_stranded	transcript_region	222	254	1.0	+	.	
+ch.1_122	RNASeq_reads	transcript_region	222	399	4.0	.	.	
+ch.1_122	WormBase	CDS	222	421	.	+	.	ID=CDS:C44B12.3;Parent=Transcript:C44B12.3.1
+ch.1_122	WormBase	exon	222	465	.	+	.	Parent=Transcript:C44B12.3.1
+ch.1_122	RNASeq_stranded	transcript_region	255	256	2.0	+	.	
+ch.1_122	RNASeq_stranded	transcript_region	257	278	1.0	+	.	
+ch.1_122	RNASeq_stranded	transcript_region	279	430	2.0	+	.	
+ch.1_122	RNASeq_reads	transcript_region	400	456	2.0	.	.	
+ch.1_122	RNASeq_splice	intron	417	461	169.0	+	.	
+ch.1_122	WormBase	three_prime_UTR	422	465	.	+	.	Parent=Transcript:C44B12.3.1
+ch.1_122	RNASeq_stranded	transcript_region	431	456	1.0	+	.	

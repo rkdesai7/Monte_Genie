@@ -1,0 +1,32 @@
+ch.2_296	RNASeq_reads	transcript_region	807	813	1.0	.	.	
+ch.2_296	WormBase	three_prime_UTR	759	810	.	+	.	Parent=Transcript:F14F8.8.1
+ch.2_296	WormBase	exon	675	810	.	+	.	Parent=Transcript:F14F8.8.1
+ch.2_296	WormBase	gene	101	810	.	+	.	ID=Gene:WBGene00008816
+ch.2_296	WormBase	mRNA	101	810	.	+	.	ID=Transcript:F14F8.8.1;Parent=Gene:WBGene00008816
+ch.2_296	RNASeq_reads	transcript_region	787	806	2.0	.	.	
+ch.2_296	RNASeq	transcription_end_site	801	801	.	-	.	
+ch.2_296	RNASeq_reads	transcript_region	752	786	4.0	.	.	
+ch.2_296	WormBase	CDS	675	758	.	+	.	ID=CDS:F14F8.8;Parent=Transcript:F14F8.8.1
+ch.2_296	RNASeq_reads	transcript_region	719	751	7.0	.	.	
+ch.2_296	RNASeq_reads	transcript_region	675	718	11.0	.	.	
+ch.2_296	RNASeq_reads	transcript_region	674	674	1.0	.	.	
+ch.2_296	WormBase	intron	633	674	.	+	.	Parent=Transcript:F14F8.8.1
+ch.2_296	RNASeq_splice	intron	633	674	56197.0	+	.	
+ch.2_296	WormBase	CDS	543	632	.	+	.	ID=CDS:F14F8.8;Parent=Transcript:F14F8.8.1
+ch.2_296	WormBase	exon	543	632	.	+	.	Parent=Transcript:F14F8.8.1
+ch.2_296	RNASeq_reads	transcript_region	543	632	13.0	.	.	
+ch.2_296	RNASeq_splice	intron	285	609	11.0	+	.	
+ch.2_296	RNASeq_reads	transcript_region	542	542	1.0	.	.	
+ch.2_296	WormBase	intron	285	542	.	+	.	Parent=Transcript:F14F8.8.1
+ch.2_296	RNASeq_splice	intron	285	542	42643.0	+	.	
+ch.2_296	RNASeq_splice	intron	177	542	28.0	+	.	
+ch.2_296	RNASeq_reads	transcript_region	239	284	9.0	.	.	
+ch.2_296	WormBase	CDS	237	284	.	+	.	ID=CDS:F14F8.8;Parent=Transcript:F14F8.8.1
+ch.2_296	WormBase	exon	101	284	.	+	.	Parent=Transcript:F14F8.8.1
+ch.2_296	RNASeq_stranded	transcript_region	240	248	1.0	+	.	
+ch.2_296	RNASeq_reads	transcript_region	229	238	5.0	.	.	
+ch.2_296	WormBase	five_prime_UTR	101	236	.	+	.	Parent=Transcript:F14F8.8.1
+ch.2_296	RNASeq_reads	transcript_region	212	228	3.0	.	.	
+ch.2_296	RNASeq_splice	intron	177	222	5.0	+	.	
+ch.2_296	RNASeq_reads	transcript_region	194	211	1.0	.	.	
+ch.2_296	RNASeq_reads	transcript_region	188	188	1.0	.	.	

@@ -1,0 +1,25 @@
+ch.2_243	RNASeq_stranded	transcript_region	723	783	1.0	+	.	
+ch.2_243	WormBase	CDS	653	745	.	+	.	ID=CDS:F55A3.6;Parent=Transcript:F55A3.6.1
+ch.2_243	WormBase	exon	653	745	.	+	.	Parent=Transcript:F55A3.6.1
+ch.2_243	WormBase	gene	101	745	.	+	.	ID=Gene:WBGene00018851
+ch.2_243	WormBase	mRNA	101	745	.	+	.	ID=Transcript:F55A3.6.1;Parent=Gene:WBGene00018851
+ch.2_243	RNASeq_stranded	transcript_region	715	722	2.0	+	.	
+ch.2_243	RNASeq_stranded	transcript_region	698	714	1.0	+	.	
+ch.2_243	WormBase	intron	600	652	.	+	.	Parent=Transcript:F55A3.6.1
+ch.2_243	RNASeq_splice	intron	600	652	10426.0	+	.	
+ch.2_243	RNASeq_splice	intron	600	634	14.0	+	.	
+ch.2_243	WormBase	CDS	506	599	.	+	.	ID=CDS:F55A3.6;Parent=Transcript:F55A3.6.1
+ch.2_243	WormBase	exon	506	599	.	+	.	Parent=Transcript:F55A3.6.1
+ch.2_243	RNASeq_reads	transcript_region	506	599	2.0	.	.	
+ch.2_243	WormBase	intron	218	505	.	+	.	Parent=Transcript:F55A3.6.1
+ch.2_243	RNASeq_splice	intron	218	505	8077.0	+	.	
+ch.2_243	RNASeq_splice	intron	67	505	8.0	+	.	
+ch.2_243	RNASeq_F_asymmetry	transcript_region	279	281	273.0	.	.	
+ch.2_243	WormBase	CDS	141	217	.	+	.	ID=CDS:F55A3.6;Parent=Transcript:F55A3.6.1
+ch.2_243	WormBase	exon	101	217	.	+	.	Parent=Transcript:F55A3.6.1
+ch.2_243	RNASeq_reads	transcript_region	54	217	2.0	.	.	
+ch.2_243	RNASeq_stranded	transcript_region	163	211	1.0	+	.	
+ch.2_243	WormBase	five_prime_UTR	101	140	.	+	.	Parent=Transcript:F55A3.6.1
+ch.2_243	RNASeq_reads	transcript_region	47	53	1.0	.	.	
+ch.2_243	RNASeq_splice	intron	5	47	5930.0	+	.	
+ch.2_243	RNASeq_R_asymmetry	transcript_region	5	5	1443.0	.	.	

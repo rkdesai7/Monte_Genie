@@ -1,0 +1,48 @@
+ch.1_39	WormBase	three_prime_UTR	535	585	.	-	.	Parent=Transcript:F14D7.6c.1
+ch.1_39	WormBase	three_prime_UTR	526	585	.	-	.	Parent=Transcript:F14D7.6d.1
+ch.1_39	RNASeq_R_asymmetry	transcript_region	554	584	15212.0	.	.	
+ch.1_39	RNASeq_stranded	transcript_region	572	583	2.0	-	.	
+ch.1_39	RNASeq_reads	transcript_region	535	572	3.0	.	.	
+ch.1_39	RNASeq_stranded	transcript_region	541	571	1.0	-	.	
+ch.1_39	RNASeq_R_asymmetry	transcript_region	535	553	10014.0	.	.	
+ch.1_39	RNASeq_R_asymmetry	transcript_region	532	534	4720.0	.	.	
+ch.1_39	RNASeq_reads	transcript_region	530	534	1.0	.	.	
+ch.1_39	RNASeq_R_asymmetry	transcript_region	530	531	3069.0	.	.	
+ch.1_39	RNASeq_R_asymmetry	transcript_region	529	529	1884.0	.	.	
+ch.1_39	RNASeq	transcription_end_site	526	526	.	-	.	
+ch.1_39	WormBase	three_prime_UTR	469	504	.	+	.	Parent=Transcript:F14D7.7.1
+ch.1_39	WormBase	exon	233	504	.	+	.	Parent=Transcript:F14D7.7.1
+ch.1_39	WormBase	gene	101	504	.	+	.	ID=Gene:WBGene00008794
+ch.1_39	WormBase	mRNA	101	504	.	+	.	ID=Transcript:F14D7.7.1;Parent=Gene:WBGene00008794
+ch.1_39	RNASeq_stranded	transcript_region	489	501	1.0	+	.	
+ch.1_39	RNASeq_reads	transcript_region	479	500	1.0	.	.	
+ch.1_39	RNASeq_stranded	transcript_region	443	488	2.0	+	.	
+ch.1_39	RNASeq_reads	transcript_region	471	478	2.0	.	.	
+ch.1_39	RNASeq_reads	transcript_region	441	470	4.0	.	.	
+ch.1_39	WormBase	CDS	233	468	.	+	.	ID=CDS:F14D7.7;Parent=Transcript:F14D7.7.1
+ch.1_39	RNASeq_stranded	transcript_region	334	442	4.0	+	.	
+ch.1_39	RNASeq_reads	transcript_region	416	440	7.0	.	.	
+ch.1_39	RNASeq_reads	transcript_region	384	415	11.0	.	.	
+ch.1_39	RNASeq_reads	transcript_region	233	383	17.0	.	.	
+ch.1_39	RNASeq_splice	intron	277	339	5.0	-	.	
+ch.1_39	RNASeq_stranded	transcript_region	283	333	2.0	+	.	
+ch.1_39	RNASeq_stranded	transcript_region	233	282	4.0	+	.	
+ch.1_39	RNASeq_splice	intron	192	235	84.0	+	.	
+ch.1_39	RNASeq_splice	intron	188	235	165.0	+	.	
+ch.1_39	RNASeq_reads	transcript_region	232	232	2.0	.	.	
+ch.1_39	RNASeq_stranded	transcript_region	232	232	1.0	-	.	
+ch.1_39	WormBase	intron	188	232	.	+	.	Parent=Transcript:F14D7.7.1
+ch.1_39	RNASeq_splice	intron	188	232	80653.0	+	.	
+ch.1_39	RNASeq_reads	transcript_region	129	187	16.0	.	.	
+ch.1_39	RNASeq_stranded	transcript_region	127	187	4.0	+	.	
+ch.1_39	WormBase	CDS	112	187	.	+	.	ID=CDS:F14D7.7;Parent=Transcript:F14D7.7.1
+ch.1_39	WormBase	exon	101	187	.	+	.	Parent=Transcript:F14D7.7.1
+ch.1_39	RNASeq_R_asymmetry	transcript_region	128	170	66845.0	.	.	
+ch.1_39	RNASeq_reads	transcript_region	123	128	10.0	.	.	
+ch.1_39	RNASeq_R_asymmetry	transcript_region	123	127	40790.0	.	.	
+ch.1_39	RNASeq_stranded	transcript_region	119	126	2.0	+	.	
+ch.1_39	RNASeq_R_asymmetry	transcript_region	118	122	24497.0	.	.	
+ch.1_39	RNASeq_reads	transcript_region	118	122	6.0	.	.	
+ch.1_39	RNASeq_stranded	transcript_region	109	118	1.0	+	.	
+ch.1_39	RNASeq_reads	transcript_region	101	117	3.0	.	.	
+ch.1_39	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:F14D7.7.1

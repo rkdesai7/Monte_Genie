@@ -1,0 +1,77 @@
+ch.1_589	RNASeq_R_asymmetry	transcript_region	937	994	20849.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	940	984	2.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	916	943	3.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	934	939	1.0	+	.	
+ch.1_589	WormBase	five_prime_UTR	876	939	.	+	.	Parent=Transcript:C37C3.7.1
+ch.1_589	RNASeq_R_asymmetry	transcript_region	923	936	13289.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	919	927	1.0	+	.	
+ch.1_589	RNASeq_stranded	transcript_region	913	918	2.0	+	.	
+ch.1_589	RNASeq	transcription_end_site	917	917	.	-	.	
+ch.1_589	RNASeq	transcription_end_site	917	917	.	-	.	
+ch.1_589	WormBase	three_prime_UTR	771	917	.	+	.	Parent=Transcript:C37C3.13.1
+ch.1_589	WormBase	exon	493	917	.	+	.	Parent=Transcript:C37C3.13.1
+ch.1_589	WormBase	gene	101	917	.	+	.	ID=Gene:WBGene00016505
+ch.1_589	WormBase	mRNA	101	917	.	+	.	ID=Transcript:C37C3.13.1;Parent=Gene:WBGene00016505
+ch.1_589	RNASeq_reads	transcript_region	908	915	5.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	904	912	4.0	+	.	
+ch.1_589	RNASeq	transcription_end_site	908	908	.	-	.	
+ch.1_589	RNASeq	transcription_end_site	908	908	.	-	.	
+ch.1_589	RNASeq_reads	transcript_region	898	907	10.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	897	903	7.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	892	897	16.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	874	896	11.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	881	891	27.0	.	.	
+ch.1_589	RNASeq	transcription_end_site	890	890	.	-	.	
+ch.1_589	RNASeq	transcription_end_site	890	890	.	-	.	
+ch.1_589	RNASeq_reads	transcript_region	862	880	41.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	839	873	17.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	832	861	63.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	750	838	26.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	768	831	95.0	.	.	
+ch.1_589	WormBase	CDS	493	770	.	+	.	ID=CDS:C37C3.13;Parent=Transcript:C37C3.13.1
+ch.1_589	RNASeq_reads	transcript_region	574	767	143.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	717	749	17.0	+	.	
+ch.1_589	RNASeq	transcription_end_site	729	729	.	-	.	
+ch.1_589	RNASeq_stranded	transcript_region	687	716	10.0	+	.	
+ch.1_589	RNASeq_stranded	transcript_region	601	686	6.0	+	.	
+ch.1_589	RNASeq_stranded	transcript_region	643	684	1.0	-	.	
+ch.1_589	RNASeq_stranded	transcript_region	632	638	1.0	-	.	
+ch.1_589	RNASeq_splice	intron	581	620	4.0	-	.	
+ch.1_589	RNASeq_stranded	transcript_region	562	600	10.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	493	573	225.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	493	561	16.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	492	492	17.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	492	492	2.0	-	.	
+ch.1_589	RNASeq_splice	intron	353	492	17.0	+	.	
+ch.1_589	RNASeq_splice	intron	268	492	6.0	+	.	
+ch.1_589	WormBase	intron	264	492	.	+	.	Parent=Transcript:C37C3.13.1
+ch.1_589	RNASeq_splice	intron	264	492	1098750.0	+	.	
+ch.1_589	RNASeq_splice	intron	239	492	15.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	490	491	2.0	.	.	
+ch.1_589	RNASeq_reads	transcript_region	266	489	1.0	.	.	
+ch.1_589	RNASeq_splice	intron	264	482	21.0	+	.	
+ch.1_589	RNASeq_splice	intron	264	453	3.0	+	.	
+ch.1_589	RNASeq_splice	intron	264	307	14.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	265	265	2.0	.	.	
+ch.1_589	RNASeq_reads	transcript_region	264	264	19.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	264	264	2.0	-	.	
+ch.1_589	RNASeq_stranded	transcript_region	234	263	14.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	170	263	227.0	.	.	
+ch.1_589	WormBase	CDS	110	263	.	+	.	ID=CDS:C37C3.13;Parent=Transcript:C37C3.13.1
+ch.1_589	WormBase	exon	101	263	.	+	.	Parent=Transcript:C37C3.13.1
+ch.1_589	RNASeq_stranded	transcript_region	183	233	22.0	+	.	
+ch.1_589	RNASeq_stranded	transcript_region	148	182	11.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	132	169	144.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	119	147	7.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	104	131	95.0	.	.	
+ch.1_589	RNASeq_R_asymmetry	transcript_region	103	128	356106.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	103	118	4.0	+	.	
+ch.1_589	WormBase	five_prime_UTR	101	109	.	+	.	Parent=Transcript:C37C3.13.1
+ch.1_589	RNASeq_reads	transcript_region	95	103	60.0	.	.	
+ch.1_589	RNASeq_R_asymmetry	transcript_region	102	102	227372.0	.	.	
+ch.1_589	RNASeq_stranded	transcript_region	96	102	2.0	+	.	
+ch.1_589	RNASeq_stranded	transcript_region	81	95	1.0	+	.	
+ch.1_589	RNASeq_reads	transcript_region	82	94	38.0	.	.	
+ch.1_589	RNASeq_reads	transcript_region	80	81	25.0	.	.	
+ch.1_589	RNASeq_reads	transcript_region	75	79	8.0	.	.	
+ch.1_589	RNASeq_reads	transcript_region	46	74	3.0	.	.	

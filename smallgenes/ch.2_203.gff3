@@ -1,0 +1,52 @@
+ch.2_203	RNASeq_stranded	transcript_region	31	35	2.0	-	.	
+ch.2_203	RNASeq_stranded	transcript_region	36	142	1.0	-	.	
+ch.2_203	RNASeq_R_asymmetry	transcript_region	72	116	36246.0	.	.	
+ch.2_203	WormBase	five_prime_UTR	97	128	.	-	.	Parent=Transcript:F37C12.10.1
+ch.2_203	WormBase	exon	101	230	.	+	.	Parent=Transcript:F37C12.21.1
+ch.2_203	WormBase	CDS	101	230	.	+	.	ID=CDS:F37C12.21;Parent=Transcript:F37C12.21.1
+ch.2_203	WormBase	gene	101	732	.	+	.	ID=Gene:WBGene00194742
+ch.2_203	WormBase	mRNA	101	732	.	+	.	ID=Transcript:F37C12.21.1;Parent=Gene:WBGene00194742
+ch.2_203	RNASeq_R_asymmetry	transcript_region	117	129	23455.0	.	.	
+ch.2_203	RNASeq_reads	transcript_region	117	130	5.0	.	.	
+ch.2_203	RNASeq_R_asymmetry	transcript_region	130	140	15446.0	.	.	
+ch.2_203	RNASeq_reads	transcript_region	131	154	3.0	.	.	
+ch.2_203	RNASeq_R_asymmetry	transcript_region	141	153	10033.0	.	.	
+ch.2_203	RNASeq_R_asymmetry	transcript_region	154	154	6355.0	.	.	
+ch.2_203	RNASeq_reads	transcript_region	155	294	1.0	.	.	
+ch.2_203	RNASeq_stranded	transcript_region	156	164	1.0	-	.	
+ch.2_203	RNASeq_splice	intron	211	276	51.0	+	.	
+ch.2_203	WormBase	intron	231	276	.	+	.	Parent=Transcript:F37C12.21.1
+ch.2_203	RNASeq_splice	intron	231	276	307.0	+	.	
+ch.2_203	RNASeq_splice	intron	277	386	24.0	+	.	
+ch.2_203	RNASeq_splice	intron	277	417	4.0	+	.	
+ch.2_203	WormBase	CDS	277	440	.	+	.	ID=CDS:F37C12.21;Parent=Transcript:F37C12.21.1
+ch.2_203	WormBase	exon	277	440	.	+	.	Parent=Transcript:F37C12.21.1
+ch.2_203	RNASeq_F_asymmetry	transcript_region	289	302	5232.0	.	.	
+ch.2_203	RNASeq_reads	transcript_region	295	379	2.0	.	.	
+ch.2_203	RNASeq_F_asymmetry	transcript_region	303	326	7852.0	.	.	
+ch.2_203	RNASeq_F_asymmetry	transcript_region	327	339	11830.0	.	.	
+ch.2_203	RNASeq_reads	transcript_region	380	440	4.0	.	.	
+ch.2_203	RNASeq_stranded	transcript_region	395	396	1.0	+	.	
+ch.2_203	RNASeq_stranded	transcript_region	408	416	11.0	-	.	
+ch.2_203	RNASeq_stranded	transcript_region	409	409	1.0	+	.	
+ch.2_203	RNASeq_stranded	transcript_region	411	440	1.0	+	.	
+ch.2_203	RNASeq_reads	transcript_region	441	444	1.0	.	.	
+ch.2_203	WormBase	intron	441	485	.	+	.	Parent=Transcript:F37C12.21.1
+ch.2_203	RNASeq_splice	intron	441	485	26569.0	+	.	
+ch.2_203	RNASeq_splice	intron	441	505	23.0	+	.	
+ch.2_203	RNASeq_reads	transcript_region	475	485	1.0	.	.	
+ch.2_203	RNASeq_stranded	transcript_region	486	538	1.0	+	.	
+ch.2_203	RNASeq_reads	transcript_region	486	655	6.0	.	.	
+ch.2_203	WormBase	CDS	486	695	.	+	.	ID=CDS:F37C12.21;Parent=Transcript:F37C12.21.1
+ch.2_203	WormBase	exon	486	732	.	+	.	Parent=Transcript:F37C12.21.1
+ch.2_203	RNASeq_stranded	transcript_region	539	589	2.0	+	.	
+ch.2_203	RNASeq_stranded	transcript_region	543	550	1.0	-	.	
+ch.2_203	RNASeq_stranded	transcript_region	590	659	1.0	+	.	
+ch.2_203	RNASeq_reads	transcript_region	656	691	3.0	.	.	
+ch.2_203	RNASeq_R_asymmetry	transcript_region	657	657	13654.0	.	.	
+ch.2_203	RNASeq_R_asymmetry	transcript_region	659	659	13523.0	.	.	
+ch.2_203	RNASeq_stranded	transcript_region	660	667	2.0	+	.	
+ch.2_203	RNASeq_stranded	transcript_region	668	718	1.0	+	.	
+ch.2_203	RNASeq_reads	transcript_region	692	731	1.0	.	.	
+ch.2_203	WormBase	three_prime_UTR	696	732	.	+	.	Parent=Transcript:F37C12.21.1
+ch.2_203	RNASeq	transcription_end_site	735	735	.	+	.	

@@ -1,0 +1,36 @@
+ch.1_68	RNASeq_reads	transcript_region	445	480	1.0	.	.	
+ch.1_68	WormBase	three_prime_UTR	435	480	.	+	.	Parent=Transcript:F41G3.16.1
+ch.1_68	WormBase	exon	325	480	.	+	.	Parent=Transcript:F41G3.16.1
+ch.1_68	WormBase	gene	101	480	.	+	.	ID=Gene:WBGene00002097
+ch.1_68	WormBase	mRNA	101	480	.	+	.	ID=Transcript:F41G3.16.1;Parent=Gene:WBGene00002097
+ch.1_68	RNASeq_stranded	transcript_region	414	455	1.0	+	.	
+ch.1_68	RNASeq_reads	transcript_region	419	444	2.0	.	.	
+ch.1_68	WormBase	CDS	325	434	.	+	.	ID=CDS:F41G3.16;Parent=Transcript:F41G3.16.1
+ch.1_68	RNASeq_reads	transcript_region	386	418	4.0	.	.	
+ch.1_68	RNASeq_F_asymmetry	transcript_region	396	417	15649.0	.	.	
+ch.1_68	RNASeq_stranded	transcript_region	413	413	2.0	-	.	
+ch.1_68	RNASeq_stranded	transcript_region	411	412	1.0	+	.	
+ch.1_68	RNASeq_stranded	transcript_region	356	410	2.0	+	.	
+ch.1_68	RNASeq_F_asymmetry	transcript_region	392	395	23581.0	.	.	
+ch.1_68	RNASeq_reads	transcript_region	325	385	7.0	.	.	
+ch.1_68	RNASeq_stranded	transcript_region	325	355	1.0	+	.	
+ch.1_68	RNASeq_splice	intron	287	327	4.0	-	.	
+ch.1_68	WormBase	intron	240	324	.	+	.	Parent=Transcript:F41G3.16.1
+ch.1_68	RNASeq_splice	intron	240	324	29123.0	+	.	
+ch.1_68	RNASeq_stranded	transcript_region	195	239	1.0	+	.	
+ch.1_68	WormBase	CDS	104	239	.	+	.	ID=CDS:F41G3.16;Parent=Transcript:F41G3.16.1
+ch.1_68	WormBase	exon	101	239	.	+	.	Parent=Transcript:F41G3.16.1
+ch.1_68	RNASeq_reads	transcript_region	92	239	6.0	.	.	
+ch.1_68	RNASeq_stranded	transcript_region	149	194	2.0	+	.	
+ch.1_68	RNASeq_stranded	transcript_region	147	148	1.0	+	.	
+ch.1_68	RNASeq_stranded	transcript_region	126	146	2.0	+	.	
+ch.1_68	RNASeq_stranded	transcript_region	46	125	1.0	+	.	
+ch.1_68	RNASeq_R_asymmetry	transcript_region	122	122	22272.0	.	.	
+ch.1_68	RNASeq_R_asymmetry	transcript_region	116	120	22370.0	.	.	
+ch.1_68	RNASeq_R_asymmetry	transcript_region	114	114	20618.0	.	.	
+ch.1_68	RNASeq_R_asymmetry	transcript_region	106	112	20204.0	.	.	
+ch.1_68	WormBase	five_prime_UTR	101	103	.	+	.	Parent=Transcript:F41G3.16.1
+ch.1_68	RNASeq_reads	transcript_region	31	91	3.0	.	.	
+ch.1_68	RNASeq_R_asymmetry	transcript_region	23	74	9147.0	.	.	
+ch.1_68	RNASeq_R_asymmetry	transcript_region	10	22	5910.0	.	.	
+ch.1_68	RNASeq_R_asymmetry	transcript_region	5	9	3896.0	.	.	

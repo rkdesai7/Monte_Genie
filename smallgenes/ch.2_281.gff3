@@ -1,0 +1,90 @@
+ch.2_281	RNASeq_F_asymmetry	transcript_region	98	100	3904.0	.	.	
+ch.2_281	RNASeq_reads	transcript_region	98	100	1.0	.	.	
+ch.2_281	RNASeq_F_asymmetry	transcript_region	101	104	12934.0	.	.	
+ch.2_281	RNASeq_reads	transcript_region	101	105	3.0	.	.	
+ch.2_281	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:F36H5.14.2
+ch.2_281	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:F36H5.14.1
+ch.2_281	WormBase	exon	101	226	.	+	.	Parent=Transcript:F36H5.14.2
+ch.2_281	WormBase	exon	101	226	.	+	.	Parent=Transcript:F36H5.14.1
+ch.2_281	WormBase	mRNA	101	713	.	+	.	ID=Transcript:F36H5.14.2;Parent=Gene:WBGene00219271
+ch.2_281	WormBase	gene	101	835	.	+	.	ID=Gene:WBGene00219271
+ch.2_281	WormBase	mRNA	101	835	.	+	.	ID=Transcript:F36H5.14.1;Parent=Gene:WBGene00219271
+ch.2_281	RNASeq_F_asymmetry	transcript_region	105	107	19713.0	.	.	
+ch.2_281	RNASeq_stranded	transcript_region	105	121	2.0	+	.	
+ch.2_281	RNASeq_reads	transcript_region	106	109	5.0	.	.	
+ch.2_281	RNASeq_F_asymmetry	transcript_region	108	114	33302.0	.	.	
+ch.2_281	RNASeq_reads	transcript_region	110	122	8.0	.	.	
+ch.2_281	WormBase	CDS	114	226	.	+	.	ID=CDS:F36H5.14;Parent=Transcript:F36H5.14.1,Transcript:F36H5.14.2
+ch.2_281	RNASeq_F_asymmetry	transcript_region	115	165	49980.0	.	.	
+ch.2_281	RNASeq_stranded	transcript_region	122	146	4.0	+	.	
+ch.2_281	RNASeq_reads	transcript_region	123	226	13.0	.	.	
+ch.2_281	RNASeq_stranded	transcript_region	147	188	2.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	189	226	4.0	+	.	
+ch.2_281	RNASeq_splice	intron	222	268	556.0	+	.	
+ch.2_281	RNASeq_reads	transcript_region	227	227	3.0	.	.	
+ch.2_281	RNASeq_stranded	transcript_region	227	227	2.0	+	.	
+ch.2_281	WormBase	intron	227	268	.	+	.	Parent=Transcript:F36H5.14.1
+ch.2_281	WormBase	intron	227	268	.	+	.	Parent=Transcript:F36H5.14.2
+ch.2_281	RNASeq_splice	intron	227	268	69361.0	+	.	
+ch.2_281	RNASeq_splice	intron	227	283	32.0	+	.	
+ch.2_281	RNASeq_F_asymmetry	transcript_region	228	230	6036.0	.	.	
+ch.2_281	RNASeq_reads	transcript_region	228	230	1.0	.	.	
+ch.2_281	RNASeq_stranded	transcript_region	228	230	1.0	+	.	
+ch.2_281	RNASeq_reads	transcript_region	268	268	2.0	.	.	
+ch.2_281	RNASeq_stranded	transcript_region	269	318	4.0	+	.	
+ch.2_281	WormBase	CDS	269	419	.	+	.	ID=CDS:F36H5.14;Parent=Transcript:F36H5.14.1,Transcript:F36H5.14.2
+ch.2_281	RNASeq_reads	transcript_region	269	618	14.0	.	.	
+ch.2_281	WormBase	exon	269	643	.	+	.	Parent=Transcript:F36H5.14.1
+ch.2_281	WormBase	exon	269	713	.	+	.	Parent=Transcript:F36H5.14.2
+ch.2_281	RNASeq_stranded	transcript_region	319	387	7.0	+	.	
+ch.2_281	WormBase	five_prime_UTR	367	643	.	+	.	Parent=Transcript:C08F1.4a.2
+ch.2_281	WormBase	exon	367	643	.	+	.	Parent=Transcript:C08F1.4a.2
+ch.2_281	WormBase	five_prime_UTR	367	876	.	+	.	Parent=Transcript:C08F1.4a.3
+ch.2_281	RNASeq_splice	intron	384	502	11.0	+	.	
+ch.2_281	RNASeq_splice	intron	386	433	4.0	+	.	
+ch.2_281	RNASeq_splice	intron	386	496	7.0	+	.	
+ch.2_281	RNASeq_splice	intron	386	502	363.0	+	.	
+ch.2_281	RNASeq_splice	intron	386	587	46.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	388	455	12.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	408	416	1.0	-	.	
+ch.2_281	WormBase	three_prime_UTR	420	643	.	+	.	Parent=Transcript:F36H5.14.1
+ch.2_281	WormBase	three_prime_UTR	420	713	.	+	.	Parent=Transcript:F36H5.14.2
+ch.2_281	RNASeq_splice	intron	430	496	6.0	+	.	
+ch.2_281	RNASeq_splice	intron	430	502	271.0	+	.	
+ch.2_281	RNASeq_splice	intron	430	511	4.0	+	.	
+ch.2_281	RNASeq_splice	intron	430	587	14.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	431	442	1.0	-	.	
+ch.2_281	RNASeq_splice	intron	454	502	10.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	456	460	4.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	461	500	2.0	+	.	
+ch.2_281	RNASeq_splice	intron	465	587	4.0	+	.	
+ch.2_281	RNASeq_splice	intron	470	587	43.0	+	.	
+ch.2_281	RNASeq	transcription_end_site	495	495	.	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	501	543	4.0	+	.	
+ch.2_281	WormBase	five_prime_UTR	503	876	.	+	.	Parent=Transcript:C08F1.4a.1
+ch.2_281	RNASeq_stranded	transcript_region	544	553	2.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	554	554	4.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	555	605	10.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	606	650	4.0	+	.	
+ch.2_281	RNASeq_splice	intron	618	666	5.0	-	.	
+ch.2_281	RNASeq_splice	intron	618	821	4515.0	+	.	
+ch.2_281	RNASeq_splice	intron	618	850	632.0	+	.	
+ch.2_281	RNASeq_splice	intron	618	882	4.0	+	.	
+ch.2_281	RNASeq_reads	transcript_region	619	821	9.0	.	.	
+ch.2_281	WormBase	intron	644	692	.	+	.	Parent=Transcript:C08F1.4a.2
+ch.2_281	WormBase	intron	644	692	.	+	.	Parent=Transcript:F36H5.14.1
+ch.2_281	RNASeq_splice	intron	644	692	3932.0	+	.	
+ch.2_281	RNASeq_splice	intron	644	821	1994.0	+	.	
+ch.2_281	RNASeq_splice	intron	644	828	4.0	+	.	
+ch.2_281	RNASeq_splice	intron	644	850	223.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	651	658	2.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	659	695	1.0	+	.	
+ch.2_281	WormBase	exon	693	835	.	+	.	Parent=Transcript:F36H5.14.1
+ch.2_281	WormBase	three_prime_UTR	693	835	.	+	.	Parent=Transcript:F36H5.14.1
+ch.2_281	WormBase	five_prime_UTR	693	876	.	+	.	Parent=Transcript:C08F1.4a.2
+ch.2_281	RNASeq_stranded	transcript_region	696	726	2.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	727	752	4.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	753	758	2.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	759	817	1.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	818	819	2.0	+	.	
+ch.2_281	RNASeq_stranded	transcript_region	820	870	5.0	+	.	

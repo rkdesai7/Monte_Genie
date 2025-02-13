@@ -1,0 +1,42 @@
+ch.1_190	RNASeq_F_asymmetry	transcript_region	626	626	68.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	621	621	67.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	618	619	67.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	581	585	96.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	573	580	313.0	.	.	
+ch.1_190	WormBase	three_prime_UTR	515	575	.	+	.	Parent=Transcript:Y47D7A.7.1
+ch.1_190	WormBase	exon	420	575	.	+	.	Parent=Transcript:Y47D7A.7.1
+ch.1_190	WormBase	gene	101	575	.	+	.	ID=Gene:WBGene00021620
+ch.1_190	WormBase	mRNA	101	575	.	+	.	ID=Transcript:Y47D7A.7.1;Parent=Gene:WBGene00021620
+ch.1_190	RNASeq_F_asymmetry	transcript_region	570	572	477.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	565	569	845.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	526	564	1517.0	.	.	
+ch.1_190	RNASeq_reads	transcript_region	518	532	1.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	514	525	2277.0	.	.	
+ch.1_190	WormBase	CDS	420	514	.	+	.	ID=CDS:Y47D7A.7;Parent=Transcript:Y47D7A.7.1
+ch.1_190	RNASeq_F_asymmetry	transcript_region	509	509	2055.0	.	.	
+ch.1_190	RNASeq_reads	transcript_region	492	509	1.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	507	507	2112.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	501	505	2833.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	483	500	5149.0	.	.	
+ch.1_190	RNASeq_reads	transcript_region	457	491	2.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	459	482	8325.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	420	458	14668.0	.	.	
+ch.1_190	RNASeq_reads	transcript_region	420	456	4.0	.	.	
+ch.1_190	WormBase	intron	372	419	.	+	.	Parent=Transcript:Y47D7A.7.1
+ch.1_190	RNASeq_splice	intron	372	419	16546.0	+	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	358	371	15411.0	.	.	
+ch.1_190	RNASeq_reads	transcript_region	264	371	4.0	.	.	
+ch.1_190	WormBase	CDS	101	371	.	+	.	ID=CDS:Y47D7A.7;Parent=Transcript:Y47D7A.7.1
+ch.1_190	WormBase	exon	101	371	.	+	.	Parent=Transcript:Y47D7A.7.1
+ch.1_190	RNASeq_F_asymmetry	transcript_region	259	278	20216.0	.	.	
+ch.1_190	RNASeq_reads	transcript_region	197	263	7.0	.	.	
+ch.1_190	RNASeq_F_asymmetry	transcript_region	206	258	31236.0	.	.	
+ch.1_190	RNASeq_reads	transcript_region	119	196	4.0	.	.	
+ch.1_190	RNASeq_R_asymmetry	transcript_region	109	155	13128.0	.	.	
+ch.1_190	RNASeq_reads	transcript_region	105	118	2.0	.	.	
+ch.1_190	RNASeq_R_asymmetry	transcript_region	103	108	8249.0	.	.	
+ch.1_190	RNASeq_reads	transcript_region	101	104	1.0	.	.	
+ch.1_190	RNASeq_R_asymmetry	transcript_region	101	102	4449.0	.	.	
+ch.1_190	RNASeq_R_asymmetry	transcript_region	99	100	1976.0	.	.	
+ch.1_190	RNASeq_R_asymmetry	transcript_region	98	98	1103.0	.	.	
+ch.1_190	RNASeq_R_asymmetry	transcript_region	95	96	534.0	.	.	

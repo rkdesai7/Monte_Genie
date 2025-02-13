@@ -1,0 +1,34 @@
+ch.1_559	RNASeq_F_asymmetry	transcript_region	849	850	426.0	.	.	
+ch.1_559	RNASeq_F_asymmetry	transcript_region	818	848	679.0	.	.	
+ch.1_559	WormBase	three_prime_UTR	765	829	.	+	.	Parent=Transcript:Y26G10.7.1
+ch.1_559	WormBase	exon	618	829	.	+	.	Parent=Transcript:Y26G10.7.1
+ch.1_559	WormBase	gene	101	829	.	+	.	ID=Gene:WBGene00189932
+ch.1_559	WormBase	mRNA	101	829	.	+	.	ID=Transcript:Y26G10.7.1;Parent=Gene:WBGene00189932
+ch.1_559	RNASeq_F_asymmetry	transcript_region	792	817	1213.0	.	.	
+ch.1_559	RNASeq_F_asymmetry	transcript_region	758	791	1927.0	.	.	
+ch.1_559	RNASeq_reads	transcript_region	728	778	1.0	.	.	
+ch.1_559	WormBase	CDS	618	764	.	+	.	ID=CDS:Y26G10.7;Parent=Transcript:Y26G10.7.1
+ch.1_559	RNASeq_F_asymmetry	transcript_region	755	757	3011.0	.	.	
+ch.1_559	RNASeq_F_asymmetry	transcript_region	685	754	5201.0	.	.	
+ch.1_559	RNASeq_reads	transcript_region	662	727	2.0	.	.	
+ch.1_559	RNASeq	transcription_end_site	685	685	.	-	.	
+ch.1_559	RNASeq	transcription_end_site	685	685	.	-	.	
+ch.1_559	RNASeq_F_asymmetry	transcript_region	675	684	8082.0	.	.	
+ch.1_559	RNASeq_F_asymmetry	transcript_region	650	672	10804.0	.	.	
+ch.1_559	RNASeq_reads	transcript_region	618	661	4.0	.	.	
+ch.1_559	RNASeq_F_asymmetry	transcript_region	637	646	14865.0	.	.	
+ch.1_559	RNASeq_splice	intron	271	621	111.0	+	.	
+ch.1_559	RNASeq_F_asymmetry	transcript_region	617	617	971.0	.	.	
+ch.1_559	WormBase	intron	271	617	.	+	.	Parent=Transcript:Y26G10.7.1
+ch.1_559	RNASeq_splice	intron	271	617	18212.0	+	.	
+ch.1_559	WormBase_transposon	transposable_element	289	570	.	-	.	ID=Transposon:Predicted_PALTA5_CE_3251
+ch.1_559	RNASeq_reads	transcript_region	116	270	4.0	.	.	
+ch.1_559	WormBase	CDS	106	270	.	+	.	ID=CDS:Y26G10.7;Parent=Transcript:Y26G10.7.1
+ch.1_559	WormBase	exon	101	270	.	+	.	Parent=Transcript:Y26G10.7.1
+ch.1_559	RNASeq_R_asymmetry	transcript_region	113	196	15421.0	.	.	
+ch.1_559	RNASeq_reads	transcript_region	104	115	2.0	.	.	
+ch.1_559	RNASeq_R_asymmetry	transcript_region	104	112	10121.0	.	.	
+ch.1_559	WormBase	five_prime_UTR	101	105	.	+	.	Parent=Transcript:Y26G10.7.1
+ch.1_559	RNASeq_R_asymmetry	transcript_region	101	103	6174.0	.	.	
+ch.1_559	RNASeq_reads	transcript_region	101	103	1.0	.	.	
+ch.1_559	RNASeq_R_asymmetry	transcript_region	97	97	254.0	.	.	

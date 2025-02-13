@@ -1,0 +1,46 @@
+ch.1_409	WormBase	five_prime_UTR	101	383	.	+	.	Parent=Transcript:R09B5.13.1
+ch.1_409	WormBase	exon	101	444	.	+	.	Parent=Transcript:R09B5.13.1
+ch.1_409	WormBase	gene	101	676	.	+	.	ID=Gene:WBGene00044900
+ch.1_409	WormBase	mRNA	101	676	.	+	.	ID=Transcript:R09B5.13.1;Parent=Gene:WBGene00044900
+ch.1_409	RNASeq_splice	intron	230	281	3.0	+	.	
+ch.1_409	RNASeq_reads	transcript_region	270	340	1.0	.	.	
+ch.1_409	RNASeq_reads	transcript_region	341	343	2.0	.	.	
+ch.1_409	RNASeq_reads	transcript_region	344	346	9.0	.	.	
+ch.1_409	RNASeq_reads	transcript_region	347	362	41.0	.	.	
+ch.1_409	RNASeq_stranded	transcript_region	358	365	1.0	+	.	
+ch.1_409	RNASeq_reads	transcript_region	363	378	62.0	.	.	
+ch.1_409	RNASeq_stranded	transcript_region	366	372	2.0	+	.	
+ch.1_409	RNASeq_stranded	transcript_region	373	444	4.0	+	.	
+ch.1_409	RNASeq_reads	transcript_region	379	416	95.0	.	.	
+ch.1_409	WormBase	CDS	384	444	.	+	.	ID=CDS:R09B5.13;Parent=Transcript:R09B5.13.1
+ch.1_409	RNASeq_reads	transcript_region	417	444	143.0	.	.	
+ch.1_409	RNASeq_reads	transcript_region	445	445	6.0	.	.	
+ch.1_409	RNASeq_stranded	transcript_region	445	445	1.0	+	.	
+ch.1_409	WormBase	intron	445	495	.	+	.	Parent=Transcript:R09B5.13.1
+ch.1_409	RNASeq_splice	intron	445	495	764419.0	+	.	
+ch.1_409	RNASeq_reads	transcript_region	446	493	2.0	.	.	
+ch.1_409	RNASeq_reads	transcript_region	494	494	5.0	.	.	
+ch.1_409	RNASeq_reads	transcript_region	495	495	33.0	.	.	
+ch.1_409	RNASeq_stranded	transcript_region	495	495	4.0	+	.	
+ch.1_409	RNASeq_stranded	transcript_region	496	510	8.0	+	.	
+ch.1_409	WormBase	CDS	496	590	.	+	.	ID=CDS:R09B5.13;Parent=Transcript:R09B5.13.1
+ch.1_409	RNASeq_reads	transcript_region	496	626	196.0	.	.	
+ch.1_409	WormBase	exon	496	676	.	+	.	Parent=Transcript:R09B5.13.1
+ch.1_409	RNASeq_stranded	transcript_region	511	544	13.0	+	.	
+ch.1_409	RNASeq_stranded	transcript_region	545	607	20.0	+	.	
+ch.1_409	RNASeq	transcription_end_site	561	561	.	+	.	
+ch.1_409	WormBase	three_prime_UTR	591	676	.	+	.	Parent=Transcript:R09B5.13.1
+ch.1_409	RNASeq_stranded	transcript_region	608	626	13.0	+	.	
+ch.1_409	RNASeq	transcription_end_site	614	614	.	+	.	
+ch.1_409	RNASeq	transcription_end_site	616	616	.	+	.	
+ch.1_409	RNASeq_reads	transcript_region	627	642	128.0	.	.	
+ch.1_409	RNASeq_stranded	transcript_region	627	642	8.0	+	.	
+ch.1_409	RNASeq_stranded	transcript_region	643	651	5.0	+	.	
+ch.1_409	RNASeq_reads	transcript_region	643	652	82.0	.	.	
+ch.1_409	RNASeq_stranded	transcript_region	652	660	3.0	+	.	
+ch.1_409	RNASeq_reads	transcript_region	653	665	52.0	.	.	
+ch.1_409	RNASeq_stranded	transcript_region	661	671	1.0	+	.	
+ch.1_409	RNASeq_reads	transcript_region	666	672	34.0	.	.	
+ch.1_409	RNASeq	transcription_end_site	672	672	.	+	.	
+ch.1_409	RNASeq_reads	transcript_region	673	675	20.0	.	.	
+ch.1_409	RNASeq_reads	transcript_region	676	680	3.0	.	.	

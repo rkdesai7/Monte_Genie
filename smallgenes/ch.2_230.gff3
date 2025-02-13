@@ -1,0 +1,32 @@
+ch.2_230	RNASeq_F_asymmetry	transcript_region	848	878	1110.0	.	.	
+ch.2_230	WormBase	three_prime_UTR	703	866	.	+	.	Parent=Transcript:Y51A2A.16.1
+ch.2_230	WormBase	exon	613	866	.	+	.	Parent=Transcript:Y51A2A.16.1
+ch.2_230	WormBase	gene	101	866	.	+	.	ID=Gene:WBGene00206507
+ch.2_230	WormBase	mRNA	101	866	.	+	.	ID=Transcript:Y51A2A.16.1;Parent=Gene:WBGene00206507
+ch.2_230	RNASeq_reads	transcript_region	738	817	1.0	.	.	
+ch.2_230	RNASeq	transcription_end_site	811	811	.	-	.	
+ch.2_230	RNASeq_F_asymmetry	transcript_region	768	806	3495.0	.	.	
+ch.2_230	RNASeq_reads	transcript_region	613	737	2.0	.	.	
+ch.2_230	WormBase	CDS	613	702	.	+	.	ID=CDS:Y51A2A.16;Parent=Transcript:Y51A2A.16.1
+ch.2_230	WormBase	intron	562	612	.	+	.	Parent=Transcript:Y51A2A.16.1
+ch.2_230	RNASeq_splice	intron	562	612	12571.0	+	.	
+ch.2_230	RNASeq_splice	intron	516	612	3.0	+	.	
+ch.2_230	WormBase	CDS	451	561	.	+	.	ID=CDS:Y51A2A.16;Parent=Transcript:Y51A2A.16.1
+ch.2_230	WormBase	exon	370	561	.	+	.	Parent=Transcript:Y51A2A.16.1
+ch.2_230	RNASeq_reads	transcript_region	370	561	3.0	.	.	
+ch.2_230	WormBase	five_prime_UTR	370	450	.	+	.	Parent=Transcript:Y51A2A.16.1
+ch.2_230	RNASeq_splice	intron	226	372	6.0	+	.	
+ch.2_230	RNASeq_splice	intron	226	369	296.0	+	.	
+ch.2_230	WormBase	intron	221	369	.	+	.	Parent=Transcript:Y51A2A.16.1
+ch.2_230	RNASeq_splice	intron	221	369	12073.0	+	.	
+ch.2_230	RNASeq_reads	transcript_region	110	220	3.0	.	.	
+ch.2_230	WormBase	exon	101	220	.	+	.	Parent=Transcript:Y51A2A.16.1
+ch.2_230	WormBase	five_prime_UTR	101	220	.	+	.	Parent=Transcript:Y51A2A.16.1
+ch.2_230	RNASeq_R_asymmetry	transcript_region	117	201	14566.0	.	.	
+ch.2_230	RNASeq_R_asymmetry	transcript_region	107	116	9295.0	.	.	
+ch.2_230	RNASeq_reads	transcript_region	102	109	1.0	.	.	
+ch.2_230	RNASeq_R_asymmetry	transcript_region	103	106	5999.0	.	.	
+ch.2_230	RNASeq_R_asymmetry	transcript_region	102	102	3732.0	.	.	
+ch.2_230	RNASeq_splice	intron	55	102	34.0	+	.	
+ch.2_230	RNASeq_R_asymmetry	transcript_region	99	101	1554.0	.	.	
+ch.2_230	RNASeq_R_asymmetry	transcript_region	90	98	1013.0	.	.	

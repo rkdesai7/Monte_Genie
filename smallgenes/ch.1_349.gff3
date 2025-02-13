@@ -1,0 +1,68 @@
+ch.1_349	RNASeq_stranded	transcript_region	8	22	3.0	+	.	
+ch.1_349	RNASeq_stranded	transcript_region	23	35	1.0	+	.	
+ch.1_349	RNASeq_reads	transcript_region	24	36	1.0	.	.	
+ch.1_349	RNASeq_R_asymmetry	transcript_region	27	27	5464.0	.	.	
+ch.1_349	RNASeq	transcription_end_site	36	36	.	+	.	
+ch.1_349	RNASeq	transcription_end_site	41	41	.	+	.	
+ch.1_349	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:ZK546.4.1
+ch.1_349	WormBase	exon	101	227	.	+	.	Parent=Transcript:ZK546.4.1
+ch.1_349	WormBase	gene	101	660	.	+	.	ID=Gene:WBGene00022761
+ch.1_349	WormBase	mRNA	101	660	.	+	.	ID=Transcript:ZK546.4.1;Parent=Gene:WBGene00022761
+ch.1_349	RNASeq_reads	transcript_region	102	108	1.0	.	.	
+ch.1_349	RNASeq_F_asymmetry	transcript_region	103	106	3011.0	.	.	
+ch.1_349	RNASeq_F_asymmetry	transcript_region	107	108	4796.0	.	.	
+ch.1_349	RNASeq_F_asymmetry	transcript_region	109	115	7706.0	.	.	
+ch.1_349	RNASeq_reads	transcript_region	109	120	2.0	.	.	
+ch.1_349	WormBase	CDS	114	227	.	+	.	ID=CDS:ZK546.4;Parent=Transcript:ZK546.4.1
+ch.1_349	RNASeq_F_asymmetry	transcript_region	116	125	12860.0	.	.	
+ch.1_349	RNASeq_reads	transcript_region	121	147	4.0	.	.	
+ch.1_349	RNASeq_F_asymmetry	transcript_region	126	141	19520.0	.	.	
+ch.1_349	RNASeq_stranded	transcript_region	129	155	1.0	+	.	
+ch.1_349	RNASeq_F_asymmetry	transcript_region	142	178	29636.0	.	.	
+ch.1_349	RNASeq_reads	transcript_region	148	196	7.0	.	.	
+ch.1_349	RNASeq_stranded	transcript_region	156	227	2.0	+	.	
+ch.1_349	RNASeq_reads	transcript_region	197	227	11.0	.	.	
+ch.1_349	WormBase	intron	228	274	.	+	.	Parent=Transcript:ZK546.4.1
+ch.1_349	RNASeq_splice	intron	228	274	51781.0	+	.	
+ch.1_349	RNASeq	transcription_end_site	273	273	.	+	.	
+ch.1_349	RNASeq	transcription_end_site	273	273	.	+	.	
+ch.1_349	RNASeq_stranded	transcript_region	275	302	1.0	+	.	
+ch.1_349	WormBase	CDS	275	616	.	+	.	ID=CDS:ZK546.4;Parent=Transcript:ZK546.4.1
+ch.1_349	RNASeq_reads	transcript_region	275	632	11.0	.	.	
+ch.1_349	WormBase	exon	275	660	.	+	.	Parent=Transcript:ZK546.4.1
+ch.1_349	RNASeq_stranded	transcript_region	305	318	1.0	+	.	
+ch.1_349	RNASeq_stranded	transcript_region	319	351	2.0	+	.	
+ch.1_349	RNASeq_stranded	transcript_region	352	373	4.0	+	.	
+ch.1_349	RNASeq_stranded	transcript_region	374	501	2.0	+	.	
+ch.1_349	RNASeq_stranded	transcript_region	502	549	4.0	+	.	
+ch.1_349	RNASeq_stranded	transcript_region	550	624	2.0	+	.	
+ch.1_349	RNASeq_R_asymmetry	transcript_region	577	622	56527.0	.	.	
+ch.1_349	WormBase	three_prime_UTR	617	660	.	+	.	Parent=Transcript:ZK546.4.1
+ch.1_349	RNASeq_R_asymmetry	transcript_region	623	623	35848.0	.	.	
+ch.1_349	RNASeq_R_asymmetry	transcript_region	625	642	34476.0	.	.	
+ch.1_349	RNASeq_stranded	transcript_region	625	644	1.0	+	.	
+ch.1_349	RNASeq	transcription_end_site	626	626	.	+	.	
+ch.1_349	RNASeq_reads	transcript_region	633	659	7.0	.	.	
+ch.1_349	RNASeq	transcription_end_site	638	638	.	+	.	
+ch.1_349	RNASeq_R_asymmetry	transcript_region	643	651	22289.0	.	.	
+ch.1_349	RNASeq	transcription_end_site	649	649	.	+	.	
+ch.1_349	RNASeq	transcription_end_site	649	649	.	+	.	
+ch.1_349	RNASeq	transcription_end_site	651	651	.	+	.	
+ch.1_349	RNASeq	transcription_end_site	651	651	.	+	.	
+ch.1_349	RNASeq	transcription_end_site	652	652	.	+	.	
+ch.1_349	RNASeq_stranded	transcript_region	652	657	2.0	-	.	
+ch.1_349	RNASeq_stranded	transcript_region	652	742	1.0	+	.	
+ch.1_349	RNASeq	transcription_end_site	655	655	.	+	.	
+ch.1_349	RNASeq	transcription_end_site	655	655	.	+	.	
+ch.1_349	RNASeq_stranded	transcript_region	658	663	5.0	-	.	
+ch.1_349	RNASeq_reads	transcript_region	660	683	13.0	.	.	
+ch.1_349	RNASeq_F_asymmetry	transcript_region	662	676	46690.0	.	.	
+ch.1_349	RNASeq_stranded	transcript_region	664	668	8.0	-	.	
+ch.1_349	RNASeq_stranded	transcript_region	669	674	13.0	-	.	
+ch.1_349	RNASeq_stranded	transcript_region	675	686	20.0	-	.	
+ch.1_349	RNASeq_F_asymmetry	transcript_region	677	681	70655.0	.	.	
+ch.1_349	RNASeq_reads	transcript_region	684	696	20.0	.	.	
+ch.1_349	RNASeq_stranded	transcript_region	687	704	31.0	-	.	
+ch.1_349	RNASeq_reads	transcript_region	697	713	31.0	.	.	
+ch.1_349	RNASeq_stranded	transcript_region	705	712	47.0	-	.	
+ch.1_349	RNASeq_stranded	transcript_region	713	747	107.0	-	.	

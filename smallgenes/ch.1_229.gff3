@@ -1,0 +1,59 @@
+ch.1_229	RNASeq_reads	transcript_region	610	662	1.0	.	.	
+ch.1_229	RNASeq_reads	transcript_region	597	601	1.0	.	.	
+ch.1_229	RNASeq	transcription_end_site	598	598	.	-	.	
+ch.1_229	RNASeq	transcription_end_site	596	596	.	-	.	
+ch.1_229	RNASeq	transcription_end_site	596	596	.	-	.	
+ch.1_229	RNASeq_reads	transcript_region	594	596	3.0	.	.	
+ch.1_229	RNASeq_reads	transcript_region	590	593	5.0	.	.	
+ch.1_229	RNASeq_stranded	transcript_region	587	593	1.0	+	.	
+ch.1_229	WormBase	three_prime_UTR	464	593	.	+	.	Parent=Transcript:Y45F10A.5.1
+ch.1_229	WormBase	exon	292	593	.	+	.	Parent=Transcript:Y45F10A.5.1
+ch.1_229	WormBase	gene	101	593	.	+	.	ID=Gene:WBGene00003755
+ch.1_229	WormBase	mRNA	101	593	.	+	.	ID=Transcript:Y45F10A.5.1;Parent=Gene:WBGene00003755
+ch.1_229	RNASeq_reads	transcript_region	580	589	8.0	.	.	
+ch.1_229	RNASeq_stranded	transcript_region	571	586	2.0	+	.	
+ch.1_229	RNASeq_reads	transcript_region	570	579	13.0	.	.	
+ch.1_229	RNASeq_stranded	transcript_region	549	570	7.0	+	.	
+ch.1_229	RNASeq_reads	transcript_region	557	569	20.0	.	.	
+ch.1_229	RNASeq_reads	transcript_region	540	556	31.0	.	.	
+ch.1_229	RNASeq_stranded	transcript_region	521	548	11.0	+	.	
+ch.1_229	RNASeq_reads	transcript_region	472	539	47.0	.	.	
+ch.1_229	RNASeq_stranded	transcript_region	364	520	6.0	+	.	
+ch.1_229	RNASeq_reads	transcript_region	456	471	71.0	.	.	
+ch.1_229	WormBase	CDS	292	463	.	+	.	ID=CDS:Y45F10A.5;Parent=Transcript:Y45F10A.5.1
+ch.1_229	RNASeq	transcription_end_site	461	461	.	-	.	
+ch.1_229	RNASeq_reads	transcript_region	425	455	116.0	.	.	
+ch.1_229	RNASeq_reads	transcript_region	292	424	175.0	.	.	
+ch.1_229	RNASeq_stranded	transcript_region	407	419	1.0	-	.	
+ch.1_229	WormBase	five_prime_UTR	390	419	.	-	.	Parent=Transcript:Y45F10A.4.2
+ch.1_229	WormBase	exon	390	419	.	-	.	Parent=Transcript:Y45F10A.4.2
+ch.1_229	RNASeq_stranded	transcript_region	395	405	1.0	-	.	
+ch.1_229	RNASeq_splice	intron	317	389	4.0	-	.	
+ch.1_229	RNASeq_stranded	transcript_region	321	363	10.0	+	.	
+ch.1_229	RNASeq_stranded	transcript_region	292	328	1.0	-	.	
+ch.1_229	RNASeq_stranded	transcript_region	294	320	6.0	+	.	
+ch.1_229	RNASeq_stranded	transcript_region	292	293	3.0	+	.	
+ch.1_229	WormBase	intron	233	291	.	+	.	Parent=Transcript:Y45F10A.5.1
+ch.1_229	RNASeq_reads	transcript_region	233	291	1.0	.	.	
+ch.1_229	RNASeq_splice	intron	233	291	537568.0	+	.	
+ch.1_229	RNASeq_stranded	transcript_region	229	232	4.0	+	.	
+ch.1_229	WormBase	CDS	153	232	.	+	.	ID=CDS:Y45F10A.5;Parent=Transcript:Y45F10A.5.1
+ch.1_229	RNASeq_reads	transcript_region	150	232	114.0	.	.	
+ch.1_229	WormBase	exon	101	232	.	+	.	Parent=Transcript:Y45F10A.5.1
+ch.1_229	RNASeq_stranded	transcript_region	226	228	7.0	+	.	
+ch.1_229	RNASeq_stranded	transcript_region	213	225	11.0	+	.	
+ch.1_229	RNASeq_stranded	transcript_region	173	212	17.0	+	.	
+ch.1_229	RNASeq_R_asymmetry	transcript_region	133	184	382244.0	.	.	
+ch.1_229	RNASeq_stranded	transcript_region	162	172	11.0	+	.	
+ch.1_229	RNASeq_stranded	transcript_region	158	161	7.0	+	.	
+ch.1_229	RNASeq_stranded	transcript_region	144	157	4.0	+	.	
+ch.1_229	WormBase	five_prime_UTR	101	152	.	+	.	Parent=Transcript:Y45F10A.5.1
+ch.1_229	RNASeq_reads	transcript_region	125	149	75.0	.	.	
+ch.1_229	RNASeq_stranded	transcript_region	132	143	2.0	+	.	
+ch.1_229	RNASeq_R_asymmetry	transcript_region	113	132	245083.0	.	.	
+ch.1_229	RNASeq_stranded	transcript_region	106	131	1.0	+	.	
+ch.1_229	RNASeq_reads	transcript_region	113	124	45.0	.	.	
+ch.1_229	RNASeq_R_asymmetry	transcript_region	104	112	125901.0	.	.	
+ch.1_229	RNASeq_reads	transcript_region	104	112	27.0	.	.	
+ch.1_229	RNASeq_R_asymmetry	transcript_region	101	103	81933.0	.	.	
+ch.1_229	RNASeq_reads	transcript_region	101	103	17.0	.	.	

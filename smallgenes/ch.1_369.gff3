@@ -1,0 +1,32 @@
+ch.1_369	WormBase	five_prime_UTR	101	213	.	+	.	Parent=Transcript:Y43F8A.1.1
+ch.1_369	WormBase	exon	101	302	.	+	.	Parent=Transcript:Y43F8A.1.1
+ch.1_369	WormBase	gene	101	996	.	+	.	ID=Gene:WBGene00012808
+ch.1_369	WormBase	mRNA	101	996	.	+	.	ID=Transcript:Y43F8A.1.1;Parent=Gene:WBGene00012808
+ch.1_369	RNASeq_F_asymmetry	transcript_region	153	168	3812.0	.	.	
+ch.1_369	RNASeq_reads	transcript_region	153	172	1.0	.	.	
+ch.1_369	RNASeq_stranded	transcript_region	162	194	1.0	+	.	
+ch.1_369	RNASeq_F_asymmetry	transcript_region	169	177	5788.0	.	.	
+ch.1_369	RNASeq_reads	transcript_region	173	198	2.0	.	.	
+ch.1_369	RNASeq_F_asymmetry	transcript_region	178	189	8850.0	.	.	
+ch.1_369	RNASeq_F_asymmetry	transcript_region	190	214	13647.0	.	.	
+ch.1_369	RNASeq_stranded	transcript_region	195	236	2.0	+	.	
+ch.1_369	RNASeq_reads	transcript_region	199	270	4.0	.	.	
+ch.1_369	WormBase	CDS	214	302	.	+	.	ID=CDS:Y43F8A.1;Parent=Transcript:Y43F8A.1.1
+ch.1_369	RNASeq_F_asymmetry	transcript_region	215	240	21176.0	.	.	
+ch.1_369	RNASeq_stranded	transcript_region	237	245	1.0	+	.	
+ch.1_369	RNASeq_stranded	transcript_region	246	297	2.0	+	.	
+ch.1_369	RNASeq_reads	transcript_region	271	302	7.0	.	.	
+ch.1_369	RNASeq_stranded	transcript_region	298	302	1.0	+	.	
+ch.1_369	WormBase	intron	303	843	.	+	.	Parent=Transcript:Y43F8A.1.1
+ch.1_369	RNASeq_splice	intron	303	843	28329.0	+	.	
+ch.1_369	RNASeq_stranded	transcript_region	844	855	1.0	+	.	
+ch.1_369	RNASeq_reads	transcript_region	844	929	6.0	.	.	
+ch.1_369	WormBase	CDS	844	943	.	+	.	ID=CDS:Y43F8A.1;Parent=Transcript:Y43F8A.1.1
+ch.1_369	WormBase	exon	844	996	.	+	.	Parent=Transcript:Y43F8A.1.1
+ch.1_369	RNASeq_stranded	transcript_region	856	857	2.0	+	.	
+ch.1_369	RNASeq_stranded	transcript_region	858	943	1.0	+	.	
+ch.1_369	RNASeq_R_asymmetry	transcript_region	880	928	24512.0	.	.	
+ch.1_369	RNASeq_R_asymmetry	transcript_region	929	933	14825.0	.	.	
+ch.1_369	RNASeq_reads	transcript_region	930	948	3.0	.	.	
+ch.1_369	WormBase	three_prime_UTR	944	996	.	+	.	Parent=Transcript:Y43F8A.1.1
+ch.1_369	RNASeq_reads	transcript_region	949	995	1.0	.	.	

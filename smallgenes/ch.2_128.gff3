@@ -1,0 +1,59 @@
+ch.2_128	RNASeq_splice	intron	15	629	363.0	-	.	
+ch.2_128	RNASeq_reads	transcript_region	28	48	5.0	.	.	
+ch.2_128	RNASeq_splice	intron	35	268	6.0	+	.	
+ch.2_128	RNASeq_F_asymmetry	transcript_region	49	49	29718.0	.	.	
+ch.2_128	RNASeq_reads	transcript_region	49	95	8.0	.	.	
+ch.2_128	RNASeq_F_asymmetry	transcript_region	53	55	30697.0	.	.	
+ch.2_128	RNASeq_F_asymmetry	transcript_region	61	94	33162.0	.	.	
+ch.2_128	RNASeq_stranded	transcript_region	64	102	1.0	+	.	
+ch.2_128	RNASeq_F_asymmetry	transcript_region	95	124	49940.0	.	.	
+ch.2_128	RNASeq_reads	transcript_region	96	124	13.0	.	.	
+ch.2_128	RNASeq_splice	intron	96	629	29.0	-	.	
+ch.2_128	WormBase	exon	101	199	.	+	.	Parent=Transcript:F40G9.6.1
+ch.2_128	WormBase	CDS	101	199	.	+	.	ID=CDS:F40G9.6;Parent=Transcript:F40G9.6.1
+ch.2_128	WormBase	gene	101	699	.	+	.	ID=Gene:WBGene00018242
+ch.2_128	WormBase	mRNA	101	699	.	+	.	ID=Transcript:F40G9.6.1;Parent=Gene:WBGene00018242
+ch.2_128	RNASeq_stranded	transcript_region	103	122	2.0	+	.	
+ch.2_128	RNASeq_splice	intron	120	176	13.0	-	.	
+ch.2_128	RNASeq_stranded	transcript_region	123	124	1.0	+	.	
+ch.2_128	RNASeq_F_asymmetry	transcript_region	125	125	4811.0	.	.	
+ch.2_128	RNASeq_reads	transcript_region	125	125	1.0	.	.	
+ch.2_128	RNASeq_splice	intron	125	178	71713.0	+	.	
+ch.2_128	RNASeq_splice	intron	125	268	16.0	+	.	
+ch.2_128	RNASeq_F_asymmetry	transcript_region	126	174	1405.0	.	.	
+ch.2_128	RNASeq_splice	intron	131	182	5.0	-	.	
+ch.2_128	RNASeq_F_asymmetry	transcript_region	176	178	7789.0	.	.	
+ch.2_128	RNASeq_reads	transcript_region	176	178	2.0	.	.	
+ch.2_128	RNASeq_F_asymmetry	transcript_region	179	209	59472.0	.	.	
+ch.2_128	RNASeq_reads	transcript_region	179	389	14.0	.	.	
+ch.2_128	RNASeq_stranded	transcript_region	179	389	1.0	+	.	
+ch.2_128	RNASeq_splice	intron	198	268	96.0	+	.	
+ch.2_128	WormBase	intron	200	268	.	+	.	Parent=Transcript:F40G9.6.1
+ch.2_128	RNASeq_splice	intron	200	268	202.0	+	.	
+ch.2_128	WormBase	CDS	269	389	.	+	.	ID=CDS:F40G9.6;Parent=Transcript:F40G9.6.1
+ch.2_128	WormBase	exon	269	389	.	+	.	Parent=Transcript:F40G9.6.1
+ch.2_128	RNASeq_splice	intron	362	448	7.0	+	.	
+ch.2_128	RNASeq_splice	intron	390	434	1259.0	+	.	
+ch.2_128	WormBase	intron	390	448	.	+	.	Parent=Transcript:F40G9.6.1
+ch.2_128	RNASeq_reads	transcript_region	390	448	1.0	.	.	
+ch.2_128	RNASeq_splice	intron	390	448	70552.0	+	.	
+ch.2_128	RNASeq_splice	intron	390	571	8.0	+	.	
+ch.2_128	RNASeq_splice	intron	406	448	12.0	+	.	
+ch.2_128	RNASeq_stranded	transcript_region	449	571	1.0	+	.	
+ch.2_128	RNASeq_reads	transcript_region	449	695	14.0	.	.	
+ch.2_128	WormBase	CDS	449	699	.	+	.	ID=CDS:F40G9.6;Parent=Transcript:F40G9.6.1
+ch.2_128	WormBase	exon	449	699	.	+	.	Parent=Transcript:F40G9.6.1
+ch.2_128	RNASeq_splice	intron	523	571	13314.0	+	.	
+ch.2_128	RNASeq_splice	intron	523	580	3.0	+	.	
+ch.2_128	RNASeq_splice	intron	523	613	13.0	+	.	
+ch.2_128	RNASeq_splice	intron	526	569	6.0	-	.	
+ch.2_128	RNASeq_splice	intron	526	573	10.0	-	.	
+ch.2_128	RNASeq_splice	intron	550	580	5.0	+	.	
+ch.2_128	RNASeq_splice	intron	550	594	40.0	+	.	
+ch.2_128	RNASeq_splice	intron	550	613	240.0	+	.	
+ch.2_128	RNASeq_splice	intron	552	613	5.0	+	.	
+ch.2_128	RNASeq_stranded	transcript_region	572	627	2.0	+	.	
+ch.2_128	RNASeq_splice	intron	586	629	31.0	-	.	
+ch.2_128	RNASeq_stranded	transcript_region	628	679	4.0	+	.	
+ch.2_128	RNASeq_stranded	transcript_region	680	695	2.0	+	.	
+ch.2_128	RNASeq_stranded	transcript_region	696	705	1.0	+	.	

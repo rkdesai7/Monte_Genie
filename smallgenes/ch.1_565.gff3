@@ -1,0 +1,28 @@
+ch.1_565	RNASeq_reads	transcript_region	101	279	1.0	.	.	
+ch.1_565	WormBase	five_prime_UTR	101	285	.	+	.	Parent=Transcript:F31B12.4.1
+ch.1_565	WormBase	exon	101	447	.	+	.	Parent=Transcript:F31B12.4.1
+ch.1_565	WormBase	gene	101	955	.	+	.	ID=Gene:WBGene00009283
+ch.1_565	WormBase	mRNA	101	955	.	+	.	ID=Transcript:F31B12.4.1;Parent=Gene:WBGene00009283
+ch.1_565	RNASeq_F_asymmetry	transcript_region	132	138	3706.0	.	.	
+ch.1_565	RNASeq_splice	intron	205	688	7.0	+	.	
+ch.1_565	RNASeq_reads	transcript_region	280	447	2.0	.	.	
+ch.1_565	WormBase	CDS	286	447	.	+	.	ID=CDS:F31B12.4;Parent=Transcript:F31B12.4.1
+ch.1_565	RNASeq_stranded	transcript_region	329	370	1.0	+	.	
+ch.1_565	RNASeq_stranded	transcript_region	374	376	1.0	+	.	
+ch.1_565	RNASeq_splice	intron	403	995	7.0	-	.	
+ch.1_565	RNASeq_stranded	transcript_region	410	411	1.0	+	.	
+ch.1_565	RNASeq_stranded	transcript_region	420	447	1.0	+	.	
+ch.1_565	WormBase	intron	448	688	.	+	.	Parent=Transcript:F31B12.4.1
+ch.1_565	RNASeq_splice	intron	448	688	10753.0	+	.	
+ch.1_565	RNASeq_reads	transcript_region	688	688	1.0	.	.	
+ch.1_565	WormBase	CDS	689	775	.	+	.	ID=CDS:F31B12.4;Parent=Transcript:F31B12.4.1
+ch.1_565	RNASeq_reads	transcript_region	689	869	2.0	.	.	
+ch.1_565	RNASeq_stranded	transcript_region	689	919	1.0	+	.	
+ch.1_565	WormBase	exon	689	955	.	+	.	Parent=Transcript:F31B12.4.1
+ch.1_565	WormBase	three_prime_UTR	776	955	.	+	.	Parent=Transcript:F31B12.4.1
+ch.1_565	RNASeq_splice	intron	824	995	7.0	-	.	
+ch.1_565	RNASeq_reads	transcript_region	870	949	1.0	.	.	
+ch.1_565	RNASeq_reads	transcript_region	995	995	1.0	.	.	
+ch.1_565	RNASeq_stranded	transcript_region	996	1000	1.0	-	.	
+ch.1_565	RNASeq_stranded	transcript_region	1001	1039	2.0	-	.	
+ch.1_565	RNASeq_stranded	transcript_region	1040	1049	1.0	-	.	

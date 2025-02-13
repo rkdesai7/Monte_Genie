@@ -1,0 +1,87 @@
+ch.1_86	RNASeq_F_asymmetry	transcript_region	95	98	2585040.0	.	.	
+ch.1_86	RNASeq_reads	transcript_region	95	98	517.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	95	98	87.0	+	.	
+ch.1_86	RNASeq_stranded	transcript_region	99	99	305.0	+	.	
+ch.1_86	RNASeq_F_asymmetry	transcript_region	99	101	5219130.0	.	.	
+ch.1_86	RNASeq_reads	transcript_region	99	101	1029.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	100	106	469.0	+	.	
+ch.1_86	WormBase	five_prime_UTR	101	113	.	+	.	Parent=Transcript:Y41D4B.5.1
+ch.1_86	WormBase	exon	101	242	.	+	.	Parent=Transcript:Y41D4B.5.1
+ch.1_86	WormBase	gene	101	407	.	+	.	ID=Gene:WBGene00004497
+ch.1_86	WormBase	mRNA	101	407	.	+	.	ID=Transcript:Y41D4B.5.1;Parent=Gene:WBGene00004497
+ch.1_86	RNASeq_F_asymmetry	transcript_region	102	107	8359610.0	.	.	
+ch.1_86	RNASeq_reads	transcript_region	102	107	1647.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	107	140	716.0	+	.	
+ch.1_86	RNASeq_F_asymmetry	transcript_region	108	162	13397100.0	.	.	
+ch.1_86	RNASeq_reads	transcript_region	108	170	2644.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	113	119	1.0	-	.	
+ch.1_86	WormBase	CDS	114	242	.	+	.	ID=CDS:Y41D4B.5;Parent=Transcript:Y41D4B.5.1
+ch.1_86	RNASeq_stranded	transcript_region	120	152	2.0	-	.	
+ch.1_86	RNASeq_stranded	transcript_region	141	197	1084.0	+	.	
+ch.1_86	RNASeq_splice	intron	147	186	13.0	+	.	
+ch.1_86	RNASeq_stranded	transcript_region	153	161	4.0	-	.	
+ch.1_86	RNASeq_stranded	transcript_region	162	191	7.0	-	.	
+ch.1_86	RNASeq_reads	transcript_region	171	242	4031.0	.	.	
+ch.1_86	RNASeq_splice	intron	186	304	14.0	+	.	
+ch.1_86	RNASeq_stranded	transcript_region	192	199	11.0	-	.	
+ch.1_86	RNASeq_stranded	transcript_region	198	229	1633.0	+	.	
+ch.1_86	RNASeq_stranded	transcript_region	200	242	17.0	-	.	
+ch.1_86	RNASeq_stranded	transcript_region	230	242	2482.0	+	.	
+ch.1_86	RNASeq_splice	intron	237	297	37.0	+	.	
+ch.1_86	RNASeq_R_asymmetry	transcript_region	243	243	4043190.0	.	.	
+ch.1_86	RNASeq_reads	transcript_region	243	243	934.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	243	243	63.0	+	.	
+ch.1_86	WormBase	intron	243	297	.	+	.	Parent=Transcript:Y41D4B.5.1
+ch.1_86	RNASeq_splice	intron	243	297	17176400.0	+	.	
+ch.1_86	RNASeq_splice	intron	243	304	36.0	+	.	
+ch.1_86	RNASeq_splice	intron	243	367	10.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	244	244	2.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	244	249	1.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	245	291	1.0	.	.	
+ch.1_86	RNASeq_splice	intron	247	297	12.0	+	.	
+ch.1_86	RNASeq_splice	intron	247	304	5.0	+	.	
+ch.1_86	RNASeq_stranded	transcript_region	273	292	1.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	292	292	2.0	.	.	
+ch.1_86	RNASeq_reads	transcript_region	293	295	82.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	293	295	101.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	296	297	164.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	296	297	191.0	+	.	
+ch.1_86	RNASeq_stranded	transcript_region	296	297	2.0	-	.	
+ch.1_86	RNASeq_stranded	transcript_region	298	320	12.0	-	.	
+ch.1_86	RNASeq_reads	transcript_region	298	356	2943.0	.	.	
+ch.1_86	WormBase	CDS	298	366	.	+	.	ID=CDS:Y41D4B.5;Parent=Transcript:Y41D4B.5.1
+ch.1_86	RNASeq_stranded	transcript_region	298	380	2694.0	+	.	
+ch.1_86	WormBase	exon	298	407	.	+	.	Parent=Transcript:Y41D4B.5.1
+ch.1_86	RNASeq_stranded	transcript_region	321	332	19.0	-	.	
+ch.1_86	RNASeq_R_asymmetry	transcript_region	333	356	11626900.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	333	408	29.0	-	.	
+ch.1_86	RNASeq_reads	transcript_region	357	378	1868.0	.	.	
+ch.1_86	RNASeq_R_asymmetry	transcript_region	358	373	7422150.0	.	.	
+ch.1_86	WormBase	three_prime_UTR	367	407	.	+	.	Parent=Transcript:Y41D4B.5.1
+ch.1_86	RNASeq_reads	transcript_region	379	403	1212.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	381	388	1772.0	+	.	
+ch.1_86	RNASeq_R_asymmetry	transcript_region	383	405	4345440.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	389	398	1134.0	+	.	
+ch.1_86	RNASeq_stranded	transcript_region	399	405	718.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	404	408	705.0	.	.	
+ch.1_86	RNASeq_R_asymmetry	transcript_region	406	410	2635590.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	406	411	455.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	409	411	463.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	409	419	19.0	-	.	
+ch.1_86	RNASeq_R_asymmetry	transcript_region	411	411	1735480.0	.	.	
+ch.1_86	RNASeq_R_asymmetry	transcript_region	412	412	985661.0	.	.	
+ch.1_86	RNASeq_reads	transcript_region	412	413	234.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	412	417	222.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	414	416	121.0	.	.	
+ch.1_86	RNASeq_reads	transcript_region	417	419	68.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	418	420	134.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	420	421	38.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	420	421	11.0	-	.	
+ch.1_86	RNASeq_stranded	transcript_region	421	421	73.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	422	423	2.0	.	.	
+ch.1_86	RNASeq_R_asymmetry	transcript_region	422	430	7240.0	.	.	
+ch.1_86	RNASeq_stranded	transcript_region	422	440	1.0	+	.	
+ch.1_86	RNASeq_reads	transcript_region	424	451	1.0	.	.	
+ch.1_86	RNASeq	transcription_end_site	433	433	.	+	.	
+ch.1_86	RNASeq	transcription_end_site	446	446	.	+	.	
+ch.1_86	RNASeq	transcription_end_site	471	471	.	+	.	

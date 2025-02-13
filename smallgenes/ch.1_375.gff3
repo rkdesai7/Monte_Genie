@@ -1,0 +1,56 @@
+ch.1_375	RNASeq_F_asymmetry	transcript_region	727	727	261.0	.	.	
+ch.1_375	RNASeq_F_asymmetry	transcript_region	722	722	368.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	718	718	1.0	-	.	
+ch.1_375	RNASeq_reads	transcript_region	717	717	1.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	714	717	2.0	+	.	
+ch.1_375	WormBase	three_prime_UTR	611	717	.	+	.	Parent=Transcript:F15A4.10.1
+ch.1_375	WormBase	exon	561	717	.	+	.	Parent=Transcript:F15A4.10.1
+ch.1_375	WormBase	gene	101	717	.	+	.	ID=Gene:WBGene00008844
+ch.1_375	WormBase	mRNA	101	717	.	+	.	ID=Transcript:F15A4.10.1;Parent=Gene:WBGene00008844
+ch.1_375	RNASeq	transcription_end_site	716	716	.	-	.	
+ch.1_375	RNASeq	transcription_end_site	716	716	.	-	.	
+ch.1_375	RNASeq_reads	transcript_region	708	716	2.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	701	713	4.0	+	.	
+ch.1_375	RNASeq_F_asymmetry	transcript_region	712	712	11027.0	.	.	
+ch.1_375	RNASeq_F_asymmetry	transcript_region	701	710	13144.0	.	.	
+ch.1_375	RNASeq_reads	transcript_region	692	707	4.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	678	700	8.0	+	.	
+ch.1_375	RNASeq_reads	transcript_region	667	691	7.0	.	.	
+ch.1_375	RNASeq_F_asymmetry	transcript_region	672	688	28035.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	667	677	13.0	+	.	
+ch.1_375	RNASeq_reads	transcript_region	654	666	11.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	652	666	20.0	+	.	
+ch.1_375	RNASeq	transcription_end_site	662	662	.	-	.	
+ch.1_375	RNASeq_reads	transcript_region	625	653	17.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	568	651	32.0	+	.	
+ch.1_375	RNASeq_reads	transcript_region	561	624	27.0	.	.	
+ch.1_375	WormBase	CDS	561	610	.	+	.	ID=CDS:F15A4.10;Parent=Transcript:F15A4.10.1
+ch.1_375	RNASeq_stranded	transcript_region	561	567	21.0	+	.	
+ch.1_375	RNASeq_F_asymmetry	transcript_region	559	560	28563.0	.	.	
+ch.1_375	RNASeq_reads	transcript_region	559	560	7.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	559	560	6.0	+	.	
+ch.1_375	RNASeq_splice	intron	377	560	164.0	+	.	
+ch.1_375	WormBase	intron	324	560	.	+	.	Parent=Transcript:F15A4.10.1
+ch.1_375	RNASeq_splice	intron	324	560	153070.0	+	.	
+ch.1_375	RNASeq_splice	intron	324	536	3.0	+	.	
+ch.1_375	RNASeq_stranded	transcript_region	293	323	11.0	+	.	
+ch.1_375	WormBase	CDS	134	323	.	+	.	ID=CDS:F15A4.10;Parent=Transcript:F15A4.10.1
+ch.1_375	RNASeq_reads	transcript_region	117	323	30.0	.	.	
+ch.1_375	WormBase	exon	101	323	.	+	.	Parent=Transcript:F15A4.10.1
+ch.1_375	RNASeq_stranded	transcript_region	203	292	7.0	+	.	
+ch.1_375	RNASeq_stranded	transcript_region	171	202	4.0	+	.	
+ch.1_375	RNASeq_R_asymmetry	transcript_region	120	188	154231.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	110	170	7.0	+	.	
+ch.1_375	WormBase	five_prime_UTR	101	133	.	+	.	Parent=Transcript:F15A4.10.1
+ch.1_375	RNASeq_R_asymmetry	transcript_region	102	119	100478.0	.	.	
+ch.1_375	RNASeq_reads	transcript_region	102	116	19.0	.	.	
+ch.1_375	RNASeq_stranded	transcript_region	100	109	4.0	+	.	
+ch.1_375	RNASeq_R_asymmetry	transcript_region	100	101	59581.0	.	.	
+ch.1_375	RNASeq_reads	transcript_region	100	101	12.0	.	.	
+ch.1_375	RNASeq_splice	intron	51	100	1155.0	+	.	
+ch.1_375	RNASeq_stranded	transcript_region	99	99	2.0	-	.	
+ch.1_375	RNASeq_R_asymmetry	transcript_region	95	99	38130.0	.	.	
+ch.1_375	RNASeq_reads	transcript_region	95	99	7.0	.	.	
+ch.1_375	RNASeq_R_asymmetry	transcript_region	91	94	9460.0	.	.	
+ch.1_375	RNASeq_reads	transcript_region	91	94	2.0	.	.	
+ch.1_375	RNASeq_R_asymmetry	transcript_region	29	29	1413.0	.	.	

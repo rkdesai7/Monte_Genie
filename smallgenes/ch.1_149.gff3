@@ -1,0 +1,73 @@
+ch.1_149	RNASeq_F_asymmetry	transcript_region	49	52	2047.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	49	63	1.0	.	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	53	63	4104.0	.	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	64	82	6676.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	64	94	2.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	65	98	1.0	+	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	83	94	10128.0	.	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	95	100	15285.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	95	101	4.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	99	101	2.0	+	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	101	104	24952.0	.	.	
+ch.1_149	WormBase	five_prime_UTR	101	127	.	+	.	Parent=Transcript:Y71H2B.4.1
+ch.1_149	WormBase	exon	101	254	.	+	.	Parent=Transcript:Y71H2B.4.1
+ch.1_149	WormBase	gene	101	513	.	+	.	ID=Gene:WBGene00022194
+ch.1_149	WormBase	mRNA	101	513	.	+	.	ID=Transcript:Y71H2B.4.1;Parent=Gene:WBGene00022194
+ch.1_149	RNASeq_reads	transcript_region	102	104	7.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	102	108	4.0	+	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	105	109	49805.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	105	109	11.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	109	109	7.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	110	112	12.0	+	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	110	113	97489.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	110	114	21.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	113	116	19.0	+	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	114	120	146768.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	115	121	34.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	117	122	31.0	+	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	121	127	231776.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	122	129	55.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	123	140	48.0	+	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	128	138	348800.0	.	.	
+ch.1_149	WormBase	CDS	128	254	.	+	.	ID=CDS:Y71H2B.4;Parent=Transcript:Y71H2B.4.1
+ch.1_149	RNASeq_reads	transcript_region	130	152	86.0	.	.	
+ch.1_149	RNASeq_F_asymmetry	transcript_region	139	178	535054.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	141	225	73.0	+	.	
+ch.1_149	RNASeq_reads	transcript_region	153	254	130.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	195	254	1.0	-	.	
+ch.1_149	RNASeq_stranded	transcript_region	226	254	45.0	+	.	
+ch.1_149	RNASeq_reads	transcript_region	255	257	10.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	255	257	1.0	+	.	
+ch.1_149	RNASeq_splice	intron	255	298	4.0	+	.	
+ch.1_149	WormBase	intron	255	316	.	+	.	Parent=Transcript:Y71H2B.4.1
+ch.1_149	RNASeq_splice	intron	255	316	901164.0	+	.	
+ch.1_149	RNASeq_splice	intron	255	320	190.0	+	.	
+ch.1_149	RNASeq_splice	intron	259	320	5.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	317	327	55.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	317	396	1.0	-	.	
+ch.1_149	RNASeq_reads	transcript_region	317	439	180.0	.	.	
+ch.1_149	WormBase	CDS	317	462	.	+	.	ID=CDS:Y71H2B.4;Parent=Transcript:Y71H2B.4.1
+ch.1_149	WormBase	exon	317	513	.	+	.	Parent=Transcript:Y71H2B.4.1
+ch.1_149	RNASeq_stranded	transcript_region	328	342	86.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	343	355	135.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	356	383	205.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	384	475	310.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	425	434	1.0	-	.	
+ch.1_149	RNASeq_stranded	transcript_region	435	514	2.0	-	.	
+ch.1_149	RNASeq_reads	transcript_region	440	456	118.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	457	479	77.0	.	.	
+ch.1_149	WormBase	three_prime_UTR	463	513	.	+	.	Parent=Transcript:Y71H2B.4.1
+ch.1_149	RNASeq_stranded	transcript_region	476	487	199.0	+	.	
+ch.1_149	RNASeq_reads	transcript_region	480	497	50.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	488	495	110.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	496	508	71.0	+	.	
+ch.1_149	RNASeq_reads	transcript_region	498	502	32.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	503	507	20.0	.	.	
+ch.1_149	RNASeq_reads	transcript_region	508	512	13.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	509	511	43.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	512	514	27.0	+	.	
+ch.1_149	RNASeq_reads	transcript_region	513	515	8.0	.	.	
+ch.1_149	RNASeq_stranded	transcript_region	515	519	15.0	+	.	
+ch.1_149	RNASeq_stranded	transcript_region	515	519	1.0	-	.	
+ch.1_149	RNASeq	transcription_end_site	516	516	.	+	.	
+ch.1_149	RNASeq_reads	transcript_region	516	519	5.0	.	.	

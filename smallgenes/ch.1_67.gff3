@@ -1,0 +1,41 @@
+ch.1_67	RNASeq_F_asymmetry	transcript_region	101	107	7024.0	.	.	
+ch.1_67	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:M04D8.2.1
+ch.1_67	RNASeq_reads	transcript_region	101	113	2.0	.	.	
+ch.1_67	RNASeq_stranded	transcript_region	101	113	1.0	+	.	
+ch.1_67	WormBase	exon	101	283	.	+	.	Parent=Transcript:M04D8.2.1
+ch.1_67	WormBase	gene	101	498	.	+	.	ID=Gene:WBGene00002105
+ch.1_67	WormBase	mRNA	101	498	.	+	.	ID=Transcript:M04D8.2.1;Parent=Gene:WBGene00002105
+ch.1_67	RNASeq_F_asymmetry	transcript_region	108	113	10884.0	.	.	
+ch.1_67	WormBase	CDS	112	283	.	+	.	ID=CDS:M04D8.2;Parent=Transcript:M04D8.2.1
+ch.1_67	RNASeq_F_asymmetry	transcript_region	114	118	16613.0	.	.	
+ch.1_67	RNASeq_reads	transcript_region	114	121	4.0	.	.	
+ch.1_67	RNASeq_stranded	transcript_region	114	122	2.0	+	.	
+ch.1_67	RNASeq_F_asymmetry	transcript_region	119	127	25270.0	.	.	
+ch.1_67	RNASeq_reads	transcript_region	122	136	7.0	.	.	
+ch.1_67	RNASeq_stranded	transcript_region	123	219	4.0	+	.	
+ch.1_67	RNASeq_F_asymmetry	transcript_region	128	157	38537.0	.	.	
+ch.1_67	RNASeq_reads	transcript_region	137	192	11.0	.	.	
+ch.1_67	RNASeq_reads	transcript_region	193	283	17.0	.	.	
+ch.1_67	RNASeq_stranded	transcript_region	220	258	2.0	+	.	
+ch.1_67	RNASeq_stranded	transcript_region	259	283	4.0	+	.	
+ch.1_67	WormBase	intron	284	343	.	+	.	Parent=Transcript:M04D8.2.1
+ch.1_67	RNASeq_splice	intron	284	343	72104.0	+	.	
+ch.1_67	RNASeq_splice	intron	284	345	8.0	+	.	
+ch.1_67	RNASeq_reads	transcript_region	342	343	1.0	.	.	
+ch.1_67	RNASeq_stranded	transcript_region	342	343	1.0	+	.	
+ch.1_67	RNASeq_stranded	transcript_region	344	365	6.0	+	.	
+ch.1_67	RNASeq_reads	transcript_region	344	418	16.0	.	.	
+ch.1_67	WormBase	CDS	344	423	.	+	.	ID=CDS:M04D8.2;Parent=Transcript:M04D8.2.1
+ch.1_67	WormBase	exon	344	498	.	+	.	Parent=Transcript:M04D8.2.1
+ch.1_67	RNASeq_stranded	transcript_region	366	451	10.0	+	.	
+ch.1_67	RNASeq	transcription_end_site	391	391	.	+	.	
+ch.1_67	RNASeq_reads	transcript_region	419	443	10.0	.	.	
+ch.1_67	WormBase	three_prime_UTR	424	498	.	+	.	Parent=Transcript:M04D8.2.1
+ch.1_67	RNASeq	transcription_end_site	430	430	.	+	.	
+ch.1_67	RNASeq_reads	transcript_region	444	468	6.0	.	.	
+ch.1_67	RNASeq_stranded	transcript_region	452	472	6.0	+	.	
+ch.1_67	RNASeq	transcription_end_site	464	464	.	+	.	
+ch.1_67	RNASeq_reads	transcript_region	469	485	3.0	.	.	
+ch.1_67	RNASeq_stranded	transcript_region	473	480	3.0	+	.	
+ch.1_67	RNASeq_stranded	transcript_region	481	493	1.0	+	.	
+ch.1_67	RNASeq_reads	transcript_region	486	494	1.0	.	.	

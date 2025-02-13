@@ -1,14 +1,11 @@
 import random
 import math
-import argparse
 import sys
-import gzip
 import statistics as stats
 
-from calculate_intron_prob import intron_probability
 
 class sequence:
-	def __init__(self, sequence, name, resolution=10):
+	def __init__(self, sequence, name, resolution=5):
 		""" Sequence Object 
 		- sequence: entire sequence that we are working with
 		- name: name of the sequence
@@ -28,12 +25,15 @@ class sequence:
 		self.u1_bound_ids = []
 		self.u5_bound_ids = []
 		self.splicing_events = []
+	def transcript_length(self):
+		return len(self.transcript)
 	def transcribe(self):
 		""" Transcribe one base pair in the sequence """
-		new_base = self.sequence[self.curr]
-		self.transcript.append(new_base)
-		self.curr += 1
-		self.bindings.append(0)
+		if self.curr < len(self.sequence):
+			new_base = self.sequence[self.curr]
+			self.transcript.append([new_base, self.curr])
+			self.curr += 1
+			self.bindings.append(0)
 		return self.curr
 	def seq_available(self, size):
 		""" Checks which regions of the sequence are available for binding based on the size"""
@@ -57,8 +57,8 @@ class sequence:
 	def splice(self):
 		""" Selects which regions can be spliced at a given time """
 		#For c. elegans: (30, 60)
-		min_splice_num = 10
-		max_splice_num = 20
+		min_splice_num = 40
+		max_splice_num = 2000
 		#check that sequence has at least one u1 and u5 bound to it
 		if (len(self.u1_bound_ids) > 0) and (len(self.u5_bound_ids) > 0):
 			#search for u1s
@@ -72,29 +72,66 @@ class sequence:
 					end_range = u1_index + 5 + max_splice_num
 					temp_binds = self.bindings[start_range:end_range]
 					#see if there is a u5 within the right range of the u1
-					u5_best = None
-					u5_best_power = 0
-					u5_best_start_index = None
 					u5_curr = None
+					potential_u5s = []
+					u5_best = None
 					for u5_index, value in enumerate(temp_binds):
 						if value == 0: continue
 						if value[0] == u5_curr: continue
 						elif isinstance(value, tuple) and (value[0][0:2] == "u5"):
 							u5_curr = value[0]
+							u5_start = u5_index+u1_index+5+min_splice_num
+							potential_u5s.append([value[0], value[1], u1_index, u5_start])
 							#calculate 'likelihood' of splicing - prob of u5 binding for now, edit later
-							power = self.power(value[1], #Redo using apc code
-							if power > u5_best_power:
-								u5_best_power = power
-								u5_best = value[0]
-								u5_best_start_index = u5_index + u1_index + 5 + min_splice_num
+							u5_best_start_index, u5_best = self.best_splice(potential_u5s)
 					if u5_best != None:
 						self.cut(u1_index, u5_best_start_index, u1_curr, u5_best)
-	def power(self, binding_prob, length):
-		###Use apc code to calculate intron probabilities for this part
+	def best_splice(self, potential_u5s):
+		"""Figures out which is the most likely u5 splice site by simulating a dice roll (integrate apc code)"""
+		#construct 'die' roll with weights and get result
+		len_paths = "models/intron.len"
+		splicing_weights = []
+		options = []
+		lengths = []
+		for i, value in enumerate(potential_u5s):
+			length = (value[3] + 6) - value[2]
+			acc_prob = value[1]
+			splicing_weight = self.power(length, acc_prob)
+			splicing_weights.append(splicing_weight)
+			options.append(i)
+		total = sum(splicing_weights)
+		splicing_weights_norm = [p/total for p in splicing_weights]
+		result_index = random.choices(options, weights = splicing_weights_norm, k=2)[0]
+		
+		#extract info
+		u5_best_start_index = potential_u5s[result_index][3]
+		u5_best = potential_u5s[result_index][0]
+		
+		return u5_best_start_index, u5_best
+	def power(self, length, acc_prob):
+		"""Returns the proabbility of the sequence being an intron based on acc prob and intron length"""
+		probabilities = "models/intron.len"
+		with open(probabilities, 'r') as f:
+			lines=f.readlines()
+		lines = lines[1:]
+		data = []
+		for line in lines:
+			temp = line.strip()
+			temp = float(temp)
+			data.append(temp)
+		len_prob = math.log(data[length -1])
+		acc_prob = math.log(acc_prob)
+		intron_prob = len_prob + acc_prob
+		
+		return intron_prob
 	def cut(self, u1_start, u5_start, u1_id, u5_id):
 		""" Performs the splicing of the select region """
-		cut_sequence = ''.join(self.transcript[u1_start:u5_start+6])
-		self.splicing_events.append((cut_sequence, u1_start, u5_start, u1_id, u5_id, self.curr))
+		cut_items = self.transcript[u1_start:u5_start+6]
+		begin = cut_items[0][1]
+		end = cut_items[-1][1]
+		cut_sequence = list(map(lambda x: x[0], cut_items))
+		cut_sequence = "".join(cut_sequence)
+		self.splicing_events.append((cut_sequence, begin, end, u1_id, u5_id, self.curr))
 		del self.bindings[u1_start:u5_start+6]
 		del self.transcript[u1_start:u5_start+6]
 	def bind(self, start, end, prob, id, size):
@@ -114,8 +151,8 @@ class sequence:
 			self.u5_bound_ids.remove(id)
 	def one_iteration(self, iter_num):
 		""" Sequence behavior for each iteration """
-		if iter_num//self.resolution == 0: #transcribe one base every t iterations
-			self.transcribe()
+		self.transcribe()
+		if iter_num%self.resolution == 0:
 			self.splice()
 
 class snRNP:
@@ -156,39 +193,41 @@ class snRNP:
 	def bind(self, sequence, start_index = None): 
 		""" Perform an instance of randomly binding the snRNP to the sequence """
 		if start_index == None:
-			start_index = random.randint(-2, sequence.curr-1)
-		print(start_index)
+			start_index = random.randint(0, sequence.transcript_length())
 		#extract region
 		available_starts = sequence.seq_available(self.size)
-		if (start_index in available_starts) and (start_index >= 0) and (sequence.curr >= self.size):
+		if (start_index in available_starts) and (sequence.transcript_length() >= self.size):
 			#Calculate probability of binding to that region
 			end_index = start_index + self.size
 			bind_seq = sequence.extract_region(start_index, end_index)
+			bind_seq = list(map(lambda x: x[0], bind_seq))
 			mappings = {"A": 0, "C": 1, "G": 2, "T": 3}
 			x = 0
-			self.prob = 1
+			self.prob = None
 			for i in bind_seq:
 				index = mappings[i]
 				curr_prob = self.pwm[x][index]
+				if x == 0: self.prob = curr_prob
+				elif x > 0: self.prob = self.prob*curr_prob
 				x += 1
-				self.prob = self.prob*curr_prob
-			if self.prob > 0:
+			if (self.prob != None) and (self.prob > 0):
 				sequence.bind(start_index, end_index, self.prob, self.id, self.size)
 				self.bind_start = start_index
-				self.bindtime = 10 #how many iterations it is bound for 
+				self.bindtime = 50 #how many iterations it is bound for 
 			
 	def unbind(self, sequence):
 		""" Unbind the snRNP from the sequence """
-		sequence.unbind(self.bind_start, self.size, self.id)
-		self.bind_start = None
-		self.prob = None
-		self.bindtime = 0
+		if self.bind_start:
+			sequence.unbind(self.bind_start, self.size, self.id)
+			self.bind_start = None
+			self.prob = None
+			self.bindtime = 0
 	def one_iteration(self, sequence):
 		""" Perform snRNP behaviour for each iteration of the algorithm """
 		if self.bindtime > 0: self.bindtime -= 1
 		if self.bindtime == 0:
-			unbind(sequence)
-			bind(sequence)
+			self.unbind(sequence)
+			self.bind(sequence)
 	
 class u5(snRNP):
 	number = 0

@@ -1,0 +1,35 @@
+ch.1_268	RNASeq_F_asymmetry	transcript_region	92	94	1043.0	.	.	
+ch.1_268	RNASeq_F_asymmetry	transcript_region	95	99	3198.0	.	.	
+ch.1_268	RNASeq_reads	transcript_region	95	102	1.0	.	.	
+ch.1_268	RNASeq_F_asymmetry	transcript_region	100	104	4957.0	.	.	
+ch.1_268	WormBase	CDS	101	225	.	+	.	ID=CDS:EGAP5.1;Parent=Transcript:EGAP5.1.1
+ch.1_268	WormBase	exon	101	225	.	+	.	Parent=Transcript:EGAP5.1.1
+ch.1_268	WormBase	gene	101	611	.	+	.	ID=Gene:WBGene00017150
+ch.1_268	WormBase	mRNA	101	611	.	+	.	ID=Transcript:EGAP5.1.1;Parent=Gene:WBGene00017150
+ch.1_268	RNASeq_reads	transcript_region	103	133	2.0	.	.	
+ch.1_268	RNASeq_F_asymmetry	transcript_region	105	121	9419.0	.	.	
+ch.1_268	RNASeq_F_asymmetry	transcript_region	122	158	14272.0	.	.	
+ch.1_268	RNASeq_reads	transcript_region	134	225	4.0	.	.	
+ch.1_268	RNASeq_stranded	transcript_region	197	225	1.0	+	.	
+ch.1_268	WormBase	intron	226	277	.	+	.	Parent=Transcript:EGAP5.1.1
+ch.1_268	RNASeq_splice	intron	226	277	19777.0	+	.	
+ch.1_268	RNASeq	transcription_end_site	278	278	.	+	.	
+ch.1_268	RNASeq_stranded	transcript_region	278	331	1.0	+	.	
+ch.1_268	WormBase	CDS	278	401	.	+	.	ID=CDS:EGAP5.1;Parent=Transcript:EGAP5.1.1
+ch.1_268	RNASeq_reads	transcript_region	278	519	4.0	.	.	
+ch.1_268	WormBase	exon	278	611	.	+	.	Parent=Transcript:EGAP5.1.1
+ch.1_268	RNASeq	transcription_end_site	302	302	.	+	.	
+ch.1_268	RNASeq_stranded	transcript_region	348	408	1.0	+	.	
+ch.1_268	WormBase	three_prime_UTR	402	611	.	+	.	Parent=Transcript:EGAP5.1.1
+ch.1_268	RNASeq	transcription_end_site	416	416	.	+	.	
+ch.1_268	RNASeq	transcription_end_site	418	418	.	+	.	
+ch.1_268	RNASeq_stranded	transcript_region	431	491	1.0	+	.	
+ch.1_268	RNASeq	transcription_end_site	461	461	.	+	.	
+ch.1_268	RNASeq_stranded	transcript_region	498	504	1.0	+	.	
+ch.1_268	RNASeq_stranded	transcript_region	513	520	1.0	+	.	
+ch.1_268	RNASeq_reads	transcript_region	520	569	2.0	.	.	
+ch.1_268	RNASeq_stranded	transcript_region	524	566	1.0	+	.	
+ch.1_268	RNASeq_R_asymmetry	transcript_region	555	587	6597.0	.	.	
+ch.1_268	RNASeq_reads	transcript_region	570	599	1.0	.	.	
+ch.1_268	RNASeq_R_asymmetry	transcript_region	588	594	3999.0	.	.	
+ch.1_268	RNASeq	transcription_end_site	603	603	.	+	.	

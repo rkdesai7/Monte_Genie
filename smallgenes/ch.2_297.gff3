@@ -1,0 +1,54 @@
+ch.2_297	RNASeq_splice	intron	66	119	1694.0	+	.	
+ch.2_297	WormBase	five_prime_UTR	101	157	.	+	.	Parent=Transcript:C45B11.8.1
+ch.2_297	WormBase	exon	101	244	.	+	.	Parent=Transcript:C45B11.8.1
+ch.2_297	WormBase	gene	101	801	.	+	.	ID=Gene:WBGene00077699
+ch.2_297	WormBase	mRNA	101	801	.	+	.	ID=Transcript:C45B11.8.1;Parent=Gene:WBGene00077699
+ch.2_297	RNASeq_F_asymmetry	transcript_region	114	116	1979.0	.	.	
+ch.2_297	RNASeq_reads	transcript_region	115	119	1.0	.	.	
+ch.2_297	RNASeq_stranded	transcript_region	115	176	1.0	+	.	
+ch.2_297	RNASeq_F_asymmetry	transcript_region	117	118	3825.0	.	.	
+ch.2_297	RNASeq_F_asymmetry	transcript_region	119	126	6830.0	.	.	
+ch.2_297	RNASeq_reads	transcript_region	120	145	2.0	.	.	
+ch.2_297	RNASeq_F_asymmetry	transcript_region	127	152	10550.0	.	.	
+ch.2_297	RNASeq_reads	transcript_region	146	244	4.0	.	.	
+ch.2_297	RNASeq_F_asymmetry	transcript_region	153	160	16029.0	.	.	
+ch.2_297	WormBase	CDS	158	244	.	+	.	ID=CDS:C45B11.8;Parent=Transcript:C45B11.8.1
+ch.2_297	RNASeq_stranded	transcript_region	177	184	2.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	185	228	4.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	229	229	2.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	230	244	1.0	+	.	
+ch.2_297	RNASeq_splice	intron	243	413	21.0	-	.	
+ch.2_297	WormBase	intron	245	415	.	+	.	Parent=Transcript:C45B11.8.1
+ch.2_297	RNASeq_splice	intron	245	415	18711.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	416	428	1.0	+	.	
+ch.2_297	RNASeq_reads	transcript_region	416	480	4.0	.	.	
+ch.2_297	WormBase	CDS	416	625	.	+	.	ID=CDS:C45B11.8;Parent=Transcript:C45B11.8.1
+ch.2_297	WormBase	exon	416	625	.	+	.	Parent=Transcript:C45B11.8.1
+ch.2_297	RNASeq_stranded	transcript_region	429	462	2.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	463	483	5.0	+	.	
+ch.2_297	RNASeq_reads	transcript_region	481	622	7.0	.	.	
+ch.2_297	RNASeq_stranded	transcript_region	484	522	9.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	523	533	5.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	534	538	3.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	539	571	1.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	572	625	2.0	+	.	
+ch.2_297	RNASeq_reads	transcript_region	623	625	4.0	.	.	
+ch.2_297	WormBase	intron	626	672	.	+	.	Parent=Transcript:C45B11.8.1
+ch.2_297	RNASeq_splice	intron	626	672	22759.0	+	.	
+ch.2_297	WormBase	CDS	673	699	.	+	.	ID=CDS:C45B11.8;Parent=Transcript:C45B11.8.1
+ch.2_297	RNASeq_stranded	transcript_region	673	708	3.0	+	.	
+ch.2_297	RNASeq_reads	transcript_region	673	774	4.0	.	.	
+ch.2_297	WormBase	exon	673	801	.	+	.	Parent=Transcript:C45B11.8.1
+ch.2_297	WormBase	three_prime_UTR	700	801	.	+	.	Parent=Transcript:C45B11.8.1
+ch.2_297	RNASeq_stranded	transcript_region	709	726	5.0	+	.	
+ch.2_297	RNASeq_stranded	transcript_region	727	778	3.0	+	.	
+ch.2_297	RNASeq_R_asymmetry	transcript_region	741	783	13508.0	.	.	
+ch.2_297	RNASeq_stranded	transcript_region	759	763	1.0	-	.	
+ch.2_297	RNASeq_stranded	transcript_region	769	774	1.0	-	.	
+ch.2_297	RNASeq_reads	transcript_region	775	788	2.0	.	.	
+ch.2_297	RNASeq_stranded	transcript_region	779	790	1.0	+	.	
+ch.2_297	RNASeq_R_asymmetry	transcript_region	784	790	8845.0	.	.	
+ch.2_297	RNASeq_reads	transcript_region	789	800	1.0	.	.	
+ch.2_297	RNASeq_R_asymmetry	transcript_region	791	798	5679.0	.	.	
+ch.2_297	RNASeq	transcription_end_site	797	797	.	+	.	
+ch.2_297	RNASeq_R_asymmetry	transcript_region	799	800	2894.0	.	.	

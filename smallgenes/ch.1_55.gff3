@@ -1,0 +1,58 @@
+ch.1_55	RNASeq_reads	transcript_region	101	102	1.0	.	.	
+ch.1_55	WormBase	five_prime_UTR	101	120	.	+	.	Parent=Transcript:Y38E10A.15.1
+ch.1_55	WormBase	exon	101	283	.	+	.	Parent=Transcript:Y38E10A.15.1
+ch.1_55	WormBase	gene	101	484	.	+	.	ID=Gene:WBGene00012593
+ch.1_55	WormBase	mRNA	101	484	.	+	.	ID=Transcript:Y38E10A.15.1;Parent=Gene:WBGene00012593
+ch.1_55	RNASeq_reads	transcript_region	103	103	2.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	103	103	2.0	+	.	
+ch.1_55	RNASeq_stranded	transcript_region	104	107	4.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	104	111	7.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	108	113	7.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	112	115	11.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	114	115	12.0	+	.	
+ch.1_55	RNASeq_stranded	transcript_region	116	119	19.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	116	124	17.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	120	216	34.0	+	.	
+ch.1_55	WormBase	CDS	121	283	.	+	.	ID=CDS:Y38E10A.15;Parent=Transcript:Y38E10A.15.1
+ch.1_55	RNASeq_reads	transcript_region	125	164	26.0	.	.	
+ch.1_55	RNASeq_F_asymmetry	transcript_region	128	131	115381.0	.	.	
+ch.1_55	RNASeq_F_asymmetry	transcript_region	133	134	122305.0	.	.	
+ch.1_55	RNASeq_reads	transcript_region	165	223	40.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	217	283	21.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	224	283	61.0	.	.	
+ch.1_55	RNASeq_splice	intron	269	329	3.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	284	284	8.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	284	284	2.0	+	.	
+ch.1_55	WormBase	intron	284	329	.	+	.	Parent=Transcript:Y38E10A.15.1
+ch.1_55	RNASeq_splice	intron	284	329	292585.0	+	.	
+ch.1_55	RNASeq_stranded	transcript_region	285	285	1.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	285	328	3.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	290	328	1.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	329	329	6.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	329	329	11.0	+	.	
+ch.1_55	RNASeq_stranded	transcript_region	330	346	40.0	+	.	
+ch.1_55	WormBase	CDS	330	391	.	+	.	ID=CDS:Y38E10A.15;Parent=Transcript:Y38E10A.15.1
+ch.1_55	RNASeq_reads	transcript_region	330	411	58.0	.	.	
+ch.1_55	WormBase	exon	330	484	.	+	.	Parent=Transcript:Y38E10A.15.1
+ch.1_55	RNASeq_stranded	transcript_region	347	438	64.0	+	.	
+ch.1_55	WormBase	three_prime_UTR	392	484	.	+	.	Parent=Transcript:Y38E10A.15.1
+ch.1_55	RNASeq_splice	intron	392	500	21.0	+	.	
+ch.1_55	RNASeq	transcription_end_site	398	398	.	+	.	
+ch.1_55	RNASeq_reads	transcript_region	412	434	37.0	.	.	
+ch.1_55	RNASeq_splice	intron	429	500	27.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	435	441	21.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	439	454	42.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	442	463	12.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	455	463	27.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	464	472	7.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	464	476	15.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	473	478	4.0	.	.	
+ch.1_55	RNASeq	transcription_end_site	476	476	.	+	.	
+ch.1_55	RNASeq_stranded	transcript_region	477	479	9.0	+	.	
+ch.1_55	RNASeq_reads	transcript_region	479	479	2.0	.	.	
+ch.1_55	RNASeq_reads	transcript_region	480	481	1.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	480	482	4.0	+	.	
+ch.1_55	RNASeq_F_asymmetry	transcript_region	481	482	2733.0	.	.	
+ch.1_55	RNASeq_F_asymmetry	transcript_region	483	484	1623.0	.	.	
+ch.1_55	RNASeq_stranded	transcript_region	483	484	2.0	+	.	
+ch.1_55	RNASeq_stranded	transcript_region	485	485	1.0	+	.	

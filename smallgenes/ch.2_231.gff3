@@ -1,0 +1,62 @@
+ch.2_231	RNASeq	possible_base_call_error	955	956	.	-	.	
+ch.2_231	WormBase	three_prime_UTR	796	892	.	+	.	Parent=Transcript:K03H1.9.3
+ch.2_231	WormBase	three_prime_UTR	796	892	.	+	.	Parent=Transcript:K03H1.9.2
+ch.2_231	WormBase	three_prime_UTR	796	892	.	+	.	Parent=Transcript:K03H1.9.1
+ch.2_231	WormBase	exon	705	892	.	+	.	Parent=Transcript:K03H1.9.3
+ch.2_231	WormBase	exon	705	892	.	+	.	Parent=Transcript:K03H1.9.2
+ch.2_231	WormBase	exon	705	892	.	+	.	Parent=Transcript:K03H1.9.1
+ch.2_231	WormBase	mRNA	186	892	.	+	.	ID=Transcript:K03H1.9.3;Parent=Gene:WBGene00010544
+ch.2_231	WormBase	mRNA	102	892	.	+	.	ID=Transcript:K03H1.9.2;Parent=Gene:WBGene00010544
+ch.2_231	WormBase	gene	101	892	.	+	.	ID=Gene:WBGene00010544
+ch.2_231	WormBase	mRNA	101	892	.	+	.	ID=Transcript:K03H1.9.1;Parent=Gene:WBGene00010544
+ch.2_231	RNASeq_F_asymmetry	transcript_region	890	890	380.0	.	.	
+ch.2_231	RNASeq_F_asymmetry	transcript_region	889	889	681.0	.	.	
+ch.2_231	RNASeq_F_asymmetry	transcript_region	885	888	1120.0	.	.	
+ch.2_231	RNASeq_F_asymmetry	transcript_region	857	884	1699.0	.	.	
+ch.2_231	RNASeq_reads	transcript_region	811	868	1.0	.	.	
+ch.2_231	RNASeq_F_asymmetry	transcript_region	831	856	2549.0	.	.	
+ch.2_231	RNASeq	transcription_end_site	854	854	.	-	.	
+ch.2_231	RNASeq	transcription_end_site	854	854	.	-	.	
+ch.2_231	RNASeq_F_asymmetry	transcript_region	803	830	5187.0	.	.	
+ch.2_231	RNASeq_reads	transcript_region	759	810	2.0	.	.	
+ch.2_231	RNASeq_F_asymmetry	transcript_region	783	802	8002.0	.	.	
+ch.2_231	WormBase	CDS	705	795	.	+	.	ID=CDS:K03H1.9;Parent=Transcript:K03H1.9.1,Transcript:K03H1.9.2,Transcript:K03H1.9.3
+ch.2_231	RNASeq_F_asymmetry	transcript_region	736	782	12239.0	.	.	
+ch.2_231	RNASeq_reads	transcript_region	705	758	4.0	.	.	
+ch.2_231	WormBase	intron	657	704	.	+	.	Parent=Transcript:K03H1.9.1
+ch.2_231	WormBase	intron	657	704	.	+	.	Parent=Transcript:K03H1.9.2
+ch.2_231	WormBase	intron	657	704	.	+	.	Parent=Transcript:K03H1.9.3
+ch.2_231	RNASeq_splice	intron	657	704	13982.0	+	.	
+ch.2_231	RNASeq_splice	intron	642	693	5.0	-	.	
+ch.2_231	WormBase	CDS	301	656	.	+	.	ID=CDS:K03H1.9;Parent=Transcript:K03H1.9.1,Transcript:K03H1.9.2,Transcript:K03H1.9.3
+ch.2_231	RNASeq_reads	transcript_region	198	656	3.0	.	.	
+ch.2_231	WormBase	exon	193	656	.	+	.	Parent=Transcript:K03H1.9.1
+ch.2_231	WormBase	exon	193	656	.	+	.	Parent=Transcript:K03H1.9.2
+ch.2_231	WormBase	exon	186	656	.	+	.	Parent=Transcript:K03H1.9.3
+ch.2_231	RNASeq_stranded	transcript_region	535	584	1.0	+	.	
+ch.2_231	RNASeq_stranded	transcript_region	455	490	1.0	+	.	
+ch.2_231	RNASeq_stranded	transcript_region	365	367	1.0	+	.	
+ch.2_231	WormBase	five_prime_UTR	193	300	.	+	.	Parent=Transcript:K03H1.9.1
+ch.2_231	WormBase	five_prime_UTR	193	300	.	+	.	Parent=Transcript:K03H1.9.2
+ch.2_231	WormBase	five_prime_UTR	186	300	.	+	.	Parent=Transcript:K03H1.9.3
+ch.2_231	RNASeq_stranded	transcript_region	231	250	1.0	+	.	
+ch.2_231	RNASeq_R_asymmetry	transcript_region	193	219	7874.0	.	.	
+ch.2_231	RNASeq_stranded	transcript_region	215	217	1.0	+	.	
+ch.2_231	RNASeq_reads	transcript_region	193	197	1.0	.	.	
+ch.2_231	WormBase	intron	143	192	.	+	.	Parent=Transcript:K03H1.9.1
+ch.2_231	RNASeq_splice	intron	143	192	5417.0	+	.	
+ch.2_231	WormBase	intron	132	192	.	+	.	Parent=Transcript:K03H1.9.2
+ch.2_231	RNASeq_splice	intron	132	192	891.0	+	.	
+ch.2_231	RNASeq_R_asymmetry	transcript_region	172	175	1165.0	.	.	
+ch.2_231	RNASeq_splice	intron	132	171	3.0	+	.	
+ch.2_231	RNASeq_R_asymmetry	transcript_region	143	170	1144.0	.	.	
+ch.2_231	RNASeq_R_asymmetry	transcript_region	119	142	5009.0	.	.	
+ch.2_231	RNASeq_reads	transcript_region	115	142	1.0	.	.	
+ch.2_231	WormBase	exon	101	142	.	+	.	Parent=Transcript:K03H1.9.1
+ch.2_231	WormBase	five_prime_UTR	101	142	.	+	.	Parent=Transcript:K03H1.9.1
+ch.2_231	WormBase	exon	102	131	.	+	.	Parent=Transcript:K03H1.9.2
+ch.2_231	WormBase	five_prime_UTR	102	131	.	+	.	Parent=Transcript:K03H1.9.2
+ch.2_231	RNASeq_R_asymmetry	transcript_region	115	118	3295.0	.	.	
+ch.2_231	RNASeq_R_asymmetry	transcript_region	108	114	1607.0	.	.	
+ch.2_231	RNASeq_R_asymmetry	transcript_region	102	107	1004.0	.	.	
+ch.2_231	RNASeq_R_asymmetry	transcript_region	98	101	404.0	.	.	

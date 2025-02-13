@@ -1,0 +1,43 @@
+ch.3_5	RNASeq_F_asymmetry	transcript_region	96	99	1052.0	.	.	
+ch.3_5	RNASeq_F_asymmetry	transcript_region	100	101	1608.0	.	.	
+ch.3_5	RNASeq_reads	transcript_region	101	132	1.0	.	.	
+ch.3_5	WormBase	five_prime_UTR	101	132	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	WormBase	exon	101	132	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	WormBase	gene	101	617	.	+	.	ID=Gene:WBGene00194733
+ch.3_5	WormBase	mRNA	101	617	.	+	.	ID=Transcript:Y41C4A.21.1;Parent=Gene:WBGene00194733
+ch.3_5	RNASeq_F_asymmetry	transcript_region	102	105	2453.0	.	.	
+ch.3_5	RNASeq_F_asymmetry	transcript_region	106	115	3748.0	.	.	
+ch.3_5	RNASeq_F_asymmetry	transcript_region	116	132	5665.0	.	.	
+ch.3_5	WormBase	intron	133	177	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_splice	intron	133	177	7490.0	+	.	
+ch.3_5	WormBase	five_prime_UTR	178	186	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_F_asymmetry	transcript_region	178	194	6997.0	.	.	
+ch.3_5	WormBase	exon	178	276	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_reads	transcript_region	178	276	2.0	.	.	
+ch.3_5	RNASeq_stranded	transcript_region	184	196	1.0	+	.	
+ch.3_5	WormBase	CDS	187	276	.	+	.	ID=CDS:Y41C4A.21;Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_stranded	transcript_region	198	207	1.0	+	.	
+ch.3_5	WormBase	intron	277	318	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_splice	intron	277	318	10049.0	+	.	
+ch.3_5	RNASeq_splice	intron	277	329	4.0	+	.	
+ch.3_5	RNASeq_splice	intron	277	467	12.0	+	.	
+ch.3_5	RNASeq_splice	intron	286	467	8.0	+	.	
+ch.3_5	WormBase	CDS	319	417	.	+	.	ID=CDS:Y41C4A.21;Parent=Transcript:Y41C4A.21.1
+ch.3_5	WormBase	exon	319	417	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_reads	transcript_region	319	417	2.0	.	.	
+ch.3_5	RNASeq_splice	intron	383	467	13.0	+	.	
+ch.3_5	RNASeq_splice	intron	399	467	92.0	+	.	
+ch.3_5	WormBase	intron	418	467	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_splice	intron	418	467	8275.0	+	.	
+ch.3_5	WormBase	CDS	468	518	.	+	.	ID=CDS:Y41C4A.21;Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_reads	transcript_region	468	545	2.0	.	.	
+ch.3_5	WormBase	exon	468	617	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_R_asymmetry	transcript_region	490	491	8047.0	.	.	
+ch.3_5	RNASeq_R_asymmetry	transcript_region	505	563	6257.0	.	.	
+ch.3_5	WormBase	three_prime_UTR	519	617	.	+	.	Parent=Transcript:Y41C4A.21.1
+ch.3_5	RNASeq_reads	transcript_region	546	579	1.0	.	.	
+ch.3_5	RNASeq_R_asymmetry	transcript_region	564	574	3966.0	.	.	
+ch.3_5	RNASeq_splice	intron	564	615	6.0	+	.	
+ch.3_5	RNASeq_R_asymmetry	transcript_region	575	595	2260.0	.	.	
+ch.3_5	RNASeq_R_asymmetry	transcript_region	596	608	1469.0	.	.	
+ch.3_5	RNASeq_R_asymmetry	transcript_region	609	615	887.0	.	.	

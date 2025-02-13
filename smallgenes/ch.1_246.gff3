@@ -1,0 +1,34 @@
+ch.1_246	RNASeq_F_asymmetry	transcript_region	556	556	1037.0	.	.	
+ch.1_246	RNASeq_F_asymmetry	transcript_region	555	555	1611.0	.	.	
+ch.1_246	RNASeq_reads	transcript_region	550	554	1.0	.	.	
+ch.1_246	RNASeq_F_asymmetry	transcript_region	549	554	5614.0	.	.	
+ch.1_246	RNASeq_reads	transcript_region	484	549	2.0	.	.	
+ch.1_246	RNASeq_F_asymmetry	transcript_region	476	548	9616.0	.	.	
+ch.1_246	WormBase	exon	336	491	.	+	.	Parent=Transcript:Y51A2A.7.1
+ch.1_246	WormBase	CDS	336	491	.	+	.	ID=CDS:Y51A2A.7;Parent=Transcript:Y51A2A.7.1
+ch.1_246	WormBase	gene	101	491	.	+	.	ID=Gene:WBGene00013063
+ch.1_246	WormBase	mRNA	101	491	.	+	.	ID=Transcript:Y51A2A.7.1;Parent=Gene:WBGene00013063
+ch.1_246	RNASeq_reads	transcript_region	471	483	4.0	.	.	
+ch.1_246	RNASeq_F_asymmetry	transcript_region	473	475	14430.0	.	.	
+ch.1_246	RNASeq_F_asymmetry	transcript_region	469	472	23544.0	.	.	
+ch.1_246	RNASeq_reads	transcript_region	415	470	7.0	.	.	
+ch.1_246	RNASeq_F_asymmetry	transcript_region	371	468	35736.0	.	.	
+ch.1_246	RNASeq_reads	transcript_region	336	414	11.0	.	.	
+ch.1_246	RNASeq_splice	intron	290	346	14.0	+	.	
+ch.1_246	WormBase	intron	290	335	.	+	.	Parent=Transcript:Y51A2A.7.1
+ch.1_246	RNASeq_splice	intron	290	335	36822.0	+	.	
+ch.1_246	RNASeq_F_asymmetry	transcript_region	290	290	7347.0	.	.	
+ch.1_246	RNASeq_reads	transcript_region	290	290	2.0	.	.	
+ch.1_246	RNASeq_reads	transcript_region	224	289	9.0	.	.	
+ch.1_246	WormBase	CDS	101	289	.	+	.	ID=CDS:Y51A2A.7;Parent=Transcript:Y51A2A.7.1
+ch.1_246	WormBase	exon	101	289	.	+	.	Parent=Transcript:Y51A2A.7.1
+ch.1_246	RNASeq_reads	transcript_region	201	223	5.0	.	.	
+ch.1_246	RNASeq_R_asymmetry	transcript_region	201	202	23985.0	.	.	
+ch.1_246	RNASeq_R_asymmetry	transcript_region	101	200	40250.0	.	.	
+ch.1_246	RNASeq_reads	transcript_region	101	200	9.0	.	.	
+ch.1_246	RNASeq_R_asymmetry	transcript_region	100	100	17130.0	.	.	
+ch.1_246	RNASeq_reads	transcript_region	100	100	3.0	.	.	
+ch.1_246	RNASeq_R_asymmetry	transcript_region	98	99	6113.0	.	.	
+ch.1_246	RNASeq_reads	transcript_region	96	99	1.0	.	.	
+ch.1_246	RNASeq_R_asymmetry	transcript_region	96	97	2550.0	.	.	
+ch.1_246	RNASeq_R_asymmetry	transcript_region	95	95	1622.0	.	.	

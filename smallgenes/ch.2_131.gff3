@@ -1,0 +1,50 @@
+ch.2_131	WormBase	three_prime_UTR	572	680	.	+	.	Parent=Transcript:F46H6.5.1
+ch.2_131	WormBase	exon	521	680	.	+	.	Parent=Transcript:F46H6.5.1
+ch.2_131	WormBase	gene	101	680	.	+	.	ID=Gene:WBGene00023460
+ch.2_131	WormBase	mRNA	101	680	.	+	.	ID=Transcript:F46H6.5.1;Parent=Gene:WBGene00023460
+ch.2_131	RNASeq_reads	transcript_region	642	677	1.0	.	.	
+ch.2_131	RNASeq_stranded	transcript_region	658	676	1.0	+	.	
+ch.2_131	RNASeq_stranded	transcript_region	613	657	2.0	+	.	
+ch.2_131	RNASeq_reads	transcript_region	562	641	2.0	.	.	
+ch.2_131	RNASeq_F_asymmetry	transcript_region	620	635	9637.0	.	.	
+ch.2_131	RNASeq_F_asymmetry	transcript_region	616	618	11257.0	.	.	
+ch.2_131	RNASeq_stranded	transcript_region	536	612	4.0	+	.	
+ch.2_131	WormBase	CDS	521	571	.	+	.	ID=CDS:F46H6.5;Parent=Transcript:F46H6.5.1
+ch.2_131	RNASeq	transcription_end_site	563	563	.	-	.	
+ch.2_131	RNASeq_reads	transcript_region	521	561	4.0	.	.	
+ch.2_131	RNASeq_stranded	transcript_region	521	535	2.0	+	.	
+ch.2_131	RNASeq_reads	transcript_region	519	520	1.0	.	.	
+ch.2_131	RNASeq_stranded	transcript_region	519	520	1.0	+	.	
+ch.2_131	WormBase	intron	470	520	.	+	.	Parent=Transcript:F46H6.5.1
+ch.2_131	RNASeq_splice	intron	470	520	28738.0	+	.	
+ch.2_131	RNASeq_reads	transcript_region	470	471	1.0	.	.	
+ch.2_131	RNASeq_stranded	transcript_region	470	470	1.0	-	.	
+ch.2_131	RNASeq_stranded	transcript_region	442	469	2.0	+	.	
+ch.2_131	WormBase	CDS	364	469	.	+	.	ID=CDS:F46H6.5;Parent=Transcript:F46H6.5.1
+ch.2_131	WormBase	exon	364	469	.	+	.	Parent=Transcript:F46H6.5.1
+ch.2_131	RNASeq_reads	transcript_region	364	469	5.0	.	.	
+ch.2_131	RNASeq	transcription_end_site	466	466	.	-	.	
+ch.2_131	RNASeq	transcription_end_site	466	466	.	-	.	
+ch.2_131	RNASeq_stranded	transcript_region	393	441	4.0	+	.	
+ch.2_131	RNASeq_stranded	transcript_region	364	392	2.0	+	.	
+ch.2_131	WormBase	intron	263	363	.	+	.	Parent=Transcript:F46H6.5.1
+ch.2_131	RNASeq_splice	intron	263	363	40805.0	+	.	
+ch.2_131	RNASeq_splice	intron	263	347	13.0	+	.	
+ch.2_131	RNASeq_splice	intron	263	344	18.0	+	.	
+ch.2_131	RNASeq_stranded	transcript_region	241	262	2.0	+	.	
+ch.2_131	RNASeq_reads	transcript_region	109	262	6.0	.	.	
+ch.2_131	WormBase	CDS	105	262	.	+	.	ID=CDS:F46H6.5;Parent=Transcript:F46H6.5.1
+ch.2_131	WormBase	exon	101	262	.	+	.	Parent=Transcript:F46H6.5.1
+ch.2_131	RNASeq_stranded	transcript_region	201	240	1.0	+	.	
+ch.2_131	RNASeq_splice	intron	195	240	10.0	+	.	
+ch.2_131	RNASeq_stranded	transcript_region	199	200	2.0	+	.	
+ch.2_131	RNASeq_stranded	transcript_region	197	198	1.0	+	.	
+ch.2_131	RNASeq_stranded	transcript_region	192	196	2.0	+	.	
+ch.2_131	RNASeq_R_asymmetry	transcript_region	109	192	29215.0	.	.	
+ch.2_131	RNASeq_stranded	transcript_region	143	191	4.0	+	.	
+ch.2_131	RNASeq_stranded	transcript_region	111	142	2.0	+	.	
+ch.2_131	RNASeq_stranded	transcript_region	103	110	1.0	+	.	
+ch.2_131	RNASeq_R_asymmetry	transcript_region	102	108	16687.0	.	.	
+ch.2_131	RNASeq_reads	transcript_region	101	108	3.0	.	.	
+ch.2_131	WormBase	five_prime_UTR	101	104	.	+	.	Parent=Transcript:F46H6.5.1
+ch.2_131	RNASeq_R_asymmetry	transcript_region	101	101	8979.0	.	.	

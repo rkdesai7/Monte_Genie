@@ -1,0 +1,57 @@
+ch.2_175	RNASeq_stranded	transcript_region	781	786	2.0	+	.	
+ch.2_175	RNASeq_reads	transcript_region	780	785	1.0	.	.	
+ch.2_175	WormBase	three_prime_UTR	651	784	.	+	.	Parent=Transcript:W06D11.2.1
+ch.2_175	WormBase	exon	492	784	.	+	.	Parent=Transcript:W06D11.2.1
+ch.2_175	WormBase	gene	101	784	.	+	.	ID=Gene:WBGene00012300
+ch.2_175	WormBase	mRNA	101	784	.	+	.	ID=Transcript:W06D11.2.1;Parent=Gene:WBGene00012300
+ch.2_175	RNASeq_stranded	transcript_region	773	780	4.0	+	.	
+ch.2_175	RNASeq_reads	transcript_region	774	779	2.0	.	.	
+ch.2_175	RNASeq_reads	transcript_region	754	773	4.0	.	.	
+ch.2_175	RNASeq_stranded	transcript_region	747	772	7.0	+	.	
+ch.2_175	RNASeq_reads	transcript_region	725	753	7.0	.	.	
+ch.2_175	RNASeq_stranded	transcript_region	724	746	11.0	+	.	
+ch.2_175	RNASeq_F_asymmetry	transcript_region	741	741	29888.0	.	.	
+ch.2_175	RNASeq_F_asymmetry	transcript_region	735	735	35869.0	.	.	
+ch.2_175	RNASeq_reads	transcript_region	494	724	11.0	.	.	
+ch.2_175	RNASeq_stranded	transcript_region	689	723	17.0	+	.	
+ch.2_175	RNASeq_stranded	transcript_region	662	688	11.0	+	.	
+ch.2_175	RNASeq_stranded	transcript_region	622	661	7.0	+	.	
+ch.2_175	WormBase	CDS	492	650	.	+	.	ID=CDS:W06D11.2;Parent=Transcript:W06D11.2.1
+ch.2_175	RNASeq_stranded	transcript_region	576	621	4.0	+	.	
+ch.2_175	RNASeq_stranded	transcript_region	508	575	2.0	+	.	
+ch.2_175	RNASeq_stranded	transcript_region	492	507	1.0	+	.	
+ch.2_175	RNASeq_reads	transcript_region	492	493	7.0	.	.	
+ch.2_175	RNASeq_R_asymmetry	transcript_region	468	491	786.0	.	.	
+ch.2_175	WormBase	intron	433	491	.	+	.	Parent=Transcript:W06D11.2.1
+ch.2_175	RNASeq_splice	intron	433	491	32171.0	+	.	
+ch.2_175	RNASeq_splice	intron	295	491	18.0	+	.	
+ch.2_175	RNASeq_reads	transcript_region	433	436	1.0	.	.	
+ch.2_175	RNASeq_stranded	transcript_region	384	432	1.0	+	.	
+ch.2_175	WormBase	CDS	340	432	.	+	.	ID=CDS:W06D11.2;Parent=Transcript:W06D11.2.1
+ch.2_175	WormBase	exon	340	432	.	+	.	Parent=Transcript:W06D11.2.1
+ch.2_175	RNASeq_reads	transcript_region	340	432	7.0	.	.	
+ch.2_175	RNASeq_stranded	transcript_region	354	383	2.0	+	.	
+ch.2_175	RNASeq_stranded	transcript_region	341	353	1.0	+	.	
+ch.2_175	RNASeq_reads	transcript_region	339	339	2.0	.	.	
+ch.2_175	WormBase	intron	295	339	.	+	.	Parent=Transcript:W06D11.2.1
+ch.2_175	RNASeq_splice	intron	295	339	29803.0	+	.	
+ch.2_175	WormBase	CDS	187	294	.	+	.	ID=CDS:W06D11.2;Parent=Transcript:W06D11.2.1
+ch.2_175	RNASeq_reads	transcript_region	179	294	7.0	.	.	
+ch.2_175	WormBase	exon	101	294	.	+	.	Parent=Transcript:W06D11.2.1
+ch.2_175	RNASeq_stranded	transcript_region	282	285	1.0	+	.	
+ch.2_175	RNASeq_stranded	transcript_region	230	279	1.0	+	.	
+ch.2_175	RNASeq_R_asymmetry	transcript_region	176	259	29569.0	.	.	
+ch.2_175	RNASeq_stranded	transcript_region	196	229	2.0	+	.	
+ch.2_175	RNASeq_stranded	transcript_region	175	195	1.0	+	.	
+ch.2_175	WormBase	five_prime_UTR	101	186	.	+	.	Parent=Transcript:W06D11.2.1
+ch.2_175	RNASeq_reads	transcript_region	167	178	4.0	.	.	
+ch.2_175	RNASeq_R_asymmetry	transcript_region	167	175	19259.0	.	.	
+ch.2_175	RNASeq_reads	transcript_region	165	166	2.0	.	.	
+ch.2_175	RNASeq_R_asymmetry	transcript_region	162	166	8873.0	.	.	
+ch.2_175	RNASeq_reads	transcript_region	158	164	1.0	.	.	
+ch.2_175	RNASeq_R_asymmetry	transcript_region	158	161	5247.0	.	.	
+ch.2_175	RNASeq_R_asymmetry	transcript_region	157	157	1940.0	.	.	
+ch.2_175	RNASeq_R_asymmetry	transcript_region	155	156	1144.0	.	.	
+ch.2_175	RNASeq_R_asymmetry	transcript_region	144	154	621.0	.	.	
+ch.2_175	RNASeq_R_asymmetry	transcript_region	135	143	388.0	.	.	
+ch.2_175	RNASeq_splice	intron	93	136	4.0	+	.	

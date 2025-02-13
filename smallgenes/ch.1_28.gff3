@@ -1,0 +1,57 @@
+ch.1_28	RNASeq_stranded	transcript_region	380	381	1.0	+	.	
+ch.1_28	RNASeq	transcription_end_site	376	376	.	-	.	
+ch.1_28	RNASeq_stranded	transcript_region	371	376	1.0	+	.	
+ch.1_28	RNASeq	transcription_end_site	374	374	.	-	.	
+ch.1_28	RNASeq	transcription_end_site	374	374	.	-	.	
+ch.1_28	RNASeq_stranded	transcript_region	365	370	5.0	+	.	
+ch.1_28	RNASeq_reads	transcript_region	363	370	2.0	.	.	
+ch.1_28	WormBase	three_prime_UTR	325	367	.	+	.	Parent=Transcript:K08D9.9.1
+ch.1_28	WormBase	exon	178	367	.	+	.	Parent=Transcript:K08D9.9.1
+ch.1_28	WormBase	gene	101	367	.	+	.	ID=Gene:WBGene00235094
+ch.1_28	WormBase	mRNA	101	367	.	+	.	ID=Transcript:K08D9.9.1;Parent=Gene:WBGene00235094
+ch.1_28	RNASeq_stranded	transcript_region	361	364	10.0	+	.	
+ch.1_28	RNASeq	transcription_end_site	362	362	.	-	.	
+ch.1_28	RNASeq_reads	transcript_region	359	362	4.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	347	360	16.0	+	.	
+ch.1_28	RNASeq_reads	transcript_region	341	358	8.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	327	346	25.0	+	.	
+ch.1_28	RNASeq_reads	transcript_region	319	340	13.0	.	.	
+ch.1_28	RNASeq_F_asymmetry	transcript_region	334	335	59268.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	230	326	40.0	+	.	
+ch.1_28	WormBase	CDS	178	324	.	+	.	ID=CDS:K08D9.9;Parent=Transcript:K08D9.9.1
+ch.1_28	RNASeq_reads	transcript_region	178	318	20.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	221	229	26.0	+	.	
+ch.1_28	RNASeq_stranded	transcript_region	196	220	17.0	+	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	178	207	80095.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	178	195	11.0	+	.	
+ch.1_28	RNASeq_reads	transcript_region	177	177	4.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	173	177	1.0	+	.	
+ch.1_28	WormBase	intron	133	177	.	+	.	Parent=Transcript:K08D9.9.1
+ch.1_28	RNASeq_splice	intron	133	177	76040.0	+	.	
+ch.1_28	RNASeq_reads	transcript_region	173	176	2.0	.	.	
+ch.1_28	RNASeq_reads	transcript_region	170	172	1.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	170	171	2860.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	133	143	168.0	.	.	
+ch.1_28	RNASeq_reads	transcript_region	116	132	14.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	115	132	65604.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	113	132	8.0	+	.	
+ch.1_28	WormBase	CDS	112	132	.	+	.	ID=CDS:K08D9.9;Parent=Transcript:K08D9.9.1
+ch.1_28	WormBase	exon	101	132	.	+	.	Parent=Transcript:K08D9.9.1
+ch.1_28	RNASeq_reads	transcript_region	108	115	9.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	108	114	43174.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	108	112	5.0	+	.	
+ch.1_28	WormBase	five_prime_UTR	101	111	.	+	.	Parent=Transcript:K08D9.9.1
+ch.1_28	RNASeq_R_asymmetry	transcript_region	105	107	21318.0	.	.	
+ch.1_28	RNASeq_reads	transcript_region	102	107	4.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	101	107	3.0	+	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	101	104	13843.0	.	.	
+ch.1_28	RNASeq_reads	transcript_region	98	101	2.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	98	100	8534.0	.	.	
+ch.1_28	RNASeq_stranded	transcript_region	93	100	1.0	+	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	91	97	4685.0	.	.	
+ch.1_28	RNASeq_reads	transcript_region	88	97	1.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	87	90	3036.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	85	86	1885.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	74	84	360.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	70	73	235.0	.	.	
+ch.1_28	RNASeq_R_asymmetry	transcript_region	65	68	167.0	.	.	

@@ -1,0 +1,104 @@
+ch.1_364	RNASeq_splice	intron	50	234	27.0	-	.	
+ch.1_364	WormBase	five_prime_UTR	101	223	.	+	.	Parent=Transcript:B0213.6.1
+ch.1_364	WormBase	exon	101	314	.	+	.	Parent=Transcript:B0213.6.1
+ch.1_364	WormBase	gene	101	668	.	+	.	ID=Gene:WBGene00003769
+ch.1_364	WormBase	mRNA	101	668	.	+	.	ID=Transcript:B0213.6.1;Parent=Gene:WBGene00003769
+ch.1_364	RNASeq_stranded	transcript_region	152	163	1.0	+	.	
+ch.1_364	RNASeq_reads	transcript_region	152	170	2.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	164	185	2.0	+	.	
+ch.1_364	RNASeq_F_asymmetry	transcript_region	169	177	13529.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	171	184	4.0	.	.	
+ch.1_364	RNASeq_F_asymmetry	transcript_region	178	185	21659.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	185	185	7.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	186	191	5.0	+	.	
+ch.1_364	RNASeq_F_asymmetry	transcript_region	186	196	92733.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	186	196	22.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	192	195	8.0	+	.	
+ch.1_364	RNASeq_stranded	transcript_region	196	198	16.0	+	.	
+ch.1_364	RNASeq_F_asymmetry	transcript_region	197	199	150757.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	197	199	35.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	199	204	32.0	+	.	
+ch.1_364	RNASeq_F_asymmetry	transcript_region	200	203	264826.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	200	204	57.0	.	.	
+ch.1_364	RNASeq_F_asymmetry	transcript_region	204	210	403101.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	205	212	86.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	205	219	49.0	+	.	
+ch.1_364	RNASeq_F_asymmetry	transcript_region	211	225	605100.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	213	227	135.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	213	233	1.0	-	.	
+ch.1_364	RNASeq_stranded	transcript_region	220	275	74.0	+	.	
+ch.1_364	WormBase	CDS	224	314	.	+	.	ID=CDS:B0213.6;Parent=Transcript:B0213.6.1
+ch.1_364	RNASeq_F_asymmetry	transcript_region	226	273	917756.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	228	280	209.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	275	283	1.0	-	.	
+ch.1_364	RNASeq_stranded	transcript_region	276	289	112.0	+	.	
+ch.1_364	RNASeq_splice	intron	278	464	19.0	+	.	
+ch.1_364	RNASeq_reads	transcript_region	281	314	317.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	285	306	1.0	-	.	
+ch.1_364	RNASeq_splice	intron	287	464	76.0	+	.	
+ch.1_364	RNASeq_stranded	transcript_region	290	314	172.0	+	.	
+ch.1_364	RNASeq_splice	intron	303	431	5.0	+	.	
+ch.1_364	RNASeq_splice	intron	303	478	5.0	-	.	
+ch.1_364	RNASeq_stranded	transcript_region	307	314	2.0	-	.	
+ch.1_364	RNASeq_F_asymmetry	transcript_region	315	315	111701.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	315	315	26.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	315	315	29.0	+	.	
+ch.1_364	RNASeq_splice	intron	315	382	10.0	+	.	
+ch.1_364	WormBase	intron	315	431	.	+	.	Parent=Transcript:B0213.6.1
+ch.1_364	RNASeq_splice	intron	315	431	1622640.0	+	.	
+ch.1_364	RNASeq_splice	intron	315	434	143.0	+	.	
+ch.1_364	RNASeq_splice	intron	315	443	5.0	+	.	
+ch.1_364	RNASeq_splice	intron	315	462	44.0	+	.	
+ch.1_364	RNASeq_splice	intron	315	503	5.0	+	.	
+ch.1_364	RNASeq_splice	intron	315	548	15.0	+	.	
+ch.1_364	RNASeq_stranded	transcript_region	316	331	5.0	+	.	
+ch.1_364	RNASeq_reads	transcript_region	316	431	4.0	.	.	
+ch.1_364	RNASeq_splice	intron	319	431	3.0	+	.	
+ch.1_364	RNASeq_splice	intron	319	434	1562.0	+	.	
+ch.1_364	RNASeq_splice	intron	319	464	3.0	+	.	
+ch.1_364	RNASeq_stranded	transcript_region	332	340	3.0	+	.	
+ch.1_364	RNASeq_stranded	transcript_region	341	376	1.0	+	.	
+ch.1_364	RNASeq_stranded	transcript_region	418	431	1.0	+	.	
+ch.1_364	RNASeq_stranded	transcript_region	432	474	2.0	-	.	
+ch.1_364	RNASeq_reads	transcript_region	432	560	353.0	.	.	
+ch.1_364	WormBase	CDS	432	568	.	+	.	ID=CDS:B0213.6;Parent=Transcript:B0213.6.1
+ch.1_364	RNASeq_stranded	transcript_region	432	634	98.0	+	.	
+ch.1_364	WormBase	exon	432	668	.	+	.	Parent=Transcript:B0213.6.1
+ch.1_364	RNASeq_splice	intron	465	503	70.0	+	.	
+ch.1_364	RNASeq_splice	intron	465	527	10.0	+	.	
+ch.1_364	RNASeq_splice	intron	471	512	14.0	+	.	
+ch.1_364	RNASeq_splice	intron	471	536	7.0	+	.	
+ch.1_364	RNASeq_splice	intron	471	565	3.0	+	.	
+ch.1_364	RNASeq_splice	intron	472	556	3.0	+	.	
+ch.1_364	RNASeq_splice	intron	473	526	17.0	+	.	
+ch.1_364	RNASeq_stranded	transcript_region	475	478	1.0	-	.	
+ch.1_364	RNASeq_splice	intron	476	505	8.0	+	.	
+ch.1_364	RNASeq_splice	intron	476	520	4.0	+	.	
+ch.1_364	RNASeq_stranded	transcript_region	479	480	2.0	-	.	
+ch.1_364	RNASeq_stranded	transcript_region	481	563	1.0	-	.	
+ch.1_364	RNASeq_splice	intron	482	526	25.0	+	.	
+ch.1_364	RNASeq_splice	intron	488	553	11.0	+	.	
+ch.1_364	RNASeq_splice	intron	492	548	16.0	+	.	
+ch.1_364	RNASeq_splice	intron	504	548	40.0	+	.	
+ch.1_364	RNASeq_reads	transcript_region	561	597	232.0	.	.	
+ch.1_364	WormBase	three_prime_UTR	569	668	.	+	.	Parent=Transcript:B0213.6.1
+ch.1_364	RNASeq_stranded	transcript_region	590	667	1.0	-	.	
+ch.1_364	RNASeq_reads	transcript_region	598	623	151.0	.	.	
+ch.1_364	RNASeq	transcription_end_site	624	624	.	+	.	
+ch.1_364	RNASeq_reads	transcript_region	624	635	99.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	635	649	64.0	+	.	
+ch.1_364	RNASeq_reads	transcript_region	636	640	60.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	641	650	39.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	650	656	41.0	+	.	
+ch.1_364	RNASeq_reads	transcript_region	651	661	25.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	657	663	27.0	+	.	
+ch.1_364	RNASeq_reads	transcript_region	662	666	16.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	664	667	17.0	+	.	
+ch.1_364	RNASeq_reads	transcript_region	667	668	10.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	668	669	9.0	+	.	
+ch.1_364	RNASeq_reads	transcript_region	669	669	5.0	.	.	
+ch.1_364	RNASeq_reads	transcript_region	670	675	3.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	670	676	3.0	+	.	
+ch.1_364	RNASeq	transcription_end_site	676	676	.	+	.	
+ch.1_364	RNASeq_reads	transcript_region	676	714	1.0	.	.	
+ch.1_364	RNASeq_stranded	transcript_region	677	683	1.0	+	.	

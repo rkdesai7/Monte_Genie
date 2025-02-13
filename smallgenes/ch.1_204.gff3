@@ -1,0 +1,32 @@
+ch.1_204	WormBase	five_prime_UTR	101	112	.	+	.	Parent=Transcript:F42A6.2.1
+ch.1_204	WormBase	exon	101	178	.	+	.	Parent=Transcript:F42A6.2.1
+ch.1_204	WormBase	gene	101	606	.	+	.	ID=Gene:WBGene00018324
+ch.1_204	WormBase	mRNA	101	606	.	+	.	ID=Transcript:F42A6.2.1;Parent=Gene:WBGene00018324
+ch.1_204	RNASeq_F_asymmetry	transcript_region	113	113	1351.0	.	.	
+ch.1_204	WormBase	CDS	113	178	.	+	.	ID=CDS:F42A6.2;Parent=Transcript:F42A6.2.1
+ch.1_204	RNASeq_F_asymmetry	transcript_region	114	117	2215.0	.	.	
+ch.1_204	RNASeq_reads	transcript_region	115	122	1.0	.	.	
+ch.1_204	RNASeq_F_asymmetry	transcript_region	118	120	3504.0	.	.	
+ch.1_204	RNASeq_F_asymmetry	transcript_region	121	132	6372.0	.	.	
+ch.1_204	RNASeq_reads	transcript_region	123	178	2.0	.	.	
+ch.1_204	RNASeq_F_asymmetry	transcript_region	133	155	9561.0	.	.	
+ch.1_204	RNASeq_splice	intron	179	233	18.0	+	.	
+ch.1_204	RNASeq_splice	intron	179	258	3.0	+	.	
+ch.1_204	WormBase	intron	179	330	.	+	.	Parent=Transcript:F42A6.2.1
+ch.1_204	RNASeq_splice	intron	179	330	14306.0	+	.	
+ch.1_204	RNASeq_splice	intron	287	330	10.0	+	.	
+ch.1_204	RNASeq_reads	transcript_region	331	432	3.0	.	.	
+ch.1_204	WormBase	CDS	331	570	.	+	.	ID=CDS:F42A6.2;Parent=Transcript:F42A6.2.1
+ch.1_204	WormBase	exon	331	606	.	+	.	Parent=Transcript:F42A6.2.1
+ch.1_204	RNASeq_R_asymmetry	transcript_region	370	374	15224.0	.	.	
+ch.1_204	RNASeq_R_asymmetry	transcript_region	399	417	8802.0	.	.	
+ch.1_204	RNASeq_stranded	transcript_region	415	456	1.0	+	.	
+ch.1_204	RNASeq_reads	transcript_region	433	505	1.0	.	.	
+ch.1_204	RNASeq_stranded	transcript_region	476	539	1.0	+	.	
+ch.1_204	RNASeq_R_asymmetry	transcript_region	504	561	5475.0	.	.	
+ch.1_204	RNASeq_reads	transcript_region	506	541	2.0	.	.	
+ch.1_204	RNASeq_reads	transcript_region	542	599	1.0	.	.	
+ch.1_204	RNASeq_R_asymmetry	transcript_region	562	598	3567.0	.	.	
+ch.1_204	WormBase	three_prime_UTR	571	606	.	+	.	Parent=Transcript:F42A6.2.1
+ch.1_204	RNASeq_R_asymmetry	transcript_region	599	603	2323.0	.	.	
+ch.1_204	RNASeq_R_asymmetry	transcript_region	604	605	1385.0	.	.	

@@ -1,0 +1,46 @@
+ch.3_80	WormBase	five_prime_UTR	101	172	.	+	.	Parent=Transcript:ZK353.3.1
+ch.3_80	WormBase	exon	101	217	.	+	.	Parent=Transcript:ZK353.3.1
+ch.3_80	WormBase	gene	101	840	.	+	.	ID=Gene:WBGene00022699
+ch.3_80	WormBase	mRNA	101	840	.	+	.	ID=Transcript:ZK353.3.1;Parent=Gene:WBGene00022699
+ch.3_80	RNASeq_F_asymmetry	transcript_region	123	124	288.0	.	.	
+ch.3_80	RNASeq_F_asymmetry	transcript_region	126	130	304.0	.	.	
+ch.3_80	RNASeq_F_asymmetry	transcript_region	131	139	2885.0	.	.	
+ch.3_80	RNASeq_reads	transcript_region	131	139	1.0	.	.	
+ch.3_80	RNASeq_F_asymmetry	transcript_region	140	142	554.0	.	.	
+ch.3_80	RNASeq_F_asymmetry	transcript_region	143	148	833.0	.	.	
+ch.3_80	RNASeq_F_asymmetry	transcript_region	149	151	1252.0	.	.	
+ch.3_80	RNASeq_F_asymmetry	transcript_region	152	158	2066.0	.	.	
+ch.3_80	RNASeq_reads	transcript_region	157	200	1.0	.	.	
+ch.3_80	RNASeq_F_asymmetry	transcript_region	159	183	3489.0	.	.	
+ch.3_80	WormBase	CDS	173	217	.	+	.	ID=CDS:ZK353.3;Parent=Transcript:ZK353.3.1
+ch.3_80	RNASeq_F_asymmetry	transcript_region	184	208	5244.0	.	.	
+ch.3_80	RNASeq_reads	transcript_region	201	217	2.0	.	.	
+ch.3_80	WormBase	intron	218	262	.	+	.	Parent=Transcript:ZK353.3.1
+ch.3_80	RNASeq_splice	intron	218	262	7701.0	+	.	
+ch.3_80	WormBase	CDS	263	427	.	+	.	ID=CDS:ZK353.3;Parent=Transcript:ZK353.3.1
+ch.3_80	WormBase	exon	263	427	.	+	.	Parent=Transcript:ZK353.3.1
+ch.3_80	RNASeq_reads	transcript_region	263	427	2.0	.	.	
+ch.3_80	RNASeq_stranded	transcript_region	362	391	1.0	+	.	
+ch.3_80	RNASeq_splice	intron	417	472	8.0	-	.	
+ch.3_80	WormBase	intron	428	480	.	+	.	Parent=Transcript:ZK353.3.1
+ch.3_80	RNASeq_splice	intron	428	480	7840.0	+	.	
+ch.3_80	WormBase	CDS	481	657	.	+	.	ID=CDS:ZK353.3;Parent=Transcript:ZK353.3.1
+ch.3_80	WormBase	exon	481	657	.	+	.	Parent=Transcript:ZK353.3.1
+ch.3_80	RNASeq_reads	transcript_region	481	657	2.0	.	.	
+ch.3_80	RNASeq_splice	intron	530	577	6.0	+	.	
+ch.3_80	RNASeq_stranded	transcript_region	602	609	1.0	+	.	
+ch.3_80	RNASeq_stranded	transcript_region	610	633	2.0	+	.	
+ch.3_80	RNASeq_stranded	transcript_region	634	659	1.0	+	.	
+ch.3_80	RNASeq_reads	transcript_region	658	659	1.0	.	.	
+ch.3_80	WormBase	intron	658	706	.	+	.	Parent=Transcript:ZK353.3.1
+ch.3_80	RNASeq_splice	intron	658	706	10801.0	+	.	
+ch.3_80	RNASeq_splice	intron	658	748	4.0	+	.	
+ch.3_80	RNASeq_splice	intron	662	706	3.0	+	.	
+ch.3_80	RNASeq_reads	transcript_region	707	772	2.0	.	.	
+ch.3_80	WormBase	CDS	707	814	.	+	.	ID=CDS:ZK353.3;Parent=Transcript:ZK353.3.1
+ch.3_80	WormBase	exon	707	840	.	+	.	Parent=Transcript:ZK353.3.1
+ch.3_80	RNASeq_R_asymmetry	transcript_region	743	772	8606.0	.	.	
+ch.3_80	RNASeq_reads	transcript_region	773	824	1.0	.	.	
+ch.3_80	RNASeq_R_asymmetry	transcript_region	788	788	5009.0	.	.	
+ch.3_80	RNASeq_R_asymmetry	transcript_region	790	804	5007.0	.	.	
+ch.3_80	WormBase	three_prime_UTR	815	840	.	+	.	Parent=Transcript:ZK353.3.1

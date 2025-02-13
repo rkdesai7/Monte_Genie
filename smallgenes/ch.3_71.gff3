@@ -1,0 +1,55 @@
+ch.3_71	RNASeq_F_asymmetry	transcript_region	738	738	1515.0	.	.	
+ch.3_71	WormBase	three_prime_UTR	687	738	.	+	.	Parent=Transcript:BE10.5.1
+ch.3_71	WormBase	exon	609	738	.	+	.	Parent=Transcript:BE10.5.1
+ch.3_71	WormBase	gene	101	738	.	+	.	ID=Gene:WBGene00044127
+ch.3_71	WormBase	mRNA	101	738	.	+	.	ID=Transcript:BE10.5.1;Parent=Gene:WBGene00044127
+ch.3_71	RNASeq_F_asymmetry	transcript_region	735	736	1665.0	.	.	
+ch.3_71	RNASeq_F_asymmetry	transcript_region	727	733	1981.0	.	.	
+ch.3_71	RNASeq_reads	transcript_region	694	731	1.0	.	.	
+ch.3_71	RNASeq_F_asymmetry	transcript_region	712	726	2982.0	.	.	
+ch.3_71	RNASeq_stranded	transcript_region	677	722	1.0	+	.	
+ch.3_71	RNASeq_F_asymmetry	transcript_region	707	711	4481.0	.	.	
+ch.3_71	RNASeq_reads	transcript_region	655	693	2.0	.	.	
+ch.3_71	RNASeq_F_asymmetry	transcript_region	674	688	6914.0	.	.	
+ch.3_71	WormBase	CDS	609	686	.	+	.	ID=CDS:BE10.5;Parent=Transcript:BE10.5.1
+ch.3_71	RNASeq_stranded	transcript_region	622	676	2.0	+	.	
+ch.3_71	RNASeq_F_asymmetry	transcript_region	654	672	9638.0	.	.	
+ch.3_71	RNASeq_reads	transcript_region	609	654	4.0	.	.	
+ch.3_71	RNASeq_F_asymmetry	transcript_region	640	653	14595.0	.	.	
+ch.3_71	RNASeq_stranded	transcript_region	609	621	1.0	+	.	
+ch.3_71	RNASeq_splice	intron	469	608	3.0	+	.	
+ch.3_71	WormBase	intron	465	608	.	+	.	Parent=Transcript:BE10.5.1
+ch.3_71	RNASeq_splice	intron	465	608	20752.0	+	.	
+ch.3_71	WormBase	CDS	436	464	.	+	.	ID=CDS:BE10.5;Parent=Transcript:BE10.5.1
+ch.3_71	WormBase	exon	436	464	.	+	.	Parent=Transcript:BE10.5.1
+ch.3_71	RNASeq_reads	transcript_region	436	464	4.0	.	.	
+ch.3_71	RNASeq_stranded	transcript_region	436	464	1.0	+	.	
+ch.3_71	RNASeq_splice	intron	385	438	5.0	+	.	
+ch.3_71	WormBase	intron	385	435	.	+	.	Parent=Transcript:BE10.5.1
+ch.3_71	RNASeq_splice	intron	385	435	22118.0	+	.	
+ch.3_71	RNASeq_stranded	transcript_region	219	384	1.0	+	.	
+ch.3_71	WormBase	CDS	210	384	.	+	.	ID=CDS:BE10.5;Parent=Transcript:BE10.5.1
+ch.3_71	WormBase	exon	210	384	.	+	.	Parent=Transcript:BE10.5.1
+ch.3_71	RNASeq_reads	transcript_region	210	384	5.0	.	.	
+ch.3_71	RNASeq_stranded	transcript_region	216	218	2.0	+	.	
+ch.3_71	RNASeq_stranded	transcript_region	210	215	1.0	+	.	
+ch.3_71	RNASeq_splice	intron	148	213	6.0	+	.	
+ch.3_71	RNASeq_reads	transcript_region	209	209	1.0	.	.	
+ch.3_71	WormBase	intron	144	209	.	+	.	Parent=Transcript:BE10.5.1
+ch.3_71	RNASeq_splice	intron	144	209	15971.0	+	.	
+ch.3_71	RNASeq_splice	intron	139	209	19.0	+	.	
+ch.3_71	RNASeq_stranded	transcript_region	136	143	1.0	+	.	
+ch.3_71	WormBase	CDS	111	143	.	+	.	ID=CDS:BE10.5;Parent=Transcript:BE10.5.1
+ch.3_71	WormBase	exon	101	143	.	+	.	Parent=Transcript:BE10.5.1
+ch.3_71	RNASeq_reads	transcript_region	82	143	3.0	.	.	
+ch.3_71	RNASeq_R_asymmetry	transcript_region	138	138	13895.0	.	.	
+ch.3_71	RNASeq_R_asymmetry	transcript_region	89	136	14006.0	.	.	
+ch.3_71	RNASeq_stranded	transcript_region	118	135	2.0	+	.	
+ch.3_71	RNASeq_stranded	transcript_region	68	117	1.0	+	.	
+ch.3_71	WormBase	five_prime_UTR	101	110	.	+	.	Parent=Transcript:BE10.5.1
+ch.3_71	RNASeq_R_asymmetry	transcript_region	80	88	8980.0	.	.	
+ch.3_71	RNASeq_reads	transcript_region	66	81	1.0	.	.	
+ch.3_71	RNASeq_R_asymmetry	transcript_region	73	79	5914.0	.	.	
+ch.3_71	RNASeq_R_asymmetry	transcript_region	67	72	3636.0	.	.	
+ch.3_71	RNASeq_R_asymmetry	transcript_region	66	66	2000.0	.	.	
+ch.3_71	RNASeq_R_asymmetry	transcript_region	58	63	1840.0	.	.	

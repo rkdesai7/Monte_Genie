@@ -1,0 +1,63 @@
+ch.3_66	RNASeq_stranded	transcript_region	916	962	1.0	-	.	
+ch.3_66	RNASeq_splice	intron	766	905	14.0	+	.	
+ch.3_66	RNASeq_reads	transcript_region	847	891	1.0	.	.	
+ch.3_66	WormBase	three_prime_UTR	817	881	.	-	.	Parent=Transcript:F28A12.1.1
+ch.3_66	WormBase	three_prime_UTR	759	871	.	+	.	Parent=Transcript:F28A12.3.1
+ch.3_66	WormBase	exon	651	871	.	+	.	Parent=Transcript:F28A12.3.1
+ch.3_66	WormBase	gene	101	871	.	+	.	ID=Gene:WBGene00017880
+ch.3_66	WormBase	mRNA	101	871	.	+	.	ID=Transcript:F28A12.3.1;Parent=Gene:WBGene00017880
+ch.3_66	RNASeq_stranded	transcript_region	736	850	1.0	+	.	
+ch.3_66	RNASeq_reads	transcript_region	808	846	2.0	.	.	
+ch.3_66	RNASeq_F_asymmetry	transcript_region	821	833	8276.0	.	.	
+ch.3_66	RNASeq_F_asymmetry	transcript_region	796	820	12444.0	.	.	
+ch.3_66	RNASeq_reads	transcript_region	724	807	4.0	.	.	
+ch.3_66	RNASeq	transcription_end_site	797	797	.	-	.	
+ch.3_66	RNASeq_F_asymmetry	transcript_region	773	795	19079.0	.	.	
+ch.3_66	WormBase	CDS	651	758	.	+	.	ID=CDS:F28A12.3;Parent=Transcript:F28A12.3.1
+ch.3_66	RNASeq_stranded	transcript_region	691	735	2.0	+	.	
+ch.3_66	RNASeq_reads	transcript_region	651	723	7.0	.	.	
+ch.3_66	RNASeq_stranded	transcript_region	666	690	1.0	+	.	
+ch.3_66	RNASeq_stranded	transcript_region	665	665	2.0	-	.	
+ch.3_66	RNASeq_stranded	transcript_region	664	664	1.0	-	.	
+ch.3_66	RNASeq_stranded	transcript_region	660	663	2.0	+	.	
+ch.3_66	RNASeq_stranded	transcript_region	651	659	1.0	+	.	
+ch.3_66	RNASeq_splice	intron	606	653	15.0	+	.	
+ch.3_66	WormBase	intron	602	650	.	+	.	Parent=Transcript:F28A12.3.1
+ch.3_66	RNASeq_splice	intron	602	650	39210.0	+	.	
+ch.3_66	RNASeq_F_asymmetry	transcript_region	602	602	5608.0	.	.	
+ch.3_66	RNASeq_reads	transcript_region	602	602	1.0	.	.	
+ch.3_66	RNASeq_stranded	transcript_region	590	601	1.0	+	.	
+ch.3_66	WormBase	CDS	509	601	.	+	.	ID=CDS:F28A12.3;Parent=Transcript:F28A12.3.1
+ch.3_66	WormBase	exon	509	601	.	+	.	Parent=Transcript:F28A12.3.1
+ch.3_66	RNASeq_reads	transcript_region	509	601	8.0	.	.	
+ch.3_66	RNASeq_stranded	transcript_region	587	589	2.0	+	.	
+ch.3_66	RNASeq_stranded	transcript_region	538	586	1.0	+	.	
+ch.3_66	RNASeq_stranded	transcript_region	509	537	2.0	+	.	
+ch.3_66	RNASeq_reads	transcript_region	507	508	1.0	.	.	
+ch.3_66	RNASeq_stranded	transcript_region	507	508	1.0	+	.	
+ch.3_66	WormBase	intron	455	508	.	+	.	Parent=Transcript:F28A12.3.1
+ch.3_66	RNASeq_splice	intron	455	508	40085.0	+	.	
+ch.3_66	RNASeq_reads	transcript_region	455	455	1.0	.	.	
+ch.3_66	WormBase	CDS	399	454	.	+	.	ID=CDS:F28A12.3;Parent=Transcript:F28A12.3.1
+ch.3_66	WormBase	exon	399	454	.	+	.	Parent=Transcript:F28A12.3.1
+ch.3_66	RNASeq_reads	transcript_region	399	454	8.0	.	.	
+ch.3_66	RNASeq_stranded	transcript_region	399	454	1.0	+	.	
+ch.3_66	RNASeq_splice	intron	349	400	5.0	-	.	
+ch.3_66	WormBase	intron	349	398	.	+	.	Parent=Transcript:F28A12.3.1
+ch.3_66	RNASeq_splice	intron	349	398	40756.0	+	.	
+ch.3_66	RNASeq_stranded	transcript_region	316	348	1.0	+	.	
+ch.3_66	RNASeq_reads	transcript_region	161	348	8.0	.	.	
+ch.3_66	WormBase	CDS	123	348	.	+	.	ID=CDS:F28A12.3;Parent=Transcript:F28A12.3.1
+ch.3_66	WormBase	exon	101	348	.	+	.	Parent=Transcript:F28A12.3.1
+ch.3_66	RNASeq_stranded	transcript_region	264	315	2.0	+	.	
+ch.3_66	RNASeq_stranded	transcript_region	252	263	1.0	+	.	
+ch.3_66	RNASeq_stranded	transcript_region	244	251	2.0	+	.	
+ch.3_66	RNASeq_stranded	transcript_region	177	243	4.0	+	.	
+ch.3_66	RNASeq_stranded	transcript_region	153	176	2.0	+	.	
+ch.3_66	RNASeq_reads	transcript_region	130	160	5.0	.	.	
+ch.3_66	RNASeq_stranded	transcript_region	76	152	1.0	+	.	
+ch.3_66	WormBase	five_prime_UTR	101	122	.	+	.	Parent=Transcript:F28A12.3.1
+ch.3_66	RNASeq_stranded	transcript_region	60	60	1.0	-	.	
+ch.3_66	RNASeq_stranded	transcript_region	51	57	1.0	+	.	
+ch.3_66	RNASeq	transcription_end_site	12	12	.	-	.	
+ch.3_66	RNASeq	transcription_end_site	12	12	.	-	.	

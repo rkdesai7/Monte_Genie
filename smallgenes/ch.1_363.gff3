@@ -1,0 +1,29 @@
+ch.1_363	WormBase	five_prime_UTR	101	115	.	+	.	Parent=Transcript:F47E1.1.1
+ch.1_363	WormBase	exon	101	361	.	+	.	Parent=Transcript:F47E1.1.1
+ch.1_363	WormBase	gene	101	648	.	+	.	ID=Gene:WBGene00018565
+ch.1_363	WormBase	mRNA	101	648	.	+	.	ID=Transcript:F47E1.1.1;Parent=Gene:WBGene00018565
+ch.1_363	RNASeq_F_asymmetry	transcript_region	108	112	1551.0	.	.	
+ch.1_363	RNASeq_F_asymmetry	transcript_region	113	115	2776.0	.	.	
+ch.1_363	RNASeq_reads	transcript_region	113	128	1.0	.	.	
+ch.1_363	RNASeq_F_asymmetry	transcript_region	116	127	4472.0	.	.	
+ch.1_363	WormBase	CDS	116	361	.	+	.	ID=CDS:F47E1.1;Parent=Transcript:F47E1.1.1
+ch.1_363	RNASeq_F_asymmetry	transcript_region	128	175	6720.0	.	.	
+ch.1_363	RNASeq_reads	transcript_region	129	361	2.0	.	.	
+ch.1_363	RNASeq_F_asymmetry	transcript_region	177	177	8075.0	.	.	
+ch.1_363	RNASeq_stranded	transcript_region	203	282	1.0	+	.	
+ch.1_363	RNASeq_stranded	transcript_region	341	360	1.0	+	.	
+ch.1_363	WormBase	intron	362	416	.	+	.	Parent=Transcript:F47E1.1.1
+ch.1_363	RNASeq_splice	intron	362	416	10337.0	+	.	
+ch.1_363	RNASeq_splice	intron	362	426	16.0	+	.	
+ch.1_363	WormBase	CDS	417	530	.	+	.	ID=CDS:F47E1.1;Parent=Transcript:F47E1.1.1
+ch.1_363	RNASeq_reads	transcript_region	417	593	2.0	.	.	
+ch.1_363	WormBase	exon	417	648	.	+	.	Parent=Transcript:F47E1.1.1
+ch.1_363	RNASeq_stranded	transcript_region	419	439	1.0	+	.	
+ch.1_363	RNASeq_stranded	transcript_region	440	533	2.0	+	.	
+ch.1_363	WormBase	three_prime_UTR	531	648	.	+	.	Parent=Transcript:F47E1.1.1
+ch.1_363	RNASeq_stranded	transcript_region	534	593	4.0	+	.	
+ch.1_363	RNASeq	transcription_end_site	570	570	.	+	.	
+ch.1_363	RNASeq_stranded	transcript_region	594	621	2.0	+	.	
+ch.1_363	RNASeq_reads	transcript_region	594	636	1.0	.	.	
+ch.1_363	RNASeq_stranded	transcript_region	622	636	1.0	+	.	
+ch.1_363	RNASeq	transcription_end_site	632	632	.	+	.	
