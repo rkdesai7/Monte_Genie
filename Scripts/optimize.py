@@ -12,6 +12,7 @@ def get_fitness(wormie):
 	os.system(f"python3 fitness.py {arg.gene} --u1num {u1num} --u5num {u5num} --z {rez} > fit.py")
 	with open('fit.py', 'r') as file:
 		number_str = file.readline().strip()
+		print(number_str)
 		fitness = int(number_str)
 		fitness = float(fitness)
 	print(fitness)
