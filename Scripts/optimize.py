@@ -11,10 +11,10 @@ def get_fitness(wormie):
 	rez = wormie['genotype']['--rez']
 	system.os(f"python3 fitness.py {arg.gene} --u1num {u1num} --u5num {u5num} --z {rez} > fit.py")
 	with open('fit.py', 'r') as file:
-    	number_str = file.readline().strip()
-    	fitness = float(number_str)
-    print(fitness)
-    return fitness
+		number_str = file.readline().strip()
+		fitness = float(number_str)
+	print(fitness)
+	return fitness
 def random_wormie():
 	wormie = {
 				'genotype':{
