@@ -9,9 +9,12 @@ def get_fitness(wormie):
 	u5num = wormie['genotype']['--u5num']
 	u1num = wormie['genotype']['--u1num']
 	rez = wormie['genotype']['--rez']
-	result=subprocess.run(['python3', 'fitness.py', f'{arg.gene}', '--u1num', f'{u1num}', '--u5num', f'{u5num}', '--z', f'{rez}'], capture_output=True, text=True)
-	return result.stdout
-
+    system.os(f"python3 fitness.py {arg.gene} --u1num {u1num} --u5num {u5num} --z {rez} > fit.py")
+    with open('fit.py', 'r') as file:
+        number_str = file.readline().strip()
+        fitness = int(number_str)
+	print(fitness)
+  return fitness
 def random_wormie():
 	wormie = {
 				'genotype':{
@@ -77,7 +80,8 @@ for g in range(arg.gen):
 #Final report
 pop = sorted(pop, key=lambda item: item['fitness'])
 best = pop[0]
-print(best["fitness"], end='\t')
+print(best)
+print("Best fitness:",best["fitness"], end='\t')
 for prop, val in best['genotype'].items():
 	print(f'{val:.4f}', end='\t')
 print(arg.name)
