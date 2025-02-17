@@ -15,7 +15,7 @@ def collect_data(real_path = f"{arg.gene}.gff3"):
 	#with open("args.txt", "w") as file:
 		#for i in range(1, 10001):
 			#f.write(f"../smallgenes/{arg.gene}.fa {arg.u1num} {arg.u5num} {arg.z}\n")
-	command = f"seq 10000 | parallel -j 5 --results results_dir python3 main.py ../smallgenes/{arg.gene}.fa --u1num {arg.u1num} --u5num {arg.u5num} --z {arg.z}")
+	command = f"seq 10000 | parallel -j 5 --results results_dir python3 main.py ../smallgenes/{arg.gene}.fa --u1num {arg.u1num} --u5num {arg.u5num} --z {arg.z}"
     os.system(command)
 	os.system("cat results_dir/*/stdout > outs.txt")
 	os.getpid()
