@@ -16,7 +16,7 @@ def collect_data(real_path = f"{arg.gene}.gff3"):
 		#for i in range(1, 10001):
 			#f.write(f"../smallgenes/{arg.gene}.fa {arg.u1num} {arg.u5num} {arg.z}\n")
 	num_runs = 10000
-	command = f"parallel -j 10 python3 main.py ../smallgenes/{arg.gene}.fa --u1num {arg.u1num} --u5num {arg.u5num} --z {arg.z} ::: $(seq {num_runs}) >> outs.txt"
+	command = f"seq 10000 | parallel -j 10 python3 main.py ../smallgenes/{arg.gene}.fa --run_num {{}} --u1num {arg.u1num} --u5num {arg.u5num} --z {arg.z} >> outs.txt"
 	os.system(command)
 	#Predicted data
 	pred_path = "outs.txt"
