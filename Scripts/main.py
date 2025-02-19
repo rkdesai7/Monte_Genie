@@ -9,7 +9,7 @@ import pandas as pd
 
 parser = argparse.ArgumentParser(description="Return all possible isoforms based on a randomization algorithm")
 parser.add_argument("sequences", type=str, help="Path to fasta files of sequences you want to decode")
-parser.add_argument("--run_num", type=int, default=1, help"Which run we are on for parallelization")
+parser.add_argument("--run_num", type=int, default=1, help="Which run we are on for parallelization")
 parser.add_argument("--u1num", type=int, default = 5, help="Maximum amount of u1's that can bind")
 parser.add_argument("--u5num", type=int, default=5, help="Maximum amount of u5's that can bind")
 parser.add_argument("--z", type=int, default=10, help="Iteration parameter")
