@@ -3,7 +3,7 @@
 def collect_real_data(real_path):
 	"""Get real data from .gff file"""
 	real = []
-	with open(f"../smallgenes/{real_path}", "r") as file:
+	with open(real_path, "r") as file:
 		for line in file:
 			if "splice" in line:
 				vals = line.split()
