@@ -1,5 +1,6 @@
 #main script
-from genie import sequence, snRNP, u1, u5
+from optimized_genie import sequence, snRNP, u1, u5
+from fitness import calculate_fitness
 import gzip
 import sys
 import argparse
@@ -9,7 +10,6 @@ import pandas as pd
 
 parser = argparse.ArgumentParser(description="Return all possible isoforms based on a randomization algorithm")
 parser.add_argument("sequences", type=str, help="Path to fasta files of sequences you want to decode")
-parser.add_argument("--run_num", type=int, default=1, help="Which run we are on for parallelization")
 parser.add_argument("--u1num", type=int, default = 5, help="Maximum amount of u1's that can bind")
 parser.add_argument("--u5num", type=int, default=5, help="Maximum amount of u5's that can bind")
 parser.add_argument("--z", type=int, default=10, help="Iteration parameter")
@@ -82,41 +82,51 @@ def display_intron(transcript):
 		else:
 			introns.append([prev+1, value-1])
 			prev = value
-	for i in introns:
-		print(i[0], i[1])
+	#for i in introns:
+		#print(i[0], i[1])
 		
 	return introns
 #Create Objects
 def main(u1arg, u5arg, acc_arg, don_arg, seq_arg, z_arg):
-
-	#Initialize
-	u1s = []
-	u5s = []
-	for i in range(u1arg):
-		u1s.append(u1(don_arg))
-	for i in range(u5arg):
-		u5s.append(u5(acc_arg))
-
+	
 	test_sequences = readfasta(seq_arg)
 	curr_sequence = next(test_sequences)
 	curr_sequence = curr_sequence[1]
 	seq_name = curr_sequence[0]
-	seq = sequence(curr_sequence, seq_name, z_arg)
 	
-	#Run
-	i = 1
-	final = 0
-	while final < 1000:
-		seq.one_iteration(i)
-		for u in u1s: u.one_iteration(seq)
-		for u in u5s: u.one_iteration(seq)
-		i += 1
-		if seq.curr == len(curr_sequence):
-			final += 1
-			
+	#Run simulation
+	introns = []
+	for j in range(1000):
 		
-	#display
-	introns = display_intron(seq.transcript)
+		#Initialize
+		u1s = []
+		u5s = []
+		for i in range(u1arg):
+			u1s.append(u1(don_arg))
+		for i in range(u5arg):
+			u5s.append(u5(acc_arg))
+		seq = sequence(curr_sequence, seq_name, z_arg)
+		
+		#Run
+		i = 1
+		final = 0
+		while final < 50:
+			seq.one_iteration(i)
+			for u in u1s: u.one_iteration(seq)
+			for u in u5s: u.one_iteration(seq)
+			i += 1
+			if seq.curr == len(curr_sequence):
+				final += 1
+		
+		#display
+		intron = display_intron(seq.transcript)
+		introns.extend(intron)
+	
+	#Calculate fitness
+	real_path = seq_arg.replace(".fa", ".gff3")
+	fit = calculate_fitness(introns, real_path)
+	print(fit)
+	
 
 if __name__ == "__main__":
 	main(arg.u1num, arg.u5num, arg.acceptor_pwm, arg.donor_pwm, arg.sequences, arg.z) 

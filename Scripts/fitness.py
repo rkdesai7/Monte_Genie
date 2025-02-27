@@ -1,41 +1,26 @@
-import os
-import argparse
-import subprocess
+#Calculates fitness
 
-parser = argparse.ArgumentParser(description="Find distribution of predicted isoforms and calculate accuracy")
-parser.add_argument("gene", type=str, help="Name of gene to run on, ie.'ch.1_0'")
-parser.add_argument("--u1num", type=int, default = 5, help="Maximum amount of u1's that can bind")
-parser.add_argument("--u5num", type=int, default=5, help="Maximum amount of u5's that can bind")
-parser.add_argument("--z", type=int, default=10, help="Iteration parameter")
-arg = parser.parse_args()
- 
-def collect_data(real_path = f"{arg.gene}.gff3"):
-	"""Run 10k samples and get data from gff file, output file"""
-	
-	#with open("args.txt", "w") as file:
-		#for i in range(1, 10001):
-			#f.write(f"../smallgenes/{arg.gene}.fa {arg.u1num} {arg.u5num} {arg.z}\n")
-	num_runs = 10000
-	command = f"seq 10000 | parallel -j 10 python3 main.py ../smallgenes/{arg.gene}.fa --run_num {{}} --u1num {arg.u1num} --u5num {arg.u5num} --z {arg.z} >> outs.txt"
-	os.system(command)
-	#Predicted data
-	pred_path = "outs.txt"
-	line_counts = {}
-	with open(pred_path, "r") as file:
-		for line in file:
-			line = line.strip().replace('"', '')
-			start, end = map(int, line.split())
-			line_counts[(start, end)] = line_counts.get((start, end), 0) + 1
-	pred = [(start, end, count) for (start, end), count in line_counts.items()]
-	
-	#Real data
+def collect_real_data(real_path):
+	"""Get real data from .gff file"""
 	real = []
 	with open(f"../smallgenes/{real_path}", "r") as file:
 		for line in file:
 			if "splice" in line:
 				vals = line.split()
 				real.append((float(vals[3]), float(vals[4]), float(vals[5])))
-	return real, pred
+	return real
+	
+def collect_pred_data(introns):
+	"""Gets frequencies from introns start and stop list"""
+	freq_dict = {}
+	for intron in introns:
+		pair = tuple(intron)
+		if pair in freq_dict:
+			freq_dict[pair] += 1
+		else:
+			freq_dict[pair] = 1
+	result = [(beg, end, count) for (beg, end), count in freq_dict.items()]
+	return result
 	
 def count2prob(introns):
 	"""Get probabilities from counts"""
@@ -57,10 +42,12 @@ def calc_distance(rp, pp):
 		else:
 			fitness += rp[coor]
 	return fitness
-				
-	
-real, pred = collect_data()
-rp = count2prob(real)
-pp = count2prob(pred)
-fitness = calc_distance(rp, pp)
-print(fitness)
+
+def calculate_fitness(pred_introns, real_data_path):
+	"""Calculate fitness of model given outputs"""
+	real = collect_real_data(real_data_path)
+	pred = collect_pred_data(pred_introns)
+	rp = count2prob(real)
+	pp = count2prob(pred)
+	fitness = calc_distance(rp, pp)
+	return fitness

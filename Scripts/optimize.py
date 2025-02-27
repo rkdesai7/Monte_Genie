@@ -9,12 +9,17 @@ def get_fitness(wormie):
 	u5num = wormie['genotype']['--u5num']
 	u1num = wormie['genotype']['--u1num']
 	rez = wormie['genotype']['--rez']
-	os.system(f"python3 fitness.py {arg.gene} --u1num {u1num} --u5num {u5num} --z {rez} > fit.py")
-	with open('fit.py', 'r') as file:
-		number_str = file.readline().strip()
-		fitness = float(number_str)
-	print(fitness)
-	return fitness
+	command = f'parallel -j 20 "python3 main.py {{}} --u1num {u1num} --u5num {u5num} --z {rez} >> output.txt" :::: genes.txt'
+	os.system(command)
+	with open('output.txt', 'r') as file:
+		fits = []
+		for line in file:
+			number_str = file.readline().strip()
+			fitness = float(numer_str)
+			fits.append(fitness)
+	avg_fit = sum(fits)/len(fits)
+	print(avg_fit)
+	return avg_fit
 def random_wormie():
 	wormie = {
 				'genotype':{

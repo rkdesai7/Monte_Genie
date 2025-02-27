@@ -38,9 +38,11 @@ class sequence:
 	def seq_available(self, size):
 		""" Checks which regions of the sequence are available for binding based on the size"""
 		available_starts = []
-		if len(self.transcript) < size:
+		if len(self.transcript) < (size + 100):
 			return available_starts
 		for i in range(len(self.bindings)):
+			if i < 100:
+				continue
 			end = i + size
 			full = self.bindings[i:end]
 			if len(full) < size:
