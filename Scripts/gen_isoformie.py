@@ -14,6 +14,7 @@ parser.add_argument("--u5num", type=int, default=5, help="Maximum amount of u5's
 parser.add_argument("--z", type=int, default=10, help="Iteration parameter")
 parser.add_argument("--acceptor_pwm", type=str, default = "models/acc.pwm", help="Path to a .pwm file containing acceptor site probabilities")
 parser.add_argument("--donor_pwm", type=str, default = "models/don.pwm", help="Path to a .pwm file containing donor site probabilities")
+parser.add_argument("--runs", type=int, default=1000, help="How many isoforms you want to generate (how many times you want to run the simulation")
 
 arg = parser.parse_args()
 def readfasta(filename):
@@ -85,8 +86,12 @@ def display_intron(transcript):
 		#print(i[0], i[1])
 		
 	return introns
+	
+def write_isos(iter, introns):
+	"""Writes the different isoforms for each iteration in a .fx format"""
+	return
 #Create Objects
-def main(u1arg, u5arg, acc_arg, don_arg, seq_arg, z_arg):
+def main(u1arg, u5arg, acc_arg, don_arg, seq_arg, z_arg, runs_arg):
 	
 	test_sequences = readfasta(seq_arg)
 	curr_sequence = next(test_sequences)
@@ -95,7 +100,8 @@ def main(u1arg, u5arg, acc_arg, don_arg, seq_arg, z_arg):
 	
 	#Run simulation
 	introns = []
-	for j in range(1000):
+	isoforms = []
+	for j in range(runs_arg):
 		
 		#Initialize
 		u1s = []
@@ -119,6 +125,7 @@ def main(u1arg, u5arg, acc_arg, don_arg, seq_arg, z_arg):
 		
 		#display
 		intron = display_intron(seq.transcript)
+		isoforms.append(intron)
 		introns.extend(intron)
 	
 	#Calculate fitness
@@ -128,7 +135,7 @@ def main(u1arg, u5arg, acc_arg, don_arg, seq_arg, z_arg):
 	
 
 if __name__ == "__main__":
-	main(arg.u1num, arg.u5num, arg.acceptor_pwm, arg.donor_pwm, arg.sequences, arg.z) 
+	main(arg.u1num, arg.u5num, arg.acceptor_pwm, arg.donor_pwm, arg.sequences, arg.z, arg.runs) 
 		
 	
 
