@@ -6,7 +6,6 @@ import sys
 import argparse
 import numpy as np
 import csv
-import pandas as pd
 
 parser = argparse.ArgumentParser(description="Return all possible isoforms based on a randomization algorithm")
 parser.add_argument("sequences", type=str, help="Path to fasta files of sequences you want to decode")
