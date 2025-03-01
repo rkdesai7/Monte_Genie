@@ -1,5 +1,5 @@
 #main script
-from optimized_genie import sequence, snRNP, u1, u5
+from genie2 import sequence, snRNP, u1, u5
 from fitness import calculate_fitness
 import gzip
 import sys
