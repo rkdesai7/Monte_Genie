@@ -63,9 +63,10 @@ class sequence:
             if self.bindings[i] == 0:
                 region_free = True
                 for j in range(i, i + size):
-                    if self.bindings[j] != 0:
-                        region_free = False
-                        break
+                	if j < len(self.bindings):
+                		if self.bindings[j] != 0:
+                			region_free = False
+                			break
                 if region_free:
                     available_starts.append(i)
         
@@ -155,8 +156,27 @@ class sequence:
         begin = cut_items[0][1]
         end = cut_items[-1][1]
         cut_sequence = ''.join(x[0] for x in cut_items)
-        
         self.splicing_events.append((cut_sequence, begin, end, u1_id, u5_id, self.curr))
+        
+        # Enforce min exon length of 25 by undbinding snRNPs within that range, and preventing other snRNPs from binding to that range
+        before = list(range(u1_start-25, u1_start))
+        after = list(range(u5_start+6, u5_start+6+26))
+        for snrp_id, snrp in list(self.bound_u1s.items()):
+        	if (snrp.bind_start in before) or (snrp.bind_start in after):
+        		snrp.bind_start = None
+        		snrp.bindtime = 0
+        		snrp.prob = None
+        		self.u1_bound_ids.remove(snrp_id)      
+        for snrp_id, snrp in list(self.bound_u5s.items()):
+            if (snrp.bind_start in before) or (snrp.bind_start in after):
+            	snrp.bind_start = None
+            	snrp.bindtime = 0
+            	snrp.prob = None
+            	self.u5_bound_ids.remove(snrp_id)    	        
+        self.bindings[u1_start-25:u1_start] = ['no_bind']*(25)
+        self.bindings[u5_start+6:u5_start+6+26] = ['no_bind']*(25)
+     
+       	# Cut out chosen intron
         del self.bindings[u1_start:u5_start+6]
         del self.transcript[u1_start:u5_start+6]
         
@@ -168,6 +188,10 @@ class sequence:
                 snrp.bindtime = 0
                 snrp.prob = None
                 self.u1_bound_ids.remove(snrp_id)
+            if snrp.bind_start is not None and snrp.bind_start > u5_start + 6:
+            	#Adjust position to account for deleted region
+            	snrp.bind_start -= (u5_start + 6 - u1_start)
+
                 
         for snrp_id, snrp in list(self.bound_u5s.items()):
             if snrp.bind_start is not None and u1_start <= snrp.bind_start <= u5_start + 6:
@@ -176,14 +200,6 @@ class sequence:
                 snrp.bindtime = 0
                 snrp.prob = None
                 self.u5_bound_ids.remove(snrp_id)
-                
-        # Update bind_start for snRNPs after the splice point
-        for snrp_id, snrp in list(self.bound_u1s.items()):
-            if snrp.bind_start is not None and snrp.bind_start > u5_start + 6:
-                # Adjust the position to account for deleted region
-                snrp.bind_start -= (u5_start + 6 - u1_start)
-                
-        for snrp_id, snrp in list(self.bound_u5s.items()):
             if snrp.bind_start is not None and snrp.bind_start > u5_start + 6:
                 # Adjust the position to account for deleted region
                 snrp.bind_start -= (u5_start + 6 - u1_start)
