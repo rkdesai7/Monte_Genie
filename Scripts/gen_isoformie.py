@@ -96,7 +96,7 @@ seq_name = curr_sequence[0]
 #Run simulation
 introns = []
 isoforms = []
-for j in range(args.runs):
+for j in range(arg.runs):
 	
 	#Initialize
 	u1s = []
