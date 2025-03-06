@@ -8,9 +8,10 @@ def get_fitness(wormie):
 	u5num = wormie['genotype']['--u5num']
 	u1num = wormie['genotype']['--u1num']
 	rez = wormie['genotype']['--rez']
-	command = f'parallel -j 20 "python3 gen_isoformie.py {{}} --u1num {u1num} --u5num {u5num} --z {rez} >> output.txt" :::: genes.txt'
+	filename = 'output.txt'
+	command = f'parallel -j 20 "python3 gen_isoformie.py {{}} --u1num {u1num} --u5num {u5num} --z {rez} >> {filename}" :::: genes.txt'
 	os.system(command)
-	with open('output.txt', 'r') as file:
+	with open(filename, 'r') as file:
 		fits = []
 		for line in file:
 			number_str = file.readline().strip()
