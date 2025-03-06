@@ -130,7 +130,7 @@ print(fit)
 
 #write output to a file
 out_name = os.path.splitext(os.path.basename(arg.sequences))[0]
-with open(f"{out_name}_isos.txt", 'w') as f:
+with open(f"fitness_scores/{out_name}.txt", 'w') as f:
 	f.write(str(fit))
 	
 

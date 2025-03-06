@@ -17,7 +17,7 @@ def get_fitness(wormie):
 			number_str = file.readline().strip()
 			fitness = float(numer_str)
 			fits.append(fitness)
-            print(fitness)
+			print(fitness)
 	avg_fit = sum(fits)/len(fits)
 	print(avg_fit)
 	return avg_fit
