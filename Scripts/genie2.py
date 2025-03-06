@@ -60,15 +60,16 @@ class sequence:
         # Use a sliding window approach starting from the specified index
         for i in range(100, transcript_len - size + 1):
             # Check if binding site is available (all positions are 0)
-            if self.bindings[i] == 0:
-                region_free = True
-                for j in range(i, i + size):
-                	if j < len(self.bindings):
-                		if self.bindings[j] != 0:
-                			region_free = False
-                			break
-                if region_free:
-                    available_starts.append(i)
+            if i < len(self.bindings):
+            	if self.bindings[i] == 0:
+                	region_free = True
+                	for j in range(i, i + size):
+                		if j < len(self.bindings):
+                			if self.bindings[j] != 0:
+                				region_free = False
+                				break
+                	if region_free:
+                   		available_starts.append(i)
         
         return available_starts
     
