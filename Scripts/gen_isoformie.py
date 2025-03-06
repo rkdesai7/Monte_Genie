@@ -6,6 +6,7 @@ import sys
 import argparse
 import numpy as np
 import csv
+import os
 
 parser = argparse.ArgumentParser(description="Return all possible isoforms based on a randomization algorithm")
 parser.add_argument("sequences", type=str, help="Path to fasta files of sequences you want to decode")
@@ -87,55 +88,53 @@ def display_intron(transcript):
 		
 	return introns
 	
-def write_isos(iter, introns):
-	"""Writes the different isoforms for each iteration in a .fx format"""
-	return
-#Create Objects
-def main(u1arg, u5arg, acc_arg, don_arg, seq_arg, z_arg, runs_arg):
+test_sequences = readfasta(arg.sequences)
+curr_sequence = next(test_sequences)
+curr_sequence = curr_sequence[1]
+seq_name = curr_sequence[0]
+
+#Run simulation
+introns = []
+isoforms = []
+for j in range(args.runs):
 	
-	test_sequences = readfasta(seq_arg)
-	curr_sequence = next(test_sequences)
-	curr_sequence = curr_sequence[1]
-	seq_name = curr_sequence[0]
+	#Initialize
+	u1s = []
+	u5s = []
+	for i in range(arg.u1num):
+		u1s.append(u1(arg.donor_pwm))
+	for i in range(arg.u5num):
+		u5s.append(u5(arg.acceptor_pwm))
+	seq = sequence(curr_sequence, seq_name, arg.z)
 	
-	#Run simulation
-	introns = []
-	isoforms = []
-	for j in range(runs_arg):
-		
-		#Initialize
-		u1s = []
-		u5s = []
-		for i in range(u1arg):
-			u1s.append(u1(don_arg))
-		for i in range(u5arg):
-			u5s.append(u5(acc_arg))
-		seq = sequence(curr_sequence, seq_name, z_arg)
-		
-		#Run
-		i = 1
-		final = 0
-		while final < 50:
-			seq.one_iteration(i)
-			for u in u1s: u.one_iteration(seq)
-			for u in u5s: u.one_iteration(seq)
-			i += 1
-			if seq.curr == len(curr_sequence):
-				final += 1
-		
-		#display
-		intron = display_intron(seq.transcript)
-		isoforms.append(intron)
-		introns.extend(intron)
+	#Run
+	i = 1
+	final = 0
+	while final < 50:
+		seq.one_iteration(i)
+		for u in u1s: u.one_iteration(seq)
+		for u in u5s: u.one_iteration(seq)
+		i += 1
+		if seq.curr == len(curr_sequence):
+			final += 1
 	
-	#Calculate fitness
-	real_path = seq_arg.replace(".fa", ".gff3")
-	fit = calculate_fitness(introns, real_path)
-	print(fit)
+	#display
+	intron = display_intron(seq.transcript)
+	isoforms.append(intron)
+	introns.extend(intron)
+
+#Calculate fitness
+real_path = seq_arg.replace(".fa", ".gff3")
+fit = calculate_fitness(introns, real_path)
+print(fit)
+
+#write output to a file
+out_name = os.path.splitext(os.path.basename(arg.sequences))[0]
+with open(f"{out_name}_isos.txt", 'w') as f:
+	f.write(fit)
 	
 
-if __name__ == "__main__":
-	main(arg.u1num, arg.u5num, arg.acceptor_pwm, arg.donor_pwm, arg.sequences, arg.z, arg.runs) 
+
 		
 	
 
