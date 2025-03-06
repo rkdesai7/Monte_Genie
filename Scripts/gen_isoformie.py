@@ -124,7 +124,7 @@ for j in range(arg.runs):
 	introns.extend(intron)
 
 #Calculate fitness
-real_path = seq_arg.replace(".fa", ".gff3")
+real_path = arg.sequences.replace(".fa", ".gff3")
 fit = calculate_fitness(introns, real_path)
 print(fit)
 
