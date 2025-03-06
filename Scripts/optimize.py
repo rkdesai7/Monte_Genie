@@ -2,7 +2,6 @@ import argparse
 import json
 import os
 import random
-import main
 import subprocess
 
 def get_fitness(wormie):
@@ -17,6 +16,7 @@ def get_fitness(wormie):
 			number_str = file.readline().strip()
 			fitness = float(numer_str)
 			fits.append(fitness)
+            print(fitness)
 	avg_fit = sum(fits)/len(fits)
 	print(avg_fit)
 	return avg_fit
@@ -47,7 +47,6 @@ def mate(p1, p2, mut):
 	return child
 	
 parser = argparse.ArgumentParser(description='Parameter Optimization Program')
-parser.add_argument('gene', type=str, help="name of gene to finetune on ie. ch.1_0")
 parser.add_argument('--pop', required=False, type=int, default=100, help='population size [%(default)i]')
 parser.add_argument('--gen', required=False, type=int, default=100, help='generations [%(default)i]')
 parser.add_argument('--die', required=False, type=float, default=0.5, help='fraction that die each gen [%(default).2f]')
