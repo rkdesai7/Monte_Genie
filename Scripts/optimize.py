@@ -90,4 +90,7 @@ print(best)
 print("Best fitness:",best["fitness"], end='\t')
 for prop, val in best['genotype'].items():
 	print(f'{val:.4f}', end='\t')
+with open("best_params.txt", "w") as f:
+	for prop, val in best['genotype'].items():
+		f.write(f'{val:.4f}', end='\t')
 print(arg.name)
