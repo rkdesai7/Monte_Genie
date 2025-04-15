@@ -1,6 +1,6 @@
 #main script
 from genie2 import sequence, snRNP, u1, u5
-from fitness import calculate_fitness
+from fitness import calculate_fitness, collect_pred_data, count2prob
 import gzip
 import sys
 import argparse
@@ -70,23 +70,6 @@ def display_exon(transcript):
 	#Output
 	for i in storage:
 		print("exon", i[0], i[1])
-
-def display_intron(transcript):
-	introns = []
-	indexes = np.array(transcript)[:,1]
-	prev = int(indexes[0])
-	for index, value in enumerate(indexes):
-		value = int(value)
-		if prev == value: continue
-		if value == prev + 1:
-			prev = value
-		else:
-			introns.append([prev+1, value-1])
-			prev = value
-	#for i in introns:
-		#print(i[0], i[1])
-		
-	return introns
 	
 test_sequences = readfasta(arg.sequences)
 curr_sequence = next(test_sequences)
@@ -119,19 +102,38 @@ for j in range(arg.runs):
 			final += 1
 	
 	#display
-	intron = display_intron(seq.transcript)
+	intron = seq.compile_intron()
 	isoforms.append(intron)
 	introns.extend(intron)
+
+#Calculate Probabilites
+pred = collect_pred_data(introns)
+probs = count2prob(pred)
 
 #Calculate fitness
 real_path = arg.sequences.replace(".fa", ".gff3")
 fit = calculate_fitness(introns, real_path)
 print(fit)
 
+#Calc intrasplice count
+count = seq.detect_intrasplicing()
+
 #write output to a file
 out_name = os.path.splitext(os.path.basename(arg.sequences))[0]
 with open(f"{out_name}.txt", 'w') as f:
+	f.write(f"Number of Intraspliced Introns: {count}\n")
+	f.write("Fitness:")
 	f.write(str(fit))
+	f.write("\nSplicing Events:\n")
+	for i in seq.splicing_events:
+		f.write(str(i))
+		f.write("\n")
+	f.write("Frequencies:\n")
+	for key,value in probs.items():
+		statement = str(key) + ": " + str(value)
+		f.write(statement)
+		f.write("\n")
+		
 	
 
 

@@ -159,24 +159,6 @@ class sequence:
         cut_sequence = ''.join(x[0] for x in cut_items)
         self.splicing_events.append((cut_sequence, begin, end, u1_id, u5_id, self.curr))
         
-        # Enforce min exon length of 25 by undbinding snRNPs within that range, and preventing other snRNPs from binding to that range
-        before = list(range(u1_start-25, u1_start))
-        after = list(range(u5_start+6, u5_start+6+26))
-        for snrp_id, snrp in list(self.bound_u1s.items()):
-        	if (snrp.bind_start in before) or (snrp.bind_start in after):
-        		snrp.bind_start = None
-        		snrp.bindtime = 0
-        		snrp.prob = None
-        		self.u1_bound_ids.remove(snrp_id)      
-        for snrp_id, snrp in list(self.bound_u5s.items()):
-            if (snrp.bind_start in before) or (snrp.bind_start in after):
-            	snrp.bind_start = None
-            	snrp.bindtime = 0
-            	snrp.prob = None
-            	self.u5_bound_ids.remove(snrp_id)    	        
-        self.bindings[u1_start-25:u1_start] = ['no_bind']*(25)
-        self.bindings[u5_start+6:u5_start+6+26] = ['no_bind']*(25)
-     
        	# Cut out chosen intron
         del self.bindings[u1_start:u5_start+6]
         del self.transcript[u1_start:u5_start+6]
@@ -234,11 +216,49 @@ class sequence:
             if id in self.bound_u5s:
                 del self.bound_u5s[id]
     
+    def compile_intron(self):
+    	"""Formats and returns identified introns in a clean format"""
+    	transcript = self.transcript
+    	introns = []
+    	indexes = np.array(transcript)[:,1]
+    	prev = int(indexes[0])
+    	for index, value in enumerate(indexes):
+    		value = int(value)
+    		if prev == value: continue
+    		if value == prev + 1:
+    			prev = value
+    		else:
+    			introns.append([prev+1, value-1])
+    			prev = value
+    	return introns
+    
+    def detect_intrasplicing(self):
+    	"""Checks if an intrasplicing event occurred, if so return count"""
+    	introns = self.compile_intron()
+    	num_introns = len(introns)
+    	num_events = len(self.splicing_events)
+    	if num_introns < num_events: count = self.count_intraspliced_introns(introns)
+    	else: count = 0
+    	return count
+    	
+    def count_intraspliced_introns(self, introns):
+   		"""Counts how many final introns went through an intrasplicing process"""
+   		count = 0
+   		for i in introns:
+   			indexes = list(range(i[0], i[1]+1))
+   			for j in self.splicing_events:
+   				if (j[1] in indexes) and (j[2] in indexes):
+   					count += 1
+   				break
+   		return count
+		
     def one_iteration(self, iter_num):
         """ Sequence behavior for each iteration """
         self.transcribe()
         if iter_num % self.resolution == 0:
             self.splice()
+            
+         
 
 
 class snRNP:
