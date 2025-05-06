@@ -319,7 +319,7 @@ class snRNP:
             # Pass self as the snRNP object to be stored
             sequence.bind(start_index, end_index, self.prob, self.id, self.size, self)
             self.bind_start = start_index
-            self.bindtime = 50
+            self.bindtime = math.floor(self.prob*50)
     
     def unbind(self, sequence):
         """ Unbind the snRNP from the sequence """

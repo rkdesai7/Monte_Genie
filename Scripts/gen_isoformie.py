@@ -79,6 +79,7 @@ seq_name = curr_sequence[0]
 #Run simulation
 introns = []
 isoforms = []
+count = 0
 for j in range(arg.runs):
 	
 	#Initialize
@@ -103,25 +104,23 @@ for j in range(arg.runs):
 	
 	#display
 	intron = seq.compile_intron()
+	count += seq.detect_intrasplicing()
 	isoforms.append(intron)
 	introns.extend(intron)
 
 #Calculate Probabilites
 pred = collect_pred_data(introns)
 probs = count2prob(pred)
-
+total = len(introns)
 #Calculate fitness
 real_path = arg.sequences.replace(".fa", ".gff3")
 fit = calculate_fitness(introns, real_path)
 print(fit)
 
-#Calc intrasplice count
-count = seq.detect_intrasplicing()
-
 #write output to a file
 out_name = os.path.splitext(os.path.basename(arg.sequences))[0]
 with open(f"{out_name}.txt", 'w') as f:
-	f.write(f"Number of Intraspliced Introns: {count}\n")
+	f.write(f"Number of Intraspliced Introns: {count}, {total}\n")
 	f.write("Fitness:")
 	f.write(str(fit))
 	f.write("\nSplicing Events:\n")
